@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Back Office Developer (New York)
+Company:  DV Trading LLC
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414640028
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • Git
+  • ETL
+  • Data pipeline
+  • Reporting
+  • Automation
+  • CI/CD
+  • Data quality
+  • Partitioning
+  • Clustering
+  • Database schema
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • C++
+  • Linux
+  • Real-time processing
+  • Batch processing
+  • Risk management
+  • Trading
+  • Futures
+  • Options
+  • Crypto
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python ETL and pipeline experience
+  • Solid SQL and relational DB optimization
+  • Experience with BigQuery and Snowflake
+  • Automation and CI/CD implementation
+  • Reporting and data visualization expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated C++ experience
+  • No explicit Linux development experience
+  • No real-time trading system work
+  • Limited domain knowledge in trading/instruments
+  • Only ~2 years professional dev experience post-degree
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

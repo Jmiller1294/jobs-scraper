@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Science Manager
+Company:  Harnham
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4417096287
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • ETL
+  • time series
+  • customer segmentation
+  • Tableau
+  • Power BI
+  • PostgreSQL
+  • Git
+  • AWS
+  • BigQuery
+  • Snowflake
+  • communication
+  • client-facing
+  • data pipelines
+  • statistical modelling
+  • predictive modelling
+  • quantitative background
+  • team leadership
+  • model validation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • machine learning
+  • churn prediction
+  • revenue forecasting
+  • consulting
+  • experimentation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Built ETL pipelines and data models
+  • Visualization and dashboard delivery
+  • Quantified impact on KPIs
+  • Experience with cloud data platforms
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML production experience
+  • No direct consulting role listed
+  • Managerial experience not clearly at 6+ years
+  • Churn/revenue forecasting use cases not shown
+  • Advanced statistical modelling examples limited
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Commodities Application Support Specialist
+Company:  Scotiabank - Global Banking and Markets
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4357681463
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • SQL
+  • PostgreSQL
+  • MySQL
+  • Python
+  • Git
+  • Automation
+  • ETL
+  • Data analysis
+  • Database management
+  • Business analysis
+  • Stakeholder communication
+  • Version control
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • Commodities derivatives
+  • Metals
+  • Unix
+  • Shell scripting
+  • Oracle
+  • Jenkins
+  • Support
+  • Trading systems
+  • 24x7 uptime
+  • Build tools
+  • Monitoring
+  • Risk
+  • Trade life cycle
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB experience
+  • Python ETL and data pipelines
+  • Automation of reporting and workflows
+  • Cross-functional collaboration
+  • Measured impactful outcomes
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No commodities/metals domain experience listed
+  • No Unix/shell or Oracle experience shown
+  • No explicit trading systems/support background
+  • No Jenkins or CI/CD tooling experience stated
+  • Limited years in relevant finance/product support (<=3 years)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

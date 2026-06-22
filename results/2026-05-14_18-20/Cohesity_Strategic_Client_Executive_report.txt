@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Strategic Client Executive
+Company:  Cohesity
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414679804
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • cloud (AWS)
+  • SQL
+  • Python
+  • BI / visualization
+  • BigQuery
+  • Snowflake
+  • automation
+  • Git
+  • data governance
+  • reporting
+  • presentation skills
+  • customer segmentation
+  • pipeline management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • data security
+  • ransomware resilience
+  • enterprise sales
+  • net-new logos
+  • C-suite engagement
+  • channel partnerships
+  • forecasting
+  • proposal development
+  • compliance
+  • stakeholder mapping
+  • AI tools
+  • SaaS
+  • HPE
+  • IBM
+  • NVIDIA
+  • DataProtect
+  • DataHawk
+  • SmartFiles
+  • NetBackup
+  • Backup Exec
+  • InfoScale
+  • immutable storage
+  • hardened media servers
+  • ACL-based controls
+  • encryption
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python technical skills
+  • Cloud/warehouse experience (BigQuery, Snowflake, AWS S3)
+  • Proven BI and reporting impact (Power BI, Tableau)
+  • Automation and ETL pipeline development
+  • Quantified analytics-driven revenue and efficiency gains
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No direct enterprise sales or quota-bearing seller experience
+  • Lacks explicit data security / ransomware product experience
+  • No listed channel co-selling or partner engagement experience
+  • Limited years in relevant senior sales or industry roles
+  • Missing familiarity with Cohesity products and backup technologies
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

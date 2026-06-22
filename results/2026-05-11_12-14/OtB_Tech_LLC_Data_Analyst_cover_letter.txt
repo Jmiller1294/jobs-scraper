@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+OtB Tech LLC
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Analyst position at OtB Tech LLC. With my background in data analysis, operations, and software development, I am confident I would be a strong addition to your team.
+
+OtB Tech LLC's commitment to leveraging data for strategic decision-making in the financial sector is particularly compelling, and I am eager to contribute my skills to such a critical area.
+
+In my previous roles, I have developed advanced analytics to uncover trends and drive revenue, exemplified by creating statistical models for customer segmentation that led to a 300% revenue increase in a targeted segment. Additionally, I designed and built automated data pipelines using Python and SQL to ingest and process data, significantly improving efficiency and accuracy, which directly aligns with your need for designing and building data pipelines to automate data movement and processing.
+
+My experience includes optimizing relational database queries with CTEs, window functions, and joins to improve data accuracy by 60%, and developing interactive Tableau dashboards that provide self-service access for stakeholders. I am proficient in expert-level SQL, including analytical queries, query optimization, and complex transformations, and have hands-on experience with ETL processes and cloud data warehouses like BigQuery and Snowflake. I also possess strong skills in data visualization tools such as Tableau and Power BI.
+
+I am particularly drawn to OtB Tech LLC's mission of enabling data-driven strategic and operational decision making and believe my experience in translating complex data into actionable business recommendations would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

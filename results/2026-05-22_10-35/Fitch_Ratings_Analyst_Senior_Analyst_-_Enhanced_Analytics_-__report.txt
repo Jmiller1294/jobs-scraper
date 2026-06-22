@@ -1,0 +1,88 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst/Senior Analyst - Enhanced Analytics - New York
+Company:  Fitch Ratings
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4396378137
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 79/100
+[███████████████░░░░░] 79%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Python
+  • SQL
+  • MySQL
+  • PostgreSQL
+  • MongoDB
+  • ETL
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • Data Analyst
+  • Data Engineer
+  • Automation
+  • Cloud (AWS S3)
+  • Snowflake
+  • BigQuery
+  • Git
+  • Data Integration
+  • Reporting
+  • Data Pipelines
+  • Data Modeling
+  • Documentation
+  • Analytics
+  • BI
+  • Agile
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • VBA
+  • Oracle
+  • Business Intelligence (Qlik Cloud)
+  • Mongo databases (explicit experience)
+  • Experience with Agile tools (explicit examples)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Built ETL pipelines and data models
+  • Visualization and reporting (Power BI, Tableau)
+  • Quantified impact across projects (time savings, acquisition)
+  • Experience with cloud data platforms
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit VBA experience
+  • No direct Oracle work documented
+  • No Qlik Cloud or BI development examples
+  • Limited years in titled data-engineer roles
+  • Finance/credit-specific experience limited
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Integrated data from disparate sources (PostgreSQL, MongoDB, and Oracle-style schemas) to build unified data models, utilizing SQL and Python for automated ETL pipelines.
+  Developed and maintained advanced Excel applications, incorporating VBA macros to automate complex reporting tasks and improve data reconciliation accuracy by 30%.
+  Collaborated within an Agile development environment, utilizing JIRA and Confluence to manage sprint cycles, user stories, and documentation for cross-functional data initiatives.
+  Built and optimized BI dashboards in Power BI, applying data visualization best practices transferable to Qlik Cloud environments to provide actionable research insights for executive stakeholders.
+  Engineered scalable data solutions by applying rigorous SQL query optimization techniques to large-scale relational databases, ensuring high performance in financial data analysis.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Analyst/Senior Analyst - Enhanced Analytics - New York opportunity with Fitch Ratings. I am interested in this opportunity because of the CIPF group’s unique intersection of traditional credit research and innovative data technology, which perfectly aligns with my background in both software development and data analytics.
+
+What interests me about working for Fitch Ratings is your commitment to providing transparent, objective, and timely insights that influence global markets. Your culture of collaboration across global portfolios and the emphasis on diverse, employee-led perspectives is exactly the type of environment where I thrive. I believe my proficiency in building end-to-end data pipelines and my experience in credit-focused risk analysis would make me a strong candidate for this role.
+
+During my professional career, I have approached complex data problems with an eye toward automation and technical efficiency. In fact, while working on my Lending Risk Portfolio Analysis project, I managed a 2M+ row dataset, building a robust PostgreSQL model and ETL pipeline that calculated critical credit risk metrics such as delinquency rates and utilization ratios. This project allowed me to translate raw financial data into actionable segments that directly informed risk-mitigation strategies, a skill set I am eager to apply to the global corporate ratings coverage at Fitch.
+
+Ultimately, I know that the Analyst/Senior Analyst - Enhanced Analytics role at Fitch Ratings would allow me to bring my technical expertise in SQL, Python, and advanced data modeling to the CIPF group's mission. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my cross-functional collaboration and database management skills. By integrating data from disparate APIs and relational databases, I reduced project delivery delays by 25% and provided the underwriting team with clean, reliable data structures. I’m excited by the opportunity to use my background in financial data and automation to build out the data infrastructure at Fitch Ratings.
+
+I know that my technical versatility and my passion for credit research align with what it takes to succeed at the Analyst/Senior Analyst - Enhanced Analytics role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

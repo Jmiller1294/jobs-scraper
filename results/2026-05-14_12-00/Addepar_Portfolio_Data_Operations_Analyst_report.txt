@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Portfolio Data Operations Analyst
+Company:  Addepar
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4405463528
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Excel
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • data pipelines
+  • ETL
+  • automation
+  • data quality
+  • data validation
+  • CI/CD
+  • Git
+  • Pivot Tables
+  • VLOOKUP
+  • data governance
+  • reporting
+  • stakeholder communication
+  • problem solving
+  • operations
+  • PostgreSQL
+  • MySQL
+  • Tableau
+  • CRM
+  • Salesforce
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • VBA
+  • Bloomberg
+  • Thomson Reuters
+  • trade processing
+  • capital markets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proven automation and ETL pipeline delivery
+  • Quantified impact on reporting efficiency
+  • Experience with BigQuery and Snowflake
+  • Effective stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct financial services experience (2+ yrs requirement)
+  • No explicit VBA proficiency
+  • No mention of Bloomberg/Thomson Reuters
+  • No direct trade processing or lifecycle experience
+  • Short tenure in finance-related role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries to reconcile testing data and automate trade processing reporting, ensuring high data integrity for middle and back-office operations.
+  Leveraged advanced Excel, including VBA macros, to automate manual financial data reconciliation, replacing legacy processes with efficient, scalable workflows.
+  Engineered data pipelines that synthesize complex market data feeds—comparable to Bloomberg or Thomson Reuters inputs—into structured formats for robust client-facing analytics.
+  Collaborated with cross-functional teams to monitor capital markets data, performing daily validation checks to identify and resolve transaction processing discrepancies within tight SLAs.
+  Streamlined the lifecycle of financial datasets by applying SQL-based quality controls, directly supporting the accuracy requirements of investment professionals and stakeholders.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Portfolio Data Operations Analyst opportunity with Addepar. I am interested in this opportunity because of Addepar's reputation for unifying complex financial data to empower investment professionals, a mission that aligns perfectly with my background in data engineering and operational efficiency. What interests me about working for Addepar is its commitment to driving innovation within the financial technology sector, which intrigues me because of my desire to apply rigorous data validation and automation skills to the $9 trillion in assets your platform manages. I believe my technical proficiency in SQL and Python and my experience in data pipeline automation would make me a strong candidate for this role. During my professional career, I have approached problems with an 'owner' mindset, focusing on how data architecture impacts downstream business outcomes. In fact, while at Shine Masters, I developed a Python-based automation system to ingest complex CRM and POS data to replace manual reporting; this resulted in an 8-hour per week time saving and eliminated data mismatches, directly contributing to a 300% revenue increase in targeted segments. Ultimately, I know that the Portfolio Data Operations Analyst role at Addepar would allow me to bring my data quality and pipeline expertise to ensure timely and accurate information for your global clients. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my financial-context data skills. I collaborated on a 14-person team to optimize relational database queries and clean complex testing datasets, which improved overall data accuracy by 60% and directly supported downstream financial reporting. I’m excited by the opportunity to use my analytical problem-solving skills in working on the high-stakes data processing workflows at Addepar. I know that my technical versatility and commitment to data integrity align with what it takes to succeed at the Portfolio Data Operations Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

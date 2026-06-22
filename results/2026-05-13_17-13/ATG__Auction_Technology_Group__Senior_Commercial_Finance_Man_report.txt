@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Commercial Finance Manager - Digital & Product
+Company:  ATG (Auction Technology Group)
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4410620588
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • product metrics
+  • experiment data
+  • A/B tests
+  • financial modeling
+  • ROI
+  • P&L
+  • data analytics
+  • Amplitude
+  • SQL
+  • Python
+  • Power BI
+  • reporting
+  • dashboarding
+  • stakeholder communication
+  • marketing effectiveness
+  • scenario modeling
+  • AI tools
+  • conversion
+  • campaign measurement
+  • customer segmentation
+  • data governance
+  • ETL
+  • BigQuery
+  • Snowflake
+  • advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • product finance
+  • commercial finance
+  • marketplace
+  • e-commerce
+  • people management
+  • CAC
+  • take rate
+  • ALV
+  • items sold
+  • Claude
+  • TextQL
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data engineering (Python, SQL, ELT)
+  • experience with A/B testing and translating to impact
+  • reporting/dashboard build (Power BI, Tableau)
+  • stakeholder-facing communication
+  • demonstrated revenue impact via analytics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited explicit commercial finance/title experience
+  • no listed CPA/CIMA/ACA/ACCA qualification
+  • no marketplace/e-commerce domain experience
+  • no people management documented
+  • no explicit use of Claude/TextQL or listed AI finance tools
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

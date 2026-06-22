@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Ops Admin Assistant Manager
+Company:  Mercer County Works
+Location: Princeton, NJ
+URL:      https://www.linkedin.com/jobs/view/4431354620
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • SOPs
+  • Microsoft Office
+  • Excel
+  • Leadership
+  • Operations
+  • Documentation
+  • Training
+  • Coaching
+  • Hiring
+  • Staff meetings
+  • Problem solving
+  • Organized
+  • Multi-tasking
+  • Employee evaluation
+  • Travel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Phlebotomy
+  • Medical screener
+  • CLIA
+  • FDA
+  • OSHA
+  • Biological Science
+  • Certification
+  • Shift work
+  • Physical requirements
+  • Certification as St. Processing Technician
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Documented SOPs reducing onboarding time
+  • Operations optimization with quantified impact
+  • Experience leading hiring and process improvements
+  • Strong Microsoft Office / Excel and reporting skills
+  • Data-driven decision support via dashboards
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No biomedical certifications listed
+  • No clinical/phlebotomy experience
+  • No regulatory compliance (FDA/CLIA/OSHA) experience
+  • Limited tenure in healthcare/biomedical field
+  • Title mismatch from technical to clinical operations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

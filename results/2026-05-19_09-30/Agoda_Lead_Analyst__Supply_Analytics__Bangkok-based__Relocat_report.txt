@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Analyst (Supply Analytics, Bangkok-based, Relocation provided)
+Company:  Agoda
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4372107425
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • data visualization
+  • Excel
+  • ETL
+  • PostgreSQL
+  • MySQL
+  • AWS S3
+  • Snowflake
+  • BigQuery
+  • data analysis
+  • time series
+  • automation
+  • stakeholder management
+  • data storytelling
+  • BI
+  • Git
+  • data warehouses
+  • statistical modelling
+  • regression
+  • hypothesis testing
+  • experimentation
+  • data-driven
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • A/B testing
+  • feature engineering
+  • random forest
+  • logistic regression
+  • program management certifications
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Hands-on BI tools (Tableau, Power BI)
+  • Proven automation and ETL delivery
+  • Quantified impact (time savings, growth metrics)
+  • Experience with cloud warehouses (Snowflake, BigQuery, AWS S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit A/B testing experience
+  • Limited machine learning model implementations
+  • No MBA or advanced degree listed
+  • No program management certification
+  • No explicit travel/Asian market experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed and executed A/B testing frameworks for marketing campaigns, utilizing hypothesis testing to measure performance lift and optimize customer acquisition strategies.
+  Applied advanced machine learning techniques, including logistic regression and random forest models, to classify high-value customer segments and predict churn risk.
+  Engineered new features from raw transactional data to improve the predictive accuracy of lending risk models, applying rigorous feature engineering principles to raw datasets.
+  Collaborated with cross-functional stakeholders to align analytical outputs with business objectives, acting as an internal consultant to translate data-driven insights into actionable product roadmaps.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Lead Analyst (Supply Analytics, Bangkok-based, Relocation provided) opportunity with Agoda. I am interested in this opportunity because of Agoda’s reputation as a data-centric leader in the travel industry, and I am eager to apply my technical background to optimize your global supply ecosystem. What interests me about working for Agoda is its commitment to innovation and its data-driven approach to connecting travelers to experiences; this mission resonates with my passion for using complex data to solve real-world logistical problems. I believe my expertise in end-to-end data pipelines and my ability to synthesize large datasets into actionable business strategy would make me a strong candidate for this role. During my professional career, I have approached problems with a hacker's mindset, focusing on automation and efficiency. In fact, at Shine Masters, I identified a bottleneck in client onboarding and utilized Python and Zapier to automate workflows, which saved 8 hours per week and allowed our team to focus on high-impact growth initiatives. This resulted in a 300% increase in new customer acquisition over 12 months, proving my ability to drive measurable growth. Ultimately, I know that the Lead Analyst role at Agoda would allow me to bring my proficiency in SQL, Python, and Tableau to drive your supply chain strategy forward. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my stakeholder management and dashboarding skills. I frequently translated complex performance metrics into clear executive briefings, ensuring leadership could make informed decisions based on my time-series modeling and segmentation analysis. I am excited by the opportunity to use my background in experimentation and hypothesis testing in working on supply ecosystem optimization at Agoda. I know that my technical rigor and my drive to build elegant, automated solutions align with what it takes to succeed at the Lead Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

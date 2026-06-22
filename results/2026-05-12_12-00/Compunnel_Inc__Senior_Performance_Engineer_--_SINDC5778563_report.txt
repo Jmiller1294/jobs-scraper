@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Performance Engineer -- SINDC5778563
+Company:  Compunnel Inc.
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4411812975
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (7)
+  • AWS
+  • SQL
+  • Python
+  • Git
+  • PostgreSQL
+  • Cloud
+  • Performance testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Java
+  • JVM
+  • Dynatrace
+  • Datadog
+  • AppDynamics
+  • Low latency
+  • Microservices
+  • Distributed systems
+  • Profiling
+  • Heap dumps
+  • Thread dumps
+  • Aeron
+  • Solace
+  • 29West
+  • Crypto Currency
+  • Kernel bypass
+  • Spring
+  • Throughput bottlenecks
+  • Test automation
+  • Spring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • SQL and database optimization
+  • Python automation and ETL pipelines
+  • Cloud experience (AWS S3)
+  • Data visualization (Power BI, Tableau)
+  • Measured, quantified impact in roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java/JVM experience listed
+  • Lacks performance tooling (Dynatrace/Datadog/AppDynamics)
+  • No low-latency or messaging tech experience
+  • No distributed systems/microservices evidence
+  • Limited AWS/cloud infrastructure depth
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

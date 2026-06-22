@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Golang Developer
+Company:  Bright Vision Technologies
+Location: Woodbridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4425830654
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • PostgreSQL
+  • Git
+  • APIs
+  • CI/CD
+  • unit tests
+  • documentation
+  • ETL
+  • SQL
+  • Python
+  • Linux
+  • Cloud
+  • version control
+  • performance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Go
+  • Golang
+  • gRPC
+  • REST APIs
+  • Kubernetes
+  • controller-runtime
+  • client-go
+  • concurrency
+  • goroutines
+  • channels
+  • Redis
+  • etcd
+  • Kafka
+  • NATS
+  • container
+  • Docker
+  • distributed tracing
+  • profiling
+  • metrics
+  • logging
+  • controller
+  • operators
+  • observability
+  • service mesh
+  • eBPF
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • Experience building ETL pipelines
+  • Documentation and SOP creation
+  • Version control (Git) and collaboration
+  • Quantified impact on operational metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Go/Golang experience listed
+  • Lacks Kubernetes/operator experience
+  • No messaging systems (Kafka/NATS) cited
+  • Limited systems/distributed-systems evidence
+  • Insufficient low-level performance engineering details
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

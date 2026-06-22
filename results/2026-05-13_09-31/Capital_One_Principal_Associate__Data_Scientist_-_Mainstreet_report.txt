@@ -1,0 +1,93 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal Associate, Data Scientist - Mainstreet Acquisitions
+Company:  Capital One
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4362852253
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • AWS
+  • Pandas
+  • ETL
+  • data pipelines
+  • data quality
+  • CI/CD
+  • Git
+  • Power BI
+  • Tableau
+  • A/B testing
+  • data governance
+  • automation
+  • feature engineering
+  • time series
+  • statistical modeling
+  • clustering
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • machine learning
+  • data modeling
+  • model validation
+  • classification
+  • ROC
+  • Spark
+  • Conda
+  • Scala
+  • R
+  • model governance
+  • model risk
+  • deep learning
+  • AWS S3
+  • Snowflake (managed)
+  • SQL (3+ years)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Hands-on ETL and pipeline building
+  • Quantified business impact (revenue, efficiency)
+  • Experience with Snowflake and BigQuery
+  • Data visualization and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit machine learning model development
+  • No Spark or Conda experience listed
+  • Sparse evidence of model validation/backtesting
+  • Shorter tenure in data science roles
+  • Missing explicit deep learning or Scala experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed statistical models, including clustering and classification techniques, to identify high-value customer segments; targeted marketing initiatives informed by these models contributed to a 300% increase in revenue in the targeted segment over 12 months.
+  Built Python automation for weekly sales and operations reports (ingesting POS and CRM data), leveraging Pandas and ETL pipelines, eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing statistical evidence for optimization and contributing to a 40% improvement in work efficiency.
+  Collaborated with product managers and cross-functional teams to align features with business objectives, streamlining the software development workflow and reducing delivery delays by 25%. (Leveraged experience analogous to building a data product team).
+  Optimized relational database queries (CTEs, window functions, joins) to clean and reconcile testing data, improving data accuracy by 60% and demonstrating foundational data modeling principles.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager at Capital One,
+
+I am excited to submit my application for the Principal Associate, Data Scientist - Mainstreet Acquisitions opportunity with Capital One. I am interested in this opportunity because Capital One's legacy of data-driven innovation, dating back to its personalized credit card offers, deeply resonates with my own passion for leveraging data to drive significant business outcomes. What interests me about working for Capital One is its relentless pursuit of data-driven decision-making and its commitment to customer-centric innovation. This approach excites, inspires, and intrigues me because it mirrors my own professional ethos of using data not just for analysis, but to create tangible value and solve complex problems.
+
+I believe my strong analytical skills, particularly in Python and SQL, and my proven ability to translate complex data into actionable business insights would make me a strong candidate for this role. Throughout my professional career, I have approached problems with a combination of technical rigor and a focus on business impact. In fact, at Shine Masters Cleaning Services, I developed statistical models, including clustering techniques, to identify high-value customer segments; targeted marketing initiatives informed by these models contributed to a 300% increase in revenue in the targeted segment over 12 months.
+
+This experience demonstrates my ability to not only perform sophisticated data analysis but also to connect it directly to revenue growth, a critical outcome for the Valuations team. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data pipeline and automation skills. I built Python automation for weekly sales and operations reports, leveraging Pandas and ETL principles, which eliminated repetitive data entry, saved 8 hours per week, and improved reporting accuracy for faster strategic decisions.
+
+I’m excited by the opportunity to use my skills in Python, SQL, and data analysis in working on developing next-gen credit underwriting models and optimizing valuations modeling systems at Capital One. I know that my ability to conduct statistical modeling and my experience with data visualization and stakeholder communication align with what it takes to succeed in the Principal Associate, Data Scientist - Mainstreet Acquisitions role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

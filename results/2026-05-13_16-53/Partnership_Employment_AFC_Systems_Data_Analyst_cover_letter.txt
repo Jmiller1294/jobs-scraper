@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the AFC Systems Data Analyst opportunity with Partnership Employment. I am interested in this opportunity because my robust analytical skills and experience in data management align perfectly with the requirements of this role, particularly in supporting financial crime compliance.
+
+What interests me about working for Partnership Employment is its proactive approach to [something unique about the company - **This needs to be researched and filled in by the user**] excites inspires intrigues me because [your connection - **This needs to be researched and filled in by the user**]. I believe my strong proficiency in SQL and Python, coupled with my experience in data governance, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a meticulous and results-oriented mindset. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports (ingesting POS and CRM data), eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions. This directly translated into a consistent "single source of truth" for all business stakeholders and a reduction in report discrepancies, showcasing my ability to ensure data integrity and support informed decision-making.
+
+Ultimately, I know that the AFC Systems Data Analyst role at Partnership Employment would allow me to bring my expertise in data validation and reporting to critical areas like transaction surveillance and screening platforms.
+
+Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my data quality management skills. I standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment, resulting in a consistent "single source of truth" for all business stakeholders and a reduction in report discrepancies. This experience has equipped me to effectively investigate data quality concerns and coordinate issue remediation through closure.
+
+I’m excited by the opportunity to use my data governance and database querying skills in working on compliance data environments at Partnership Employment. I know that my proficiency in SQL and Python and my dedication to data integrity align with what it takes to succeed in the AFC Systems Data Analyst role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

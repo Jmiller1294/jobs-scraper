@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff, Agents Modeling
+Company:  Cohere
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4292179712
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 24/100
+[████░░░░░░░░░░░░░░░░] 24%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • Numpy
+  • Software engineering
+  • Git
+  • BigQuery
+  • Snowflake
+  • Data pipelines
+  • CI/CD
+  • Data quality
+  • Automation
+  • ETL
+  • Pandas
+  • SQL
+  • Cloud (AWS S3)
+  • A/B testing
+  • Modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • PyTorch
+  • LLMs
+  • SFT
+  • RL
+  • Agentic systems
+  • Synthetic data generation
+  • Post-training
+  • PEFT
+  • Research
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python data engineering
+  • Production ELT and pipeline experience
+  • Experience with BigQuery and Snowflake
+  • Automation and CI/CD implementation
+  • Quantified business impact (revenue, efficiency)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit ML/Deep Learning frameworks (PyTorch) listed
+  • No LLM or agentic systems experience
+  • No post-training (SFT/PEFT/RL) experience
+  • No PhD or industry research background
+  • Limited published research or model-focused achievements
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

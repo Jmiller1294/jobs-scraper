@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Customer Engineer, Data Analytics, Google Cloud, Startups
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4412756114
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • BigQuery
+  • Python
+  • SQL
+  • ETL
+  • data lifecycle
+  • cloud
+  • Snowflake
+  • AWS S3
+  • query optimization
+  • PostgreSQL
+  • analytics
+  • tableau
+  • Power BI
+  • Git
+  • JIRA
+  • data modeling
+  • schema design
+  • presentation
+  • proof-of-concept
+  • customer-facing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • data warehouse
+  • data lake
+  • data migration
+  • Linux
+  • performance tuning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Hands-on BigQuery and Snowflake skills
+  • Proven analytics and dashboard delivery
+  • Experience with data modeling and schema design
+  • Customer-facing and presentation experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited cloud platform breadth (no GCP role experience listed)
+  • No explicit years of senior sales engineering experience (10yr req)
+  • No demonstrated Linux or networking (DNS/TCP/VPC) skills
+  • Limited explicit experience in large-scale data migrations
+  • No shown experience with Java/Scala/Go or C++
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Azar Displays
+
+Dear Hiring Manager,
+
+I am excited to apply for the Ecommerce Data Analyst Demand Forecasting (IN PERSON ONLY -PARAMUS NJ) position at Azar Displays. With my background in data analysis, statistical modeling, and automation, I am confident I would be a strong addition to your team.
+
+Azar Displays' decade-long commitment to innovation and customer satisfaction in the competitive ecommerce industry deeply resonates with my own professional values and passion for leveraging data to enhance the customer journey.
+
+In my previous roles, I have significantly improved reporting efficiency and accuracy through the development of automated workflows and robust data governance frameworks. Additionally, I have a proven track record of creating statistical models for customer segmentation and designing A/B tests to measure marketing campaign effectiveness, which directly aligns with your need for strong analytical skills to drive ecommerce strategy and improve forecasting accuracy.
+
+Specifically, at Shine Masters Cleaning Services, I developed statistical models that identified high-value customer segments, leading to targeted marketing initiatives that increased revenue by 300%. I also built Python automation for weekly reports, saving 8 hours per week and improving accuracy, demonstrating my ability to handle complex data analysis and reporting needs. My experience with SQL, Python, Tableau, and Power BI directly addresses your requirements for data analysis and visualization tools.
+
+I am particularly drawn to Azar Displays' mission of providing exceptional products and services and believe my experience in ecommerce analytics and demand forecasting would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

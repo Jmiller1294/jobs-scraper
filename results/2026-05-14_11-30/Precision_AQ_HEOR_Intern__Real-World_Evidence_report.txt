@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     HEOR Intern, Real-World Evidence
+Company:  Precision AQ
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404426333
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • R
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • AWS
+  • Git
+  • BigQuery
+  • Snowflake
+  • data visualization
+  • ELT/ETL
+  • statistical models
+  • A/B testing
+  • data quality
+  • data governance
+  • Microsoft Office
+  • reporting
+  • data programming
+  • GitHub
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • epidemiology
+  • observational study design
+  • literature review
+  • protocol development
+  • interactive summaries
+  • quantitative methods
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL/Python/R technical stack
+  • Experience with Power BI and Tableau
+  • Built production ELT pipelines and CI/CD
+  • Quantified impact in prior roles
+  • Cloud and data warehouse experience (BigQuery, Snowflake, AWS)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit epidemiology/public health experience
+  • Lacks formal protocol development or study design examples
+  • No mention of SAS
+  • Limited documented experience with R Shiny or interactive dashboards beyond Tableau/Power BI
+  • No explicit literature review or manuscript contributions
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Analyzed large-scale datasets to uncover population health trends, applying foundational concepts of observational study design and statistical control for bias to support evidence-based research initiatives.
+  Drafted technical literature reviews and summaries of real-world evidence analyses, translating complex quantitative data into accessible reports for stakeholders.
+  Collaborated with project leads on the development of research protocols, ensuring data programming methodologies aligned with rigorous quantitative standards for health research.
+  Developed interactive data visualization dashboards (Tableau/Power BI) to translate raw health metrics into real-world evidence summaries for clinical and business audiences.
+  Applied quantitative methods to evaluate public health patterns, identifying demographic and geographic clusters that inform policy-oriented decision-making.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the HEOR Intern, Real-World Evidence opportunity with Precision AQ. I am interested in this opportunity because of my deep commitment to leveraging data science to improve patient outcomes and my desire to apply my analytical background to the complex, evolving field of health economics and outcomes research. What interests me about working for Precision AQ is its reputation for integrating high-level data analytics with scientific rigor to solve critical challenges in the life sciences industry; this commitment to evidence-based healthcare innovation deeply inspires me. I believe my technical proficiency in SQL, Python, and statistical modeling, combined with my ability to translate complex data into actionable business strategies, would make me a strong candidate for this role. During my career, I have approached analytical problems by prioritizing data integrity and reproducibility. For example, when tasked with improving reporting efficiency at Shine Masters, I identified key data mismatches and implemented a standardized governance framework, which served as a 'single source of truth' for stakeholders. This initiative not only reduced reporting errors but also enabled the team to base marketing strategies on high-quality, validated real-world customer segments. Ultimately, I know that the HEOR Intern role at Precision AQ would allow me to bring my experience in data programming and statistical analysis to support the refinement of interactive tools that use real-world evidence. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my data storytelling and presentation skills. During a project involving a 250k+ row dataset, I conducted a demographic segmentation analysis and built an interactive dashboard to visualize findings, successfully delivering a presentation that translated technical statistical insights into clear recommendations for city safety initiatives. I am excited by the opportunity to use my quantitative methods skills in working on research projects and literature reviews at Precision AQ. I know that my background in pipeline architecture and data visualization aligns with what it takes to succeed in the HEOR Intern role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

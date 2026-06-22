@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff, MLE (North)
+Company:  Cohere
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4139750064
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • Data pipelines
+  • AWS S3
+  • Power BI
+  • Tableau
+  • Git
+  • API integration
+  • Time series
+  • Experimentation
+  • Quantified impact
+  • Data engineering
+  • Version control (Git)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • BigQuery
+  • Distributed training
+  • Transformers
+  • JAX
+  • TensorFlow
+  • ML frameworks
+  • Large Language Models
+  • RAG
+  • Agents
+  • Model evaluation
+  • Dataset curation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Practical ETL and data-pipeline experience
+  • Quantified impact on operations and acquisition
+  • Dashboarding and visualization expertise
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit ML framework experience (TensorFlow/JAX)
+  • No LLM or RAG product experience
+  • No distributed training or large-scale training evidence
+  • Limited research/publication record
+  • Title mismatch for senior ML engineering role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

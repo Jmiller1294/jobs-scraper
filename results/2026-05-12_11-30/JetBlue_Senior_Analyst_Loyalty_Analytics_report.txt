@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst Loyalty Analytics
+Company:  JetBlue
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4395161519
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Tableau
+  • Snowflake
+  • Python
+  • Power BI
+  • Advanced Excel
+  • Customer segmentation
+  • A/B testing
+  • Data governance
+  • ETL/ELT pipelines
+  • BigQuery
+  • Campaign measurement
+  • Reporting
+  • Dashboards
+  • Stakeholder communication
+  • Data quality
+  • Automation
+  • Marketing analytics
+  • CRM (Salesforce)
+  • Looker
+  • Git
+  • Pivot Tables
+  • Window functions
+  • Quantitative analysis
+  • Data storytelling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data pipeline experience
+  • Tableau/Power BI dashboard creation
+  • Proven quantified impact (300% segment revenue)
+  • Experience with Snowflake and BigQuery
+  • Cross-functional stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit airline/loyalty industry experience
+  • No mention of Tableau-specific enterprise deployment
+  • No explicit experience with Databricks or DBT in production (dbt modeling in project only)
+  • Short professional tenure in relevant roles
+  • No stated experience with Sabre or Fullstory
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized data workflows using dbt modeling to structure loyalty-related datasets, ensuring consistent metrics and reliable reporting for cross-functional stakeholders.
+  Analyzed complex customer behavior patterns using Python and SQL to identify key loyalty trends, directly informing product initiatives and personalization strategies.
+  Leveraged Snowflake for high-performance data warehousing, managing large-scale datasets to support real-time marketing analytics and ROI measurement.
+  Collaborated with cross-functional teams to translate technical loyalty insights into business cases, effectively socialized with leadership to drive growth strategy.
+  Built interactive Tableau dashboards to track program engagement and key performance indicators, providing leadership with actionable insights into customer retention.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Analyst, Loyalty Analytics opportunity with JetBlue. I am interested in this opportunity because of my deep passion for the loyalty and co-brand space and my commitment to data-driven decision-making. What interests me about working for JetBlue is its industry-leading approach to the TrueBlue program and its commitment to customer-centric innovation, which inspires me because of the company's focus on transparency and value. I believe my expertise in advanced analytical modeling and my proficiency in cross-functional stakeholder communication would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and actionable insights. In fact, at Shine Masters, I developed statistical models to identify high-value customer segments, which were used to target marketing initiatives that contributed to a 300% increase in revenue within that segment over 12 months. Ultimately, I know that the Senior Analyst, Loyalty Analytics role at JetBlue would allow me to bring my quantitative analytical skills to help monitor key program metrics and identify new opportunities for growth. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my data governance and automation skills. I standardized organizational KPIs and implemented robust data frameworks to ensure a single source of truth for all business stakeholders, resulting in a significant reduction in report discrepancies. I am excited by the opportunity to use my Tableau and SQL expertise in working on the TrueBlue program at JetBlue. I know that my analytical rigor and cross-functional communication skills align with what it takes to succeed at the Senior Analyst, Loyalty Analytics role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

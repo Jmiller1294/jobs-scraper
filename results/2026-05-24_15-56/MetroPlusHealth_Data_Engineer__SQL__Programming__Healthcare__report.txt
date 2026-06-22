@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer (SQL, Programming, Healthcare)
+Company:  MetroPlusHealth
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4388528993
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 73/100
+[██████████████░░░░░░] 73%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • ETL
+  • stored procedures
+  • data modeling
+  • dbt
+  • BigQuery
+  • Airflow
+  • Power BI
+  • Tableau
+  • data quality
+  • CI/CD
+  • GitHub Actions
+  • data pipelines
+  • dimensional modeling
+  • testing
+  • documentation
+  • project management
+  • analytics
+  • reporting
+  • Postgres
+  • data validation
+  • Git
+  • JavaScript
+  • Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • TSQL
+  • SSIS
+  • SSIS packages
+  • Microsoft SQL Server
+  • Healthcare claims
+  • Enrollment
+  • Providers
+  • EDI 834
+  • EDI 837
+  • EDI X12
+  • .Net
+  • JSON
+  • XML
+  • 277CA
+  • 999
+  • Windows functions
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python-based ETL pipeline experience
+  • Cloud data platform proficiency (BigQuery, Snowflake, GCS)
+  • Experience with data modeling and dbt
+  • Visualization skills in Power BI and Tableau
+  • CI/CD and data quality automation (GitHub Actions, Great Expectations)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Microsoft SQL Server / T-SQL & SSIS experience
+  • Less than required healthcare claims/enrollment/provider domain experience
+  • No demonstrated EDI X12 (834/837) knowledge
+  • Limited .NET or enterprise MS stack exposure
+  • SQL Server-specific artifacts (SSIS packages, 277CA, 999) not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

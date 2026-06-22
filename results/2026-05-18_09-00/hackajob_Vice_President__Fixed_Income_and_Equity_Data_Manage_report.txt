@@ -1,0 +1,87 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Vice President, Fixed Income and Equity Data Management Engineer
+Company:  hackajob
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4403672043
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • Data pipelines
+  • Data modeling
+  • Data validation
+  • Data reporting
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+  • Agile
+  • JIRA
+  • Data quality
+  • Automation
+  • Time series
+  • Full-stack
+  • Database schemas
+  • Open-source
+  • Quantitative analysis
+  • Data acquisition
+  • Reporting
+  • Communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (23)
+  • FIX protocol
+  • Market microstructure
+  • FIX messaging
+  • OMS/EMS
+  • Order types
+  • Venue routing
+  • FIX
+  • Trading workflows
+  • Trading
+  • Traders
+  • Quants
+  • Client reference data
+  • Real-time analytics
+  • Historical data platform
+  • Secure code
+  • Financial engineering
+  • Fixed Income
+  • Equities
+  • Formal SDLC
+  • Machine learning
+  • AI-first
+  • Reduce latency
+  • Low-latency systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL and data pipeline development
+  • PostgreSQL and relational modeling
+  • Visualization and reporting (Power BI, Tableau)
+  • Experience with cloud warehouses (BigQuery, Snowflake)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No FIX/market microstructure experience
+  • Limited explicit trading or buy-side domain experience
+  • No mention of OMS/EMS or venue routing
+  • Few quantified engineering-scale achievements
+  • Limited years in finance-focused roles (5+ relevant yrs not shown)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

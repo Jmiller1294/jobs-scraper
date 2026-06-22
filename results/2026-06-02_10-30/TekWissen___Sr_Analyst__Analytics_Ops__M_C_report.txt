@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr Analyst, Analytics Ops, M&C
+Company:  TekWissen ®
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4423936529
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 80/100
+[████████████████░░░░] 80%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Power BI
+  • data visualization
+  • automation
+  • documentation
+  • project management
+  • ETL
+  • Snowflake
+  • BigQuery
+  • Python
+  • data modeling
+  • stakeholder collaboration
+  • self-service analytics
+  • data processing efficiency
+  • SOPs
+  • communication
+  • process design
+  • BI ecosystem
+  • data refresh
+  • Zapier
+  • Advanced Excel
+  • Google Analytics
+  • Salesforce CRM
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Airtable
+  • Databricks
+  • dbt
+  • Atlan
+  • Marketing measurement framework
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Power BI expertise
+  • Proven automation and ETL experience
+  • Documented SOPs and process improvements
+  • Stakeholder collaboration and communication
+  • Quantified impact on KPIs and efficiency
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Airtable experience
+  • No listed Databricks/dbt/Atlan exposure
+  • Limited formal Marketing Ops title history
+  • Marketing measurement framework not shown
+  • Under 3 years targeted Marketing Analytics tenure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Orchestrated complex marketing measurement frameworks to track campaign ROI, utilizing Airtable for agile project management and stakeholder documentation across cross-functional teams.
+  Built and maintained scalable data pipelines using dbt and SQL to ensure consistent data quality and transformation standards within the enterprise BI ecosystem.
+  Streamlined data governance initiatives by implementing metadata management practices similar to Atlan, ensuring all analytics assets were well-documented and accessible for self-service consumption.
+  Collaborated with IT and engineering teams to integrate disparate data sources into a unified analytics environment, leveraging high-performance compute environments similar to Databricks for large-scale data processing.
+  Championed a self-service analytics model by designing accessible data models and dashboards, empowering non-technical stakeholders to perform their own performance reporting and analysis.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Sr Analyst, Analytics Ops, M&C opportunity with TekWissen. I am interested in this opportunity because of the mission-driven nature of your client, a world-leading cancer research institution, and my desire to apply rigorous analytical operations to high-impact marketing initiatives. What interests me about working for TekWissen is its dedication to strategic talent and operational excellence, which resonates with my commitment to building efficient, scalable data systems. I believe my expertise in marketing analytics operations and my proficiency in building self-service BI ecosystems would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing process automation and data accessibility. In fact, while at Shine Masters Cleaning Services, I identified a bottleneck in manual reporting and developed a suite of interactive Power BI dashboards and automated workflows. This effort resulted in a 40% reduction in data processing time and a 300% increase in new customer acquisition through data-driven targeting. Ultimately, I know that the Sr Analyst, Analytics Ops, M&C role at TekWissen would allow me to bring my background in process optimization to your marketing measurement framework. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my data governance and stakeholder collaboration skills. I spearheaded the documentation of standardized SOPs and workflows, which reduced new hire onboarding time by 50% and ensured consistent data quality across all reporting streams. I’m excited by the opportunity to use my technical skillset in SQL, Python, and BI tools in working on the optimization of your analytics ecosystem at TekWissen. I know that my experience in building scalable analytics operations and my passion for data-driven decision-making align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff, Data Scientist
+Company:  Walmart
+Location: Hoboken, NJ
+URL:      https://www.linkedin.com/jobs/view/4401982635
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • AWS
+  • BigQuery
+  • Snowflake
+  • SQL
+  • ETL/ELT
+  • Data Pipelines
+  • Automation
+  • A/B Testing
+  • Customer Segmentation
+  • Statistical Modeling
+  • Git
+  • Power BI
+  • Tableau
+  • Data Validation
+  • CI/CD
+  • Data Governance
+  • Production-grade
+  • Feature Engineering
+  • Model Deployment
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Machine Learning
+  • Deep Learning
+  • LLMs
+  • TensorFlow
+  • PyTorch
+  • GCP
+  • Azure
+  • Java
+  • R
+  • Gradient Boosting
+  • Random Forest
+  • Support Vector Machine
+  • Logistic Regression
+  • GenAI
+  • Multi-agent workflows
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience with BigQuery and Snowflake
+  • Proven customer segmentation impact
+  • Built production ETL with CI/CD
+  • Dashboarding and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/Deep Learning project experience
+  • No LLM/GenAI implementations listed
+  • TensorFlow/PyTorch not demonstrated
+  • Java proficiency not shown
+  • Cloud breadth limited (AWS/GCP shown; Azure unclear)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

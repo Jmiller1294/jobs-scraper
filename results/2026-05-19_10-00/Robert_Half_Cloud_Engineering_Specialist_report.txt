@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Cloud Engineering Specialist
+Company:  Robert Half
+Location: Union, NJ
+URL:      https://www.linkedin.com/jobs/view/4416659110
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 36/100
+[███████░░░░░░░░░░░░░] 36%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • PowerShell
+  • AWS
+  • automation
+  • scripting
+  • Python
+  • SQL
+  • Git
+  • documentation
+  • reporting
+  • collaboration
+  • Power BI
+  • ETL
+  • JIRA
+  • Confluence
+  • troubleshooting
+  • monitoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Ansible
+  • Microsoft 365
+  • Azure
+  • Active Directory
+  • Okta
+  • Exchange Online
+  • SharePoint
+  • cloud engineering
+  • identity and access management
+  • security
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Data automation and ETL
+  • Reporting and visualization (Power BI)
+  • Scripting with Python and SQL
+  • Documentation and process SOPs
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Microsoft 365 enterprise administration experience
+  • No demonstrated Azure or Active Directory hands-on work
+  • No Okta or federated identity experience
+  • Limited cloud platform breadth (primarily AWS S3, Snowflake, BigQuery)
+  • Less than required cloud engineering years/explicit title alignment
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

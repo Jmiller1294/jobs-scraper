@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Forward Deployed Front-End Engineer - Autonomous Systems
+Company:  Emerald Advantage Concepts LLC
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417884403
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Python
+  • React
+  • JavaScript
+  • Cloud
+  • APIs
+  • Git
+  • PostgreSQL
+  • SQL
+  • Deployment
+  • ETL
+  • CI/CD
+  • Real-time data
+  • AI/ML
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Typescript
+  • Linux
+  • Networking
+  • Edge deployment
+  • Sensor fusion
+  • WebSockets
+  • Docker
+  • Kubernetes
+  • C++
+  • Rust
+  • 3D visualization
+  • Security Clearance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python + ETL pipelines
+  • SQL/PostgreSQL expertise
+  • Data visualization (Power BI, Tableau)
+  • Full-stack dev experience
+  • Quantified impact metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated Typescript/strong React stack
+  • Limited cloud deployment details (AWS S3 only)
+  • No Linux/Networking or edge hardware experience
+  • No sensor/robotics or autonomy experience
+  • No security clearance or related mention
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

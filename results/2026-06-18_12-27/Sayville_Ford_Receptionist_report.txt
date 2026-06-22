@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Receptionist
+Company:  Sayville Ford
+Location: Sayville, NY
+URL:      https://www.linkedin.com/jobs/view/4430461870
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Customer service
+  • Communication skills
+  • Microsoft Office
+  • Google Suite
+  • Team collaboration
+  • Reports
+  • CRM
+  • Data entry
+  • Problem solving
+  • Sales support
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Receptionist
+  • Phone handling
+  • Scheduling
+  • Greeting customers
+  • Professional appearance
+  • Typing
+  • Customer follow up
+  • Appointment scheduling
+  • Punctual
+  • Driving license
+  • Flexible schedule
+  • Memos
+  • Correspondence
+  • Phone etiquette
+  • Front desk
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong communication experience
+  • Proficient with Microsoft/Google tools
+  • CRM and reporting familiarity
+  • Team collaboration across functions
+  • Process automation and efficiency gains
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit receptionist title
+  • No phone/answering desk experience stated
+  • No scheduling/appointment-specific examples
+  • No mention of professional appearance or punctuality
+  • No driving license or clean driving record noted
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

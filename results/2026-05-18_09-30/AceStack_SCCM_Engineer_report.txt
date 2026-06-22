@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     SCCM Engineer
+Company:  AceStack
+Location: Nyack, NY
+URL:      https://www.linkedin.com/jobs/view/4415663517
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (6)
+  • Scripting
+  • Documentation
+  • Automation
+  • Git
+  • SQL
+  • Power BI
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • Windows OS
+  • Imaging
+  • Application packaging
+  • Microsoft Intune
+  • Troubleshooting
+  • OS deployment
+  • Endpoint management
+  • Patching
+  • Event logs
+  • ITSM
+  • Windows build
+  • Profile issues
+  • Change management
+  • MD-102
+  • Enterprise EUC
+  • Driver issues
+  • Level 2
+  • Level 3
+  • Compliance
+  • Windows build
+  • Application packaging
+  • Intune policies
+  • Enrollment
+  • Enterprise deployment
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Data analysis and automation
+  • Documentation and SOP creation
+  • Cross-functional collaboration
+  • Experience with scripting and Git
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Windows imaging experience listed
+  • No Microsoft Intune or Endpoint Manager experience
+  • Lacks Windows OS troubleshooting examples
+  • Insufficient enterprise EUC or ITSM exposure
+  • No relevant certifications (MD-102) or endpoint certs
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

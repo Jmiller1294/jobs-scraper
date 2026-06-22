@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior CIRT / Threat Intel Analyst
+Company:  S&P Global
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4394492252
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • cloud logs
+  • AWS
+  • reporting
+  • SOPs
+  • playbooks
+  • communication
+  • Python
+  • SQL
+  • Git
+  • PostgreSQL
+  • BigQuery
+  • Power BI
+  • Tableau
+  • Linux administration
+  • Windows administration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • incident response
+  • threat intelligence
+  • SIEM
+  • EDR
+  • MITRE ATT&CK
+  • IOCs
+  • forensic analysis
+  • threat hunting
+  • YARA
+  • Sigma
+  • STIX/TAXII
+  • MISP
+  • Recorded Future
+  • Splunk
+  • vulnerability management
+  • executive briefs
+  • 3+ years experience
+  • network protocols
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • data analysis and visualization
+  • automation and ETL development
+  • cloud data experience (AWS, BigQuery, Snowflake)
+  • SOP documentation and process improvement
+  • cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited explicit incident response experience
+  • no SIEM/Splunk or EDR tool mentions
+  • lack of threat intelligence platforms knowledge
+  • no MITRE ATT&CK or IOC mapping evidence
+  • under 3 years focused security experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

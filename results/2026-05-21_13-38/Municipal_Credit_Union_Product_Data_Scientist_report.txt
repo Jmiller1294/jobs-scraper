@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Product Data Scientist
+Company:  Municipal Credit Union
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414032140
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • Python
+  • SQL
+  • Power BI
+  • Tableau
+  • R
+  • PostgreSQL
+  • CTEs
+  • Window functions
+  • ETL
+  • Data pipelines
+  • Data modeling
+  • Time series
+  • Segmentation
+  • Data visualization
+  • Data integration
+  • Automation
+  • Reporting
+  • Presentation skills
+  • Snowflake
+  • BigQuery
+  • Campaign measurement
+  • Customer Segmentation
+  • Machine Learning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • A/B testing
+  • Causal inference
+  • Econometric models
+  • Financial services experience
+  • Onboarding/training analysts
+  • Power BI (advanced governance)
+  • ROI optimization
+  • Unstructured data processing
+  • Senior title alignment
+  • Master's degree
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Power BI and Tableau reporting expertise
+  • Experience with ETL and data pipelines
+  • Proven segmentation and time-series modeling impact
+  • Cross-functional collaboration and presentations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit A/B testing or causal inference experience
+  • Shorter total analytical experience (~3 years post-2023 roles)
+  • No clear financial-services tenure
+  • No explicit econometric modeling stated
+  • Less evidence of leading/training analyst teams
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and executed A/B testing frameworks for marketing campaigns, utilizing statistical analysis to measure lift and optimize conversion rates for customer acquisition.
+  Applied causal inference techniques to evaluate the impact of specific lending products on borrower behavior, ensuring robust data-driven recommendations.
+  Built econometric models to forecast member growth and churn, translating complex statistical outputs into actionable product development strategies.
+  Mentored junior team members and analysts on data visualization standards and SQL best practices, fostering a culture of consistency and high-quality reporting.
+  Integrated unstructured text data from customer feedback channels using NLP to augment structured loan performance datasets, improving segmentation accuracy.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Product Data Scientist opportunity with Municipal Credit Union. I am interested in this opportunity because of MCU’s century-long commitment to the 'people helping people' philosophy and its focus on using financial data to build better tomorrows for New Yorkers. What interests me about working for Municipal Credit Union is its mission-driven approach to member-centric growth; I am genuinely intrigued by your dedication to helping hard-working New Yorkers achieve financial health. I believe my expertise in advanced statistical modeling and my cross-functional experience in data storytelling would make me a strong candidate for this role. During my professional career, I have approached problems by bridging the gap between raw data and executive strategy. In fact, at Shine Masters, I designed a multi-dimensional time-series model to identify high-value customer segments while simultaneously automating intake workflows. These efforts led to a 300% increase in new customer acquisition and reclaimed 8 hours of manual processing time per week, proving my ability to turn analytical insights into tangible growth. Ultimately, I know that the Product Data Scientist role at Municipal Credit Union would allow me to bring my proficiency in machine learning and econometric modeling to drive your member-centric growth strategy. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my financial data domain knowledge. I collaborated with underwriting and product teams to reconcile complex insurance datasets, where I optimized relational database queries to improve data accuracy by 30%. This experience in the financial sector prepared me to excel in the high-volume, deadline-driven environment at MCU. I’m excited by the opportunity to use my SQL and Python expertise in working on product and member segmentation at Municipal Credit Union. I know that my technical versatility and commitment to data-driven growth align with what it takes to succeed as a Product Data Scientist. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

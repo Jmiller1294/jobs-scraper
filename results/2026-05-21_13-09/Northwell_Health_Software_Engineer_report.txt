@@ -1,0 +1,82 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  Northwell Health
+Location: Lake Success, NY
+URL:      https://www.linkedin.com/jobs/view/4417769003
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • SQL
+  • APIs
+  • Docker
+  • CI/CD
+  • Airflow
+  • BigQuery
+  • Cloud
+  • ELT pipeline
+  • Data pipelines
+  • dbt
+  • Postgres
+  • Power BI
+  • Dimensional modeling
+  • Automation
+  • Git
+  • Data quality
+  • Monitoring
+  • Containers
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • Azure
+  • Cosmos DB
+  • Functions
+  • Logic Apps
+  • Event hubs
+  • FHIR
+  • HL7
+  • DICOM
+  • PACS
+  • LIS
+  • RIS
+  • EMR
+  • Kafka
+  • AMQP
+  • GCP (explicit experience)
+  • AI/ML integration
+  • Clinical workflows
+  • Imaging workflows
+  • Infrastructure as code
+  • Kubernetes
+  • Streaming platforms
+  • CI/CD (specific tools like GitHub Actions listed but pipeline context for cloud-native not explicit)
+  • Containers orchestration
+  • Healthcare data standards
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Proven ELT/data pipeline experience
+  • Cloud data platform experience (BigQuery)
+  • Automation and CI/CD implementation
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no Azure platform experience
+  • No explicit HL7/FHIR/DICOM or healthcare standards
+  • Minimal healthcare systems (PACS/LIS/EMR) exposure
+  • AI/ML service integration not demonstrated
+  • Container orchestration/Kubernetes experience absent
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

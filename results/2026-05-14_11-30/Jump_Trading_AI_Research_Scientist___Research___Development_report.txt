@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Research Scientist | Research & Development
+Company:  Jump Trading
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414701069
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • Git
+  • BigQuery
+  • Snowflake
+  • CI/CD
+  • data pipelines
+  • ETL
+  • data quality
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • PyTorch
+  • TensorFlow
+  • JAX
+  • transformers
+  • LLM
+  • machine learning
+  • ML systems
+  • C++
+  • distributed training
+  • GPU optimization
+  • HPC
+  • model development
+  • research publications
+  • PhD
+  • years of experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Production ETL and data pipeline development
+  • CI/CD and data quality automation
+  • Quantified impact (e.g., 300% revenue lift)
+  • Cloud data warehouse skills (BigQuery, Snowflake)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated ML/LLM model development
+  • No PyTorch/TensorFlow/JAX experience listed
+  • No C++ or GPU/HPC optimization experience
+  • No advanced degree or PhD listed
+  • Limited ML publications or research record
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

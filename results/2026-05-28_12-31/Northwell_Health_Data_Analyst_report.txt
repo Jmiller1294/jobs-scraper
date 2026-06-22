@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst
+Company:  Northwell Health
+Location: Manhasset, NY, US
+URL:      https://www.indeed.com/viewjob?jk=7cbcfd594b66afec
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (26)
+  • SQL
+  • Python
+  • ETL
+  • Power BI
+  • Tableau
+  • data visualization
+  • data quality
+  • KPI
+  • dashboards
+  • data modeling
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • data integration
+  • data validation
+  • reporting
+  • automation
+  • Pandas
+  • data analysis
+  • documentation
+  • JIRA
+  • Confluence
+  • Advanced Excel
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack: SQL, Python, ETL, Power BI, Tableau
+  • Proven dashboard/reporting impact with quantified results
+  • Experience integrating multiple data sources and cleaning data
+  • Documented SOPs and stakeholder collaboration
+  • Relevant projects demonstrating large-scale data modeling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Only 1-3 years experience range borderline but acceptable
+  • No explicit mention of formal BI/data warehouse design patterns
+  • Limited explicit KPI methodology/metrics framework experience
+  • No certifications specific to cloud/data warehousing (e.g., Snowflake cert)
+  • No explicit mention of SQL performance tuning beyond optimization notes
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries using performance tuning techniques (indexing, query execution analysis) to clean and reconcile insurance testing data, improving data accuracy by 30%.
+  Identified key performance indicators (KPIs) and defined methodologies for quality metrics and outcomes evaluation, ensuring analytical reports aligned with departmental strategic goals.
+  Designed and implemented robust data warehouse architectures and star-schema modeling patterns to support scalable reporting and complex cross-departmental analytics.
+  Established formal data validation frameworks to identify and remediate data quality issues such as duplicates and missing values, ensuring reliability in downstream reporting.
+  Developed comprehensive technical and functional specifications to document business requirements and map workflows between stakeholder needs and backend data storage systems.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst opportunity with Northwell Health. I am interested in this opportunity because of Northwell Health's commitment to leveraging data-driven insights to improve patient outcomes and operational excellence. What interests me about working for Northwell Health is its innovative approach to population health management, which truly inspires me because I am passionate about using technical skills to drive meaningful systemic improvements. I believe my expertise in building scalable data pipelines and my ability to bridge the gap between technical infrastructure and stakeholder requirements would make me a strong candidate for this role. During my professional career, I have approached complex data problems by focusing on both technical precision and actionable storytelling. In fact, while at Shine Masters Cleaning Services, I developed interactive Power BI dashboards that synthesized complex operational data, identifying high-value customer segments through time-series modeling. This initiative resulted in a 300% increase in new customer acquisition over 12 months, proving my ability to turn raw data into strategic growth. Ultimately, I know that the Data Analyst role at Northwell Health would allow me to bring my advanced SQL and Python skills to refine your reporting and KPI tracking systems. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my database management and data quality skills. I collaborated with underwriting and product teams to integrate disparate data sources into a unified schema, which reduced project delivery delays by 25%. I am excited by the opportunity to use my data modeling and visualization expertise in working on critical department-related databases at Northwell Health. I know that my technical proficiency and analytical mindset align with what it takes to succeed in the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

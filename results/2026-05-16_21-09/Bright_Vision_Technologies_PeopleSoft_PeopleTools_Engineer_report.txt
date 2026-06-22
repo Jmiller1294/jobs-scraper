@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     PeopleSoft PeopleTools Engineer
+Company:  Bright Vision Technologies
+Location: Edison, NJ
+URL:      https://www.linkedin.com/jobs/view/4416000026
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 30/100
+[██████░░░░░░░░░░░░░░] 30%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • Git
+  • AWS
+  • Automation
+  • DevOps
+  • Documentation
+  • PostgreSQL
+  • Shell scripting
+  • Cloud (OCI/AWS/Azure)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • PeopleSoft
+  • PeopleTools
+  • PeopleSoft Update Manager (PUM)
+  • WebLogic
+  • Tuxedo
+  • Elasticsearch
+  • OpenSearch
+  • Oracle Database
+  • Linux/Unix
+  • Ansible
+  • HA/DR
+  • PeopleSoft Cloud Manager
+  • Integration Broker
+  • Application servers
+  • CI/CD
+  • PeopleSoft certifications
+  • PeopleSoft Selective Adoption
+  • Selective Adoption
+  • Process scheduler
+  • Image applications
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Cloud experience (AWS/S3)
+  • Documentation and SOP creation
+  • Automation and ETL pipeline development
+  • Data-driven quantified impact (e.g., 40% time reduction)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PeopleSoft/PeopleTools experience listed
+  • No Oracle DB or Linux admin experience shown
+  • Missing WebLogic/Tuxedo and app server experience
+  • No Elasticsearch/OpenSearch administration
+  • No explicit HA/DR or PeopleSoft Cloud Manager exposure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

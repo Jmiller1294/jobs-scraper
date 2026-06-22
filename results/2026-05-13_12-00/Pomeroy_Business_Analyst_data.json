@@ -1,0 +1,63 @@
+{
+  "job_title": "Business Analyst",
+  "company": "Pomeroy",
+  "location": "Parsippany, NJ",
+  "job_url": "https://www.linkedin.com/jobs/view/4411238685",
+  "ats_keywords": [
+    "SQL",
+    "BigQuery",
+    "Data modeling",
+    "Process modeling",
+    "Cloud",
+    "SAP",
+    "GCP",
+    "Data Lake",
+    "Agile/Scrum",
+    "AS-IS/TO-BE"
+  ],
+  "score": 62,
+  "matched_keywords": [
+    "SQL",
+    "BigQuery",
+    "Data modeling",
+    "Process modeling",
+    "Cloud",
+    "Data Lake",
+    "Agile/Scrum",
+    "AS-IS/TO-BE",
+    "Jira"
+  ],
+  "missing_keywords": [
+    "SAP",
+    "GCP",
+    "FICO",
+    "MM",
+    "SD",
+    "PP",
+    "CDS views",
+    "SDLC",
+    "CBAP",
+    "Information Security Awareness",
+    "Sales Datasets",
+    "Functional specifications",
+    "IBP",
+    "Web applications",
+    "Years of SAP techno-functional experience"
+  ],
+  "strengths": [
+    "Strong SQL expertise",
+    "BigQuery and cloud experience",
+    "Data pipeline & ETL development",
+    "Quantified impact on reporting/ revenue",
+    "Data visualization (Power BI, Tableau)"
+  ],
+  "weaknesses": [
+    "No explicit SAP techno-functional experience",
+    "Limited GCP-specific credentials",
+    "No CDS views or SAP dataset mapping evidence",
+    "Less than 10 years enterprise IT/SAP experience",
+    "No CBAP or formal BA certification"
+  ],
+  "improvement_bullets": [],
+  "cover_letter": ""
+}

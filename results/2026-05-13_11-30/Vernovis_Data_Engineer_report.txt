@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Vernovis
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413993188
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • dbt
+  • CI/CD
+  • Airflow
+  • ETL/ELT
+  • data modeling
+  • data quality
+  • Great Expectations
+  • APIs
+  • Docker
+  • BigQuery
+  • GitHub Actions
+  • Snowflake
+  • production observability
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Databricks
+  • Spark
+  • Azure
+  • feature engineering
+  • ML/AI
+  • vector search
+  • RAG
+  • MLFlow
+  • TensorFlow
+  • PyTorch
+  • Azure Databricks
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ELT pipeline building (Airflow, dbt)
+  • Data quality and modeling expertise
+  • CI/CD implementation (GitHub Actions)
+  • Cloud data platform experience (BigQuery, Snowflake)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Databricks/Spark experience stated
+  • No Azure/Azure Databricks skills listed
+  • Limited explicit ML/GenAI platform experience
+  • No ML frameworks (TensorFlow/PyTorch/MLFlow) usage
+  • No RAG or vector search/LLM orchestration experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

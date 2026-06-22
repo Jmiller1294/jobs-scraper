@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Kimco Realty Corporation
+Location: Jericho, NY
+URL:      https://www.linkedin.com/jobs/view/4386595351
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Snowflake
+  • ETL/ELT
+  • SQL
+  • Python
+  • dbt
+  • Airflow
+  • CI/CD
+  • Power BI
+  • data modeling
+  • data quality
+  • GCS
+  • BigQuery
+  • AWS
+  • data pipeline
+  • Docker
+  • Postgres
+  • Great Expectations
+  • GitHub Actions
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Azure
+  • Microsoft Fabric
+  • Databricks
+  • data governance
+  • performance tuning
+  • data migration
+  • Salesforce
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Hands-on ELT pipeline experience
+  • dbt and data modeling expertise
+  • Experience with BigQuery and Snowflake
+  • CI/CD and data quality automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Azure / Microsoft Fabric experience listed
+  • Limited explicit cloud platform certifications
+  • No Databricks experience
+  • No direct Salesforce or MRI integrations cited
+  • Relatively short formal data engineering tenure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

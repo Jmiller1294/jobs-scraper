@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Business Systems Analyst, Sales Systems
+Company:  Pinterest
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405472133
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Salesforce CRM
+  • AI
+  • process design
+  • workflow
+  • testing
+  • implementation
+  • change management
+  • SQL
+  • Python
+  • data analysis
+  • reporting
+  • data governance
+  • project leadership
+  • stakeholder management
+  • automation
+  • Power BI
+  • Tableau
+  • ETL
+  • Snowflake
+  • BigQuery
+  • CI/CD
+  • A/B testing
+  • metrics
+  • CRM
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • Lead business systems analyst
+  • sales technologies (Highspot, Gong, Sales Navigator)
+  • 12–18 month roadmaps
+  • sales process portfolio ownership
+  • Salesforce Administrator Certification
+  • Salesforce Advanced Admin/Developer
+  • global initiatives
+  • vendor partnership
+  • pilot design for AI use cases
+  • go-to-market systems
+  • operational scale
+  • extensibility
+  • governance for AI-enabled workflows
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with BI and reporting (Power BI, Tableau)
+  • ETL and cloud data platform experience (Snowflake, BigQuery)
+  • Demonstrated automation and CI/CD implementation
+  • Quantified impact (revenue lift, efficiency gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Salesforce hands-on experience (6+ yrs required)
+  • No Salesforce certifications listed
+  • No direct experience with listed sales tools (Highspot, Gong, Sales Navigator)
+  • Short tenure in relevant business-systems roles
+  • Limited explicit large-scale, cross-functional program ownership evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

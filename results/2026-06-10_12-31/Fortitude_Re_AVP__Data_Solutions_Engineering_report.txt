@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AVP, Data Solutions Engineering
+Company:  Fortitude Re
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4416946192
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • SQL
+  • ETL
+  • Data pipelines
+  • APIs
+  • AWS
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • Data modeling
+  • Data visualization
+  • Power BI
+  • Tableau
+  • Git
+  • Automation
+  • Documentation
+  • Problem solving
+  • Data integration
+  • Data quality
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Data governance
+  • Data lakes
+  • Actuarial domain
+  • Finance domain
+  • Insurance/Reinsurance
+  • Foundry
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and pipeline experience
+  • Cloud experience (AWS S3) and modern warehouses
+  • Proven quantified impact (time savings, efficiency gains)
+  • Good documentation and cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit insurance/reinsurance domain experience
+  • No Foundry or specific data governance tooling cited
+  • Data lakes and governance practices not detailed
+  • Less than stated 7+ years in data engineering
+  • Actuarial/Investment domain knowledge not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

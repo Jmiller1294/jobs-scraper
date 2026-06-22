@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff (Storage)
+Company:  Cockroach Labs
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4377953150
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • PostgreSQL
+  • Git
+  • AWS
+  • S3
+  • ETL
+  • debugging
+  • performance
+  • AI-assisted development
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • Go
+  • distributed systems
+  • LSM
+  • Pebble
+  • MVCC
+  • storage
+  • concurrency
+  • file systems
+  • data replication
+  • memory management
+  • C/C++
+  • Java
+  • Docker
+  • Kubernetes
+  • CI/CD
+  • testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Solid SQL and PostgreSQL experience
+  • Python ETL and data pipelines
+  • Measured impact with quantified results
+  • Experience with AWS S3 and cloud data
+  • Version control and collaboration (Git, JIRA)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Go experience listed
+  • No distributed systems or storage engine work
+  • No LSM/MVCC or Pebble-specific experience
+  • Limited systems-level languages (C/C++)
+  • No containerization/CI/CD details
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

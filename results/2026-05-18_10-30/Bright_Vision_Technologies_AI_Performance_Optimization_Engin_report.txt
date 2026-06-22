@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Performance Optimization Engineer
+Company:  Bright Vision Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416235383
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 25/100
+[█████░░░░░░░░░░░░░░░] 25%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (7)
+  • Python
+  • SQL
+  • Git
+  • AWS
+  • data pipelines
+  • profiling
+  • ETL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (17)
+  • C++
+  • GPU
+  • distributed training
+  • model compression
+  • memory management
+  • performance engineering
+  • Triton
+  • TensorRT
+  • benchmarking
+  • quantization
+  • sparsity
+  • pipeline parallelism
+  • Flash Attention
+  • LLM inference
+  • FSDP
+  • ZeRO
+  • PyTorch
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and analytics pipelines
+  • Proven data-driven impact with quantified results
+  • Cross-functional collaboration experience
+  • Dashboarding and visualization expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated C++ experience
+  • No GPU or deep learning systems experience
+  • No distributed training or FSDP/ZeRO exposure
+  • No compiler/kernel optimization (Triton/TVM) experience
+  • Limited production ML/LLM inference achievements
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

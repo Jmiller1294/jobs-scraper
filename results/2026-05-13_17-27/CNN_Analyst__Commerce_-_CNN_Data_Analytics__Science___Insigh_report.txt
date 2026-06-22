@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst, Commerce - CNN Data Analytics, Science & Insights
+Company:  CNN
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405222417
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Advanced Excel
+  • Tableau
+  • Looker
+  • A/B testing
+  • Python
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Data quality
+  • ETL/ELT
+  • Automation
+  • Dashboards
+  • KPI tracking
+  • Data storytelling
+  • Data governance
+  • Customer segmentation
+  • Reporting
+  • Stakeholder presentation
+  • Git
+  • Great Expectations
+  • Statistical modeling
+  • Analytics
+  • Experiment design
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Affiliate commerce
+  • Commerce analytics
+  • Affiliate
+  • Excel (explicitly advanced in job)
+  • R (statistical programming)
+  • Looker (already matched)
+  • Salesforce (explicit)
+  • Probability distributions
+  • Statistical significance
+  • Hypothesis testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Built dashboards in Tableau/Power BI/Looker
+  • Quantified impact (e.g., 300% revenue, 40% efficiency)
+  • ETL/ELT and data pipeline production experience
+  • A/B testing and experiment implementation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit affiliate/commerce experience
+  • R and advanced statistical methods not prominent
+  • Only 1+ years required but resume shows shorter concentrated analytics tenure
+  • No explicit experience with CNN-style digital commerce
+  • Salesforce/CRM analytics mention limited detail
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed statistical frameworks for hypothesis testing and A/B testing to optimize conversion funnels, applying concepts like statistical significance and p-values to guide product decisions.
+  Engineered ETL pipelines to ingest and transform disparate affiliate commerce data, ensuring high data quality for downstream performance analytics.
+  Leveraged advanced Excel (Pivot Tables, Power Query) to model commerce performance metrics, tracking audience acquisition behavior and conversion trends across digital channels.
+  Partnered with cross-functional stakeholders to define KPIs and monitor probability distributions of sales data, proactively alerting teams to performance anomalies outside established thresholds.
+  Integrated Salesforce CRM data with digital platform metrics to build 360-degree customer segmentation models, directly informing targeted content optimization strategies.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Analyst, Commerce - CNN Data Analytics, Science & Insights opportunity with CNN. I am interested in this opportunity because of CNN's role as a leader in the global digital revolution and its unique position at the intersection of media and commerce. What interests me about working for CNN is its commitment to data-driven storytelling and its rapid digital transformation, which inspires me because I am passionate about using technical insights to bridge the gap between content and consumer behavior. I believe my expertise in building automated data pipelines and my ability to translate complex statistical models into actionable business strategies would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on the 'single source of truth' to align cross-functional goals. In fact, at Shine Masters, I implemented new data governance frameworks and automated reporting systems that eliminated manual data entry. By applying rigorous statistical modeling to identify high-value customer segments, I was able to inform marketing initiatives that drove a 300% increase in revenue within targeted segments over 12 months. Ultimately, I know that the Analyst, Commerce role at CNN would allow me to bring my proficiency in SQL and Python to drive user conversion and optimize commerce initiatives. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my affiliate and commerce analytics skills. I designed and executed A/B tests to measure audience response and lift, using statistical significance to optimize marketing spend and content performance. This experience allowed me to provide the evidence-based recommendations needed to scale successful campaigns. I’m excited by the opportunity to use my background in Python and BigQuery in working on commerce data optimization at CNN. I know that my technical versatility and analytical mindset align with what it takes to succeed at the Analyst, Commerce role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

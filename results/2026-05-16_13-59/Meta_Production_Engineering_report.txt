@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Production Engineering
+Company:  Meta
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4403755486
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • MySQL
+  • Python
+  • PostgreSQL
+  • SQL
+  • Git
+  • APIs
+  • Cloud (AWS S3)
+  • ETL
+  • Automation
+  • Documentation
+  • AI tools
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • Linux
+  • Kubernetes
+  • Terraform
+  • Networking
+  • Capacity planning
+  • Load Balancing
+  • CDN
+  • Java
+  • Go
+  • C++
+  • On-call
+  • Production systems
+  • Performance debugging
+  • Scaling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database modeling
+  • Python ETL and analytics pipelines
+  • Data visualization and reporting (Power BI, Tableau)
+  • Documented SOPs and project documentation
+  • Experience integrating APIs and cross-team collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited infra/sysadmin (Linux/UNIX) evidence
+  • No Kubernetes/Terraform or infra-as-code experience
+  • Lacks demonstrated production on-call or incident response
+  • Insufficient systems programming language experience (Java/Go/C++)
+  • Limited explicit capacity planning or networking experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

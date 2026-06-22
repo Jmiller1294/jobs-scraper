@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Data Engineer with FactSet benchmark/ State Street benchmark data Experience
+Company:  Amtex Systems Inc
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4412969419
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Snowflake
+  • Python
+  • dbt
+  • ETL
+  • ELT
+  • APIs
+  • REST
+  • CI/CD
+  • Docker
+  • BigQuery
+  • Postgres
+  • data modeling
+  • Airflow
+  • data quality
+  • Great Expectations
+  • dimensional modeling
+  • dbt
+  • Git
+  • GitHub Actions
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • AKS
+  • Azure
+  • Sybase
+  • SQL Server
+  • Oracle
+  • Master Data Management
+  • FactSet
+  • State Street
+  • GraphQL
+  • DevOps (GitLab CI/CD)
+  • microservices web applications
+  • Middle Office
+  • Back Office
+  • AI/ML
+  • Claude Code
+  • GitHub Copilot
+  • Jira
+  • React
+  • Linux
+  • shell scripting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL experience
+  • Python backend & ETL development
+  • dbt and data modeling expertise
+  • Data quality and CI/CD implementation
+  • Cloud data platform experience (GCP, BigQuery, Snowflake)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit MDM experience
+  • No FactSet/State Street benchmark exposure
+  • Limited Azure/AKS experience
+  • No Sybase/SQL Server/Oracle evidence
+  • Under 10 years development experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

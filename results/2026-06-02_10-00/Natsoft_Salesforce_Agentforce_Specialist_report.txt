@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Salesforce Agentforce Specialist
+Company:  Natsoft
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4422397892
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 22/100
+[████░░░░░░░░░░░░░░░░] 22%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Salesforce CRM
+  • Integrations
+  • REST API
+  • JavaScript
+  • SQL
+  • Git
+  • Documentation
+  • Data privacy
+  • Security
+  • AI Tools
+  • Certifications
+  • Problem solving
+  • Analytical skills
+  • Power BI
+  • ETL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Apex
+  • Lightning Web Components
+  • Aura
+  • SOQL
+  • Salesforce CLI
+  • Agentforce
+  • Einstein AI
+  • Copilot Studio
+  • Prompt Builder
+  • Data Cloud
+  • AI governance
+  • Prompt Builder
+  • CI/CD
+  • Sales Cloud
+  • Service Cloud
+  • FSC
+  • Salesforce Platform Developer
+  • Salesforce Administrator
+  • Salesforce Agentforce Specialist
+  • Salesforce AI Associate
+  • Generative AI
+  • Conversation AI
+  • Banking/Finance domain
+  • Apex
+  • Visualforce
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Data integration and ETL experience
+  • Strong analytics and SQL skills
+  • Documentation and process standardization
+  • Cross-functional collaboration
+  • Experience with AI tools (ChatGPT, Claude, Gemini)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Salesforce platform development experience (Apex/LWC/Aura)
+  • No Agentforce or Einstein-specific experience
+  • Lack of Salesforce certifications
+  • Limited CI/CD and deployment tooling evidence
+  • No explicit Salesforce Data Cloud or governance experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

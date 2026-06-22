@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quantitative Researcher
+Company:  Fionics
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4424410441
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • time series
+  • ETL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • data modeling
+  • risk analysis
+  • tableau
+  • Power BI
+  • Git
+  • automation
+  • data pipelines
+  • EDA
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • fixed income
+  • equities
+  • options
+  • crypto
+  • commodities
+  • 3+ years
+  • strategy ownership
+  • backtesting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL and data pipelines
+  • Applied time-series and risk analysis
+  • Visualization and dashboard delivery
+  • Cloud and data warehouse familiarity
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no explicit capital markets experience
+  • Insufficient years at tier-1 quant firms
+  • No mention of backtesting or trading systems
+  • Titles not quant/PM/strat-specific
+  • Few quantified trading performance metrics
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

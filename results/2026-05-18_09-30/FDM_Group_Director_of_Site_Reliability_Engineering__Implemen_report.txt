@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director of Site Reliability Engineering (Implementation & Transformation)
+Company:  FDM Group
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4379923794
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 22/100
+[████░░░░░░░░░░░░░░░░] 22%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • AWS
+  • Python
+  • Cloud
+  • SQL
+  • Git
+  • JIRA
+  • Documentation
+  • Monitoring
+  • Data pipelines
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (22)
+  • Kubernetes
+  • CI/CD
+  • Prometheus
+  • Grafana
+  • Datadog
+  • Open Telemetry
+  • Infrastructure as Code
+  • SRE
+  • SLIs/SLOs
+  • Error budgets
+  • Chaos testing
+  • Distributed tracing
+  • Logging
+  • GCP
+  • Azure
+  • Bash
+  • Go
+  • Incident reviews
+  • DR validation
+  • Resilience engineering
+  • Regulatory compliance
+  • Banking
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python scripting
+  • Cloud (AWS S3)
+  • Data engineering and ETL
+  • Dashboarding (Power BI, Tableau)
+  • Quantified operational impacts
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited SRE/platform engineering experience
+  • No Kubernetes/container evidence
+  • No IaC tooling listed
+  • Lacks observability tooling experience
+  • No banking SRE leadership background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

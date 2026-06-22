@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist, Evaluations - Meta Superintelligence Labs
+Company:  Meta
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4396840971
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • R
+  • statistical models
+  • A/B testing
+  • data quality
+  • BigQuery
+  • Snowflake
+  • ETL/ELT
+  • CI/CD
+  • data governance
+  • Power BI
+  • Tableau
+  • data analysis
+  • sampling strategies
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • data validation
+  • psychometrics
+  • benchmarking
+  • experimental design
+  • publications
+  • LLM evaluation
+  • RLHF
+  • bias mitigation
+  • open source
+  • research collaboration
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ELT pipelines and BigQuery/Snowflake
+  • Applied statistical modeling and A/B testing
+  • Data governance and reporting automation
+  • CI/CD and data quality tooling (Great Expectations, GitHub Actions)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited years in senior analytics role vs. 6+ requirement
+  • No demonstrated publications or top-tier conference record
+  • Lacks explicit LLM/LLM-evaluation or psychometrics experience
+  • No RLHF or domain-specific LLM failure-mode expertise
+  • Minimal evidence of open-source benchmark contributions
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

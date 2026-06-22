@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Analyst opportunity with the City of New York Department of Correction (DOC). I am interested in this opportunity because of the critical role the DOC plays in the city's evolving criminal justice system and its commitment to public safety and successful reentry.
+
+What interests me about working for the City of New York DOC is its dedication to data-driven decision-making to inform strategic initiatives. I believe my proficiency in Python and SQL, combined with my experience in developing insightful data visualizations and automated reporting workflows, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a focus on translating complex data into actionable insights. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, which reduced data mismatches and improved work efficiency by 40%. This resulted in more accurate reporting and faster strategic decisions, directly impacting the business's ability to achieve its goals.
+
+Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data modeling and predictive analytics skills. I created statistical models to identify high-value customer segments, and targeted marketing initiatives informed by these models contributed to a 300% increase in revenue in the targeted segment over 12 months.
+
+I’m excited by the opportunity to use my data visualization skills in working on developing and maintaining key performance indicators (KPIs) and delivering insightful reports and dashboards at the DOC. I know that my analytical rigor and commitment to data governance align with what it takes to succeed in the Data Analyst role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

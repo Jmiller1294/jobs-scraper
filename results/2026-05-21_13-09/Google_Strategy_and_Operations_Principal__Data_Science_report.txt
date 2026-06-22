@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Strategy and Operations Principal, Data Science
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4407016851
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • R
+  • BigQuery
+  • Snowflake
+  • Tableau
+  • Power BI
+  • ETL
+  • dashboards
+  • data analysis
+  • risk analysis
+  • cross-functional collaboration
+  • operations
+  • PostgreSQL
+  • MySQL
+  • visualization
+  • automation
+  • JIRA
+  • Confluence
+  • advanced Excel
+  • AWS (S3)
+  • communication
+  • data modeling
+  • project management
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • 11 years experience
+  • management consulting
+  • product management
+  • strategy
+  • data governance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Proven dashboard and visualization delivery
+  • Cross-functional collaboration experience
+  • Hands-on ETL and data modeling
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Insufficient years of senior experience (11 yrs required)
+  • Limited explicit product/strategy leadership roles
+  • No management consulting background
+  • Data governance experience not clearly demonstrated
+  • Advanced degree not listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,103 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     GCP Lead data engineer
+Company:  VySystems
+Location: Paramus, NJ
+URL:      https://www.linkedin.com/jobs/view/4416685612
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • BigQuery
+  • GCS
+  • Python
+  • SQL
+  • CI/CD
+  • Airflow
+  • dbt
+  • Partitioning
+  • Clustering
+  • ETL/ELT
+  • Data modeling
+  • Docker
+  • GCP
+  • Data quality
+  • GitHub Actions
+  • Power BI
+  • Postgres
+  • Snowflake
+  • Great Expectations
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Dataflow
+  • Dataproc
+  • Pub/Sub
+  • Cloud Functions
+  • Cloud Run
+  • Cloud Composer
+  • Materialized views
+  • Streaming
+  • Apache Beam
+  • Dataproc
+  • CMEK
+  • VPC Service Controls
+  • IAM
+  • Cloud sql
+  • Kubernetes
+  • Containerization
+  • Logging and monitoring
+  • DevOps
+  • Real-time
+  • Encryption
+  • Identity management
+  • Networking
+  • 5+ years experience
+  • Delivered 2-3 end-to-end GCP projects
+  • Mentoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on BigQuery and GCS experience
+  • CI/CD implementation with GitHub Actions
+  • ETL/ELT pipeline & dbt modeling
+  • Data quality automation (Great Expectations)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit GCP data services (Dataflow/Dataproc) experience
+  • No Pub/Sub or streaming/Beam evidence
+  • Cloud Functions/Run and Cloud Composer not shown
+  • Unclear 5+ years GCP data engineering experience
+  • Limited explicit security (CMEK/IAM/VPC) and networking experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed and implemented end-to-end data pipelines using GCP-native services such as Cloud Storage and Cloud Functions, integrating with BigQuery for robust data warehousing.
+  Developed and optimized data ingestion and transformation workflows using Python, SQL, and Cloud Composer (Airflow) to support real-time analytics and reporting requirements.
+  Implemented robust data security and governance practices, including IAM role management and encryption configurations, to ensure compliance and protect sensitive data.
+  Established and maintained CI/CD pipelines for data workflows using GitHub Actions and Docker, enabling automated testing, deployment, and version control.
+  Extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs, while ensuring data accuracy through SQL validation.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the GCP Lead Data Engineer opportunity with VySystems. I am interested in this opportunity because VySystems' commitment to leveraging cutting-edge cloud technologies for data-driven solutions deeply resonates with my professional passion and expertise. What interests me about working for VySystems is its innovative approach to cloud data engineering excites inspires intrigues me because it directly aligns with my experience in building scalable and high-performance data solutions.
+
+I believe my advanced SQL and Python proficiency, coupled with my extensive experience in GCP data services, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on building secure, scalable, and high-performance data pipelines. In fact, in my project 'FRED Economic Batch Pipeline,' I designed and implemented a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery using Python, Airflow, dbt, and GCS. This involved modeling raw API data into a dbt star schema, optimizing query performance through BigQuery partitioning and clustering, and automating data quality validation with Great Expectations.
+
+Ultimately, I know that the GCP Lead Data Engineer role at VySystems would allow me to bring my expertise in BigQuery, data modeling, and ELT pipeline design to key responsibilities such as designing, building, and optimizing secure, scalable, and high-performance data pipelines using GCP tools. Additionally, my role in the 'FRED Economic Batch Pipeline' project enabled me to develop my CI/CD pipeline skills. I utilized GitHub Actions to automate data quality validation and deployment processes, ensuring robust and reliable data workflows.
+
+I’m excited by the opportunity to use my data modeling and pipeline development skills in working on the design, build, and optimization of end-to-end data pipelines using GCP-native services at VySystems. I know that my strong Python and SQL proficiency and my proven ability to implement CI/CD pipelines align with what it takes to succeed in the GCP Lead Data Engineer role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

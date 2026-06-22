@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director of Site Reliability Engineering (Implementation & Transformation)
+Company:  FDM Group
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4379923794
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • AWS
+  • Python
+  • SQL
+  • Git
+  • CI/CD
+  • cloud
+  • monitoring
+  • logging
+  • documentation
+  • stakeholder management
+  • automation
+  • ETL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • SRE
+  • site reliability
+  • Azure
+  • GCP
+  • Kubernetes
+  • Prometheus
+  • Grafana
+  • Datadog
+  • distributed tracing
+  • Go
+  • Bash
+  • infrastructure as code
+  • SLIs
+  • SLOs
+  • error budgets
+  • chaos testing
+  • DR
+  • service mesh
+  • observability
+  • resilience engineering
+  • regulatory audits
+  • banking SRE
+  • operational resilience
+  • risk controls
+  • service stability
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Cloud experience (AWS S3, BigQuery, Snowflake)
+  • Automation and ETL pipeline development
+  • Quantified operational improvements
+  • Documentation and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SRE or production engineering title
+  • Lacks Kubernetes/container and service mesh experience
+  • No observability tooling (Prometheus/Grafana/Datadog) shown
+  • Insufficient seniority—<12 years SRE experience
+  • No demonstrated IaC, chaos testing, or DR validation experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Motion Recruitment
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4408028705
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 83/100
+[████████████████░░░░] 83%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • Snowflake
+  • dbt
+  • Python
+  • SQL
+  • data modeling
+  • ETL/ELT
+  • Airflow
+  • BigQuery
+  • GCS
+  • data quality
+  • Great Expectations
+  • CI/CD
+  • GitHub Actions
+  • dimensional modeling
+  • Postgres
+  • Docker
+  • data pipelines
+  • automation
+  • Power BI
+  • Tableau
+  • cloud
+  • relational data modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Dagster
+  • Snowflake (advanced features)
+  • risk measurement
+  • member prioritization
+  • healthcare domain experience
+  • privacy/HIPAA
+  • 3+ years (explicit)
+  • production-minded platform ownership
+  • identity resolution
+  • maker time culture
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Experience with dbt and dimensional modeling
+  • Built production ELT pipelines with Airflow and BigQuery
+  • Implemented data quality with Great Expectations
+  • CI/CD automation via GitHub Actions
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Dagster experience
+  • Limited explicit Snowflake-focused projects
+  • No stated healthcare or HIPAA experience
+  • Risk measurement/member prioritization not demonstrated
+  • Title alignment: not explicitly 'Data Engineer'
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed production-grade ELT pipelines using dbt and modern orchestration tools (transferable from Airflow to Dagster), ensuring data reliability for healthcare-adjacent business logic.
+  Engineered scalable data models and identity resolution logic in BigQuery to support member prioritization, directly impacting patient engagement strategy.
+  Applied rigorous data quality standards and privacy-conscious documentation practices (Great Expectations) to maintain high-integrity datasets.
+  Transitioned from general analytics to engineering-focused roles by owning the end-to-end infrastructure lifecycle, including CI/CD deployments and cloud-agnostic data modeling.
+  Collaborated with cross-functional stakeholders to model complex business datasets, focusing on risk measurement metrics and operational KPI tracking to drive cost-reduction initiatives.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager at Aligned Marketplace, I am excited to submit my application for the Data Engineer opportunity. I am interested in this role because of your mission-driven approach to reducing healthcare costs through advanced primary care. What interests me about Aligned Marketplace is its focus on building a robust, modern data platform from the ground up, which aligns perfectly with my passion for creating efficient, 'technical-debt-free' infrastructure. I believe my proficiency in Python and dbt, combined with my experience in building end-to-end ELT pipelines, would make me a strong candidate for your team. During my career, I have approached complex data challenges with a 'builder' mindset. In fact, while building the FRED Economic Batch Pipeline, I architected a full ELT process using dbt and BigQuery to ingest disparate API data into a clean, partitioned star schema. This resulted in a significantly reduced query time for analysts and provided a scalable foundation for future data growth—a process I am eager to replicate at Aligned Marketplace. Ultimately, I know that the Data Engineer role at Aligned Marketplace would allow me to bring my expertise in dimensional modeling and data quality to your healthcare infrastructure. Additionally, my experience as an Analytics & Operations Lead at Shine Masters enabled me to develop my cross-functional collaboration skills. In this role, I identified operational inefficiencies by analyzing content and marketing data, which drove a 40% increase in leads and improved company-wide resource allocation. I am excited by the opportunity to use my background in data pipeline automation in working on member prioritization and risk measurement at Aligned Marketplace. I know that my technical versatility and commitment to high-quality code align with what it takes to succeed in this role. I would love the opportunity to discuss how my engineering skills can support your mission. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quantitative Developer – Systematic Equities
+Company:  CW Talent Solutions
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4416257679
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Python
+  • ETL
+  • AWS
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • Pandas
+  • Git
+  • SQL
+  • time series
+  • API integration
+  • scalable solutions
+  • quantified results
+  • cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • C++
+  • Java
+  • OOP
+  • systematic equities
+  • backtesting
+  • data pipelines
+  • Linux
+  • KDB+
+  • validation tools
+  • research workflow
+  • CS fundamentals
+  • scalable solutions
+  • scalable solutions
+  • scalable solutions
+  • quantitative developer
+  • PM partnership
+  • execution
+  • strategy deployment
+  • high-frequency
+  • tick data
+  • performance optimization
+  • low-latency
+  • C++/Java
+  • Q/KDB+
+  • market data
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and Pandas experience
+  • Proven ETL and data pipeline development
+  • Experience with cloud data platforms (AWS, BigQuery, Snowflake)
+  • Quantified impact metrics in roles/projects
+  • Solid SQL and PostgreSQL data modeling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated C++/Java or OOP production experience
+  • No KDB+/Q or Linux systems exposure
+  • Limited explicit systematic equities/backtesting experience
+  • No mention of low-latency or execution systems
+  • Title misalignment for senior Quant Developer role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

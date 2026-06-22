@@ -1,0 +1,89 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Hourly Data Analyst - Ecohydrology Lab
+Company:  New Jersey Institute of Technology
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4413445900
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Linux
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • ETL
+  • Data pipeline
+  • Data quality
+  • Automation
+  • Reporting
+  • Power BI
+  • Tableau
+  • Git
+  • PostgreSQL
+  • MySQL
+  • Data modeling
+  • CI/CD
+  • Great Expectations
+  • Pivot Tables
+  • Statistical models
+  • Data governance
+  • Data integration
+  • Time-series
+  • Presentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Big-data analytics
+  • Linux environment
+  • Weekly meetings
+  • MS in CS or IS
+  • Numerical modeling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Hands-on ETL and pipeline experience
+  • Proven automation and reporting impact
+  • Cloud data warehouse skills (BigQuery, Snowflake)
+  • Quantified results and presentations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit MS in CS/IS
+  • Limited mention of Linux specifics
+  • No explicit numerical modeling experience
+  • No explicit weekly lab meeting experience
+  • Role not academic-titled (hourly/student)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Familiarized myself with the Linux environment by managing cloud-based data pipelines and deployments, including the utilization of GitHub Actions for CI/CD in the FRED Economic Batch Pipeline project.
+  Developed and implemented numerical modeling projects through the creation of statistical models for customer segmentation and the analysis of time-series economic data, aligning with the computational needs of the Ecohydrology Lab.
+  Attended and presented at weekly lab meetings, sharing data insights and project progress, as demonstrated in the NYPD Arrests Analysis presentation to city safety stakeholders.
+  Architected and managed a production-grade ELT pipeline using Python and SQL, ingesting time-series economic data into BigQuery, a testament to experience with complex databases and big-data analytics.
+  Optimized relational database queries (CTEs, window functions, joins) to clean and reconcile testing data, improving data accuracy by 60% and demonstrating comfort with big-data analytics and complex data structures.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Hourly Data Analyst - Ecohydrology Lab opportunity with New Jersey Institute of Technology. I am interested in this opportunity because my passion for leveraging data to understand complex systems, particularly in scientific and ecological contexts, aligns perfectly with the research conducted in your lab.
+
+What interests me about working for New Jersey Institute of Technology is its commitment to cutting-edge research and its interdisciplinary approach to solving real-world problems, which excites and inspires me. I believe my strong Python and SQL expertise, coupled with my hands-on ETL and pipeline experience, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a focus on efficiency and impactful insights. In fact, at Shine Masters Cleaning Services, I built Python automation for weekly sales and operations reports (ingesting POS and CRM data), eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions. This resulted in faster strategic decision-making and improved data accuracy.
+
+Ultimately, I know that the Hourly Data Analyst - Ecohydrology Lab role at New Jersey Institute of Technology would allow me to bring my Python and SQL skills to analyzing complex datasets for numerical modeling projects. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my reporting and data governance skills. I designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend. This resulted in a clear understanding of campaign effectiveness and optimized marketing spend.
+
+I'm excited by the opportunity to use my data modeling skills in working on numerical modeling projects at New Jersey Institute of Technology. I know that my strong data analytics foundation and my proactive approach to learning new subjects align with what it takes to succeed in the Hourly Data Analyst - Ecohydrology Lab role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

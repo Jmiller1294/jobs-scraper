@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Envision Technology Solutions
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4416590733
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • Snowflake
+  • Databricks
+  • BigQuery
+  • Airflow
+  • dbt
+  • SQL
+  • ETL/ELT
+  • data modeling
+  • CI/CD
+  • data quality
+  • GCS
+  • Docker
+  • Partitioning
+  • performance tuning
+  • communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • Spark
+  • PySpark
+  • Scala
+  • Delta tables
+  • Apache Iceberg
+  • schema evolution
+  • ACID
+  • time travel
+  • cost optimization
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Cloud data platform experience (BigQuery, Snowflake, GCS)
+  • ETL/ELT pipeline building with Airflow and dbt
+  • Data quality practices (Great Expectations) and CI/CD
+  • Quantified impact in prior roles (efficiency, leads, data accuracy)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Spark/PySpark experience listed
+  • No Scala experience
+  • No explicit Delta tables or Iceberg experience
+  • Limited banking/domain experience
+  • Onsite Jersey City requirement not addressed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

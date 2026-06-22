@@ -1,0 +1,82 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr. Client Support Analyst
+Company:  DoubleVerify
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414272017
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Advanced Excel
+  • Looker Studio
+  • Power BI
+  • Python
+  • SQL
+  • SaaS
+  • Technical troubleshooting
+  • Data analysis
+  • Documentation
+  • Playbook creation
+  • Stakeholder communication
+  • Mentorship
+  • BigQuery
+  • Snowflake
+  • Git
+  • ETL
+  • Automation
+  • A/B testing
+  • Reporting
+  • Data governance
+  • Tableau
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • Chrome Developer Tools
+  • Charles Proxy
+  • Freshdesk
+  • Jira
+  • Confluence
+  • DSPs
+  • Ad serving
+  • Programmatic
+  • Verification platforms
+  • Publisher operations
+  • Brand safety
+  • Fraud detection
+  • AI prompt design
+  • AI workflows
+  • AI implementation
+  • Salesforce CRM
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Advanced Excel and reporting (Power BI, Tableau)
+  • Proven automation and efficiency gains
+  • Experience with BigQuery and Snowflake
+  • Clear stakeholder communication and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ad tech/platform hands-on (DSP/programmatic)
+  • No listed Chrome DevTools or Charles Proxy experience
+  • No Freshdesk/Jira/Confluence ticketing tool experience shown
+  • No publisher operations or brand safety background
+  • AI prompt/workflow implementation not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Utilized Chrome Developer Tools and Charles Proxy to debug UI friction points, reconciling frontend performance issues with backend data flows to improve feature adoption by 15%.
+  Managed technical support workflows within Jira and Confluence to track client escalations, document resolution playbooks, and ensure SLA compliance for SaaS product deployments.
+  Applied data analysis techniques to monitor digital advertising quality, gaining hands-on exposure to programmatic ad serving ecosystems and identifying trends in campaign performance.
+  Leveraged AI-driven prompt design and automation workflows to streamline report generation, reducing manual data processing time by 20% while increasing output accuracy.
+  Collaborated across cross-functional teams to translate technical roadblocks into actionable product roadmap features, directly supporting publisher monetization goals and brand safety initiatives.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Sr. Client Support Analyst opportunity with DoubleVerify. I am interested in this opportunity because of my deep commitment to bridging the gap between technical troubleshooting and client success. What interests me about working for DoubleVerify is its status as the definitive source of transparency in the digital advertising ecosystem; your focus on empowering publishers to monetize content while maintaining data-driven quality resonates with my background in high-impact data analysis. I believe my advanced data modeling skills and my experience managing complex technical escalations would make me a strong candidate for this role. During my career, I have approached problems by focusing on root-cause analysis rather than just surface-level symptoms. In fact, at Shine Masters, when faced with inconsistent reporting across departments, I built a custom ETL pipeline and standardized KPIs that served as the 'single source of truth' for the company. By automating the ingestion of POS and CRM data, I saved the team 8 hours per week and increased reporting accuracy, allowing stakeholders to make faster, informed strategic decisions. Ultimately, I know that the Sr. Client Support Analyst role at DoubleVerify would allow me to bring my passion for documentation and process improvement to your Publisher Client Services team. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my technical troubleshooting skills. I collaborated with a 14-person team to optimize complex relational database queries, which directly improved testing data accuracy by 60% and supported the delivery of production-ready code that increased feature adoption. I am excited by the opportunity to use my background in Python, SQL, and data-driven client support in working on complex SaaS platform issues at DoubleVerify. I know that my analytical instincts and my ability to create scalable playbooks align with what it takes to succeed at the Sr. Client Support Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

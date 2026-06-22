@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Consulting Analyst
+Company:  Starr
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414233766
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • digital transformation
+  • process improvement
+  • stakeholder management
+  • change management
+  • data modernization
+  • KPI tracking
+  • Power BI
+  • Excel
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • automation
+  • data governance
+  • reporting
+  • communication
+  • collaboration
+  • Git
+  • data integration
+  • training
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • AI
+  • project management
+  • risk identification
+  • proof of concept
+  • project tracking tools
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack (Python, SQL, Snowflake, BigQuery)
+  • Proven automation and efficiency gains with measurable impact
+  • Experience building dashboards and KPI frameworks (Power BI, reporting)
+  • Cross-functional collaboration and stakeholder communication
+  • Data governance and integration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit AI/ML project experience
+  • No listed experience with formal project tracking tools (Jira, Smartsheet)
+  • Relatively short consulting/management transformation tenure
+  • No explicit risk management or governance escalation examples
+  • No insurance or insurtech industry experience noted
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with project managers to facilitate the design of proof-of-concept AI pilot programs, evaluating technical feasibility and potential business impact.
+  Led cross-functional project management efforts using Jira and Smartsheet to track milestones, ensuring 100% adherence to timelines for complex data-driven initiatives.
+  Proactively conducted risk identification and mitigation exercises to address data-related interdependencies, escalating blockers to senior management to ensure project continuity.
+  Designed and executed end-to-end data modernization projects that transitioned legacy manual workflows into scalable AI-ready cloud architectures.
+  Facilitated stakeholder workshops to synthesize business requirements and drive organizational change management initiatives for new system adoption.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Consulting Analyst opportunity with Starr. I am interested in this opportunity because of Starr's reputation for empowering employees to drive enterprise-level innovation through a blend of financial strength and an entrepreneurial culture. What interests me about working for Starr is its commitment to leveraging technology to solve complex global challenges, which resonates with my background in building data-driven transformation solutions. I believe my expertise in digital transformation and my ability to translate complex technical data into business-ready strategy would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing process improvement and the creation of a 'single source of truth' for stakeholders. In fact, at Shine Masters Cleaning Services, I led a data transformation project where I replaced manual, error-prone reporting with automated Power BI dashboards and Python-based pipelines. This resulted in a 40% improvement in operational efficiency and provided leadership with the statistical evidence needed to optimize marketing spend, leading to a 300% revenue increase in key customer segments. Ultimately, I know that the Senior Consulting Analyst role at Starr would allow me to bring my experience in data modernization to support your ongoing strategic initiatives. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my stakeholder management and collaborative project delivery skills. I worked within a 14-person cross-functional team to align product features with business objectives, optimizing database architectures and reducing delivery delays by 25%. I’m excited by the opportunity to use my background in automation and project tracking in working on large-scale technology transformations at Starr. I know that my technical proficiency in SQL/Python and my commitment to rigorous project governance align with what it takes to succeed at the Senior Consulting Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

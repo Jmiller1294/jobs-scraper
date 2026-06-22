@@ -1,0 +1,73 @@
+{
+  "job_title": "IT Portfolio Manager",
+  "company": "ECLARO",
+  "location": "New York, NY",
+  "job_url": "https://www.linkedin.com/jobs/view/4411172817",
+  "ats_keywords": [
+    "AI",
+    "data strategy",
+    "portfolio management",
+    "stakeholder engagement",
+    "PowerPoint",
+    "Jira",
+    "financial acumen",
+    "roadmap",
+    "KPIs",
+    "benefits realization",
+    "Snowflake",
+    "BigQuery",
+    "Python",
+    "SQL",
+    "data governance",
+    "reporting",
+    "automation",
+    "cloud",
+    "communication",
+    "product owner"
+  ],
+  "score": 68,
+  "matched_keywords": [
+    "AI",
+    "data strategy",
+    "PowerPoint",
+    "KPIs",
+    "Snowflake",
+    "BigQuery",
+    "Python",
+    "SQL",
+    "data governance",
+    "reporting",
+    "automation",
+    "cloud",
+    "communication",
+    "stakeholder engagement"
+  ],
+  "missing_keywords": [
+    "portfolio management",
+    "Jira",
+    "financial acumen",
+    "roadmap",
+    "benefits realization",
+    "product owner",
+    "cybersecurity",
+    "operating model transformation",
+    "MS Office 360",
+    "AI prompting"
+  ],
+  "strengths": [
+    "Strong data engineering and analytics skills",
+    "Proven reporting and dashboarding impact",
+    "Automation and process improvement",
+    "Experience with cloud data platforms",
+    "Effective stakeholder communication"
+  ],
+  "weaknesses": [
+    "Limited explicit portfolio management experience",
+    "No Jira or formal PM tool experience listed",
+    "No insurance/financial-services tenure of 5-8 years",
+    "Lacks stated financial investment/benefits realization experience",
+    "Limited executive-level portfolio governance examples"
+  ],
+  "improvement_bullets": [],
+  "cover_letter": ""
+}

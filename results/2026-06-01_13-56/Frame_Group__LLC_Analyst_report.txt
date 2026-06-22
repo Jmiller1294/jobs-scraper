@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst
+Company:  Frame Group, LLC
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4421850253
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 50/100
+[██████████░░░░░░░░░░] 50%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • PostgreSQL
+  • ETL
+  • Data modeling
+  • Data visualization
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+  • Data analysis
+  • Pandas
+  • MySQL
+  • R
+  • Advanced Excel
+  • APIs
+  • Customer segmentation
+  • JIRA
+  • Confluence
+  • Zapier
+  • Automation
+  • Time series
+  • SOP documentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Experienced with Power BI and Tableau
+  • Quantified operational impact (time/process improvements)
+  • Cloud and data warehouse exposure (Snowflake, BigQuery, AWS S3)
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited long-term tenure in roles
+  • No explicit machine learning model deployment experience
+  • Few enterprise-scale system architecture details
+  • No mention of certifications beyond Google Data Analytics
+  • Unclear seniority in data engineering roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

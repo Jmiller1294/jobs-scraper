@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Global Product Scheduling Integration Data Analyst
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4410464129
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 57/100
+[███████████░░░░░░░░░] 57%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data analysis
+  • Python
+  • SQL
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • ETL pipelines
+  • advanced analytics
+  • presentation to leadership
+  • stakeholder management
+  • risk identification
+  • JIRA
+  • Confluence
+  • Git
+  • visualization
+  • time series
+  • portfolio management
+  • resource-loaded schedules
+  • project management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Primavera P6
+  • data center construction
+  • schedule governance
+  • schedule strategy
+  • New Product Introduction (NPI)
+  • design and engineering integration
+  • mathematical schedule modeling
+  • velocity analysis
+  • green-shift enforcement
+  • full life cycle construction planning
+  • 7 years experience
+  • 5 years experience managing data center planning
+  • MBA
+  • maternity leave related
+  • portfolio forensics
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis (Python, SQL)
+  • Visualization and reporting (Power BI, Tableau)
+  • ETL and data engineering experience
+  • Cross-functional collaboration experience
+  • Quantified impact on KPIs and processes
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Primavera P6 experience
+  • No explicit data center construction experience
+  • Limited program/project management tenure (<=5 yrs)
+  • No explicit schedule governance or resource-loaded scheduling examples
+  • No advanced degree (MBA) listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

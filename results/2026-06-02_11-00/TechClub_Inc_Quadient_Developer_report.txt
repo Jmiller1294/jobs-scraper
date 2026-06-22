@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quadient Developer
+Company:  TechClub Inc
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4423942109
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Agile
+  • JIRA
+  • Scrum
+  • stakeholder alignment
+  • technical decisions
+  • problem solving
+  • communication
+  • Confluence
+  • tech lead
+  • vision
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Product Owner
+  • Quadient
+  • Exstream
+  • life insurance
+  • annuity
+  • customer communication
+  • product backlog
+  • Epics
+  • Features
+  • Stories
+  • coach
+  • mentor
+  • system architect
+  • modular solutions
+  • reusable
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Agile experience
+  • JIRA/Confluence usage
+  • cross-functional collaboration
+  • data engineering & SQL
+  • strong communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Quadient/Exstream experience
+  • Limited/no insurance product dev experience
+  • Insufficient years (resume ~3 yrs vs 15+ required)
+  • No explicit Product Owner title
+  • No demonstrated coaching/mentoring at scale
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

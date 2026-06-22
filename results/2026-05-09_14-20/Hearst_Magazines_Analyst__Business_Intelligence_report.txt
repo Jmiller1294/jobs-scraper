@@ -1,0 +1,89 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst, Business Intelligence
+Company:  Hearst Magazines
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4381108887
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 90/100
+[██████████████████░░] 90%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • SQL
+  • Python
+  • APIs
+  • BigQuery
+  • data visualization
+  • dashboards
+  • KPI
+  • data governance
+  • Google Analytics
+  • R
+  • Snowflake
+  • data warehousing
+  • reporting
+  • automation
+  • ETL
+  • data quality
+  • Power BI
+  • Tableau
+  • communication
+  • collaboration
+  • analytics
+  • forecasting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • DOMO
+  • Looker Studio
+  • audience (explicitly for media/publishing)
+  • partnerships (explicit experience)
+  • syndication
+  • commerce partners
+  • scorecards
+  • deal evaluation
+  • revenue tracking
+  • Google Analytics (enterprise phrasing)
+  • senior leaders (presenting to)
+  • data governance (broader BI governance phrasing)
+  • hybrid NYC (location note)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack aligned to JD: SQL, Python, BigQuery, Snowflake, ETL, data quality tools.
+  • Proven impact with quantified outcomes (efficiency gains, revenue lift, time savings).
+  • Experience building dashboards and automation (Power BI, Looker workflows, Tableau project).
+  • Relevant project work (ELT pipeline, API ingestion, data modeling) that maps to responsibilities.
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit mention of DOMO or Looker Studio, which are called out in the JD (Looker workflows are referenced but not Looker Studio by name).
+  • Limited explicit experience described with media/publishing, audience or syndication partner data and partnership/BD-specific reporting.
+  • A few bullets lack metrics or are somewhat long and could be tightened for clarity.
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Built Python automation for weekly sales and operations reports (ingesting POS and CRM data from distribution and commerce partners), eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions.
+  Build and maintain dashboards and recurring reporting in Power BI and Looker workflows (similar to Looker Studio), monitoring and ensuring the quality and consistency of data used in reports, contributing to broader BI data governance efforts.
+  Partnered with product managers on a 14-person team to align features with business objectives, translating user feedback into production-ready code and streamlining the software development workflow, reducing delivery delays by 25%.
+  Analyzed a 250K+ row dataset using Pandas and NumPy to identify demographic clusters and geographic patterns in NYPD arrests, demonstrating segmentation-oriented analytical methods for city safety initiatives.
+  Translated complex technical findings into actionable business recommendations during stakeholder meetings to inform growth strategy, including presenting insights to senior leaders.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Analyst, Business Intelligence opportunity with Hearst Magazines. I am interested in this opportunity because I am drawn to how data at Hearst Magazines powers the stories, audience growth, and business partnerships that drive such iconic brands. What interests me about working for Hearst Magazines is its sophisticated content creation, cutting-edge technology, and industry-leading data capabilities – this approach to data-driven storytelling excites and inspires me because it aligns with my passion for transforming raw data into compelling narratives that drive strategic decisions.
+
+I believe my proficiency in data analysis and reporting, coupled with my experience in automation and dashboard development, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on driving efficiency and actionable insights. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, reducing data mismatches and improving work efficiency by 40%. This resulted in enhanced accuracy and faster strategic decision-making.
+
+Furthermore, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my skills in presenting complex technical findings to non-technical stakeholders. I regularly translated statistical insights into business recommendations, bridging the gap between raw data and growth strategy. I’m excited by the opportunity to use my data visualization and reporting skills in working on audience and content-level datasets at Hearst Magazines. I know that my analytical skills and my experience in building impactful reporting solutions align with what it takes to succeed in the Analyst, Business Intelligence role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Data Scientist, Discover Personalization and Quality
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4403659224
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • statistical modeling
+  • A/B testing
+  • ETL/ELT
+  • CI/CD
+  • data quality
+  • Power BI
+  • Tableau
+  • Pandas
+  • dbt
+  • AWS (S3)
+  • PostgreSQL
+  • data governance
+  • automation
+  • collaboration
+  • cross-functional
+  • metrics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • retrieval and ranking
+  • machine learning
+  • LLM
+  • feature engineering
+  • advanced statistics
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience with BigQuery and Snowflake
+  • Proven data pipeline and ETL implementation
+  • Quantified impact (revenue growth, efficiency gains)
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit ML or LLM experience
+  • No mention of retrieval/ranking systems
+  • Master's degree not present
+  • Less than preferred years of senior analytics experience
+  • Limited published research or technical leadership examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

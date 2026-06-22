@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Dashboard Testing Specialist opportunity with Net2Source (N2S). I am interested in this opportunity because of Net2Source's reputation as an award-winning total workforce solutions company, and the specific focus on ensuring data quality and reliability within their client's analytics environments resonates deeply with my passion for data integrity. What interests me about working for Net2Source is its approach to providing staffing solutions that address the talent gap – Right Talent – Right Time – Right Place – Right Price – excites inspires intrigues me because I believe my skills in data validation and test automation are precisely the 'Right Talent' needed for this critical role.
+
+I believe my proficiency in SQL and Tableau visualization, combined with my hands-on experience in developing data validation frameworks, would make me a strong candidate for this role. During my professional career, I have approached problems with a meticulous attention to detail and a commitment to data accuracy. In fact, as a Data Analyst & Operations Lead at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting POS and CRM data. This process eliminated repetitive data entry, saved 8 hours per week, and significantly improved reporting accuracy, enabling faster strategic decisions and contributing to a 300% increase in revenue in a targeted customer segment over 12 months. Ultimately, I know that the Dashboard Testing Specialist role at Net2Source would allow me to bring my expertise in data validation and performance analysis to ensuring the quality, accuracy, and reliability of Tableau dashboards.
+
+Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my database query optimization skills. I optimized relational database queries, including CTEs, window functions, and joins, to clean and reconcile testing data, improving data accuracy by 60%. I’m excited by the opportunity to use my SQL and data validation skills in working on the crucial data integrity aspects of Tableau dashboards at Net2Source. I know that my strong analytical thinking and attention to detail align with what it takes to succeed at the Dashboard Testing Specialist role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

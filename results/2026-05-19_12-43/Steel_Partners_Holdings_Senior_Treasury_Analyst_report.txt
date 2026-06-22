@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Treasury Analyst
+Company:  Steel Partners Holdings
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404905752
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 55/100
+[███████████░░░░░░░░░] 55%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • reporting
+  • automation
+  • Excel
+  • ETL
+  • reconciliation
+  • analytics
+  • stakeholder communication
+  • data migration
+  • controls compliance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (26)
+  • cash management
+  • pension
+  • treasury
+  • cash forecasting
+  • banking relationships
+  • financial reporting
+  • ACH
+  • wires
+  • credit facilities
+  • insurance
+  • intercompany funding
+  • covenant reporting
+  • debt footnote preparation
+  • positive pay
+  • Pension Investment Committee
+  • signatories
+  • bank platform administration
+  • global banking
+  • monthly cash flow
+  • quarterly operating reports
+  • strategy deployment
+  • Lean Manufacturing
+  • Six Sigma
+  • AI initiatives
+  • policy compliance
+  • liquidity
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong SQL and Python skills
+  • experience with Tableau and Power BI
+  • automation and ETL pipeline development
+  • quantified impact on KPI and efficiency
+  • cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no direct treasury/pension experience
+  • no banking relationship or negotiation experience
+  • limited corporate payments (ACH/wires) evidence
+  • no explicit covenant or debt reporting experience
+  • no insurance program management experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     BUSINESS ANALYST
+Company:  Jobs via Dice
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4414734723
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Tableau
+  • Power BI
+  • Excel
+  • data validation
+  • reporting
+  • data analysis
+  • BI tools
+  • data pipelines
+  • ETL
+  • BigQuery
+  • Snowflake
+  • Python
+  • data governance
+  • data warehouse
+  • documentation
+  • KPIs
+  • root-cause analysis
+  • stakeholder communication
+  • ad-hoc analysis
+  • reporting workflows
+  • pivot tables
+  • data reconciliation
+  • automation
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and BI tool experience (Tableau, Power BI)
+  • Practical ETL and data pipeline implementation
+  • Quantified impact on reporting accuracy and efficiency
+  • Experience with BigQuery and Snowflake
+  • Excellent Excel and automation skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit healthcare domain experience
+  • Only 1–2 years in stated BA range but most recent roles are non-healthcare
+  • No mention of Oracle
+  • No explicit experience with Behavioral Health or UM teams
+  • No formal healthcare certifications
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional teams to translate business requirements into technical documentation and reporting specifications, ensuring alignment with organizational data standards.
+  Performed rigorous data validation and reconciliation of CRM and POS datasets to identify root-cause discrepancies, ensuring high data integrity for critical business reporting.
+  Partnered with business stakeholders to facilitate the intake and tracking of data requests, maintaining detailed documentation of reporting logic and definitions.
+  Utilized SQL to extract and manipulate large datasets for ad-hoc analysis and performance audits, supporting data warehouse usability for end-users.
+  Leveraged experience in BI tool development (Power BI/Looker) to maintain and update recurring performance reports, effectively translating technical metrics for non-technical stakeholders.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Analyst opportunity with AaraTech Inc via Dice. I am interested in this opportunity because of AaraTech Inc’s commitment to driving operational improvements in the healthcare sector through data-backed insights. What interests me about working for AaraTech Inc is its focus on supporting complex health plan operations, which inspires me because I am eager to apply my technical analytical background to a regulated healthcare environment. I believe my proficiency in SQL and BI reporting and my experience in cross-functional stakeholder communication would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and stakeholder clarity. In fact, at Shine Masters, I managed the intake and documentation of reporting requests from various business units to replace manual processes. This project involved deep data reconciliation and root-cause analysis to fix long-standing reporting mismatches, resulting in a 40% increase in operational efficiency and a standardized 'single source of truth' that informed strategic decision-making. Ultimately, I know that the Business Analyst role at AaraTech Inc would allow me to bring my technical expertise in SQL and dashboarding to support your core reporting initiatives. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my requirements-gathering and data documentation skills. When tasked with aligning cross-functional teams, I translated raw data into clear summaries for non-technical stakeholders, ensuring everyone understood the business impact of our KPIs. This approach directly contributed to a 300% increase in revenue within targeted customer segments through improved reporting visibility. I’m excited by the opportunity to use my data validation and documentation skills in working on Utilization Management and performance reporting at AaraTech Inc. I know that my analytical rigor and communication skills align with what it takes to succeed in the Business Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

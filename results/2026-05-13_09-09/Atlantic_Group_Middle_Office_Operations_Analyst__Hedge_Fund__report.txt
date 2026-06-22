@@ -1,0 +1,61 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Middle Office Operations Analyst (Hedge Fund)
+Company:  Atlantic Group
+Location: Westchester County, NY
+URL:      https://www.linkedin.com/jobs/view/4404567463
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • Excel
+  • data integrity
+  • reporting
+  • automation
+  • Python
+  • SQL
+  • operations
+  • attention to detail
+  • relationship management
+  • investor reporting
+  • P&L
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • trade support
+  • reconciliations
+  • NAV reporting
+  • Advent Geneva
+  • cash reconciliation
+  • prime brokers
+  • custodians
+  • fund accounting
+  • fund structures
+  • investor reporting processes
+  • corporate actions
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Excel & reporting skills
+  • Python/SQL automation experience
+  • Data integrity and governance
+  • Quantified impact on efficiency and revenue
+  • Cross-functional communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Advent Geneva experience
+  • Limited hedge fund/middle office background
+  • No explicit trade lifecycle or settlement experience
+  • No prime broker or custodian relationships listed
+  • Shorter relevant industry tenure (2–5 yrs not demonstrated in fund role)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

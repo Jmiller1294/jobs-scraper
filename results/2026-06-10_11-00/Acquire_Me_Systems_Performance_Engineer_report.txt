@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Systems Performance Engineer
+Company:  Acquire Me
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4423131926
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (3)
+  • Git
+  • Python
+  • SQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • C
+  • C++
+  • Rust
+  • Linux
+  • performance profiling
+  • CPU architecture
+  • memory management
+  • concurrency
+  • operating systems
+  • networking
+  • virtualization
+  • kernel
+  • driver development
+  • assembly
+  • x86
+  • ARM
+  • FPGA
+  • GPU
+  • low-level systems
+  • compiler
+  • profiling
+  • ETL
+  • Docker
+  • performance profiling
+  • compiler
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data engineering and SQL expertise
+  • Python programming with ETL and pipelines
+  • Practical project experience with large datasets
+  • Quantified impact in operational improvements
+  • Version control (Git) and collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No low-level systems language experience (C/C++/Rust)
+  • No Linux or OS internals listed
+  • No concurrency/CPU architecture experience
+  • No kernel/driver or virtualization exposure
+  • No assembly or hardware acceleration experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

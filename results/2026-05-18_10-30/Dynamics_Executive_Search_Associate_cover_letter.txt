@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Associate opportunity with Dynamics Executive Search. I am interested in this opportunity because the firm's commitment to enhancing decision-making and operational efficiency through data and technology aligns perfectly with my career aspirations. What interests me about working for Dynamics Executive Search is its proactive approach to data and technology transformation, which excites and inspires me because it mirrors my own drive to innovate and optimize.
+
+I believe my proficiency in SQL and Python, combined with my experience in building data pipelines and reporting solutions, would make me a strong candidate for this role. During my professional career, I have approached problems with a solutions-oriented mindset and a focus on delivering tangible results. In fact, at Shine Masters Cleaning Services, I developed interactive Power BI dashboards that replaced manual reporting, improving KPI visibility and reducing data processing time by 40%. This accelerated executive decision-making and demonstrated my ability to translate complex data into actionable insights.
+
+Furthermore, my role as a Full-Stack Software Developer at Haven Technologies provided me with exposure to application development and the integration of systems. I collaborated cross-functionally to align software features with business objectives, reducing project delivery delays by 25%. I also optimized relational database queries to improve data accuracy by 30% and managed documentation and ticket tracking using JIRA, showcasing my attention to detail and organizational skills.
+
+I’m excited by the opportunity to use my data infrastructure and management skills in working on core data infrastructure, internal tools, and reporting capabilities at Dynamics Executive Search. I know that my analytical and problem-solving skills, coupled with my effective communication with both technical and non-technical stakeholders, align with what it takes to succeed in the Associate role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

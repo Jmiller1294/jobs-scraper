@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer, Analytics (Technical Leadership)
+Company:  Meta
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4351649411
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • ETL
+  • Python
+  • data modeling
+  • dimensional modeling
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • data pipelines
+  • APIs
+  • data visualization
+  • Tableau
+  • Power BI
+  • data quality
+  • performance optimization
+  • Git
+  • cross-functional collaboration
+  • object-oriented programming
+  • AI tools
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • data architecture
+  • data governance
+  • logging
+  • SLA
+  • mentoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and complex query experience
+  • Hands-on ETL pipeline development (Python + SQL)
+  • Experience with cloud data platforms (BigQuery, Snowflake, AWS S3)
+  • Proven impact via quantified outcomes (process time, acquisition, onboarding)
+  • Cross-functional collaboration and documentation practices
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Under 10 years' experience (job requires 10+)
+  • Limited explicit data architecture leadership examples
+  • No explicit production-scale logging or SLA ownership
+  • Sparse demonstrated mentoring or team leadership
+  • No explicit MapReduce/MPP or responsible AI governance experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

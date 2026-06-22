@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AWS Data and Solutions Engineer
+Company:  EXL
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414132221
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (8)
+  • Python
+  • SQL
+  • Pandas
+  • Snowflake
+  • AWS S3
+  • ETL
+  • API
+  • Docker
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (17)
+  • PySpark
+  • AWS Glue
+  • Lambda
+  • FastAPI
+  • Kafka
+  • Parquet
+  • Boto3
+  • Spark
+  • Athena
+  • EventBridge
+  • Step Functions
+  • OAuth2
+  • JWT
+  • Glue Catalog
+  • Apache Iceberg
+  • EMR
+  • Kubernetes
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python scripting and automation
+  • Solid SQL and query optimization
+  • Hands-on Snowflake experience
+  • ETL pipeline design and CI/CD
+  • Quantified business impact (revenue, efficiency)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no PySpark or Spark experience
+  • Missing AWS Glue, Lambda, and orchestration skills
+  • No FastAPI/Flask REST API development evidence
+  • No Kafka or Apache Iceberg exposure
+  • No AWS certifications or 10+ years experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

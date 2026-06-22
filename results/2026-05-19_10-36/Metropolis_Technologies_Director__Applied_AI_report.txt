@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director, Applied AI
+Company:  Metropolis Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4398078466
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • AI automation
+  • OpenAI
+  • AI-powered systems
+  • production deployment
+  • process redesign
+  • time savings
+  • cost impact
+  • cross-functional partnership
+  • team leadership
+  • Python
+  • SQL
+  • AWS
+  • Snowflake
+  • Git
+  • PostgreSQL
+  • ETL
+  • Dashboards
+  • prompt engineering
+  • vector databases
+  • LLMs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • LangChain
+  • TypeScript
+  • Scala
+  • React
+  • MySQL
+  • Snowflake (already matched)
+  • Claude
+  • Copilot
+  • agentic workflows
+  • Datadog
+  • Senior leadership reporting
+  • organizational change
+  • change management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Hands-on Python and SQL with ETL experience
+  • Built dashboards delivering measurable time savings
+  • Cross-functional collaboration experience
+  • Cloud experience (AWS, Snowflake, BigQuery)
+  • Proven process automation and SOP documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit leadership of AI engineering teams
+  • No clear production LLM/agent deployments detailed
+  • Lacks experience with LangChain and vector DBs usage details
+  • Missing TypeScript/Scala/React engineering stack experience
+  • Limited senior-exec presentation and org-change examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Front Office IT Business Analyst
+Company:  Natixis Corporate & Investment Banking
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413737540
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • SQL
+  • Python
+  • Business analysis
+  • Testing
+  • Stakeholder communication
+  • Agile
+  • Tableau
+  • Power BI
+  • AWS
+  • Snowflake
+  • ETL
+  • JIRA
+  • Confluence
+  • Git
+  • PostgreSQL
+  • Automation
+  • Documentation
+  • User training
+  • Front Office
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Trade booking
+  • Electronic trading
+  • P&L
+  • Intraday risk
+  • C#
+  • IT support
+  • Credit Bonds
+  • CLOs
+  • Repos
+  • Financial modeling
+  • Trace reporting
+  • Client-centric
+  • Precision
+  • Collaborative spirit
+  • AWS S3
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with ETL and data pipelines
+  • Visualization expertise (Tableau, Power BI)
+  • Documentation and JIRA/Confluence usage
+  • Quantified operational improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Front Office trading system experience
+  • No C# or similar language listed
+  • Lacks domain experience in Credit Bonds/CLOs/Repos
+  • Limited explicit IT support/incident management experience
+  • No mention of Trace reporting or P&L/intraday risk handling
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

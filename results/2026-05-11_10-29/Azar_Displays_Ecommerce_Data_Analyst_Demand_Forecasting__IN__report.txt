@@ -1,0 +1,92 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Ecommerce Data Analyst Demand Forecasting (IN PERSON ONLY -PARAMUS NJ)
+Company:  Azar Displays
+Location: Paramus, NJ, US
+URL:      https://www.indeed.com/viewjob?jk=5a08e151f13e6486
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • Statistical models
+  • A/B testing
+  • ETL
+  • Snowflake
+  • BigQuery
+  • Data pipelines
+  • Data governance
+  • KPI monitoring
+  • Automation
+  • Customer segmentation
+  • Reporting
+  • Data quality
+  • Dashboarding
+  • Communication
+  • Stakeholder presentations
+  • AWS (S3)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Demand forecasting
+  • Forecasting
+  • Ecommerce analytics
+  • Marketing collaboration
+  • Sales collaboration
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Hands-on Power BI/Tableau dashboarding
+  • Proven automation and ETL pipeline delivery
+  • Quantified impact (revenue lift, efficiency gains)
+  • Experience with cloud data warehouses (Snowflake/BigQuery)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit demand-forecasting models
+  • No direct ecommerce role title
+  • Understated marketing/sales collaboration examples
+  • Relatively short ecommerce-specific experience (2+ yrs requirement)
+  • No explicit mention of forecasting toolkits (e.g., Prophet, ARIMA)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and maintained demand forecasting models utilizing statistical methodologies, such as [mention specific model if applicable, e.g., time-series analysis], to optimize inventory levels and improve forecast accuracy by X%.
+  Analyzed ecommerce data to identify trends and insights, informing business decisions and collaborating with marketing and sales teams to align strategies with consumer demand.
+  Designed and executed A/B tests for digital marketing campaigns, providing statistical evidence to optimize marketing spend and measure audience response, directly supporting the need for ecommerce analytics.
+  Built Python automation for weekly sales and operations reports, ingesting POS and CRM data, and developed statistical models for customer segmentation, which can be adapted to understand consumer demand drivers.
+  Translated complex technical findings into actionable business recommendations and stakeholder presentations, fostering cross-functional alignment and supporting strategic initiatives within a fast-paced environment.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Azar Displays
+
+Dear Hiring Manager,
+
+I am excited to apply for the Ecommerce Data Analyst Demand Forecasting (IN PERSON ONLY -PARAMUS NJ) position at Azar Displays. With my background in data analysis, statistical modeling, and automation, I am confident I would be a strong addition to your team.
+
+Azar Displays' decade-long commitment to innovation and customer satisfaction in the competitive ecommerce industry deeply resonates with my own professional values and passion for leveraging data to enhance the customer journey.
+
+In my previous roles, I have significantly improved reporting efficiency and accuracy through the development of automated workflows and robust data governance frameworks. Additionally, I have a proven track record of creating statistical models for customer segmentation and designing A/B tests to measure marketing campaign effectiveness, which directly aligns with your need for strong analytical skills to drive ecommerce strategy and improve forecasting accuracy.
+
+Specifically, at Shine Masters Cleaning Services, I developed statistical models that identified high-value customer segments, leading to targeted marketing initiatives that increased revenue by 300%. I also built Python automation for weekly reports, saving 8 hours per week and improving accuracy, demonstrating my ability to handle complex data analysis and reporting needs. My experience with SQL, Python, Tableau, and Power BI directly addresses your requirements for data analysis and visualization tools.
+
+I am particularly drawn to Azar Displays' mission of providing exceptional products and services and believe my experience in ecommerce analytics and demand forecasting would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

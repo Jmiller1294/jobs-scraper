@@ -1,0 +1,71 @@
+{
+  "job_title": "Middle Office Operations Analyst (Hedge Fund)",
+  "company": "Atlantic Group",
+  "location": "Westchester County, NY",
+  "job_url": "https://www.linkedin.com/jobs/view/4404567463",
+  "ats_keywords": [
+    "trade support",
+    "reconciliations",
+    "NAV reporting",
+    "Advent Geneva",
+    "Excel",
+    "cash reconciliation",
+    "P&L",
+    "prime brokers",
+    "custodians",
+    "fund accounting",
+    "data integrity",
+    "Python",
+    "SQL",
+    "automation",
+    "reporting",
+    "operations",
+    "fund structures",
+    "attention to detail",
+    "investor reporting",
+    "relationship management"
+  ],
+  "score": 46,
+  "matched_keywords": [
+    "Excel",
+    "data integrity",
+    "reporting",
+    "automation",
+    "Python",
+    "SQL",
+    "operations",
+    "attention to detail",
+    "relationship management",
+    "investor reporting",
+    "P&L"
+  ],
+  "missing_keywords": [
+    "trade support",
+    "reconciliations",
+    "NAV reporting",
+    "Advent Geneva",
+    "cash reconciliation",
+    "prime brokers",
+    "custodians",
+    "fund accounting",
+    "fund structures",
+    "investor reporting processes",
+    "corporate actions"
+  ],
+  "strengths": [
+    "Strong Excel & reporting skills",
+    "Python/SQL automation experience",
+    "Data integrity and governance",
+    "Quantified impact on efficiency and revenue",
+    "Cross-functional communication"
+  ],
+  "weaknesses": [
+    "No Advent Geneva experience",
+    "Limited hedge fund/middle office background",
+    "No explicit trade lifecycle or settlement experience",
+    "No prime broker or custodian relationships listed",
+    "Shorter relevant industry tenure (2\u20135 yrs not demonstrated in fund role)"
+  ],
+  "improvement_bullets": [],
+  "cover_letter": ""
+}

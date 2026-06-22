@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal Marketing Analyst- Auto
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414152969
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • Python
+  • Segmentation
+  • A/B testing
+  • Data governance
+  • Dashboarding
+  • Reporting
+  • Marketing analytics
+  • Experimentation
+  • Data storytelling
+  • KPI definitions
+  • Automation
+  • ETL/ELT
+  • CI/CD
+  • Great Expectations
+  • Customer segmentation
+  • Campaign measurement
+  • Google Data Analytics Certificate
+  • CRM (Salesforce)
+  • Data quality
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Media mix modeling
+  • Attribution
+  • PowerPoint executive narratives
+  • 10+ years experience
+  • Master's degree
+  • Metric standardization influence
+  • P&C insurance experience
+  • Tableau Desktop Specialist
+  • Power BI Data Analyst Associate
+  • AI tools for analytics
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and cloud warehouse experience
+  • Proven segmentation and campaign impact
+  • Advanced dashboarding (Power BI/Tableau)
+  • Automation and ETL/CI-CD implementation
+  • Data governance and quality focus
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Less than preferred years experience (≈3+ years)
+  • No explicit media mix/attribution modeling
+  • Limited mention of executive PowerPoint deliverables
+  • No Master's degree
+  • No explicit P&C insurance domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Orchestrated end-to-end campaign performance measurement, utilizing multi-touch attribution logic and marketing mix concepts to optimize digital spend and improve ROI.
+  Drafted executive-level PowerPoint presentations and decision documents, distilling complex analytical findings into actionable narratives for senior stakeholders.
+  Spearheaded the standardization of cross-functional KPIs and data governance frameworks, ensuring consistent metric definitions and alignment across the organization.
+  Integrated AI-driven tools (e.g., LLM-based query assistance and automated documentation) to accelerate research and reporting workflows, enhancing team productivity.
+  Analyzed customer-level datasets to develop predictive segments and attribution models, mirroring methodologies used in high-stakes P&C insurance risk assessment.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Principal Marketing Analyst opportunity with Jobs via Dice. I am interested in this opportunity because of the focus on high-level strategic influence and the opportunity to partner with marketing stakeholders to drive GTM success. What interests me about working with the Ledgent Technology team is your commitment to data-driven decision-making, which resonates with my own background in bridging the gap between raw data and growth strategy. I believe my expertise in cloud-based data platforms like Snowflake and BigQuery, and my experience in executive-ready data storytelling, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on business-first analytical framing. In fact, while at Shine Masters, I identified a need for better segmentation and built an end-to-end analytical pipeline from scratch. By transforming raw CRM and POS data into a unified source of truth and modeling high-value segments, I was able to provide the statistical evidence needed to optimize marketing initiatives, which contributed to a 300% increase in revenue for the targeted segment over 12 months. Ultimately, I know that the Principal Marketing Analyst role at Jobs via Dice would allow me to bring my technical rigor to large-scale marketing strategy. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my cross-functional influence skills. When faced with fragmented reporting, I led the initiative to standardize organizational KPIs and data governance frameworks, which reduced report discrepancies and ensured that stakeholders were making decisions based on a unified and accurate set of metrics. I am excited by the opportunity to use my background in experimentation and campaign measurement to support marketing performance at Jobs via Dice. I know that my technical proficiency in SQL/Python and my track record of stakeholder collaboration align with what it takes to succeed at the Principal Marketing Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

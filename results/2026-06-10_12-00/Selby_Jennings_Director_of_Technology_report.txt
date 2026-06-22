@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director of Technology
+Company:  Selby Jennings
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4427024636
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • AWS
+  • PostgreSQL
+  • ETL
+  • data pipeline
+  • data engineering
+  • data architecture
+  • Python
+  • SQL
+  • performance tuning
+  • data governance
+  • security
+  • cloud
+  • BigQuery
+  • Snowflake
+  • Tableau
+  • Power BI
+  • documentation
+  • indexing
+  • query optimization
+  • ETL/ELT
+  • incident response
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • identity and access management
+  • MSP/vendor management
+  • DuckDB
+  • role-based permissions
+  • EDR
+  • MDM
+  • BCP/DR
+  • vulnerability management
+  • SEC compliance
+  • on-site IT operations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Hands-on AWS and cloud experience (S3)
+  • Strong PostgreSQL and SQL expertise
+  • Proven ETL/ELT and pipeline development
+  • Quantified impact in analytics and operations
+  • Full-stack development and cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit cybersecurity framework experience
+  • No DuckDB or DuckDB-to-Postgres pipeline experience noted
+  • Sparse MSP/vendor management and contract negotiation evidence
+  • Limited enterprise-scale IT operations leadership
+  • No explicit SEC regulatory compliance experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

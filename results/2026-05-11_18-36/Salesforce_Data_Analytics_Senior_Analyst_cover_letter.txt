@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Analytics Senior Analyst opportunity with Salesforce. I am interested in this opportunity because of Salesforce's pioneering work in AI CRM and its commitment to workforce transformation. What interests me about working for Salesforce is its approach to Agentforce, driving innovation and customer success through AI, which excites and inspires me because I am passionate about leveraging data to create impactful, scalable solutions.
+
+I believe my strong Python and SQL skills, coupled with my experience in building and optimizing data pipelines and visualizations, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency and data-driven decision-making. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, reducing data mismatches and improving work efficiency by 40%.
+
+This resulted in significant improvements in reporting accuracy and faster strategic decisions. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data modeling and stakeholder communication skills. I created statistical models to identify high-value customer segments, which contributed to a 300% increase in revenue in the targeted segment over 12 months. I also regularly translated complex technical findings into business recommendations during stakeholder meetings, effectively bridging the gap between raw data and growth strategy.
+
+I’m excited by the opportunity to use my data visualization and automation skills in working on optimizing technology usage within Salesforce to support outbound BDR motions and delivering data-driven solutions at Salesforce. I know that my Python proficiency, advanced SQL query writing abilities, and experience in building Tableau dashboards align with what it takes to succeed in the Data Analytics Senior Analyst role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

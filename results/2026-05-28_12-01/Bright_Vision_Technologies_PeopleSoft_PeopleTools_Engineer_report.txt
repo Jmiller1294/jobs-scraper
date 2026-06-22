@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     PeopleSoft PeopleTools Engineer
+Company:  Bright Vision Technologies
+Location: Edison, NJ
+URL:      https://www.linkedin.com/jobs/view/4419082248
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (6)
+  • Python
+  • AWS
+  • SQL
+  • Git
+  • Documentation
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • PeopleSoft
+  • PeopleTools
+  • PUM
+  • WebLogic
+  • Elasticsearch
+  • OpenSearch
+  • Oracle Database
+  • Linux/Unix
+  • Shell scripting
+  • Ansible
+  • HA/DR
+  • Cloud Manager
+  • OCI
+  • Terraform
+  • CI/CD
+  • Integration Broker
+  • Process Scheduler
+  • Tuxedo
+  • PeopleSoft upgrades
+  • System clones
+  • PeopleSoft certifications
+  • PeopleSoft Selective Adoption
+  • PeopleSoft security
+  • PeopleSoft Image
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python scripting and automation
+  • Cloud experience (AWS S3)
+  • SQL and relational DB skills
+  • Documentation and SOP creation
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PeopleSoft / PeopleTools experience
+  • No WebLogic, Tuxedo, or Process Scheduler exposure
+  • No Oracle DBA experience noted
+  • Limited Linux/Unix and shell scripting evidence
+  • No Elasticsearch/OpenSearch or PeopleSoft Cloud Manager experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

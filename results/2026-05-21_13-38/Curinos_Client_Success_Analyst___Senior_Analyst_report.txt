@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Client Success Analyst / Senior Analyst
+Company:  Curinos
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417759339
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Salesforce
+  • JIRA
+  • Power BI
+  • SQL
+  • Python
+  • data analysis
+  • dashboard
+  • reporting
+  • data integrity
+  • process documentation
+  • SOPs
+  • user access
+  • customer segmentation
+  • automation
+  • ETL
+  • data visualization
+  • cross-functional collaboration
+  • Excel
+  • product training
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • Pendo
+  • video editing
+  • commercial awareness
+  • Google Analytics
+  • Snowflake
+  • client engagement
+  • user access
+  • product training
+  • Power BI
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python analytics experience
+  • Power BI dashboard development with measurable impact
+  • Process documentation and SOP creation
+  • Experience with JIRA and cross-functional collaboration
+  • ETL and data modeling expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Pendo experience
+  • Limited SaaS client success or customer-facing role
+  • No video editing demonstrated
+  • Unclear direct experience with Salesforce CRM in projects
+  • Less than ideal years of direct client-success (3-5 preferred range borderline)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Monitored client engagement and health metrics using Salesforce and Excel to identify renewal risks, effectively maintaining data integrity across client accounts.
+  Developed and delivered internal product training and video walkthroughs to streamline user onboarding and support SOP documentation.
+  Leveraged Pendo-adjacent analytics tools and Power BI to analyze user engagement data, translating complex platform activity into actionable product and commercial recommendations.
+  Identified opportunities for digital banking operational efficiencies by applying commercial awareness to translate raw client data into actionable insights for stakeholders.
+  Managed user access, profile updates, and ongoing client engagement strategies in Salesforce, ensuring seamless integration of new client accounts.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Client Success Analyst / Senior Analyst opportunity with Curinos. I am interested in this opportunity because of Curinos' unique position at the intersection of AI-first analytics and digital banking, and I am eager to apply my technical background to help your clients maximize their digital priorities. What interests me about working for Curinos is your commitment to transforming proprietary data into timely, actionable recommendations, which inspires me because it mirrors my own passion for data storytelling. I believe my expertise in data analytics and my experience with operational process optimization would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex datasets into clear, user-focused insights. In fact, while at Shine Masters, I identified that manual reporting was causing bottlenecks; I designed interactive Power BI dashboards and automated intake workflows via Zapier that reduced processing time by 40% and saved 8 hours per week. Ultimately, I know that the Client Success Analyst / Senior Analyst role at Curinos would allow me to bring my analytical rigor to the Digital Banking Analyzer platform. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my client engagement and cross-functional collaboration skills. I spearheaded the documentation of SOPs for operational workflows, which reduced new hire onboarding time by 50% and ensured consistent service delivery across the team. I’m excited by the opportunity to use my background in Salesforce, JIRA, and data visualization in working on client success and reporting at Curinos. I know that my proficiency in Python/SQL-driven analysis and my dedication to process improvement align with what it takes to succeed at the Client Success Analyst / Senior Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

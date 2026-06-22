@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst
+Company:  World Insurance Associates LLC
+Location: Iselin, NJ
+URL:      https://www.linkedin.com/jobs/view/4319409398
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • SQL
+  • Power BI
+  • Python
+  • Advanced Excel
+  • Data cleansing
+  • ETL
+  • BigQuery
+  • Tableau
+  • Data modeling
+  • PostgreSQL
+  • Data quality
+  • Visualization
+  • Git
+  • Cloud (AWS S3)
+  • Dashboards
+  • Data profiling
+  • Snowflake
+  • Pivot Tables
+  • VLOOKUP
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Data governance
+  • T-SQL
+  • Power Pivot
+  • DAX
+  • RLS
+  • Pyspark
+  • PowerApps
+  • Power Automate
+  • Common Data Service
+  • Master Data Management
+  • Automated testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational query optimization
+  • Proven Power BI dashboard development
+  • Experience building ETL pipelines with Python
+  • Advanced Excel expertise
+  • Practical work with large datasets and data modeling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit T-SQL/stored procedure experience
+  • Limited or no Power Platform (PowerApps/Automate) evidence
+  • No demonstrated Pyspark or Spark experience
+  • Data governance/Master Data Management not shown
+  • Automated testing/code review practices not detailed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized data operations by implementing T-SQL stored procedures and window functions within PostgreSQL, improving query performance for complex financial reporting.
+  Developed automated testing protocols for ETL pipelines to ensure data quality and integrity, reducing manual error rates by 15% during data migration phases.
+  Championed data governance initiatives by defining master data management standards and documenting data lineage to ensure consistency across departmental reporting.
+  Advanced Power BI reporting capabilities by building sophisticated dashboards using DAX measures and implementing Row-Level Security (RLS) to manage sensitive stakeholder access.
+  Leveraged Power Automate to orchestrate cross-platform data workflows, integrating disparate sources to streamline data intake and reduce processing time.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst opportunity with World Insurance Associates. I am interested in this opportunity because of the company’s reputation as one of the fastest-growing insurance brokers and its commitment to data-driven decision-making. What interests me about working for World Insurance Associates is your focus on integrating high-level technical expertise with localized, attentive service; your culture of supporting diverse, innovative professional growth truly inspires me. I believe my advanced proficiency in ETL pipeline development and my background in complex data modeling would make me a strong candidate for this role. During my career, I have approached problems by prioritizing scalability and data accuracy. In fact, while at Shine Masters, I identified a bottleneck in our reporting and developed an automated Power BI dashboard suite that replaced manual Excel processes, reducing processing time by 40%. The result was a significant acceleration in executive decision-making and a 300% increase in new customer acquisition through data-informed marketing. Ultimately, I know that the Data Analyst role at World Insurance Associates would allow me to bring my analytical rigor to your data governance and business intelligence initiatives. Additionally, my time at Haven Technologies enabled me to develop my T-SQL and relational database management skills. I led efforts to integrate data from APIs and PostgreSQL databases into a unified schema, which included writing complex SQL queries and optimizing data structures to improve overall testing data accuracy by 30%. I’m excited by the opportunity to use my background in data modeling and automated testing in working on your large-scale insurance datasets at World Insurance Associates. I know that my expertise in SQL, Python, and BI visualization aligns with what it takes to succeed at the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

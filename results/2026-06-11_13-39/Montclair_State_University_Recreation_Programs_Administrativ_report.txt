@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Recreation Programs Administrative Assistant
+Company:  Montclair State University
+Location: Montclair, NJ
+URL:      https://www.linkedin.com/jobs/view/4425687349
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Microsoft Office
+  • Excel
+  • PowerPoint
+  • Customer service
+  • Reporting
+  • Dashboards
+  • Data analysis
+  • Power BI
+  • Tableau
+  • SQL
+  • Python
+  • Social media
+  • Marketing
+  • Communication
+  • Scheduling
+  • Training
+  • Supervision
+  • Budget
+  • Procurement
+  • Inventory
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • Fusion
+  • Google Analytics
+  • Workday
+  • Banner
+  • Publisher
+  • Google Ads
+  • Facebook/Meta
+  • Marketing automation tools
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis and dashboarding
+  • Advanced Excel and BI tools
+  • Experience automating workflows
+  • Quantified impacts (time savings, KPI improvements)
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Fusion Rec software experience
+  • No listed Workday/Banner proficiency
+  • Limited higher-education or recreation facility experience
+  • No explicit membership/facility scheduling systems experience
+  • No Publisher or specific marketing automation tool certifications
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

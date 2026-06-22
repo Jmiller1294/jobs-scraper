@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Intelligence Engineer
+Company:  Ascot Group
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4376211287
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Power BI
+  • SQL
+  • data modeling
+  • reporting
+  • data validation
+  • ETL
+  • relational databases
+  • PostgreSQL
+  • Power BI dashboards
+  • data reconciliation
+  • data accuracy
+  • data visualization
+  • requirements gathering
+  • data pipelines
+  • Python
+  • data documentation
+  • Git
+  • Tableau
+  • advanced Excel
+  • JIRA/Confluence
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • DAX
+  • data warehouses
+  • report performance
+  • Snowflake
+  • BigQuery
+  • Power BI semantic models
+  • calculated columns
+  • relationships
+  • SQL Server
+  • introductory DAX measures
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI dashboard development with measurable impact
+  • Solid SQL and relational DB experience (PostgreSQL)
+  • Practical ETL and data pipeline implementation (Python)
+  • Proven data validation and reconciliation improving accuracy
+  • Cross-functional collaboration and documentation skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit DAX and Power BI semantic model examples
+  • No direct mention of SQL Server
+  • Sparse explicit data warehousing/Snowflake production usage
+  • Few examples of report performance tuning
+  • Only 2+ years of targeted Power BI experience (entry-level)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed robust Power BI semantic models by implementing DAX measures and calculated columns to streamline complex financial reporting.
+  Engineered Power BI relationships and optimized report performance, ensuring high-speed data delivery for cross-functional stakeholders.
+  Leveraged SQL Server and PostgreSQL to query enterprise data, performing data validation and reconciliation to maintain high accuracy across reporting layers.
+  Applied data warehousing principles to structure relational datasets, ensuring seamless integration of source systems into BI dashboards.
+  Documented data pipeline logic and reporting standards in Confluence to ensure scalable, maintainable BI solutions aligned with enterprise best practices.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Intelligence Engineer opportunity with Ascot Group. I am interested in this opportunity because of Ascot’s commitment to the 'Fusion Model' and the use of technology to drive client-centric risk solutions. What interests me about working for Ascot Group is its reputation as a leader in specialty risk underwriting and the emphasis on a collaborative, 'Ascot Way' culture, which inspires me as a data professional dedicated to operational excellence. I believe my proficiency in Power BI data modeling and my experience in SQL-driven data reconciliation would make me a strong candidate for this role. During my professional career, I have approached problems by translating raw, fragmented datasets into actionable business insights. In fact, while at Shine Masters, I identified that manual reporting was causing significant delays; I stepped in to architect a new Power BI reporting framework, building custom DAX measures and semantic models to automate KPI tracking. This initiative reduced data processing time by 40% and accelerated executive decision-making across the organization. Ultimately, I know that the Business Intelligence Engineer role at Ascot Group would allow me to bring my expertise in report development to support the BI Lead in maintaining accurate enterprise dashboards. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my data validation and ETL skills. I focused on building reliable data pipelines by cleaning and reconciling source information, which improved overall data accuracy by 25%. I am excited by the opportunity to use my SQL and data modeling skills in working on complex insurance reporting at Ascot Group. I know that my technical background and commitment to data quality align with what it takes to succeed at the Business Intelligence Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

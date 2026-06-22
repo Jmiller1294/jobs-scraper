@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Agent Deployment Engineer
+Company:  SimpleCiti Companies
+Location: Garden City South, NY
+URL:      https://www.linkedin.com/jobs/view/4413474360
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 24/100
+[████░░░░░░░░░░░░░░░░] 24%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • API
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • Git
+  • ETL
+  • CI/CD
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • async programming
+  • LangChain
+  • LangGraph
+  • Claude
+  • Anthropic API
+  • Hermes
+  • voice agents
+  • telephony
+  • Paperclip
+  • Obsidian
+  • vector databases
+  • RAG
+  • prompt engineering
+  • agent orchestration
+  • long-term memory
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and ETL experience
+  • Production data pipelines (BigQuery, Snowflake)
+  • CI/CD and automation implementations
+  • SQL and relational DB optimization
+  • Quantified impact (time saved, revenue lift)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LangChain/LangGraph experience
+  • No Anthropic/Claude or Hermes experience listed
+  • No voice/telephony or Paperclip/Obsidian usage
+  • No async programming or agent orchestration examples
+  • Limited direct agentic AI or multi-agent system evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

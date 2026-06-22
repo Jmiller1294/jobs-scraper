@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+i am excited to submit my application for the Data Engineer opportunity with Clark Davis Associates. I am interested in this opportunity because Clark Davis Associates' commitment to leveraging data to drive impactful solutions resonates deeply with my career aspirations. What interests me about working for Clark Davis Associates is its reputation for innovation and its data-driven approach to [mention something specific about the company's approach or industry]. This excites, inspires, and intrigues me because it aligns with my passion for building robust data infrastructure that empowers informed decision-making.
+
+i believe my advanced SQL expertise and my proficiency in building scalable ETL/ELT pipelines would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency and data integrity. In fact, as an Analytics & Operations Lead at Shine Masters Cleaning Services, I built a business intelligence reporting system that identified inefficiencies, driving a 40% improvement in operational efficiency. This involved leveraging SQL for data analysis and automation to streamline workflows, ultimately freeing up team capacity for higher-value work.
+
+Ultimately, I know that the Data Engineer role at Clark Davis Associates would allow me to bring my advanced SQL skills to designing and maintaining scalable data solutions that support reporting, analytics, and business intelligence initiatives. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my data modeling and visualization skills. I designed an interactive Tableau dashboard enabling self-service analysis and presented findings to support strategic policy decisions.
+
+i’m excited by the opportunity to use my proficiency in Python and cloud-based data platforms, such as Google Cloud Platform and Snowflake, in working on building and automating ETL/ELT pipelines at Clark Davis Associates. I know that my advanced SQL skills and my experience with production-grade data pipelines align with what it takes to succeed in the Data Engineer role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

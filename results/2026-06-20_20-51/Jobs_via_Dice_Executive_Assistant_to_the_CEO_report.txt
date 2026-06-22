@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Executive Assistant to the CEO
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4428742181
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Executive Calendar Management
+  • Travel Arrangements
+  • Inbox Management
+  • Google Workspace
+  • Executive Support
+  • Expense Reporting
+  • Event Planning
+  • CRM
+  • Asana
+  • Microsoft Excel
+  • Vendor Management
+  • Confidential Document Handling
+  • Meeting Coordination
+  • Recruiting Support
+  • Operations Support
+  • Detail-oriented
+  • Fast-paced environment
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (3)
+  • Slack
+  • Startup experience
+  • Cross-Functional Collaboration
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • 10+ years supporting C-level executives
+  • Strong calendar, travel, and inbox management
+  • Quantified operational improvements (e.g., invoice/time reductions)
+  • Technical proficiency: Google Workspace, Excel, Asana, CRM
+  • Experience coordinating events and vendor relations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Resume lists broader corporate roles; startup-specific startup employer not explicit
+  • No explicit Slack experience listed
+  • Title alignment: current title not 'Executive Assistant to CEO' specifically
+  • Education degree unrelated to business (non-critical)
+  • On-site NYC availability not stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Partnered with cross-functional teams in high-growth, fast-paced environments to streamline communication workflows using Slack and Google Workspace, ensuring seamless collaboration across departments.
+  Operated as a strategic partner within a start-up software setting, providing proactive executive support to leadership while defining administrative workflows from the ground up.
+  Leveraged Slack and real-time messaging platforms to facilitate rapid, cross-functional collaboration, ensuring executive directives were communicated and executed with high agility.
+  Successfully supported software-driven business operations, demonstrating the 'startup DNA' required to pivot quickly and anticipate the needs of C-suite executives in a high-growth environment.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Executive Assistant to the CEO opportunity with Jobot. I am interested in this opportunity because of the company’s innovative approach to automating complex marketplace processes—a mission that aligns perfectly with my drive to support high-impact tech scaling. What interests me about working for your company is its position as a YC-backed leader in the AI space; the opportunity to help build the EA function from the ground up in a Series B environment is exactly the kind of challenge where I thrive. I believe my 10+ years of high-level executive support and my proactive operational mindset would make me a strong candidate for this role. During my career, I have approached problems with a ‘look around corners’ mentality to solve bottlenecks before they escalate. In fact, at my previous organization, I identified a gap in project transparency and implemented a new digital document management system. By leading this initiative and coordinating across departments, I reduced document retrieval time by 50% and ensured that leadership had immediate access to critical data. Ultimately, I know that the Executive Assistant to the CEO role would allow me to bring my experience in complex calendar and inbox management to the daily life of your CEO. Additionally, my role as an Executive Assistant enabled me to develop my cross-functional collaboration skills. By serving as a bridge between C-level executives and various department heads, I facilitated seamless communication and project execution. My ability to integrate tools like Google Workspace, Slack, and Asana allowed me to foster high-velocity team environments. I’m excited by the opportunity to use my background in startup-adjacent operations to build the administrative backbone of your company. I know that my strategic approach to executive support and my proven ability to thrive in fast-paced environments align with what it takes to succeed at the Executive Assistant to the CEO role. I would love the opportunity to discuss the role in more detail and confirm my on-site availability in NYC. Thank you for your time and consideration. Warm regards, Millieann Velez

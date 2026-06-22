@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Engineer - Payments Modernization
+Company:  Bank of America
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4412916345
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • AWS
+  • Python
+  • SQL
+  • CI/CD
+  • S3
+  • Git
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • ETL
+  • Automation
+  • Observability
+  • Docker
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • CloudFormation
+  • Terraform
+  • Kafka
+  • RabbitMQ
+  • Java
+  • Spring
+  • Oracle
+  • ECS/EKS
+  • Lambda
+  • RDS
+  • DynamoDB
+  • API Gateway
+  • Splunk
+  • Prometheus
+  • ISO 20022
+  • Payments
+  • Wire
+  • ACH
+  • Exadata
+  • Ansible
+  • Jenkins
+  • JFrog
+  • IAM
+  • Cost Explorer
+  • CodePipeline
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on AWS S3 experience
+  • CI/CD pipeline experience (GitHub Actions referenced)
+  • Proven automation and ETL development
+  • Quantified impact in prior roles (efficiency and revenue gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no Java/J2EE and Spring experience
+  • No demonstrated Oracle/Exadata expertise
+  • Missing messaging systems (Kafka/RabbitMQ) experience
+  • Lacks explicit IaC (CloudFormation/Terraform) skills
+  • Insufficient payments domain knowledge (ISO20022, Wire/ACH)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

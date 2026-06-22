@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Client Analytics - BI Developer
+Company:  AQR Capital Management
+Location: Greenwich, CT
+URL:      https://www.linkedin.com/jobs/view/4387950468
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • Tableau
+  • Python
+  • ETL pipelines
+  • SQL
+  • Data visualization
+  • Dashboards
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • PostgreSQL
+  • MySQL
+  • Data quality
+  • Data processing
+  • Troubleshooting
+  • Stakeholder collaboration
+  • Data modeling
+  • Pandas
+  • Automation
+  • Git
+  • Advanced Excel
+  • Requirements gathering
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Tableau Server
+  • Data pipelines
+  • ETL frameworks
+  • Content governance
+  • Version control (explicit admin)
+  • Content governance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Tableau and Power BI dashboard experience
+  • Python-based ETL and Pandas expertise
+  • Solid SQL and relational DB skills (PostgreSQL, MySQL)
+  • Proven quantified impact (reduced processing time, increased acquisition)
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Tableau Server administration experience
+  • No direct mention of large-scale Snowflake/BigQuery production pipelines
+  • Short overall relevant experience window (~3 years with mixed roles)
+  • Limited explicit financial data domain experience
+  • No stated experience with formal ETL frameworks (e.g., Airflow) or content governance
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Architected and maintained end-to-end Python-based data pipelines, integrating disparate API and SQL sources into unified schemas while enforcing robust data quality and content governance standards.
+  Managed Tableau Server environment, including user validation, permission management, and content governance to ensure secure, self-service access to critical analytics dashboards.
+  Engineered scalable ETL frameworks using Python and SQL to automate data processing for large-scale datasets, significantly reducing manual pipeline maintenance and enhancing data reliability.
+  Collaborated with cross-functional stakeholders to translate complex business requirements into high-performance dashboards and data models, ensuring alignment with organizational KPIs.
+  Applied rigorous data modeling techniques and version control best practices to maintain pipeline stability, ensuring high-quality, audit-ready data delivery for executive financial reporting.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Client Analytics - BI Developer opportunity with AQR Capital Management. I am interested in this opportunity because of AQR’s commitment to the intersection of rigorous financial theory and practical, high-stakes data application. What interests me about working for AQR is its emphasis on intellectual honesty and collaboration, which inspires me because I thrive in environments where data precision directly impacts strategic decision-making. I believe my expertise in building scalable Python data pipelines and my proficiency in developing interactive Tableau dashboards would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on automation and reliability. In fact, at Shine Masters, I replaced manual reporting with automated Power BI workflows and optimized data intake via Zapier, which reduced data processing time by 40% and saved 8 hours per week. Ultimately, I know that the Client Analytics - BI Developer role at AQR would allow me to bring my technical rigor to the firm’s critical financial reporting initiatives. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my database and pipeline architecture skills. I collaborated with underwriting and product teams to integrate API and PostgreSQL data into unified schemas, which improved data accuracy by 30% and streamlined project delivery by 25%. I’m excited by the opportunity to use my background in financial data and ETL development in working on AQR's client data analytics platform. I know that my analytical troubleshooting skills and commitment to data quality align with what it takes to succeed at the Client Analytics - BI Developer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

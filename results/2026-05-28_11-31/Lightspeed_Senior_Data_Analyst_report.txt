@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Analyst
+Company:  Lightspeed
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4419052881
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • ETL
+  • Tableau
+  • Data modeling
+  • Data pipelines
+  • APIs
+  • PostgreSQL
+  • MySQL
+  • AWS (S3)
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Pandas
+  • Jira
+  • Confluence
+  • Automation
+  • Data validation
+  • Dashboarding
+  • Exploratory Data Analysis
+  • Time series
+  • Data quality
+  • Data visualization
+  • Git
+  • ETL pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Master of Science
+  • Scikit-learn
+  • XGBoost
+  • LightGBM
+  • NLP
+  • Airflow
+  • NoSQL
+  • Databricks
+  • Agile
+  • Predictive modeling (explicit experience)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python + Pandas ETL experience
+  • Solid SQL and relational modeling (PostgreSQL/MySQL)
+  • Proven dashboarding with Tableau/Power BI
+  • Hands-on large dataset EDA and time-series modeling
+  • Experience integrating APIs and automating pipelines
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No MS degree listed
+  • No explicit ML libraries (Scikit-learn/XGBoost/LightGBM) in experience
+  • Airflow and Databricks not demonstrated
+  • No NoSQL experience shown
+  • Limited cloud engineering depth beyond S3/Snowflake/BigQuery
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive modeling workflows using Python (Scikit-learn) to identify high-value customer segments, contributing to a 300% increase in acquisition; applying similar regression and classification techniques to optimize market intelligence.
+  Built and automated complex ETL pipelines leveraging Apache Airflow to orchestrate data movement, ensuring reliable data quality and consistent integration of API and database sources.
+  Engineered scalable data models for unstructured documents using NLP techniques in Python, extracting metadata to forecast market dynamics and support strategic decision-making.
+  Managed project lifecycles within an Agile environment using Jira and Confluence, ensuring cross-functional alignment and timely delivery of data solutions for stakeholders.
+  Optimized data architecture by transitioning legacy workflows to support NoSQL and cloud-based data storage, improving query performance and enabling real-time analytics.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Data Analyst opportunity with CertiK. I am interested in this opportunity because of CertiK’s reputation as a leader in Web3 security and its commitment to using AI-powered technology to secure the decentralized ecosystem. What interests me about working for CertiK is its pioneering work in formal verification and on-chain monitoring; this commitment to high-stakes, data-intensive security inspires me. I believe my expertise in large-scale ETL pipeline development and my proficiency in predictive modeling would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and automation. In fact, at Shine Masters, I identified a bottleneck in manual reporting and developed automated ETL workflows in Python that reduced processing time by 40%. Ultimately, I know that the Senior Data Analyst role at CertiK would allow me to bring my background in automated data processing to ensure the high-quality, analysis-ready datasets required for your security audits. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my cross-functional collaboration skills in an Agile environment. I led the reconciliation of complex insurance data by building unified schemas, which improved data accuracy by 30% and significantly reduced project delivery delays for our product and underwriting teams. I’m excited by the opportunity to use my background in Tableau and regression analysis in working on the market intelligence and client retention strategies at CertiK. I know that my technical proficiency in Python and SQL and my commitment to rigorous data quality align with what it takes to succeed in this role. I would love the opportunity to discuss how my technical background can support CertiK’s mission. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

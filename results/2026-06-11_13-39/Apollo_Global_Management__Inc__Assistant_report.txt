@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Assistant
+Company:  Apollo Global Management, Inc.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416341187
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Excel
+  • Word
+  • PowerPoint
+  • Microsoft Outlook
+  • scheduling meetings
+  • document preparation
+  • proofreading
+  • team collaboration
+  • time management
+  • prioritization
+  • process automation
+  • SOP documentation
+  • FedEx/US Mail
+  • expense management
+  • calendar management
+  • client interaction
+  • confidentiality
+  • JIRA/Confluence
+  • Power BI
+  • SQL
+  • Python
+  • vendor onboarding
+  • email correspondence
+  • travel coordination
+  • office procedures
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (1)
+  • Concur
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Advanced Excel and Office suite proficiency
+  • Strong process automation experience
+  • Documented SOPs and onboarding workflows
+  • Data visualization and reporting (Power BI)
+  • Proven time management and prioritization
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Concur experience
+  • Limited explicit executive assistant title/tenure
+  • No visa/visa coordination experience
+  • No stated experience composing formal executive correspondence
+  • No explicit handling of high-volume phone/guest greeting
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

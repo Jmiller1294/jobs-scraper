@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     IT Lead Data Scientist
+Company:  Hackensack Meridian Health
+Location: Nutley, NJ
+URL:      https://www.linkedin.com/jobs/view/4423944075
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • EDA
+  • feature engineering
+  • RAG
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+  • statistical models
+  • production pipelines
+  • data cleaning
+  • ETL
+  • data visualization
+  • communication
+  • leadership
+  • model evaluation
+  • data cleaning and curation
+  • Power BI
+  • Tableau
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • machine learning
+  • LLM
+  • prompt engineering
+  • MLOps
+  • Docker
+  • clinical data
+  • Epic Clarity
+  • Google Cloud Platform
+  • VertexAI
+  • model fine-tuning
+  • fairness audits
+  • bias audits
+  • interpretability
+  • hyperparameter tuning
+  • PhD
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Proven ETL and pipeline development
+  • Quantified impact (time/process/customer gains)
+  • Data visualization and dashboarding
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML model building experience
+  • No clinical/EHR or Epic Clarity experience
+  • LLM, prompt engineering and RAG experience not shown
+  • MLOps and Docker proficiency not demonstrated
+  • Less than required senior data science tenure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

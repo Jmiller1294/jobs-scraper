@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Network Planning Data Scientist (Director)
+Company:  Atlas Air
+Location: White Plains, NY
+URL:      https://www.linkedin.com/jobs/view/4412936667
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • R
+  • Tableau
+  • Power BI
+  • modeling
+  • statistical analysis
+  • ETL
+  • data visualization
+  • KPI
+  • reporting
+  • optimization
+  • time series
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • automation
+  • cross-functional collaboration
+  • Excel
+  • problem solving
+  • process improvement
+  • ETL pipelines
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • capacity planning
+  • forecasting
+  • operational performance
+  • decision-support tools
+  • scheduling
+  • fleet utilization
+  • airline network planning
+  • Tableau dashboards (governance)
+  • Power BI governance
+  • 2-year to 11-day planning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Visualization with Tableau/Power BI
+  • ETL and data engineering skills
+  • Quantified impact on KPIs and efficiency
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit airline/network planning experience
+  • Less than 10 years' relevant experience
+  • No explicit forecasting/optimization tool dev experience
+  • No mention of scheduling or fleet utilization
+  • No direct mention of Tableau/Power BI governance or decision-support tools
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive modeling and decision-support tools using Python and SQL to analyze operational performance, directly informing scheduling adjustments and fleet utilization strategies.
+  Engineered complex ETL pipelines to integrate disparate data sources into a unified capacity planning dashboard, facilitating reliable 2-year to 11-day planning cycles.
+  Established data governance protocols for Tableau and Power BI reporting, ensuring consistent KPI tracking and compliance with operational reliability targets.
+  Conducted high-level time series forecasting on operational datasets to identify resource bottlenecks, providing actionable insights for long-term network capacity planning.
+  Collaborated with cross-functional teams to translate complex data into operational strategy, optimizing scheduling rules and improving network reliability.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Hiring Manager, Atlas Air, New York, NY. Dear Hiring Manager, I am excited to submit my application for the Network Planning Analyst opportunity with Atlas Air. I am interested in this opportunity because of my deep passion for optimizing complex, global logistics networks and my desire to contribute to the operational excellence of a world-class aviation leader. What interests me about working for Atlas Air is its commitment to innovation and its modern all-Boeing fleet, which inspires me because I thrive on solving complex scheduling and capacity challenges. I believe my proficiency in predictive modeling and my experience in cross-functional data strategy would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data-driven decision support. In fact, while at Shine Masters, I developed interactive Power BI dashboards and automated workflows that reduced process bottlenecks by 25%. This work allowed me to reallocate resources toward high-impact growth areas, a skill I am eager to apply to the network performance monitoring at Atlas Air. Ultimately, I know that the Network Planning Analyst role at Atlas Air would allow me to bring my technical expertise in SQL and Python to streamline planning processes. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my capacity planning and forecasting skills. I managed the end-to-end transformation of raw data into analytical models that identified high-value segments, which led to a 300% increase in customer acquisition. I am excited by the opportunity to use my background in data visualization and modeling in working on fleet utilization and operational reporting at Atlas Air. I know that my analytical mindset and technical skillset align with what it takes to succeed at the Network Planning Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

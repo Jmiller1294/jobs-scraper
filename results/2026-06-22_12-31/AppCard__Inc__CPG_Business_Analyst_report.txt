@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     CPG Business Analyst
+Company:  AppCard, Inc.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4424898487
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 79/100
+[███████████████░░░░░] 79%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • Excel
+  • Power BI
+  • Tableau
+  • customer segmentation
+  • campaign measurement
+  • ETL
+  • data analysis
+  • reporting
+  • data warehousing
+  • BigQuery
+  • Snowflake
+  • Google Analytics
+  • marketing analytics
+  • ROI
+  • cross-functional collaboration
+  • presentation
+  • data visualization
+  • automation
+  • client liaising
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • A/B testing
+  • digital coupon
+  • shopper segmentation
+  • shelf tag production
+  • media buying
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Proven Power BI/Tableau reporting
+  • Experience with ETL and data warehousing
+  • Quantified impact on KPIs and growth
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited CPG/grocery industry experience
+  • No explicit digital coupon campaign setup
+  • No shelf tag or retail ops experience
+  • A/B testing not demonstrated
+  • Only 1+ years targeted CPG analytics unclear
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized marketing performance by designing and executing A/B testing frameworks to refine digital coupon effectiveness and improve campaign conversion rates.
+  Managed end-to-end campaign deployment, including setting up digital coupon workflows and coordinating shelf tag production to ensure seamless retail execution.
+  Applied shopper segmentation techniques to identify high-value demographics, directly supporting the delivery of personalized digital media marketing initiatives.
+  Leveraged data warehousing tools to track campaign metrics, specifically calculating iROAS and sales lift to drive actionable insights for CPG clients.
+  Collaborated with retail and account management teams to analyze industry-level data and inform media buying strategies that maximize client ROI.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the CPG Business Analyst opportunity with AppCard, Inc. I am interested in this opportunity because of AppCard’s innovative approach to leveraging SKU-level POS data to drive real-time marketing outcomes for independent grocers. What interests me about working for AppCard is its mission to strengthen local communities by empowering retailers with world-class loyalty technology. I believe my expertise in advanced marketing analytics and my ability to synthesize complex data into actionable business strategies would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data-driven decision-making to optimize operations. In fact, at Shine Masters, I implemented automated workflows and time-series models to identify high-value customer segments; these targeted initiatives ultimately contributed to a 300% increase in new customer acquisition over 12 months. This experience directly translates to the need for managing digital marketing campaigns and calculating sales lift at AppCard. Ultimately, I know that the CPG Business Analyst role at AppCard would allow me to bring my proficiency in Python and SQL to campaign performance modeling and insights development. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my cross-functional collaboration skills. I led the development of Power BI dashboards that replaced manual reporting, which reduced data processing time by 40% and accelerated executive decision-making. I’m excited by the opportunity to use my background in marketing analytics in working on digital coupon and retargeting campaigns at AppCard. I know that my analytical rigor and my passion for customer-centric data align with what it takes to succeed at the CPG Business Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

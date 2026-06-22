@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Guidewire Developer
+Company:  Capgemini
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417766311
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 15/100
+[███░░░░░░░░░░░░░░░░░] 15%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • APIs
+  • Agile
+  • Scrum
+  • team leadership
+  • documentation
+  • testing
+  • SQL
+  • Python
+  • JIRA
+  • Confluence
+  • Git
+  • PostgreSQL
+  • ETL
+  • Power BI
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Guidewire
+  • PolicyCenter
+  • Gosu
+  • Guidewire Studio
+  • BillingCenter
+  • ClaimCenter
+  • messaging
+  • code reviews
+  • workflows
+  • business rules
+  • integrations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • ETL and data modeling skills
+  • Experience with APIs and data integration
+  • Agile/Scrum exposure and ticketing tools
+  • Documented SOPs and technical documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Guidewire platform experience
+  • No Gosu or Guidewire Studio skills
+  • Limited insurance domain platform exposure
+  • No explicit experience with messaging systems
+  • Limited direct team leadership in Guidewire projects
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

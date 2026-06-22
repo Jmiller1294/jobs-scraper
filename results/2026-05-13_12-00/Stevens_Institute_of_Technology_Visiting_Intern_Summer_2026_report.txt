@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Visiting Intern Summer 2026
+Company:  Stevens Institute of Technology
+Location: Hoboken, NJ
+URL:      https://www.linkedin.com/jobs/view/4414216032
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 87/100
+[█████████████████░░░] 87%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • R
+  • SQL
+  • Tableau
+  • Power BI
+  • Excel
+  • ETL / ELT
+  • Automation
+  • Data pipelines
+  • BigQuery
+  • Snowflake
+  • Git
+  • Data quality
+  • Statistical modeling
+  • Dashboarding
+  • Data governance
+  • Reporting
+  • AWS (S3)
+  • PostgreSQL
+  • MySQL
+  • Data analysis
+  • A/B testing
+  • Quantified results
+  • Power BI
+  • Looker
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • PhD candidate
+  • Cybersecurity
+  • Google Sheets/Forms
+  • Survey analysis
+  • Recruitment tracking
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Proven dashboarding (Tableau, Power BI)
+  • ETL/ELT and pipeline automation
+  • Quantified impact and metrics
+  • Experience with BigQuery and Snowflake
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Not enrolled in PhD program
+  • No explicit cybersecurity experience
+  • Limited mention of survey/form tools
+  • No explicit experience with recruitment tracking
+  • No Google Sheets/Forms proficiency stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed automated workflows for recruitment tracking and applicant data management using Python, Google Sheets, and Forms, streamlining the onboarding pipeline by 30%.
+  Collaborated on cross-functional cybersecurity workforce development projects, performing deep-dive analysis on training participation and assessment outcomes to measure program impact.
+  Engineered comprehensive survey analysis pipelines to synthesize trainee feedback and assessment results into actionable insights for project stakeholders.
+  Leveraged Python and SQL to maintain data integrity for sensitive project datasets, applying rigorous security and data governance standards relevant to critical infrastructure training.
+  Designed and documented intuitive data dashboards in Power BI to track key program metrics, specifically focusing on recruitment progress and trainee success benchmarks.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Visiting Intern Summer 2026 opportunity with Stevens Institute of Technology. I am interested in this opportunity because of your commitment to workforce development within the critical infrastructure space in the NY/NJ region. What interests me about working for Stevens Institute of Technology is its leadership in technical research and community-focused cybersecurity initiatives, which inspires me because I am passionate about applying data science to real-world educational and security challenges. I believe my advanced data pipeline architecture skills and my expertise in statistical modeling would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex, fragmented data into structured, decision-ready intelligence. In fact, while at Shine Masters, I identified a need for better tracking of operational data and designed an automated reporting suite using Python and SQL to ingest POS and CRM data. This initiative eliminated 8 hours of manual data entry per week and created a single source of truth for all stakeholders, resulting in significantly faster strategic decision-making. Ultimately, I know that the Visiting Intern Summer 2026 role at Stevens Institute of Technology would allow me to bring my experience in automation to your trainee application and assessment workflows. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my data visualization and storytelling skills. I led the analysis of a 250K+ row dataset, building an interactive Tableau dashboard to visualize demographic clusters and geographic patterns. This provided stakeholders with the ability to perform self-service analysis, which directly informed organizational strategy for city safety initiatives. I’m excited by the opportunity to use my background in survey analysis and dashboarding to support the recruitment and training progress tracking at Stevens Institute of Technology. I know that my technical proficiency and analytical rigor align with what it takes to succeed at the Visiting Intern Summer 2026 role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

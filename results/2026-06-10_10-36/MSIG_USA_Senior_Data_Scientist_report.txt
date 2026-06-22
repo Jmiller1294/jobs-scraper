@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Scientist
+Company:  MSIG USA
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4376831174
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • ETL pipelines
+  • cloud
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • data modeling
+  • version control
+  • Git
+  • Power BI
+  • Tableau
+  • documentation
+  • reproducible code
+  • data visualization
+  • stakeholder management
+  • productionalization
+  • statistical analysis
+  • monitoring
+  • data quality
+  • experimentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • machine learning
+  • model validation
+  • causal inference
+  • underwriting
+  • pricing
+  • claims
+  • model performance
+  • CI/CD
+  • containerization
+  • benefit estimation
+  • interpretable outputs
+  • mentoring
+  • actuarial
+  • testing/controls
+  • APIs/services
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL usage
+  • Cloud and data warehouse experience
+  • ETL and data modeling skills
+  • Delivered measurable operational impact
+  • Data visualization and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit machine learning/modeling experience
+  • No documented actuarial or insurance domain depth
+  • Sparse evidence of production ML monitoring
+  • Limited experimentation/causal inference proofs
+  • Unclear CI/CD or containerization experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

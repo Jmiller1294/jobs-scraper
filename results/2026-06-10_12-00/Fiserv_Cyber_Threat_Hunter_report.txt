@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Cyber Threat Hunter
+Company:  Fiserv
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4426099643
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • SQL
+  • cloud
+  • BigQuery
+  • Snowflake
+  • ETL
+  • automation
+  • Git
+  • time-series analysis
+  • AI tools
+  • feature engineering
+  • testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • machine learning
+  • statistical modeling
+  • detection engineering
+  • threat hunting
+  • digital forensics
+  • incident response
+  • behavioral analytics
+  • telemetry
+  • APIs
+  • outlier detection
+  • graph analysis
+  • CI/CD
+  • playbook
+  • MITRE ATT&CK
+  • detection-as-code
+  • malware analysis
+  • reverse engineering
+  • security operations
+  • threat intelligence
+  • GCP Chronicle
+  • security telemetry
+  • validation
+  • severity rationale
+  • signal pipelines
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Cloud data tools (BigQuery, Snowflake)
+  • ETL and feature engineering
+  • Automation and AI tool usage
+  • Quantified impact in analytics projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit threat hunting or detection engineering experience
+  • Lacks digital forensics/IR and malware analysis
+  • Limited security operations or MITRE ATT&CK coverage
+  • Minimal machine learning/statistical modeling in security context
+  • No CI/CD or detection-as-code evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

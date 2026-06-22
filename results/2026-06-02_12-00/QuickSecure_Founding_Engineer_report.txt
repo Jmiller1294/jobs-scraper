@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Founding Engineer
+Company:  QuickSecure
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4422383154
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Postgres
+  • AWS
+  • Python
+  • SQL
+  • Git
+  • ETL
+  • PostgreSQL
+  • mobile
+  • frontend
+  • backend
+  • data modeling
+  • JIRA
+  • Confluence
+  • Power BI
+  • Tableau
+  • Python (Pandas)
+  • APIs
+  • version control
+  • ETL Pipelines
+  • reliability
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • TypeScript
+  • JavaScript
+  • React
+  • React Native
+  • Swift
+  • Node
+  • Express
+  • Anthropic
+  • Gemini
+  • vision models
+  • edge computing
+  • Docker
+  • mobile (Swift/React Native)
+  • hardware
+  • in-house vision models
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • Python ETL and data pipelines
+  • Experience with AWS (S3) and cloud data
+  • Quantified impact in prior roles
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No TypeScript/JavaScript/React evidence
+  • No mobile (React Native/Swift) development shown
+  • Limited direct backend (Node/Express) experience
+  • No explicit experience with Anthropic/Gemini or vision models
+  • No hardware or edge computing experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

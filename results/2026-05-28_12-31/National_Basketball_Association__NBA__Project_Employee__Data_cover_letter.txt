@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Project Employee, Data Intelligence Analyst opportunity with the National Basketball Association (NBA). I am interested in this opportunity because of the NBA’s unparalleled ability to connect with a global community through the power of data and sport. What interests me about working for the NBA is its approach to scaling digital storytelling across 214 countries and territories, which inspires me because of the immense potential to transform raw social media data into actionable fan engagement strategies.
+
+I believe my expertise in building robust data pipelines and my ability to translate complex datasets into actionable business insights would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency and scalability. In fact, at Shine Masters, I identified a bottleneck in our reporting, so I automated our data intake and processing workflows using Python and Power BI. This initiative saved 8 hours per week in manual labor and reduced data processing time by 40%, which allowed our team to reallocate resources toward high-impact marketing campaigns.
+
+Ultimately, I know that the Project Employee, Data Intelligence Analyst role at the NBA would allow me to bring my advanced SQL and Python skills to the management of your data tracking and pipeline maintenance. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my cross-functional collaboration skills. I spearheaded a campaign measurement initiative where I synthesized performance data from multiple sources to inform a new acquisition strategy. This resulted in a 300% increase in new customer acquisition over 12 months, showcasing my ability to connect data metrics directly to organizational growth.
+
+I’m excited by the opportunity to use my background in data quality management and pipeline evolution to contribute to the NBA's fan engagement and marketing analytics goals. I know that my analytical rigor and dedication to data-driven storytelling align with what it takes to succeed at the Project Employee, Data Intelligence Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

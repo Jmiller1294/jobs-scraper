@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Research Analyst
+Company:  StoneX Group Inc.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4379213647
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • financial statement analysis
+  • financial models
+  • communication
+  • Microsoft Office
+  • Python
+  • SQL
+  • Power BI
+  • Tableau
+  • Excel
+  • data modeling
+  • ETL
+  • reporting
+  • quantitative analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • equities
+  • investment research
+  • sell-side analyst
+  • client relationships
+  • FactSet
+  • Series 7
+  • Series 63
+  • Series 86
+  • Series 87
+  • CFA
+  • MBA
+  • accounting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analytics and ETL skills
+  • Advanced Excel and visualization experience
+  • Quantified impact on operations and acquisition
+  • Experience building complex SQL models
+  • Clear reporting and documentation practices
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No sell-side investment research experience
+  • Lacks FINRA licenses
+  • No industry-specific tools (FactSet) listed
+  • Limited accounting/CPA or CFA credentials
+  • Senior analyst title/coverage not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

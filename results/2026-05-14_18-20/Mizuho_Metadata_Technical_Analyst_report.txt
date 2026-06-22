@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Metadata Technical Analyst
+Company:  Mizuho
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414914600
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data lineage
+  • data dictionary
+  • data governance
+  • SQL
+  • Python
+  • Power BI
+  • Git/GitHub
+  • data warehouse
+  • Snowflake
+  • BigQuery
+  • data quality
+  • data modeling
+  • ETL/ELT
+  • data wrangling
+  • automation
+  • data catalog
+  • dimensional modeling
+  • data cataloging tools
+  • DevOps
+  • data mapping
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • metadata management
+  • data taxonomy
+  • data stewarding
+  • data glossaries
+  • control and risk management
+  • data lineage mapping tools
+  • Securiti.ai
+  • Anomalo
+  • data mart design
+  • operational data store
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on ETL/ELT and cloud (Snowflake, BigQuery)
+  • Power BI and visualization/reporting skills
+  • Proven automation and data quality implementations
+  • Git-based version control experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit metadata management experience (6+ years not met)
+  • No mention of Securiti.ai or Anomalo experience
+  • Control/risk management and formal procedures not demonstrated
+  • No explicit metamodels, business glossary or CDE mapping shown
+  • Financial services/CIB domain experience limited
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Standardized organizational KPIs, data dictionaries, and data governance frameworks to ensure a 'single source of truth,' reducing report discrepancies and establishing clear metadata management protocols.
+  Mapped Critical Data Elements (CDEs) to business processes and source systems, creating comprehensive data lineage documentation to improve data transparency and regulatory audit readiness.
+  Designed and implemented data cataloging workflows and business glossaries to streamline data discovery, utilizing SQL and Python for automated metadata collection and validation.
+  Collaborated with cross-functional stakeholders to define data taxonomy standards and control/risk management procedures, ensuring data integrity across operational data stores and marts.
+  Integrated data quality monitoring into CI/CD pipelines, utilizing frameworks like Great Expectations to act as an automated control layer, similar to industry-standard data quality tools like Anomalo.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Metadata Technical Analyst opportunity with Mizuho. I am interested in this opportunity because of Mizuho’s position as a global leader in investment banking and its commitment to robust data integrity and strategic governance. What interests me about working for Mizuho is its sophisticated approach to managing complex financial datasets, which intrigues me because of the high stakes involved in maintaining data accuracy for corporate and investment banking clients. I believe my expertise in building scalable data pipelines and my experience with rigorous data governance would make me a strong candidate for this role. During my professional career, I have approached complex data challenges with a focus on standardization and accuracy. In fact, while at Shine Masters, I identified that disparate reporting was causing data mismatches; I initiated a comprehensive project to standardize organizational KPIs and develop a centralized data dictionary. This effort created a reliable 'single source of truth' that reduced reporting discrepancies across the organization and enabled stakeholders to make faster, data-driven decisions. Ultimately, I know that the Metadata Technical Analyst role at Mizuho would allow me to bring my technical proficiency in SQL and Python to the critical task of maintaining high-quality data lineage and documentation. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my skills in relational modeling and database optimization. I collaborated on a 14-person team to reconcile testing data and optimize queries, improving data accuracy by 60% and ensuring our data architecture could support downstream analytical reporting. I am excited by the opportunity to use my background in data engineering and governance in working on the lifecycle of metadata at Mizuho. I know that my proficiency in data modeling and my dedication to process improvement align with what it takes to succeed at the Metadata Technical Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director, Statistics
+Company:  Colgate-Palmolive
+Location: Piscataway, NJ
+URL:      https://www.linkedin.com/jobs/view/4414490311
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • R
+  • Python
+  • SQL
+  • AWS
+  • data automation
+  • data pipelines
+  • visualization
+  • A/B testing
+  • data governance
+  • publishing
+  • Power BI
+  • Tableau
+  • Git
+  • BigQuery
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Design of Experiments
+  • DOE
+  • SAS
+  • JMP
+  • Minitab
+  • stability analysis
+  • Arrhenius modeling
+  • sensory science
+  • process capability
+  • Six Sigma
+  • clinical study design
+  • power analysis
+  • statistical analysis plan
+  • LIMS
+  • Minitab
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and R programming
+  • Experience with SQL and cloud (AWS, BigQuery, Snowflake)
+  • Built automated ETL/data pipelines
+  • A/B testing and statistical modeling experience
+  • Data visualization (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No DOE or Design of Experiments experience stated
+  • No enterprise statistical software (SAS/JMP/Minitab) listed
+  • Limited industry experience (consumer products/pharma)
+  • No stability/Arrhenius modeling or sensory science
+  • No explicit clinical/biostatistics or regulatory experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

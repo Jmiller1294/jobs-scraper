@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Employee Data Administration Analyst
+Company:  Mizuho
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414910707
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • reporting
+  • SQL
+  • Python
+  • Power BI
+  • Excel
+  • documentation
+  • testing
+  • automation
+  • ETL
+  • data governance
+  • cross-functional
+  • communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • Workday
+  • HRIS
+  • EIB
+  • ticketing
+  • support mailbox
+  • audits
+  • user training
+  • troubleshooting
+  • SLA
+  • confidential
+  • SharePoint
+  • data privacy
+  • help desk
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience building automated reporting pipelines
+  • Power BI and visualization expertise
+  • Data governance and documentation focus
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Workday experience
+  • No HRIS platform hands-on listed
+  • No ticketing/mailbox support experience
+  • Limited payroll/HR confidential data experience
+  • No EIB or Workday integration experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Administrative Support Assistant
+Company:  Northwell Health
+Location: Lake Success, NY
+URL:      https://www.linkedin.com/jobs/view/4430479881
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • appointment scheduling
+  • customer service
+  • Microsoft Office
+  • Google Suite
+  • record keeping
+  • filing
+  • typing
+  • taking messages
+  • documentation
+  • payments collection
+  • inventory management
+  • meeting minutes
+  • scheduling appointments
+  • data entry
+  • Excel
+  • Power BI
+  • reporting
+  • time management
+  • communication
+  • automation
+  • Zapier
+  • SOPs
+  • JIRA
+  • Confluence
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (2)
+  • greeting visitors
+  • phone etiquette
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong documentation and SOP creation
+  • Process automation (Zapier)
+  • Advanced Excel and reporting skills
+  • Quantified operational improvements
+  • Experience with scheduling workflows
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Primary background in data/analytics, not clerical
+  • Limited explicit phone/phone etiquette evidence
+  • Customer-facing retail/healthcare office experience unclear
+  • Only 1-3 years clerical-specific experience not demonstrated
+  • No explicit cash handling/payment collection details
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

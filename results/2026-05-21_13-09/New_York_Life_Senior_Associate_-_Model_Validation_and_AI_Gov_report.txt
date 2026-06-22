@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Associate - Model Validation and AI Governance
+Company:  New York Life
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4386783462
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • SQL
+  • ETL pipelines
+  • Data pipelines
+  • Feature engineering
+  • Documentation
+  • Post-deployment monitoring
+  • Reporting
+  • Cross-functional collaboration
+  • Power BI
+  • Cloud (AWS/S3)
+  • Git
+  • Tableau
+  • Automation
+  • Time series
+  • Data cleaning
+  • Feature selection
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • Model validation
+  • Statistical modeling
+  • Model monitoring
+  • Bias testing
+  • Generative AI
+  • Interpretability
+  • Risk assessment
+  • A/B testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Proficient Python and SQL
+  • Hands-on ETL and data pipeline experience
+  • Strong reporting and dashboarding skills (Power BI, Tableau)
+  • Cross-functional collaboration experience
+  • Quantified impact in past roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit model validation experience
+  • Few advanced statistical/ML techniques listed
+  • No explicit bias/fairness or stress testing examples
+  • Generative AI evaluation experience not shown
+  • Less than required formal experience in regulated model risk
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

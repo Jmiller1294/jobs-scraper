@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Data Scientist/ML Engineer
+Company:  Storm2
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413998395
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • forecasting
+  • statistical modeling
+  • A/B testing
+  • experimentation
+  • ETL
+  • BigQuery
+  • Snowflake
+  • data pipelines
+  • data governance
+  • communication
+  • data quality
+  • CI/CD
+  • dbt
+  • Power BI
+  • Tableau
+  • Git
+  • PostgreSQL
+  • MySQL
+  • automation
+  • reporting
+  • segmentation
+  • feature adoption
+  • customer segmentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • machine learning
+  • causal inference
+  • optimization
+  • pricing
+  • personalization
+  • ranking
+  • production ML
+  • ML infrastructure
+  • observability
+  • credit
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Practical ETL and data pipeline experience
+  • Experimentation and A/B testing skills
+  • Proven impact with quantified outcomes
+  • Experience with BigQuery and Snowflake
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited demonstrated ML model development
+  • No explicit causal inference experience
+  • No production ML/MLops ownership shown
+  • No credit/lending domain experience
+  • Under 5 years of data science experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

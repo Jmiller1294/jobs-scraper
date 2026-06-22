@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Executive Legal Assistant
+Company:  Plona Partners
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4427516699
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • document drafting
+  • meeting preparation
+  • meeting notes
+  • project management
+  • Microsoft Office
+  • Google Suite
+  • written communication
+  • verbal communication
+  • multi-tasking
+  • administrative coordination
+  • detail-oriented
+  • follow-up
+  • supporting executives
+  • SOPs
+  • documentation
+  • team coordination
+  • stakeholder communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • calendar management
+  • travel arrangements
+  • email correspondence
+  • event coordination
+  • supporting attorneys
+  • Big Law
+  • JIRA
+  • Confluence
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong documentation and SOP experience
+  • advanced Microsoft Office/Google Suite skills
+  • project management and workflow automation
+  • clear written communication and reporting
+  • experience supporting executives and teams
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no explicit calendar management experience
+  • no travel arrangement or logistics examples
+  • no Big Law or attorney support experience
+  • limited explicit email-handling on behalf of executives
+  • event coordination not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

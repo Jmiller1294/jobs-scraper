@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Manager, Data Science - GenAI Digital Assistant
+Company:  Capital One
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4427553008
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Python
+  • SQL
+  • PostgreSQL
+  • Pandas
+  • ETL
+  • Relational Databases
+  • AWS
+  • BigQuery
+  • Snowflake
+  • Git
+  • Data Pipelines
+  • Data Modeling
+  • Visualization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • PyTorch
+  • TensorFlow
+  • LLM
+  • NLP
+  • Generative AI
+  • HuggingFace
+  • VectorDB
+  • vLLM
+  • LangChain
+  • Inference Optimization
+  • Model Training
+  • Multi-agentic Workflows
+  • GPU Cluster
+  • LangGraph
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data modeling experience
+  • Experience with relational databases and Postgres
+  • Delivered measurable operational impact (quantified)
+  • Visualization and dashboarding expertise (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no LLM or NLP model development experience
+  • No PyTorch/TensorFlow or GPU training evidence
+  • Minimal GenAI/LLM tooling (LangChain, HuggingFace) experience
+  • Short overall ML/GenAI specialized years
+  • Titles are Data Analyst/Developer rather than Data Scientist
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Actuarial Analyst
+Company:  Voto Consulting LLC
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4426128226
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 36/100
+[███████░░░░░░░░░░░░░] 36%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • SQL
+  • Python
+  • R
+  • Excel
+  • data extraction
+  • data validation
+  • automation
+  • process optimization
+  • cross-functional collaboration
+  • model development
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • life insurance valuation
+  • annuity pricing
+  • IFRS 17
+  • Prophet
+  • AXIS
+  • mortality
+  • lapse
+  • embedded value
+  • experience analysis
+  • scenario analysis
+  • sensitivity analysis
+  • risk monitoring
+  • financial reporting
+  • VBA
+  • MG-ALFA
+  • longevity
+  • policyholder behavior
+  • Solvency
+  • pricing
+  • profitability testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience building ETL pipelines
+  • Data visualization (Power BI, Tableau)
+  • Process automation and optimization
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No actuarial qualifications (ASA/FSA)
+  • Limited/no life/annuity actuarial experience
+  • No experience with Prophet/AXIS/MG-ALFA
+  • No IFRS 17 or Solvency framework exposure
+  • Lack of domain-specific assumptions (mortality/lapse) experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

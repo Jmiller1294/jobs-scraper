@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Applied Scientist, Oncology Foundation Model (Intern)
+Company:  Pathos
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4418668927
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (8)
+  • Python
+  • Cloud (AWS S3)
+  • SQL
+  • ETL
+  • Data pipelines
+  • Git
+  • Visualization
+  • Research publications
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (17)
+  • Deep learning
+  • LLMs
+  • PyTorch
+  • TensorFlow
+  • Transformer architectures
+  • Pretraining
+  • Fine-tuning
+  • RLHF
+  • Distributed training
+  • Biomedical
+  • Oncology
+  • Data curation
+  • RAG
+  • Model evaluation
+  • Prompt engineering
+  • Mentorship
+  • Distributed infrastructure
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Practical Python data engineering
+  • SQL and relational modeling
+  • ETL and pipeline development
+  • Data visualization and dashboards
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated deep learning/LLM experience
+  • No PyTorch/TensorFlow or frameworks listed
+  • Lacks oncology/biomedical domain experience
+  • No distributed training or large-scale infra evidence
+  • Limited research/publication record in ML venues
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

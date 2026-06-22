@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     INTEGRAT ION DEVELOPER , Programmer III
+Company:  Network ESC A Division of Network Temps, Inc.
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4428964528
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • SQL
+  • ETL
+  • AWS
+  • Snowflake
+  • PostgreSQL
+  • MySQL
+  • Git
+  • Python
+  • Automation
+  • Version control
+  • Unit testing
+  • Power BI
+  • Data integration
+  • Cloud-ready
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Java
+  • Spring Boot
+  • RESTful
+  • SOAP
+  • RabbitMQ
+  • WSDL
+  • MDM
+  • Oracle
+  • Service-oriented architecture
+  • 3-tier architecture
+  • Agile
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB experience
+  • ETL pipeline development with Python
+  • Cloud tools experience (AWS, Snowflake, BigQuery)
+  • Version control and documentation practices
+  • Quantified impact on reporting and automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java/Spring Boot experience listed
+  • No SOAP/REST web services development shown
+  • No RabbitMQ or WSDL experience
+  • No explicit MDM or Oracle experience
+  • Limited enterprise integration/system architecture background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

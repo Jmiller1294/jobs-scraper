@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Field QA Tester/Engineer (Mobile)
+Company:  Motion Recruitment
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4398061473
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • automation testing
+  • MySQL
+  • AWS
+  • RESTful APIs
+  • Postman
+  • cross-functional collaboration
+  • documentation
+  • Git
+  • Python
+  • SQL
+  • JIRA
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • Android
+  • Appium
+  • Selenium
+  • TestRail
+  • mobile device troubleshooting
+  • hardware repair
+  • mobile devices
+  • MongoDB
+  • cloud
+  • POS systems
+  • barcode scanners
+  • test cases
+  • regression testing
+  • on-site support
+  • travel
+  • test planning
+  • automation frameworks
+  • device diagnostics
+  • payment terminals
+  • microservices
+  • attention to detail
+  • QA
+  • hardware testing
+  • TestRail integration
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python and SQL proficiency
+  • Experience with AWS and cloud tools
+  • Cross-functional collaboration
+  • Documentation and JIRA usage
+  • Data analysis and automation experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Android device testing experience
+  • No Appium/Selenium or TestRail experience listed
+  • No hardware repair or on-site troubleshooting evidence
+  • No POS or payment terminal experience
+  • Limited explicit QA/field testing role experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

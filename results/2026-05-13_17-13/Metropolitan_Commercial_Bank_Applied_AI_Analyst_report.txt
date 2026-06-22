@@ -1,0 +1,87 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Applied AI Analyst
+Company:  Metropolitan Commercial Bank
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414174001
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Python
+  • SQL
+  • Snowflake
+  • notebooks
+  • Git
+  • REST APIs
+  • data transformation
+  • ETL pipelines
+  • data governance
+  • monitoring
+  • evaluation/testing
+  • communication
+  • document understanding
+  • Power BI
+  • BigQuery
+  • Excel
+  • APIs
+  • automation
+  • version control
+  • data quality
+  • analytics
+  • A/B testing
+  • reporting
+  • stakeholder communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • prompt engineering
+  • RAG
+  • vector search
+  • embeddings
+  • agentic workflows
+  • Microsoft Foundry
+  • M365 Copilot
+  • vector databases
+  • MCP
+  • A2A
+  • function/tool calling
+  • model governance inventories
+  • privacy-by-design
+  • hallucination testing
+  • third-party vendor due diligence
+  • SR 11-7
+  • SR 23-4
+  • LangChain
+  • Semantic Kernel
+  • Copilot Studio
+  • agent orchestration
+  • hand-offs
+  • human-in-the-loop controls
+  • secure prompt handling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on Snowflake and BigQuery pipelines
+  • Proven automation and ETL delivery
+  • Quantified business impact (revenue, efficiency)
+  • Clear stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit GenAI/LLM or prompt engineering experience
+  • No Microsoft Foundry or Copilot experience
+  • No evidence of RAG/vector DB work
+  • Limited agentic workflow or MCP/A2A exposure
+  • No demonstrated AI governance/model inventory artifacts
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

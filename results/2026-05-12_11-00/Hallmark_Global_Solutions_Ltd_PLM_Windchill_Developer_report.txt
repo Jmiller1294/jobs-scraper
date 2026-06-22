@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     PLM Windchill Developer
+Company:  Hallmark Global Solutions Ltd
+Location: Summit, NJ
+URL:      https://www.linkedin.com/jobs/view/4413571693
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 20/100
+[████░░░░░░░░░░░░░░░░] 20%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • Git
+  • API integration
+  • ETL
+  • Automation
+  • CI/CD
+  • Data modeling
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Testing
+  • Problem solving
+  • Version control
+  • Training
+  • Technical design
+  • Agile
+  • Daily stand-ups
+  • Sprint planning
+  • Retrospectives
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Windchill
+  • PLM
+  • Core Java
+  • EIS
+  • SAFe
+  • Sprint planning
+  • Retrospectives
+  • Windchill Technical Experience
+  • Onsite
+  • Design\| develop\| implement
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience with ETL and data pipelines
+  • CI/CD and Git-based workflows
+  • Quantified impact in past roles
+  • Experience in Agile ceremonies
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Windchill/PLM experience
+  • No Core Java or EIS expertise
+  • Limited explicit Windchill technical design examples
+  • Primarily data-focused rather than PLM
+  • Onsite Windchill developer experience not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

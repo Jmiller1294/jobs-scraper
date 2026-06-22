@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Fulltime only -- GCP Data Engineer
+Company:  E-Solutions
+Location: Paramus, NJ
+URL:      https://www.linkedin.com/jobs/view/4416249863
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • BigQuery
+  • GCS
+  • Python
+  • SQL
+  • Airflow
+  • dbt
+  • CI/CD
+  • Docker
+  • data modeling
+  • ETL/ELT
+  • data quality
+  • partitioning
+  • clustering
+  • GCP
+  • Power BI
+  • Postgres
+  • GitHub Actions
+  • Cloud Storage
+  • BigQuery partitioning
+  • materialized views
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Dataflow
+  • Dataproc
+  • Pub/Sub
+  • Cloud Composer
+  • Cloud function
+  • Cloud run
+  • Cloud sql
+  • CMEK
+  • VPC Service Controls
+  • IAM (explicit)
+  • Apache Beam
+  • Spark Streaming
+  • Kubernetes
+  • Google Cloud Professional Data Engineer
+  • streaming
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong BigQuery and SQL experience
+  • Proficient Python data pipelines
+  • Experience with Airflow and dbt
+  • CI/CD implemented via GitHub Actions
+  • Demonstrated quantified impact (efficiency and accuracy gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no explicit streaming (Pub/Sub/Beam) experience
+  • No mention of Dataflow/Dataproc implementations
+  • Cloud security controls (CMEK, VPC) not demonstrated
+  • Lacks GCP Professional Data Engineer certification
+  • Less than required 5+ years GCP data engineering tenure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Architected and deployed data pipelines utilizing Cloud Composer (Airflow) for orchestration and integrated Cloud Functions to automate event-driven triggers within the GCP ecosystem.
+  Engineered robust streaming and batch data architectures, leveraging Pub/Sub for real-time ingestion and configuring Cloud Storage (GCS) lifecycles to optimize storage costs and performance.
+  Implemented rigorous data governance, incorporating IAM roles for least-privilege access and enforcing security best practices including encryption (CMEK) and VPC Service Controls to protect sensitive data.
+  Built and containerized data processing applications using Docker and Cloud Run to ensure scalable, portable, and secure deployment across distributed environments.
+  Optimized BigQuery performance by applying advanced techniques including materialized views, partitioning, and clustering while monitoring resource utilization through GCP logging and monitoring.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Fulltime only -- GCP Data Engineer opportunity with E-Solutions. I am interested in this opportunity because of my deep passion for building scalable data infrastructure that empowers data-driven decision-making within cloud-native environments. What interests me about working for E-Solutions is its reputation for sophisticated data architecture and commitment to high-performance analytics, which aligns perfectly with my professional focus on GCP. I believe my expertise in architecting end-to-end ELT pipelines and my proficiency in Python-based data transformation would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on automation and efficiency. In fact, in my project building a production-grade FRED economic pipeline, I utilized Airflow for orchestration and BigQuery for storage, implementing partitioning and clustering to handle large datasets effectively. This resulted in a significantly reduced analyst query time and a highly reproducible data model. Ultimately, I know that the Fulltime only -- GCP Data Engineer role at E-Solutions would allow me to bring my technical skills in pipeline design to manage large-scale data workflows. Additionally, my role as an Analytics & Operations Lead at Shine Masters enabled me to develop my cloud infrastructure and stakeholder management skills. During this time, I collaborated with cross-functional teams to automate business workflows, which reduced manual labor by 30% and improved operational efficiency by 40%. I’m excited by the opportunity to use my background in GCP and data modeling in working on complex streaming and batch integrations at E-Solutions. I know that my strong foundation in Python, SQL, and GCP architecture aligns with what it takes to succeed at the Fulltime only -- GCP Data Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

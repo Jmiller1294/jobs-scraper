@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director, Software Engineer
+Company:  Morgan Stanley
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406236551
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • SQL
+  • JavaScript
+  • Git
+  • RESTful services
+  • Python
+  • APIs
+  • Docker
+  • Postgres
+  • CI/CD
+  • ETL
+  • dbt
+  • Data modeling
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (23)
+  • Java
+  • Spring Boot
+  • DB2
+  • Jenkins
+  • Junit
+  • JIRA
+  • Confluence
+  • Apache Kafka
+  • JMS
+  • Selenium
+  • Scala
+  • Angular
+  • React
+  • Apache Camel
+  • Elastic search
+  • Grafana
+  • Prometheus
+  • Cucumber
+  • SWIFT (MT/MX)
+  • ISO 20022
+  • proprietary DTCC formats
+  • Performance monitoring
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL expertise
+  • Python data engineering
+  • ETL/ELT pipeline development
+  • CI/CD and automation experience
+  • Data modeling and dbt
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java/Spring Boot experience listed
+  • Lacks DB2 and JMS experience
+  • No Kafka or messaging platform implementations
+  • Limited explicit testing frameworks (Junit) experience
+  • No SWIFT/ISO 20022 or DTCC domain knowledge
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

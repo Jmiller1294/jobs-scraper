@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Biohub
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4417606424
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Python
+  • SQL
+  • Airflow
+  • BigQuery
+  • dbt
+  • CI/CD
+  • GitHub Actions
+  • GCS
+  • Docker
+  • Data pipelines
+  • ELT
+  • Data quality
+  • Great Expectations
+  • ETL
+  • Data modeling
+  • Partitioning
+  • Clustering
+  • Power BI
+  • Automation
+  • Dimensional modeling
+  • Postgres
+  • Snowflake
+  • Tableau
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Distributed computing
+  • Databricks
+  • Spark
+  • Ray
+  • AWS
+  • HPC
+  • Genomics formats
+  • FASTQ
+  • BAM
+  • VCF
+  • OME-Zarr
+  • HDF5
+  • 500+ TB / petabyte scale
+  • 99%+ reliability
+  • Computational biology
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Experience building ELT/ETL pipelines
+  • BigQuery and GCS production work
+  • Data quality automation with Great Expectations
+  • CI/CD and Airflow orchestration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no experience with Spark/Databricks/Ray
+  • No explicit AWS or HPC experience
+  • No demonstrated petabyte-scale systems
+  • No bioinformatics/genomics experience or formats
+  • Limited distributed computing deployments
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

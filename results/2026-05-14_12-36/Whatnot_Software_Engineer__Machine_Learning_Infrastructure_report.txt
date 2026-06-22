@@ -1,0 +1,81 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer, Machine Learning Infrastructure
+Company:  Whatnot
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404493968
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • Postgres
+  • SQL
+  • Docker
+  • BigQuery
+  • Airflow
+  • CI/CD
+  • dbt
+  • ETL
+  • GCS
+  • Data quality
+  • Power BI
+  • Tableau
+  • Dimensional modeling
+  • Automation
+  • GitHub Actions
+  • Cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Redis
+  • Elasticsearch
+  • SageMaker
+  • Kinesis
+  • Lambda
+  • EC2
+  • EKS/ECS
+  • Apache Kafka
+  • Flink
+  • Distributed training
+  • GPU inference
+  • Large model serving
+  • Model parallelism
+  • Data parallelism
+  • Grafana
+  • DataDog
+  • DynamoDB
+  • Trust and safety
+  • Fraud
+  • Recommendations
+  • Low-latency serving
+  • Production ML systems
+  • Machine learning models
+  • Professional ML experience
+  • Model deployment
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience with Airflow and ETL pipelines
+  • Cloud data experience (BigQuery, GCS, Snowflake)
+  • CI/CD and GitHub Actions implementation
+  • Data modeling and data quality (dbt, Great Expectations)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited ML/AI infrastructure experience
+  • No explicit GPU/distributed training exposure
+  • Missing managed ML services (SageMaker) experience
+  • Lacks monitoring tooling (DataDog/Grafana) evidence
+  • Titles not aligned to ML platform engineer
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

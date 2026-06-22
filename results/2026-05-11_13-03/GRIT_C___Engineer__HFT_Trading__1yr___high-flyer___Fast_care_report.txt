@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     C++ Engineer (HFT Trading, 1yr+, high-flyer & Fast career-track, open to own strategy)
+Company:  GRIT
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413071121
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Python
+  • SQL
+  • Git
+  • PostgreSQL
+  • BigQuery
+  • AWS
+  • CI/CD
+  • data pipelines
+  • ETL
+  • testing
+  • A/B testing
+  • optimization
+  • degree
+  • English
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • C++
+  • C++17
+  • low-latency
+  • data structures
+  • algorithms
+  • memory models
+  • quantitative
+  • trading
+  • Chinese
+  • profiling
+  • performance
+  • systems programming
+  • quant strategies
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data engineering and analytics experience
+  • Proven automation and ETL pipeline delivery
+  • Quantified impact (e.g., 300% revenue, 40% efficiency)
+  • Full-stack development and DB query optimization
+  • CI/CD and version control experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C++ experience listed
+  • No low-latency or systems programming background
+  • No trading or quant experience
+  • No Chinese language proficiency
+  • Limited years in core software engineering roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Ab Initio Engineer
+Company:  Visionary Innovative Technology Solutions LLC
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4414009633
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 22/100
+[████░░░░░░░░░░░░░░░░] 22%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (8)
+  • SQL
+  • Python
+  • ETL
+  • Cloud big data
+  • Git
+  • Data validation
+  • Checkpointing
+  • Recovery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • Ab Initio
+  • Continuous Flows
+  • GDE
+  • EME
+  • ConductIt
+  • Kafka
+  • Message Queues
+  • Real-time pipelines
+  • Linux/Unix
+  • Data security
+  • Oracle
+  • Teradata
+  • Docker
+  • Kubernetes
+  • CI/CD
+  • Flink
+  • OzoneCH
+  • Stateful joins
+  • Sliding time windows
+  • Aggregations
+  • Exactly-once processing
+  • Credit card processing
+  • Monitoring production streams
+  • Conduct>It
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL proficiency
+  • Python ETL pipeline experience
+  • Cloud data platform exposure (AWS/Snowflake/BigQuery)
+  • Quantified impact in analytics and automation
+  • Experience building end-to-end data models
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Ab Initio platform experience
+  • Lacks Kafka/streaming production experience
+  • No explicit Unix/Linux shell scripting examples
+  • No experience with Teradata/Oracle
+  • No containerization or CI/CD evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

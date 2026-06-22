@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Research Engineer, Model Evaluations
+Company:  Anthropic
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406541303
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • data pipelines
+  • dashboards
+  • data visualization
+  • ETL
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Tableau
+  • Git
+  • observability
+  • monitoring
+  • large language models
+  • prompting
+  • sampling
+  • scaffolding
+  • experiments
+  • production support
+  • on-call
+  • statistical analysis
+  • experiment design
+  • distributed systems
+  • evaluations
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • agentic behavior
+  • RL training
+  • checkpoints
+  • regressions
+  • experiment-tracking
+  • dataset sourcing
+  • curation
+  • ML training infrastructure
+  • visualizations legible to researchers
+  • pair programming
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL
+  • Dashboard and visualization delivery (Power BI, Tableau)
+  • ETL and data-pipeline implementation
+  • Experience with LLMs (Claude) and prompting
+  • Production tooling and Git-backed workflows
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML training/infrastructure experience
+  • No explicit RL/checkpoint evaluation experience
+  • No documented on-call production incidents
+  • Sparse experience with experiment-tracking systems
+  • Limited demonstrated statistical/experimental design background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

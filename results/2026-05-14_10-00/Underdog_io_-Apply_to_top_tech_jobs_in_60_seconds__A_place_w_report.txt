@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  Underdog.io -Apply to top tech jobs in 60 seconds. A place where companies apply to you
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4408285026
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • full-stack
+  • cloud
+  • BigQuery
+  • SQL
+  • CI/CD
+  • Docker
+  • Postgres
+  • automation
+  • GitHub Actions
+  • dbt
+  • data modeling
+  • ETL
+  • startup experience
+  • end-to-end system design
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • TypeScript
+  • AI tools (Claude/Cursor)
+  • 7+ years software development
+  • serverless
+  • RAG
+  • Temporal.io
+  • Inngest
+  • Vercel
+  • healthcare
+  • orchestration
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and BigQuery experience
+  • Python data engineering and ETL skills
+  • CI/CD and automation with GitHub Actions
+  • dbt and data modeling expertise
+  • Proven measurable impact (efficiency, leads)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No TypeScript or explicit full-stack TS experience
+  • No demonstrated AI tool (Claude/Cursor) usage
+  • Insufficient years (role requires 7+)
+  • No Temporal/Inngest or RAG architecture experience
+  • No healthcare domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

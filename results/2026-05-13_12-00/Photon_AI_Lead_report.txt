@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Lead
+Company:  Photon
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4397625481
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • SQL
+  • APIs
+  • ETL/ELT
+  • BigQuery
+  • Snowflake
+  • Git
+  • CI/CD
+  • Data quality
+  • Production-grade code
+  • Data pipelines
+  • PostgreSQL
+  • Automation
+  • Power BI
+  • Tableau
+  • Data modeling
+  • Cloud (AWS S3)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Vector databases
+  • LLMs
+  • Generative AI
+  • Machine Learning
+  • Financial services
+  • Team leadership
+  • Mentorship
+  • Microservices
+  • NoSQL
+  • Integration into enterprise systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Proven production ETL/ELT pipelines
+  • CI/CD and Git-based deployments
+  • Quantified impact (efficiency and revenue gains)
+  • Visualization and reporting expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LLM/Generative AI experience
+  • Limited ML framework exposure
+  • Lacks vector/NoSQL database usage
+  • Insufficient fintech/financial services background
+  • Minimal leadership/people-management evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

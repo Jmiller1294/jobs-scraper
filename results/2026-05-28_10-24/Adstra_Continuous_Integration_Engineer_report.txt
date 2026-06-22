@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Continuous Integration Engineer
+Company:  Adstra
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420266256
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • SQL
+  • PostgreSQL
+  • Git
+  • automation
+  • reporting
+  • ETL
+  • documentation
+  • version control
+  • pipelines
+  • metrics
+  • API testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • CI/CD
+  • Jenkins
+  • test automation
+  • Selenium
+  • C/C++
+  • Linux
+  • bash
+  • test frameworks
+  • integration testing
+  • logging
+  • observability
+  • scheduling
+  • debugging
+  • system-level testing
+  • test execution workflows
+  • security clearance
+  • kernel development
+  • Grafana
+  • Perl
+  • JavaScript
+  • Java
+  • MS SQL Server
+  • MySQL
+  • distributed systems
+  • network protocol development
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL and Postgres data modeling
+  • Proven automation of manual reporting workflows
+  • Experience with version control (Git)
+  • Produced measurable operational improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C/C++ experience listed
+  • No CI/CD/Jenkins experience shown
+  • Limited or no embedded/Linux kernel exposure
+  • No explicit test automation frameworks (Selenium) use
+  • Lacks security clearance and system-level testing evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Application Analyst III
+Company:  RWJBarnabas Health
+Location: Oceanport, NJ
+URL:      https://www.linkedin.com/jobs/view/4394726088
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Metadata
+  • Data governance
+  • Data quality
+  • Requirements gathering
+  • SQL
+  • Python
+  • ETL
+  • Data modeling
+  • Stakeholder management
+  • Power BI
+  • Tableau
+  • Project planning
+  • Documentation
+  • Cross-functional collaboration
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • JIRA
+  • Git
+  • Data stewardship
+  • Data lineage
+  • Reporting
+  • Dashboards
+  • Advanced Excel
+  • ETL Pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Data catalog
+  • Data catalog implementation
+  • Informatica
+  • Collibra
+  • ServiceNOW
+  • Healthcare
+  • Metrics definitions
+  • Data asset inventory
+  • Data definitions
+  • Business rules
+  • Ticketing (ServiceNOW)
+  • Leadership
+  • Compliance
+  • Resource allocation
+  • Risk identification
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Proven dashboarding and reporting (Power BI, Tableau)
+  • Cross-functional collaboration and documentation
+  • Experience with cloud data platforms (Snowflake, BigQuery, AWS S3)
+  • Quantified impact from prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit experience with Collibra/Informatica data catalog tools
+  • Limited healthcare domain experience stated
+  • ServiceNOW not mentioned
+  • Data catalog implementation not explicitly documented
+  • Leadership/people-management evidence limited
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

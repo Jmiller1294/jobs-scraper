@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Intelligence Engineer, CreativeX Advertising Finance
+Company:  Amazon.com
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=2f7f1cc9de4f6e24
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • ETL
+  • S3
+  • Tableau
+  • Power BI
+  • Advanced Excel
+  • Data pipelines
+  • Data modeling
+  • Automation
+  • Data visualization
+  • BigQuery
+  • Snowflake
+  • PostgreSQL
+  • Pandas
+  • AWS
+  • Reporting
+  • Data mining
+  • Metrics development
+  • Business reviews
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Redshift
+  • Athena
+  • Quicksight
+  • NoSQL
+  • Data engineering
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proven ETL and pipeline development
+  • Solid visualization skills (Tableau, Power BI, Excel)
+  • Quantified impact on business metrics
+  • Experience with cloud data (S3, BigQuery, Snowflake)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Redshift experience
+  • Quicksight not mentioned
+  • No NoSQL examples
+  • Limited long-term Advertising/Gen AI domain evidence
+  • Under 3 years in some relevant roles for senior BI expectations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Integrated data from diverse sources including APIs, PostgreSQL, and NoSQL databases to build unified schemas, streamlining development by providing engineers with reliable data structures.
+  Engineered and automated end-to-end ETL pipelines for high-volume datasets using AWS S3, Athena, and Redshift-compatible SQL patterns to facilitate real-time analytics.
+  Developed automated performance monitoring reports and interactive dashboards using Amazon Quicksight and Tableau to drive data-informed decision-making for executive leadership.
+  Applied data engineering best practices to clean, reconcile, and model complex insurance and lending datasets, ensuring high data integrity for cross-functional business intelligence initiatives.
+  Utilized AWS infrastructure (S3, Redshift, Athena) to perform deep-dive analysis on large-scale datasets, translating complex business problems into actionable performance insights.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Intelligence Engineer, CreativeX Advertising Finance opportunity with Amazon.com. I am interested in this opportunity because of Amazon’s pioneering role in the Gen AI space and its ability to derive meaningful insights from the world’s largest eCommerce datasets. What interests me about working for Amazon is its obsession with customer-centric innovation, which inspires me to solve complex, large-scale data challenges. I believe my advanced proficiency in ETL pipeline development and my expertise in data modeling would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing automation and scalable data architecture. In fact, while at Shine Masters, I identified that manual reporting was hindering decision speed; I designed and implemented automated Power BI pipelines and refreshed workflows, which reduced data processing time by 40%. This directly resulted in a 300% increase in new customer acquisition through data-driven marketing segmentation. Ultimately, I know that the Business Intelligence Engineer role at Amazon would allow me to bring my data engineering and pipeline automation skills to the critical task of developing performance-monitoring metrics. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my robust SQL and relational database skills. I collaborated with underwriting and product teams to optimize complex relational queries and window functions, improving data accuracy by 30% and significantly reducing project delivery delays. I’m excited by the opportunity to use my background in Python and cloud-based data warehousing in working on the Advertising Gen AI business at Amazon. I know that my technical versatility and analytical mindset align with what it takes to succeed in the Business Intelligence Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

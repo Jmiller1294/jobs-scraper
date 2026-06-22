@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst II - Institute for Health Equity Research
+Company:  Mount Sinai Health System
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4409980135
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • R
+  • Python
+  • SQL
+  • data management
+  • data cleaning
+  • data integrity
+  • report development
+  • data warehouse
+  • ETL
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Tableau
+  • automation
+  • statistical analysis
+  • Git
+  • data governance
+  • A/B testing
+  • data validation
+  • population data
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • SAS
+  • EHR
+  • claims data
+  • survey data
+  • manuscripts
+  • Oracle
+  • SPSS
+  • STATA
+  • GIS programming
+  • clinical datasets
+  • healthcare environment
+  • epidemiology
+  • Oracle SQL
+  • STATA/R (explicit experience)
+  • data flow documentation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • ETL and pipeline development
+  • Visualization with Power BI/Tableau
+  • Data governance and validation practices
+  • Quantified impact on reporting and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SAS/SPSS/STATA experience
+  • No stated EHR/claims/clinical dataset work
+  • Limited healthcare or academic environment experience
+  • No GIS programming experience
+  • Masters or epidemiology degree not listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed robust data analysis plans to transform raw healthcare-related records and longitudinal datasets into actionable insights, mirroring methodologies used in EHR and clinical data management.
+  Streamlined data flow and processing procedures, producing detailed technical documentation to ensure data integrity and compliance when handling sensitive population-based research data.
+  Leveraged R and Python to execute complex statistical analyses on large-scale datasets, translating findings into technical reports and supporting the development of research manuscripts.
+  Collaborated with cross-functional stakeholders to integrate and validate diverse data sources—including survey and claims-style data—ensuring consistent data governance and quality assurance across all analytical pipelines.
+  Applied rigorous data cleaning and validation techniques, effectively acting as an administrator for database systems to support the evolving needs of healthcare research environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst II - Institute for Health Equity Research opportunity with Mount Sinai Health System. I am interested in this opportunity because of the Institute’s critical mission to address health disparities through rigorous, data-driven research, and I am eager to apply my technical background to help evaluate your new models of care. What interests me about working for Mount Sinai is its status as a global leader in health innovation and its commitment to fostering an inclusive culture that values evidence-based decision-making. I believe my expertise in large-scale data architecture and my proficiency in statistical programming would make me a strong candidate for this role. During my career, I have approached complex data challenges with a focus on integrity and scalability. In fact, while at Shine Masters, I implemented comprehensive data governance frameworks and automated Python-based pipelines that processed fragmented CRM data into a 'single source of truth.' This initiative not only reduced reporting discrepancies but allowed my team to perform high-value customer segmentation that contributed to a 300% increase in revenue for targeted segments. Ultimately, I know that the Data Analyst II role at Mount Sinai would allow me to bring my advanced data management skills to ensure the high-quality processing and analysis of clinical and population health datasets. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my cross-functional communication and documentation skills. I frequently translated complex statistical findings into clear, actionable business recommendations for stakeholders, ensuring that data-driven insights were understood and effectively implemented. I am excited by the opportunity to use my background in Python, R, and SQL to support the research teams at IHER in their evaluation and interpretation of critical health data. I know that my analytical rigor and technical proficiency align with what it takes to succeed as a Data Analyst II. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

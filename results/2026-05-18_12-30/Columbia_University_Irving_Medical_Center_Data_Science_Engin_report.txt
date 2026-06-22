@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Science Engineer
+Company:  Columbia University Irving Medical Center
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4411500344
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • R
+  • SQL
+  • relational databases
+  • PostgreSQL
+  • Python
+  • ETL pipelines
+  • reproducible workflows
+  • machine learning
+  • data visualization
+  • Git
+  • BigQuery
+  • Snowflake
+  • AWS
+  • documentation
+  • collaboration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • causal inference
+  • OMOP
+  • patient-level prediction
+  • EHR
+  • distributed networks
+  • observational research
+  • clinical vocabularies
+  • high-dimensional data
+  • federated data networks
+  • open-source research
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • Proficient in Python and ETL pipeline development
+  • Experience building dashboards and visualizations
+  • Workflow automation and documentation
+  • Cloud data platform familiarity (BigQuery, Snowflake, AWS)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit OMOP/CDM or clinical vocabulary experience
+  • Limited demonstrated causal inference expertise
+  • No clear EHR/claims data experience
+  • Title not aligned to biomedical informatics roles
+  • Undergraduate degree; no listed advanced degree
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

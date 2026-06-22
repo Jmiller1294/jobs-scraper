@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst IV
+Company:  Apex Systems
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404899399
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Forecasting
+  • Capacity planning
+  • Advanced Excel
+  • Driver-based models
+  • Financial modeling
+  • Budgeting
+  • Variance analysis
+  • Outsourced/BPO
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • Snowflake
+  • BigQuery
+  • ETL
+  • Automation
+  • Data quality
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Workforce Management
+  • AHT
+  • SLA
+  • Abandon Rate
+  • Occupancy
+  • Shrinkage
+  • WFM platforms
+  • Customer Experience
+  • FP&A
+  • CX tooling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experienced with Snowflake/BigQuery
+  • Proven automation and ETL delivery
+  • Power BI/Tableau reporting experience
+  • Quantified impact on reporting and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit WFM/contact center experience
+  • No mention of CX metrics (AHT, SLA, etc.)
+  • Under 7 years relevant workforce/WFM experience
+  • No listed WFM platforms or CX tooling
+  • Title alignment: roles oriented to data analytics/dev
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

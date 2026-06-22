@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Research Scientist, Model Evaluation
+Company:  Cohere
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4317709468
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • ETL pipelines
+  • data quality
+  • data visualization
+  • cross-functional collaboration
+  • Git
+  • APIs
+  • AWS (S3)
+  • BigQuery
+  • Snowflake
+  • time series
+  • metrics/KPIs
+  • data pipelines
+  • reporting dashboards
+  • data modeling
+  • JIRA/Confluence
+  • statistical analysis
+  • automated evaluation
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • LLM evaluation
+  • evaluation benchmarks
+  • model evaluation
+  • LLM-based data synthesis
+  • scalable tools
+  • experiment design
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Built end-to-end ETL and data models
+  • Delivered dashboards improving KPI visibility
+  • Cross-functional engineering collaboration
+  • Experience with data quality and automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LLM/LLM-evaluation experience
+  • Limited research/publication evidence
+  • No experience training LLM judges
+  • Few quantified model-evaluation achievements
+  • Titles focused on data analyst/developer, not research scientist
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

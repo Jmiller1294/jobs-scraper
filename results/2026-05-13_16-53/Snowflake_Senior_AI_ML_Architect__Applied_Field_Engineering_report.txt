@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior AI/ML Architect, Applied Field Engineering
+Company:  Snowflake
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414229412
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • Python
+  • Snowflake
+  • BigQuery
+  • SQL
+  • Pandas
+  • ETL
+  • dbt
+  • CI/CD
+  • Git
+  • Presentation skills
+  • A/B testing
+  • Data governance
+  • AWS
+  • Tableau
+  • Power BI
+  • Data quality
+  • PostgreSQL
+  • MySQL
+  • Power BI
+  • Automation
+  • Reporting
+  • Cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Airflow
+  • PyTorch
+  • LangChain
+  • RAG
+  • Prompt engineering
+  • Generative AI
+  • Machine learning
+  • Data engineering
+  • LlamaIndex
+  • Azure
+  • GCP
+  • Snowflake experience (1+ year)
+  • Large-scale database technology
+  • Executive readouts
+  • Fine-tuning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and pandas experience
+  • Hands-on Snowflake and BigQuery projects
+  • ETL/ELT engineering with CI/CD
+  • Quantified impact (revenue, efficiency gains)
+  • Dashboarding and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/LLM model experience
+  • No evidence of PyTorch or sklearn usage
+  • Missing Airflow and orchestration skills
+  • Unclear years of ML/generative AI experience (5+ required)
+  • Limited documented cloud platform breadth (Azure/GCP)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

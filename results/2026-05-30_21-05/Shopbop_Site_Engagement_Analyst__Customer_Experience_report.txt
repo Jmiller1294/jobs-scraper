@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Site Engagement Analyst, Customer Experience
+Company:  Shopbop
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4342647205
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • SQL
+  • Tableau
+  • Advanced Excel
+  • customer segmentation
+  • data analysis
+  • ETL
+  • Python
+  • Power BI
+  • reporting
+  • cross-functional collaboration
+  • campaign measurement
+  • pivot tables
+  • automation
+  • data visualization
+  • stakeholder influence
+  • Snowflake
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • customer journeys
+  • e-commerce
+  • CRM
+  • KPI tracking
+  • A/B testing
+  • retention
+  • Adobe Analytics
+  • Customer Data Platform
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Experience with Tableau and Power BI
+  • Advanced Excel skills with pivots and automation
+  • Demonstrated cross‑functional collaboration
+  • Quantified impact on KPIs and acquisition
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct e‑commerce/retail experience
+  • No explicit Adobe Analytics or CDP experience
+  • Customer journey analytics not explicitly labeled
+  • A/B testing and experimentation not shown
+  • Only ~2 years in titled data analyst roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Analyzed a 2M+ row loan portfolio, identifying borrower and loan characteristics most associated with default risk to inform risk mitigation strategies, demonstrating a deep understanding of customer segmentation and risk.
+  Designed an interactive Tableau dashboard for the NYPD Arrests Analysis project, providing stakeholders with self-service access to visualize demographic and geographic patterns, directly informing crime prevention strategies and enhancing stakeholder understanding of customer journeys.
+  Developed time series models to identify high-value customer segments and improve retention strategies; targeted marketing initiatives informed by these models contributed to a 300% increase in new customer acquisition over 12 months, showcasing expertise in customer segmentation and retention analysis.
+  Collaborated cross-functionally with Underwriting, Product, and UI/UX teams to align software features with business objectives, reducing project delivery delays by 25% and demonstrating the ability to partner with technology teams.
+  Created time series models to identify high-value customer segments; targeted marketing initiatives informed by these models contributed to a 300% increase in new customer acquisition over 12 months, demonstrating a strong ability to translate data into actionable CRM strategies.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Site Engagement Analyst, Customer Experience opportunity with Shopbop. I am interested in this opportunity because Shopbop's commitment to understanding and growing its customer base through data-driven insights deeply resonates with my analytical approach and passion for customer experience. What interests me about working for Shopbop is its position as a leader in fashion e-commerce and its dedication to a customer-obsessed approach, which excites and inspires me because I believe that true success in retail lies in deeply understanding customer motivations and enhancing their journey. I believe my advanced Excel skills and my proficiency in data analysis tools like Tableau would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on translating complex data into actionable insights. In fact, at Shine Masters Cleaning Services, I developed interactive Power BI dashboards that replaced manual reporting, improving KPI visibility and reducing data processing time by 40%, accelerating executive decision-making. This directly led to optimizing operations by translating complex performance data into clear insights, reducing process bottlenecks and improving team efficiency by 25%. Ultimately, I know that the Site Engagement Analyst role at Shopbop would allow me to bring my advanced Excel skills and data visualization expertise to developing and tracking key customer metrics and KPIs to measure strategy effectiveness. Additionally, my experience as a Data Analyst & Operations Lead enabled me to develop my cross-functional collaboration skills. At Haven Technologies, I collaborated cross-functionally with several departments including Underwriting, Product, and UI/UX teams to align software features with business objectives, reducing project delivery delays by 25% and ensuring alignment with business goals. I’m excited by the opportunity to use my data analysis and reporting skills in working on deep dives into customer journeys and CRM strategy at Shopbop. I know that my advanced Excel proficiency and my experience in developing compelling data visualizations align with what it takes to succeed at the Site Engagement Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

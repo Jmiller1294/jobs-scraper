@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst, RLS Business Planning
+Company:  Ralph Lauren
+Location: Nutley, NJ
+URL:      https://www.linkedin.com/jobs/view/4413374067
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Advanced Excel
+  • Power BI
+  • Tableau
+  • SQL
+  • Python
+  • Data visualization
+  • Business intelligence
+  • KPI reporting
+  • ETL
+  • Automation
+  • Cross-functional collaboration
+  • Dashboard development
+  • Ad-hoc analysis
+  • Analytical mindset
+  • Stakeholder management
+  • SOP documentation
+  • Time series models
+  • Advanced Excel (Pivot Tables, VLOOKUP)
+  • PowerPoint
+  • Financial modeling
+  • Retail analytics
+  • Scenario planning
+  • Snowflake
+  • BigQuery
+  • Forecasting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Visual Insights
+  • Luxury retail
+  • Allocation systems
+  • Retail math (explicit experience)
+  • Gross margin projections
+  • Daily financial plans
+  • Sales forecasting (retail-specific)
+  • In-store events analysis
+  • Marketing activations analysis
+  • Store operations partnership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong BI tooling (Power BI, Tableau)
+  • Solid SQL and Python skills
+  • Proven automation and process improvement
+  • Quantified impact on KPIs and efficiency
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit luxury retail experience
+  • No mention of Visual Insights
+  • Retail planning system experience not stated
+  • Limited retail-specific forecasting/granular store planning examples
+  • No explicit store operations or allocation system work
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

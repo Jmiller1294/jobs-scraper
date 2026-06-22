@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     DES2 Product Analyst
+Company:  Sutherland
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4412932587
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • SQL
+  • Tableau
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • Python
+  • ETL
+  • data visualization
+  • data pipelines
+  • data modeling
+  • data quality
+  • Git
+  • PostgreSQL
+  • MySQL
+  • data governance
+  • stakeholder collaboration
+  • A/B testing
+  • communication
+  • Agile
+  • project management
+  • business intelligence
+  • data warehouse
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • requirements gathering
+  • process mapping
+  • data engineering
+  • data manipulation techniques
+  • acceptance criteria
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database optimization
+  • Proven Tableau and Power BI dashboard delivery
+  • Experience building ETL/data pipelines
+  • Quantified impact on revenue and efficiency
+  • Cross-functional stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit requirements-gathering artifacts
+  • Process mapping / as-is-to-be modeling not shown
+  • Little direct 'data engineering' titled experience
+  • No explicit acceptance criteria/user story examples
+  • Shorter overall relevant experience (2+ years in roles)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with stakeholders to gather and analyze business requirements for data-driven projects, translating complex needs into detailed user stories and acceptance criteria for the data engineering team.
+  Developed Power BI and Looker workflows to replace manual reporting, standardizing organizational KPIs and data governance frameworks to ensure cross-functional alignment and a consistent 'single source of truth' for all business stakeholders.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing statistical evidence to optimize marketing spend and informing data-driven decision-making.
+  Modeled raw API data into a dbt star schema to optimize query performance, greatly lowering load times through BigQuery partitioning and clustering, and automating data quality validation with Great Expectations to ensure pipeline reliability.
+  Translated complex technical findings into business recommendations during stakeholder meetings, effectively communicating data insights and supporting growth strategy development.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the DES2 Product Analyst opportunity with Sutherland. I am interested in this opportunity because I am passionate about bridging the gap between business needs and data engineering solutions, and Sutherland's commitment to leveraging data for informed decision-making deeply resonates with me. What interests me about working for Sutherland is your innovative approach to [research something unique about Sutherland's approach to data/analytics, e.g., leveraging AI in customer experience] excites me because it aligns with my own drive to push the boundaries of data utilization.
+
+I believe my strong analytical and problem-solving skills, coupled with my expertise in data visualization, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency and accuracy. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, which reduced data mismatches and improved work efficiency by 40%. This resulted in a more consistent 'single source of truth' for all business stakeholders and a reduction in report discrepancies.
+
+Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my stakeholder collaboration and data storytelling skills. I translated complex technical findings into actionable business recommendations during stakeholder meetings, effectively closing the gap between raw data and growth strategy. I’m excited by the opportunity to use my SQL and data visualization skills in working on optimizing data systems and processes at Sutherland. I know that my analytical rigor and proven ability to communicate technical concepts to non-technical stakeholders align with what it takes to succeed in the DES2 Product Analyst role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

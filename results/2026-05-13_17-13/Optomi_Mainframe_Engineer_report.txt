@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Mainframe Engineer
+Company:  Optomi
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4414178418
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • automation
+  • scripting
+  • Python
+  • SQL
+  • Git
+  • CI/CD
+  • ETL
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • financial services
+  • infrastructure
+  • site reliability
+  • data storage
+  • automation tooling
+  • leadership
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • z/OS
+  • DB2
+  • CICS
+  • REXX
+  • mainframe
+  • DBA
+  • monitoring
+  • AI-enabled
+  • storage
+  • site reliability (deep)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Automation with Python
+  • ETL and data pipelines
+  • CI/CD and Git experience
+  • Quantified impact in roles
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No mainframe (z/OS/DB2/CICS) experience listed
+  • No REXX or infrastructure-side scripting evidence
+  • Limited explicit SRE tooling/monitoring experience
+  • Short duration in enterprise financial role
+  • No storage/DBA certifications noted
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

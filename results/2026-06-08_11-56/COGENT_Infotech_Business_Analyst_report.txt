@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst
+Company:  COGENT Infotech
+Location: White Plains, NY
+URL:      https://www.linkedin.com/jobs/view/4425497895
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • AI requirements
+  • SQL
+  • Python
+  • data integration
+  • ETL
+  • data profiling
+  • Excel
+  • cloud
+  • APIs
+  • Git
+  • documentation
+  • user stories
+  • UAT
+  • process mapping
+  • stakeholder engagement
+  • testing
+  • data modeling
+  • BRD
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • requirements elicitation
+  • business process analysis
+  • Azure DevOps
+  • model explainability
+  • post deployment monitoring
+  • traceability matrix
+  • change management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Practical ETL and data modeling experience
+  • Experience with dashboards and analytics (Power BI, Tableau)
+  • Documented processes and SOPs
+  • Hands-on AI tool usage (ChatGPT, Claude, Gemini)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Business Analysis title/10+ years BA experience
+  • No Azure DevOps experience cited
+  • No formal BA certifications listed
+  • Limited demonstrated AI governance (explainability, monitoring)
+  • Sparse evidence of requirements traceability/BRD depth
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

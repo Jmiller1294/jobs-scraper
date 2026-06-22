@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst - Private Credit Secondaries
+Company:  Selby Jennings
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4422923495
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • SQL
+  • Python
+  • Excel
+  • reporting
+  • presentation
+  • risk analysis
+  • data modeling
+  • ETL
+  • quantitative analysis
+  • credit analysis
+  • due diligence
+  • portfolio monitoring
+  • financial modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • investment underwriting
+  • deal execution
+  • investment memos
+  • funds
+  • private credit
+  • secondaries
+  • co-investments
+  • transaction structuring
+  • legal coordination
+  • investment committee
+  • AUM
+  • investment banking
+  • credit underwriting
+  • fund‑of‑funds
+  • portfolio construction
+  • senior analyst
+  • 1-2 years investment experience
+  • documenting legal docs
+  • credit documentation
+  • third‑party advisors
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Advanced Excel and reporting experience
+  • Quantitative risk and credit analysis projects
+  • Built end-to-end ETL and data models
+  • Clear measurable impacts in operations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct private credit/secondaries experience
+  • No explicit investment banking or fund experience
+  • Lacks deal execution and legal coordination examples
+  • No investment memos or committee presentation samples
+  • Title misalignment (Data Analyst/Developer vs Senior Analyst)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

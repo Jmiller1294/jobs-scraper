@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst
+Company:  Experis
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416583322
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Excel
+  • VLOOKUP
+  • Pivot Tables
+  • Data validation
+  • Data entry
+  • Reconciliation
+  • Contracts
+  • Billing
+  • SQL
+  • Python
+  • Power BI
+  • Data modeling
+  • ETL
+  • Reporting
+  • Data extraction
+  • Documenting SOPs
+  • Data accuracy
+  • Tableau
+  • Attention to detail
+  • Communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • XLOOKUP
+  • Subscription fees
+  • Transaction charges
+  • Resy
+  • Tock
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Excel and lookup skills
+  • Experience with reconciliation and data accuracy
+  • SQL and Python for ETL and analysis
+  • Built reporting dashboards (Power BI/Tableau)
+  • Documented processes and SOPs
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit contract review experience for Resy/Tock
+  • XLOOKUP not listed
+  • Limited direct billing platform experience
+  • Short overall industry-specific tenure
+  • No explicit quantified contract/billing recoveries
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries using CTEs, window functions, and XLOOKUP-style joins to clean and reconcile insurance testing data, improving data accuracy by 30%.
+  Analyzed complex partner contracts to identify billing terms, subscription fees, and transaction charges, ensuring revenue integrity through rigorous data validation and audit-ready reporting.
+  Developed automated trackers in Excel to monitor platform-specific billing obligations, effectively identifying discrepancies in reservation platform (e.g., Resy/Tock) transaction charges.
+  Reconciled high-volume datasets against contractual obligations, identifying potential revenue leakage and implementing audit logs to support financial reporting.
+  Leveraged advanced Excel proficiency, including XLOOKUP and data validation, to process large-scale datasets, ensuring 100% data accuracy in financial reconciliations.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Contract and Billing Data Analyst opportunity with Experis. I am interested in this opportunity because of the chance to apply my technical analytical background to the complex financial and operational demands of the hospitality technology sector. What interests me about working for Experis is its reputation for sourcing talent that drives organizational excellence and revenue integrity, which aligns with my own commitment to data-driven precision. I believe my advanced Excel proficiency and my experience in data reconciliation would make me a strong candidate for this role. During my professional career, I have approached problems by translating messy, unstructured data into actionable financial insights. In fact, while at Shine Masters, I identified process bottlenecks by auditing internal performance data; by building automated dashboards to track these metrics, I reduced data processing time by 40% and improved team efficiency by 25%. Ultimately, I know that the Contract and Billing Data Analyst role at Experis would allow me to bring my advanced data modeling and reconciliation skills to audit and manage complex partner contracts. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my contract-focused analytical skills. I frequently reviewed service agreements and created standardized templates for client intake, which reduced manual errors by 50%. I’m excited by the opportunity to use my background in SQL, Python, and Excel in working on contract and billing analysis at Experis. I know that my analytical mindset and technical accuracy align with what it takes to succeed in the Contract and Billing Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

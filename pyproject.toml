@@ -1,0 +1,16 @@
+[project]
+name = "jobs-scrapper"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google>=3.0.0",
+    "google-genai>=2.0.1",
+    "jobspy>=0.31.0",
+    "openai>=2.36.0",
+    "psycopg2>=2.9.12",
+    "python-docx>=1.2.0",
+    "python-jobspy>=1.1.82",
+    "sqlalchemy>=2.0.49",
+]

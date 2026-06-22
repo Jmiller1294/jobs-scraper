@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst
+Company:  Russell Tobin
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4411192094
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • client service
+  • CRM
+  • documentation
+  • project coordination
+  • communication
+  • team collaboration
+  • process improvement
+  • training
+  • problem solving
+  • attention to detail
+  • reporting
+  • automation
+  • Python
+  • SQL
+  • Power BI
+  • data governance
+  • stakeholder management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • wealth planning
+  • estate planning
+  • trusts
+  • tax planning
+  • private banking
+  • account onboarding
+  • cash management
+  • investment support
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong technical analytics (Python, SQL, Power BI)
+  • process improvement and automation
+  • robust reporting and data governance
+  • cross-functional collaboration
+  • quantified impact on efficiency and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no family office or wealth management experience
+  • limited trusts and estate planning knowledge
+  • no private banking or cash management experience
+  • titles not aligned to senior advisory roles
+  • less than preferred years in role context
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

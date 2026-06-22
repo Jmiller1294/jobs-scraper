@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer, Kubernetes Core Interfaces
+Company:  CoreWeave
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4373485529
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • automation
+  • CI/CD
+  • Docker
+  • Linux
+  • Python
+  • SQL
+  • Postgres
+  • GitHub Actions
+  • monitoring
+  • testing frameworks
+  • scalability
+  • BigQuery
+  • Airflow
+  • dbt
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Kubernetes
+  • Go
+  • Helm
+  • custom controllers
+  • CRD
+  • API endpoints
+  • on-call
+  • shell scripting
+  • fault-tolerant
+  • observability
+  • deployment automation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data engineering with BigQuery/dbt/Airflow
+  • Proven automation and CI/CD experience
+  • Solid SQL and Python skills
+  • Experience building production ELT pipelines
+  • Dashboarding and monitoring experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Kubernetes administration or control plane experience listed
+  • No Go language experience
+  • No Helm, CRD, or custom controller development
+  • No explicit on-call/incident response experience
+  • Limited Linux shell/storage/networking details
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

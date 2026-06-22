@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Tax Analyst
+Company:  Harry's
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413831083
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (6)
+  • Excel
+  • SQL
+  • Python
+  • data analysis
+  • reporting
+  • communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (19)
+  • tax provision
+  • ASC 740
+  • indirect tax
+  • income tax
+  • transfer pricing
+  • intercompany agreements
+  • tax compliance
+  • tax audits
+  • federal tax
+  • state tax
+  • international tax
+  • CPA
+  • tax planning
+  • internal controls
+  • third-party tax providers
+  • financial statement audit
+  • quarterly tax
+  • year-end tax
+  • tax journal entries
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis skills
+  • Advanced Excel proficiency
+  • SQL and Python for ETL
+  • Reporting and dashboard development
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No corporate tax experience
+  • No ASC 740 or tax provision work
+  • No transfer pricing or intercompany experience
+  • No CPA or tax degree
+  • Limited tax compliance/audit exposure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

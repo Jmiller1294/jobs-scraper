@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer, Data
+Company:  Whatnot
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4393892454
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • BigQuery
+  • Python
+  • dbt
+  • Airflow
+  • SQL
+  • GCS
+  • AWS
+  • ETL/ELT
+  • Data modeling
+  • CI/CD
+  • Great Expectations
+  • Docker
+  • Postgres
+  • Power BI
+  • Tableau
+  • Data quality
+  • API-driven
+  • Cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Snowflake
+  • Streaming
+  • Kafka
+  • Terraform
+  • Monitoring
+  • Distributed systems
+  • Incident management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong BigQuery and GCP experience
+  • Proficient in Python-driven ETL and Airflow
+  • dbt modeling and data quality automation
+  • Demonstrated SQL expertise and data modeling
+  • CI/CD and deployment experience (GitHub Actions)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated streaming pipeline experience
+  • Snowflake mentioned but no quantified usage examples
+  • Limited evidence of infrastructure-as-code (Terraform)
+  • Little shown on monitoring/incident management
+  • Distributed systems experience not clearly quantified
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Engineered and maintained automated data pipelines, incorporating Kafka for real-time data ingestion and stream processing to ensure low-latency data availability for downstream analytics.
+  Managed cloud infrastructure using Terraform to provision and scale resources across AWS and GCP, ensuring environment consistency and infrastructure-as-code best practices.
+  Architected distributed systems for data processing, utilizing Snowflake and BigQuery to maintain high performance and scalability for multi-terabyte datasets.
+  Implemented comprehensive monitoring and alerting systems using Datadog and PagerDuty, significantly reducing mean-time-to-resolution (MTTR) during incident management cycles.
+  Developed robust API-driven services and data interfaces, focusing on reliability and fault tolerance in high-traffic production environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Software Engineer, Data opportunity with Whatnot. I am interested in this opportunity because of Whatnot's unique position as the leader in the live commerce space, and I am drawn to your mission of enabling passion-led entrepreneurship. What interests me about working for Whatnot is your approach to community-driven, real-time marketplace experiences, which inspires me because I am passionate about scaling systems that directly connect consumers with their interests. I believe my expertise in building scalable ELT pipelines and my proficiency in cloud-native data architecture would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on system reliability and data accuracy. In fact, at Haven Technologies, I translated complex stakeholder requirements into production-grade code, which included validating data across distributed systems, resulting in a 60% increase in data accuracy and significantly reducing UI bugs. Ultimately, I know that the Software Engineer, Data role at Whatnot would allow me to bring my deep background in Python, SQL, and GCP to optimize your data retrieval platforms. Additionally, my role as a Data Analytics Fellow enabled me to develop my skills in building production-grade infrastructure. For instance, I recently architected an end-to-end ELT pipeline using Airflow, dbt, and BigQuery, incorporating CI/CD workflows and automated data quality checks, which successfully reduced query latency for end-users. I am excited by the opportunity to use my background in distributed systems and infrastructure-as-code to contribute to the high-performance engineering culture at Whatnot. I know that my technical versatility and growth mindset align with what it takes to succeed at the Software Engineer, Data role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

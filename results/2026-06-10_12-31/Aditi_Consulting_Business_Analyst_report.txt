@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst
+Company:  Aditi Consulting
+Location: Englewood Cliffs, NJ
+URL:      https://www.linkedin.com/jobs/view/4427034850
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Project Management
+  • Process Improvement
+  • PowerPoint
+  • Reporting
+  • Cross-Functional Collaboration
+  • Stakeholder Management
+  • Microsoft Excel
+  • Power BI
+  • Documentation
+  • Meeting Notes
+  • Strategic Reporting
+  • Service Planning
+  • Presentation Development
+  • Data Analysis
+  • SQL
+  • Automation
+  • SOPs
+  • Adaptability
+  • Analytical Mindset
+  • Reporting Preparation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • B2B
+  • Smartsheet
+  • Korean Bilingual
+  • Administrative Support
+  • Program Management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data/reporting and visualization skills (Power BI, Advanced Excel)
+  • Proven process improvement with quantified impact
+  • Cross-functional collaboration experience
+  • Documentation and SOP creation
+  • Automation and SQL expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No evidence of Korean bilingual proficiency
+  • Limited explicit administrative support or service planning title experience
+  • No Smartsheet experience listed
+  • Program/project management certification or formal PM title absent
+  • Limited direct B2B service planning examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

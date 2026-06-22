@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr Project Business Analyst - 90411300 - New York
+Company:  Amtrak
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4423141949
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Power BI
+  • SQL
+  • Python
+  • Excel
+  • data analysis
+  • reporting
+  • documentation
+  • SOPs
+  • dashboards
+  • ETL
+  • JIRA
+  • Confluence
+  • Git
+  • tableau
+  • AWS S3
+  • Snowflake
+  • BigQuery
+  • visualization
+  • stakeholder communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • SharePoint
+  • risk management
+  • project controls
+  • Power Query
+  • DAX
+  • Kahua
+  • Procore
+  • SAP
+  • Power Automate
+  • change order management
+  • contract administration
+  • FRA
+  • FTA
+  • grant requirements
+  • Enterprise Project & Portfolio Management
+  • document control policy
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI dashboard development
+  • Practical SQL and ETL pipeline experience
+  • Clear documentation and SOP creation
+  • Cross-functional collaboration and communication
+  • Quantified impact on process efficiency and acquisition
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SharePoint experience listed
+  • No SAP or Power Platform (Power Automate) experience
+  • Limited direct project controls role or EPPM mention
+  • No construction management software (Kahua/Procore)
+  • No explicit FRA/FTA or grant compliance experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

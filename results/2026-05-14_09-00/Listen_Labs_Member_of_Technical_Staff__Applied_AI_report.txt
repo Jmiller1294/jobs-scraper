@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff, Applied AI
+Company:  Listen Labs
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405475653
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • ETL/ELT
+  • CI/CD
+  • Git
+  • Data pipelines
+  • Data modeling
+  • Power BI
+  • Tableau
+  • A/B testing
+  • Data quality
+  • PostgreSQL
+  • MySQL
+  • Automation
+  • Pandas
+  • Analytics
+  • Data governance
+  • APIs
+  • Advanced Excel
+  • Version control
+  • Statistical modeling
+  • Customer segmentation
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python data pipeline experience
+  • Proven automation reducing manual work
+  • Experience with BigQuery and Snowflake
+  • Quantified impact on revenue and efficiency
+  • End-to-end ownership of analytics projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LLM/AI or NLP experience
+  • Limited computer vision or speech analysis skills
+  • No distributed systems or real-time processing mention
+  • Not titled as ML/AI engineer or senior backend role
+  • Relatively short industry tenure in relevant roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

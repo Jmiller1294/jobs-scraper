@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Hourly Data Analyst
+Company:  New Jersey Institute of Technology
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4414263530
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • SQL
+  • data automation
+  • reporting
+  • BigQuery
+  • Snowflake
+  • Git
+  • data visualization
+  • weekly reports
+  • communication
+  • data cleaning
+  • ETL
+  • statistical analysis
+  • Power BI
+  • R
+  • AWS S3
+  • data quality
+  • data governance
+  • experimental design
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • soil contamination
+  • laboratory investigations
+  • field investigations
+  • microfibers
+  • contaminant transport
+  • PhD
+  • environmental engineering
+  • field sampling
+  • sediment analysis
+  • chemical analysis
+  • microscopy
+  • GIS
+  • sample preparation
+  • chain of custody
+  • lab safety
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience with BigQuery and Snowflake
+  • Automated reporting and ETL pipelines
+  • Proven data visualization (Power BI, Tableau)
+  • Demonstrated communication and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit soil/microfiber laboratory experience
+  • No PhD or environmental engineering credential
+  • Limited field investigation or sampling experience
+  • No sediment/chemical analysis methods listed
+  • No explicit lab safety or chain-of-custody experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

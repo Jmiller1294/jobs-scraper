@@ -1,0 +1,90 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technology Analyst Program - Data Engineer (Berkeley Heights, NJ)
+Company:  Fiserv
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4412980276
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • SQL
+  • Python
+  • ETL
+  • Data pipelines
+  • Data modeling
+  • Data quality
+  • BigQuery
+  • Snowflake
+  • CI/CD
+  • Git
+  • Automation
+  • Data warehousing
+  • Relational databases
+  • Performance optimization
+  • Data validation
+  • Pandas
+  • Partitioning
+  • Clustering
+  • Power BI
+  • Looker
+  • Data governance
+  • APIs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Spark
+  • Azure
+  • Databricks
+  • Azure Data Factory
+  • GCP Dataflow
+  • Hadoop
+  • Java
+  • Databricks workflows
+  • CI/CD pipelines for data engineering
+  • Cloud (Azure)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB skills
+  • Hands-on Python ETL and automation
+  • Experience with BigQuery and Snowflake
+  • Proven quantified impact (efficiency, revenue gains)
+  • CI/CD and data validation experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited cloud Azure experience
+  • No explicit Databricks/Spark production use
+  • Minimal Hadoop/big data framework exposure
+  • Early-career (0-2 years) limits depth
+  • No Java or GCP Dataflow experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Modeled raw API data into a dbt star schema, leveraging BigQuery partitioning and clustering for optimized query performance and reduced load times, demonstrating experience with data warehousing concepts and cloud platforms.
+  Automated data quality validation with Great Expectations and deployed the solution via a GitHub Actions CI/CD pipeline, showcasing knowledge of CI/CD practices and data validation for pipeline reliability.
+  Integrated multiple datasets from APIs and PostgreSQL warehouses to build structured data, supporting downstream analytics and reporting, and demonstrating experience with data ingestion and transformation for operational platforms.
+  Optimized relational database queries (CTEs, window functions, joins) to clean and reconcile testing data, improving data accuracy by 60% and showcasing proficiency in SQL and relational databases.
+  Built Python automation for weekly sales and operations reports (ingesting POS and CRM data), eliminating repetitive data entry and saving 8 hours per week, demonstrating basic knowledge of Python for automation and data processing.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, 
+
+I am excited to submit my application for the Technology Analyst Program - Data Engineer (Berkeley Heights, NJ) opportunity with Fiserv. I am interested in this opportunity because Fiserv's role as a global leader in Fintech and payments, moving money and information that moves the world, deeply resonates with my passion for leveraging technology to drive impactful solutions. What interests me about working for Fiserv is its commitment to developing emerging talent through its Technology Analyst Program, which excites and inspires me because it provides a structured path for growth and hands-on experience in a critical industry.
+
+I believe my proficiency in SQL and Python, coupled with my experience in building and optimizing data pipelines, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data accuracy and efficiency. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting POS and CRM data. This initiative eliminated repetitive data entry, saving 8 hours per week and improving reporting accuracy for faster strategic decisions.
+
+Ultimately, I know that the Technology Analyst Program - Data Engineer role at Fiserv would allow me to bring my experience in developing efficient data workflows to assisting in designing and building data pipelines for data ingestion, transformation, and storage. Additionally, my project experience as a Data Analytics Fellow at COOP Careers enabled me to develop my data modeling skills. I analyzed a 250K+ row dataset using Pandas and NumPy to identify demographic clusters and designed an interactive Tableau dashboard to provide self-service access for stakeholders, visualizing arrests by location, time, and offense type.
+
+I’m excited by the opportunity to use my problem-solving skills in working on data modeling and schema design for analytics and operational use cases at Fiserv. I know that my ability to translate complex data into actionable insights and my dedication to ensuring data quality align with what it takes to succeed at the Technology Analyst Program - Data Engineer role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

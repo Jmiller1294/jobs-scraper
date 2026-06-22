@@ -1,0 +1,86 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer III: Data Engineer
+Company:  JPMorganChase
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4422425620
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • ETL
+  • Airflow
+  • CI/CD
+  • BigQuery
+  • Snowflake
+  • Data modeling
+  • Dimensional modeling
+  • dbt
+  • Data pipelines
+  • JSON
+  • Parquet
+  • Performance tuning
+  • Data quality
+  • Great Expectations
+  • Power BI
+  • Tableau
+  • Git
+  • Docker
+  • GCS
+  • Postgres
+  • Automation
+  • Pytest
+  • GitHub Actions
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (22)
+  • PySpark
+  • AWS
+  • Unix scripting
+  • Kubernetes
+  • Kafka
+  • S3
+  • Terraform
+  • Iceberg
+  • Protobuf
+  • AVRO
+  • Lambda
+  • ECS
+  • EKS
+  • Kinesis
+  • CloudWatch
+  • Snowflake (advanced ops)
+  • Data Vault
+  • Kimball
+  • Inmon
+  • NoSQL
+  • TDD
+  • BDD
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Advanced SQL skills
+  • Production ELT pipeline experience
+  • dbt and dimensional modeling
+  • Data quality automation (Great Expectations)
+  • Visualization and reporting (Power BI/Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit PySpark experience
+  • Limited AWS/cloud-native services (Lambda/Kinesis/EKS)
+  • No NoSQL database experience listed
+  • Unix scripting and system-level tooling not shown
+  • Limited explicit experience with Kafka/Terraform/Kubernetes
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

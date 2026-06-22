@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Test Lead
+Company:  Lorven Technologies Inc.
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4413051718
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 36/100
+[███████░░░░░░░░░░░░░] 36%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • automation
+  • API testing
+  • Git
+  • SQL
+  • Python
+  • leadership
+  • stakeholder management
+  • Agile
+  • analytical thinking
+  • presentation to senior leadership
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • P&C insurance
+  • test strategy
+  • integration testing
+  • regression testing
+  • E2E testing
+  • functional testing
+  • test management
+  • Jira
+  • ADO/TFS
+  • Playwright
+  • AI-led test engineering
+  • GitHub Copilot
+  • mainframe
+  • quality engineering
+  • test estimation
+  • test progress tracking
+  • cross-functional coordination
+  • risk assessment
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong automation and Python skills
+  • SQL and data engineering experience
+  • presentation and stakeholder communication
+  • Agile teamwork and Git version control
+  • quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no P&C insurance domain experience
+  • lacks explicit test strategy or QE leadership history
+  • no hands-on tools listed (Jira/ADO/TFS/Playwright)
+  • no mainframe or large-scale migration experience
+  • no explicit AI-led testing (Copilot/Claude) experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

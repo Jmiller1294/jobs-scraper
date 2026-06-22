@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff
+Company:  VoiceAdmin
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420229823
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • APIs
+  • PostgreSQL
+  • Git
+  • ETL
+  • data pipelines
+  • AWS
+  • debugging
+  • production
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • LLMs
+  • speech-to-text
+  • text-to-speech
+  • voice systems
+  • telephony
+  • IVR
+  • browser automation
+  • orchestration
+  • streaming audio
+  • real-time systems
+  • model inference
+  • batching
+  • latency optimization
+  • SFT
+  • RL
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and data pipelines
+  • Production-oriented engineering (Git, APIs, Postgres)
+  • Analytical, quantified impact on operations
+  • Dashboarding and monitoring (Power BI, reporting)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit voice/telephony experience
+  • No LLM or model fine-tuning experience listed
+  • No browser automation or agent frameworks noted
+  • Limited real-time/streaming systems experience
+  • No GPU/inference optimization or low-latency work
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

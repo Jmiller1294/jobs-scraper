@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Business Intelligence Analyst opportunity with NeenOpal Inc. I am interested in this opportunity because of NeenOpal’s commitment to enabling intelligent enterprises through advanced AI and data-driven consulting, which aligns perfectly with my background in bridging the gap between raw data and strategic business outcomes.
+
+What interests me about working for NeenOpal is its global 'follow-the-sun' delivery model. This innovative approach to client service intrigues me because it mirrors the agility required to succeed in modern data engineering and BI consultancy. I believe my expertise in data modeling and my ability to translate complex stakeholder requirements into actionable insights would make me a strong candidate for this role.
+
+During my professional career, I have approached problems by prioritizing clear communication and robust data governance. In fact, at Shine Masters, I identified a need for standardized KPIs and implemented a new data governance framework to serve as a 'single source of truth.' This initiative resulted in a 40% improvement in work efficiency and eliminated critical reporting discrepancies for leadership. Ultimately, I know that the Business Intelligence Analyst role at NeenOpal would allow me to bring my technical proficiency in SQL and Power BI to translate complex business needs into scalable data solutions.
+
+Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my data modeling skills. I collaborated with a 14-person team to integrate API and PostgreSQL data, optimizing complex relational queries to improve data accuracy by 60%. This experience in an enterprise environment ensures I can hit the ground running with NeenOpal’s data engineering requirements. I’m excited by the opportunity to use my background in Python and cloud-based ETL pipelines to assist in designing data-driven strategies at NeenOpal. I know that my analytical skills and ability to thrive in hybrid, fast-paced settings align with what it takes to succeed as a Business Intelligence Analyst. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

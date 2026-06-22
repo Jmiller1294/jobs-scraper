@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quantitative Researcher
+Company:  Fionics
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4419045359
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • Time series
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+  • Tableau
+  • Power BI
+  • Data modeling
+  • Automation
+  • Data pipelines
+  • Portfolio analysis
+  • Statistical analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • Quantitative analysis
+  • Risk analysis
+  • Fixed income
+  • Equities
+  • Options
+  • Commodities
+  • Crypto
+  • Experience >=3 years
+  • Backtesting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data pipeline building
+  • Experience with cloud data tools (BigQuery, Snowflake, S3)
+  • Visualization and dashboard delivery (Tableau, Power BI)
+  • Quantitative project work (portfolio & time-series analysis)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit trading/quant finance experience at tier-1 firms
+  • Insufficient years at tier-1 firms (requires 3+)
+  • Missing domain experience in equities/fixed income/options/crypto
+  • No mention of backtesting or strategy deployment
+  • Limited explicit risk/quant modeling credentials
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

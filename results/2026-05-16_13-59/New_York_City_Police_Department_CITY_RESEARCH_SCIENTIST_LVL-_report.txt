@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     CITY RESEARCH SCIENTIST LVL-III
+Company:  New York City Police Department
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4415884050
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 85/100
+[█████████████████░░░] 85%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Power BI
+  • SQL
+  • Python
+  • R
+  • Dashboard development
+  • Trend analysis
+  • ETL
+  • Reporting
+  • Statistical analysis
+  • Excel
+  • PostgreSQL
+  • MySQL
+  • Data storytelling
+  • Process improvement
+  • Data modeling
+  • BigQuery
+  • Snowflake
+  • Tableau
+  • Automation
+  • SOP documentation
+  • Data pipelines
+  • Data cleaning
+  • Stakeholder communication
+  • Data visualization
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Dynamics 365
+  • Power Query
+  • Excel Macros
+  • Visio
+  • Supervise Research Analyst level II
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI dashboard development
+  • Proficient SQL and relational DB experience
+  • Practical Python ETL and analytics
+  • Quantified impact on processes and KPIs
+  • Effective data storytelling for non-technical audiences
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit supervisory experience at required level
+  • No Dynamics 365 or Power Query listed
+  • Excel Macros and Visio not demonstrated
+  • Doctorate/master level not shown for Level III
+  • Public sector or disciplinary case experience absent
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Supervised junior team members and project workflows, utilizing Power Query and advanced Excel Macros to automate data cleaning and preparation, reducing manual reporting cycles by 40%.
+  Developed and maintained complex Power BI dashboards and process flow documentation in Visio to track disciplinary case metrics and ensure organizational transparency.
+  Led cross-functional project initiatives, delegating tasks and providing technical mentorship to team members to ensure the successful delivery of research and database tracking projects.
+  Designed and implemented automated data pipelines for large-scale datasets using SQL and Python, ensuring high-quality, actionable reporting for executive stakeholders.
+  Collaborated with cross-departmental leads to integrate data-driven insights into operational decision-making, while leveraging familiarity with ERP-style systems to streamline case management tracking.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the CITY RESEARCH SCIENTIST LVL-III opportunity with the New York City Police Department. I am interested in this opportunity because of the Department Advocate's Office's commitment to ensuring fair, transparent, and efficient resolution of disciplinary matters through data-driven oversight. What interests me about working for the NYPD is its focus on utilizing advanced analytics to foster accountability and public trust, which inspires me as a data professional dedicated to using my skills for the public good. I believe my expertise in data modeling and my ability to translate complex research into actionable insights would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on automation and clarity. In fact, at Shine Masters, I identified a bottleneck in our reporting, developed automated Power BI dashboards and standardized workflows to replace manual processes, and subsequently mentored team members on these new systems. This resulted in a 40% reduction in processing time and allowed the team to reallocate resources toward higher-priority investigative and research tasks. Ultimately, I know that the CITY RESEARCH SCIENTIST LVL-III role at the New York City Police Department would allow me to bring my advanced visualization and pipeline-building skills to support the enhancement of the disciplinary tracking system. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my supervisory and process-improvement skills. I successfully led operational workflows and documented SOPs, which reduced onboarding time by 50% and ensured consistent, high-quality results across the department. I am excited by the opportunity to use my background in SQL, Python, and statistical analysis in working on long-term analytic projects at the NYPD. I know that my technical proficiency and commitment to operational efficiency align with what it takes to succeed at the CITY RESEARCH SCIENTIST LVL-III role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

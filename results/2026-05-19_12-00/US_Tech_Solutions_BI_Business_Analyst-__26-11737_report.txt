@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     BI Business Analyst- #26-11737
+Company:  US Tech Solutions
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4415933053
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Power BI
+  • SQL
+  • ETL
+  • data validation
+  • dashboard design
+  • reporting
+  • data modeling
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Python
+  • data analysis
+  • KPI definition
+  • process flows
+  • JIRA
+  • Confluence
+  • visualization
+  • UAT
+  • stakeholder engagement
+  • requirements documentation
+  • technical specifications
+  • BRD
+  • data mapping
+  • data warehousing
+  • data governance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI and dashboard delivery
+  • Solid SQL and data modeling skills
+  • ETL and Python pipeline experience
+  • Proven stakeholder collaboration and documentation
+  • Quantified impact on KPIs and operational improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Under 5 years experience in BA role (resume shows ~2+ years)
+  • Limited explicit BA title alignment
+  • No explicit Agile/Scrum certification mentioned
+  • Few examples of formal BRDs or solution traceability matrices
+  • Regulated-industry experience not clearly demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Elicited and documented business requirements into formal BRDs and technical specifications, translating complex stakeholder needs into functional data models and reporting workflows.
+  Managed the full lifecycle of BI initiatives by defining project scope, creating requirements traceability matrices, and facilitating UAT sessions to ensure alignment with organizational goals.
+  Collaborated with IT and cross-functional teams to design enterprise-grade data mapping documents, ensuring accurate integration of source data into warehouse environments.
+  Applied Agile project delivery methodologies within JIRA to manage sprint cycles, ensuring all analytical deliverables met rigorous data governance and quality standards.
+  Partnered with stakeholders in the financial services sector to define KPIs and metrics, providing actionable insights through optimized dashboard solutions that adhered to data security best practices.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the BI Business Analyst- #26-11737 opportunity with US Tech Solutions. I am interested in this opportunity because of US Tech Solutions' reputation for delivering high-impact, data-driven staffing solutions to enterprise clients, which perfectly aligns with my background in bridging the gap between complex data architecture and actionable business intelligence. What interests me about working for US Tech Solutions is its commitment to innovation and its focus on empowering organizations through expert talent. I believe my expertise in requirements documentation and my proficiency in translating complex data into technical specifications would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on clear stakeholder engagement. In fact, at Shine Masters, I identified a bottleneck in manual reporting and facilitated discovery sessions with leadership to gather requirements for a new BI suite. I then translated these into a comprehensive roadmap and technical plan, which resulted in the development of interactive Power BI dashboards that reduced data processing time by 40% and accelerated decision-making for executive leadership. Ultimately, I know that the BI Business Analyst- #26-11737 role at US Tech Solutions would allow me to bring my data-modeling and requirements-gathering skills to support your enterprise analytics initiatives. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my skills in navigating regulated environments and managing documentation within JIRA and Confluence. While there, I collaborated with Underwriting and Product teams to align software features with strict business objectives, successfully reducing project delivery delays by 25% through meticulous data mapping and cross-functional coordination. I’m excited by the opportunity to use my background in both software development and data analytics in working on complex dashboard solutions at US Tech Solutions. I know that my technical versatility and my structured approach to documentation align with what it takes to succeed at the BI Business Analyst- #26-11737 role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

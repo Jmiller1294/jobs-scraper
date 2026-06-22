@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Performance Optimization Engineer
+Company:  Bright Vision Technologies
+Location: Edison, NJ
+URL:      https://www.linkedin.com/jobs/view/4419069685
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • Git
+  • AWS S3
+  • BigQuery
+  • ETL pipelines
+  • data pipelines
+  • profiling
+  • debugging
+  • collaboration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • C++
+  • GPU optimization
+  • distributed training
+  • model compression
+  • quantization
+  • memory management
+  • FlashAttention
+  • Triton
+  • benchmarking
+  • performance tuning
+  • PyTorch/TensorFlow
+  • LLM inference
+  • kernel optimization
+  • profiling tools
+  • LLM serving
+  • sparsity
+  • pruning
+  • tensor parallelism
+  • pipeline parallelism
+  • FSDP
+  • ZeRO
+  • KV cache
+  • continuous batching
+  • speculative decoding
+  • FinOps
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • ETL and data pipeline experience
+  • Proven impact with quantified metrics
+  • Cross-functional collaboration experience
+  • Version control (Git) and cloud exposure
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C++ or low-level systems evidence
+  • No GPU/deep learning optimization experience
+  • Lacks distributed training or parallelism background
+  • No Triton/CUTLASS or custom kernel experience
+  • Limited ML frameworks (PyTorch/TensorFlow) mentions
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,62 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Windchill Developer
+Company:  Themesoft Inc.
+Location: Summit, NJ
+URL:      https://www.linkedin.com/jobs/view/4413459216
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • API
+  • SQL
+  • Python
+  • Git
+  • CI/CD
+  • Database
+  • Automation
+  • Reporting
+  • Integration
+  • Testing
+  • Problem solving
+  • Version control
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Windchill
+  • PLM
+  • Core Java
+  • EIS
+  • Agile
+  • SAFe
+  • Technical design
+  • Customization
+  • Training
+  • Story refinement
+  • Estimation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with APIs and data integration
+  • CI/CD and Git workflow experience
+  • Proven automation and reporting impact
+  • Quantified achievements (efficiency and revenue gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Windchill or PLM experience
+  • No Core Java / EIS expertise
+  • Limited explicit Agile/SAFe experience
+  • No Windchill customization or technical design examples
+  • Title misalignment (Data Analyst / Full-Stack vs Windchill Developer)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

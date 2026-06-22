@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  CBL Solutions
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4413467819
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • JavaScript
+  • Git
+  • HTML5
+  • CSS
+  • JSON
+  • Agile
+  • Linux
+  • Unit Testing
+  • CI/CD
+  • REST APIs
+  • SQL
+  • Docker
+  • BigQuery
+  • dbt
+  • Data Modeling
+  • Airflow
+  • Power BI
+  • Automation
+  • Communication
+  • System Design
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Angular
+  • Web Sockets
+  • XML
+  • Ajax
+  • MongoDB
+  • NoSQL
+  • Java
+  • JIRA
+  • J2EE
+  • Web portals
+  • Intranet applications
+  • Sequence diagram
+  • Class diagrams
+  • 6-8 yrs experience
+  • Middleware
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong JavaScript and front-end basics (HTML5/CSS/JSON)
+  • Proven CI/CD and automation experience
+  • Solid SQL and data engineering skills
+  • Experience with cloud data tools (BigQuery, dbt, Airflow)
+  • Effective communication with stakeholders
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Angular (8+) experience
+  • No Java/J2EE or middleware background
+  • No MongoDB/NoSQL experience
+  • Resume shows <6 years relevant software development experience
+  • Limited explicit systems design artifacts (sequence/class diagrams)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

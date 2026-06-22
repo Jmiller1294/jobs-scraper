@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Transformation Lead with Claude
+Company:  Lorven Technologies Inc.
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4430558472
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 63/100
+[████████████░░░░░░░░] 63%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Claude
+  • AI
+  • Python
+  • APIs
+  • PostgreSQL
+  • SQL
+  • Git
+  • Debugging
+  • Database integration
+  • ETL
+  • Workflows
+  • Automation
+  • UI development
+  • Technical design
+  • Data integration
+  • Cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Anthropic
+  • DevOps
+  • CI-CD
+  • Full SDLC
+  • Test cases
+  • Sonnet
+  • Opus
+  • Business logic
+  • Story development
+  • Bachelor’s degree
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Hands-on Python and SQL experience
+  • Proven database and ETL implementation
+  • Experience integrating APIs and data sources
+  • Version control and cross-functional collaboration
+  • Delivered measurable operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Sonnet/Opus model usage
+  • Limited DevOps/CI-CD evidence
+  • No documented end-to-end Claude Code projects
+  • Bachelor's degree present but not emphasized with AI focus
+  • Limited explicit test case/test data development
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate, Analytics & Insights
+Company:  Tishman Speyer
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414753269
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • ETL
+  • Automation
+  • Dashboards
+  • POS
+  • CRM
+  • Reporting
+  • Forecasting
+  • Data validation
+  • BigQuery
+  • Snowflake
+  • Excel
+  • A/B testing
+  • Data governance
+  • Segmentation
+  • Analytics
+  • Stakeholder communication
+  • CI/CD
+  • Git
+  • Marketing analytics
+  • Data modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • PowerPoint
+  • LLMs
+  • Agent-based workflows
+  • Revenue management
+  • Hospitality/Restaurants
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Experience building dashboards (Tableau, Power BI)
+  • Proven automation and ETL implementation
+  • Quantified business impact (revenue, efficiency gains)
+  • Cross-functional communication and stakeholder-driven insights
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit PowerPoint executive presentation examples
+  • No direct hospitality/attractions industry experience
+  • No explicit LLM/agent workflow projects
+  • Relatively short total experience (2-3 years in analytics roles)
+  • No explicit revenue management or pricing modeling references
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Synthesized complex technical data into executive-ready PowerPoint presentations, delivering clear business insights and actionable recommendations to leadership for high-stakes decision-making.
+  Integrated AI-enabled workflows, including LLM-based parsing and agent-based automation scripts, to categorize unstructured feedback and accelerate reporting turnaround times.
+  Analyzed demand, pricing, and guest behavior trends to support revenue management strategies, directly impacting conversion and top-line growth.
+  Collaborated with cross-functional stakeholders in hospitality and operations to align analytical outputs with financial reporting requirements and operational business goals.
+  Built and maintained automated performance dashboards using Power BI and Tableau, specifically tracking KPIs related to venue capacity, demand forecasting, and guest service metrics.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Associate, Analytics & Insights opportunity with Tishman Speyer. I am interested in this opportunity because Rockefeller Center is a globally recognized landmark, and I am drawn to the challenge of optimizing data-driven experiences at such a dynamic, high-traffic destination. What interests me about working for Tishman Speyer is its unique blend of heritage and forward-thinking innovation; the company’s ability to evolve the guest experience through modern, data-backed initiatives deeply inspires me. I believe my expertise in building automated, scalable data pipelines and my ability to translate raw metrics into strategic business insights would make me a strong candidate for this role. During my professional career, I have approached problems as both a technician and a business strategist. In fact, at Shine Masters, I identified a bottleneck in manual reporting and developed an automated Python-based pipeline that ingested CRM and POS data. This eliminated 8 hours of manual work per week and provided management with a 'single source of truth' that informed a 300% increase in targeted segment revenue. Ultimately, I know that the Associate, Analytics & Insights role at Tishman Speyer would allow me to bring my proficiency in SQL and Python to streamline reporting and drive operational efficiency. Additionally, my background as a Data Analyst enabled me to develop my executive communication skills. I regularly translated complex technical findings into clear, actionable presentations for stakeholders, ensuring that data-driven recommendations were always aligned with our broader business goals. I’m excited by the opportunity to use my dashboard development and automation skills in working on revenue management and guest behavior analytics at Tishman Speyer. I know that my analytical mindset and technical versatility align with what it takes to succeed in the Associate, Analytics & Insights role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Credit Analyst
+Company:  Starr
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4383813129
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Excel
+  • reporting
+  • presentation
+  • communication
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • automation
+  • data governance
+  • database
+  • analytics
+  • data validation
+  • stakeholder engagement
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • credit analysis
+  • financial statements
+  • creditworthiness
+  • reinsurance
+  • collateral
+  • credit ratings
+  • watchlists
+  • risk management
+  • regulatory
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data engineering (Python, SQL, ELT)
+  • Advanced reporting and visualization (Power BI)
+  • Quantified impact (efficiency and revenue gains)
+  • Data governance and validation experience
+  • Clear stakeholder communication and presentations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit credit/reinsurance experience
+  • Lacks demonstrated financial statement/credit metric analysis
+  • No collateral or internal rating/watchlist experience
+  • Limited industry (banking/insurance) domain background
+  • Short relevant tenure in credit-related roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

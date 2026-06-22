@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Financial Analyst - Real Estate Valuation and Advisory Services - Multiple Locations
+Company:  Houlihan Lokey
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4184307021
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Excel modeling
+  • financial analysis
+  • market research
+  • cash flow models
+  • property operating statements
+  • comparables
+  • PowerPoint
+  • portfolio valuation
+  • equity valuation
+  • debt valuation
+  • multifamily
+  • retail
+  • industrial
+  • hospitality
+  • data analysis
+  • SQL
+  • Excel
+  • reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • real estate valuation
+  • ARGUS
+  • CoStar
+  • REIS
+  • Real Capital Analytics
+  • Green Street
+  • discounted cash flow
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Excel and modeling experience
+  • Quantified operational impact
+  • SQL and data engineering skills
+  • Power BI/Tableau reporting experience
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No direct real estate valuation experience
+  • ARGUS and industry data subscription tools absent
+  • Limited years of targeted RE experience (2-3 preferred)
+  • No real estate credentials (MAI/CCIM)
+  • No explicit valuation methodologies listed (DCF)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

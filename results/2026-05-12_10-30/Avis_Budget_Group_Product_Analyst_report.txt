@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Product Analyst
+Company:  Avis Budget Group
+Location: Parsippany, NJ
+URL:      https://www.linkedin.com/jobs/view/4413560924
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • SQL
+  • Tableau
+  • Power BI
+  • A/B testing
+  • Python
+  • BigQuery
+  • Snowflake
+  • Data visualization
+  • Experimentation
+  • Data quality
+  • KPI tracking
+  • Customer journeys
+  • Funnel analysis
+  • Segmentation
+  • Dashboarding
+  • ETL
+  • Data governance
+  • Statistical models
+  • Looker
+  • Automation
+  • Stakeholder communication
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Product analytics
+  • GA4
+  • Amplitude
+  • Adobe Analytics
+  • Mixpanel
+  • PostgreSQL
+  • MySQL
+  • Retention
+  • Revenue
+  • Mobile app
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Proven dashboarding (Power BI, Tableau, Looker)
+  • A/B test design and analysis experience
+  • Quantified impact (revenue lift, efficiency gains)
+  • Data quality and governance implementation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit GA4/Adobe/Amplitude experience
+  • Limited mobile app analytics evidence
+  • Less product-titled role (Data Analyst vs Product Analyst)
+  • Relatively short total product-analytics tenure
+  • No explicit stats modeling coursework beyond applied models
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed automated tracking for customer journeys, utilizing GA4 and SQL to bridge raw event logs into actionable product analytics insights that reduced churn and improved feature adoption.
+  Integrated mobile app performance data with web analytics to perform deep-dive funnel analysis, driving a 15% increase in feature adoption through data-backed UI improvements.
+  Engineered complex SQL queries and Python-based data validation workflows to ensure high data quality for product analytics, supporting precise revenue and retention metric reporting.
+  Collaborated with cross-functional product pods to translate complex business questions into Amplitude-ready event tracking schemas, ensuring 100% instrumentation accuracy for new feature launches.
+  Analyzed user engagement and conversion funnels to inform product-led growth strategies, directly contributing to a 300% increase in high-value customer segment revenue.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Product Analyst opportunity with Avis Budget Group. I am interested in this opportunity because of the company's commitment to defining the future of mobility through data-driven, customer-focused innovation. What interests me about working for Avis Budget Group is its culture of performance and purpose, which aligns perfectly with my background in transforming raw data into high-impact business strategies. I believe my expertise in end-to-end data pipeline architecture and my proficiency in product-focused experimentation would make me a strong candidate for this role. During my professional career, I have approached problems by building 'single sources of truth' to align cross-functional teams. In fact, at Shine Masters Cleaning Services, I developed comprehensive Power BI and Looker workflows and automated sales reports that replaced manual processes, saving 8 hours per week and increasing reporting accuracy. By translating these complex technical findings into clear business recommendations, I helped stakeholders improve operational efficiency by 40% and grew targeted segment revenue by 300%. Ultimately, I know that the Product Analyst role at Avis Budget Group would allow me to bring my experience in A/B testing and statistical modeling to optimize the full digital customer journey. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my data instrumentation and technical collaboration skills. By optimizing complex SQL queries and integrating API data into PostgreSQL warehouses, I improved testing data accuracy by 60% and successfully collaborated with 14-person product teams to align technical delivery with business objectives. I am excited by the opportunity to use my background in SQL, Python, and statistical experimentation to support your web and mobile product pods. I know that my analytical rigor and communication skills align with what it takes to succeed at the Product Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

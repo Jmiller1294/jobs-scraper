@@ -1,0 +1,90 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist II
+Company:  Horizon Media
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4411524082
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • Snowflake
+  • AWS
+  • ETL
+  • A/B testing
+  • data pipeline
+  • BigQuery
+  • Git
+  • data governance
+  • product analytics
+  • campaign measurement
+  • customer segmentation
+  • data quality
+  • CI/CD
+  • Tableau
+  • Power BI
+  • statistical modeling
+  • regression
+  • API integration
+  • automation
+  • predictive modeling
+  • feature adoption
+  • ETL Pipelines
+  • Pandas
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • machine learning
+  • computer vision
+  • LLM
+  • clustering
+  • decision tree learning
+  • artificial neural networks
+  • Snowflake (advanced features)
+  • AWS infrastructure services (beyond S3)
+  • media planning
+  • retail campaign optimization
+  • conversion rate optimization
+  • channel management
+  • brand store management
+  • image/video classification
+  • object detection
+  • statistical tests
+  • media agency experience
+  • 5+ years client analytics
+  • front-end developers collaboration
+  • product management collaboration
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and pipeline development
+  • Proven A/B testing and statistical modeling
+  • Experience with Snowflake and BigQuery
+  • Data visualization and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit machine learning / CV projects
+  • Less documented AWS infrastructure experience
+  • Under 5 years in client-facing analytics roles
+  • No explicit media agency or retail campaign background
+  • Limited mention of LLMs and advanced ML techniques
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive scoring models using clustering and decision tree learning techniques to identify high-value customer segments, contributing to a 300% revenue increase.
+  Engineered Python-based computer vision workflows for image classification and object detection tasks to automate media asset analysis and improve campaign performance.
+  Conducted rigorous statistical hypothesis testing and A/B testing on multi-channel digital storefront data to drive conversion rate optimization and validate incrementality.
+  Integrated 3rd-party APIs and large-scale datasets into a cohesive analytics framework, utilizing AWS infrastructure and Snowflake to support advanced retail campaign optimization.
+  Collaborated with product managers and cross-functional engineering teams to translate business requirements into actionable machine learning use cases and production-ready data models.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Scientist II opportunity with Horizon Media. I am interested in this opportunity because of the agency's innovative approach to blending media planning with advanced AI-driven product solutions like NEON. What interests me about working for Horizon Media is its dedication to data-driven eCommerce strategy; the mission to transform complex datasets into tangible business outcomes through ensemble modeling is deeply aligned with my technical background and passion for actionable analytics. I believe my expertise in building scalable data pipelines and my ability to translate complex statistical findings into growth strategies would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and scalable architecture. In fact, while at Shine Masters, I identified a gap in reporting efficiency and developed Python-based automation to ingest POS and CRM data into a centralized framework. This effort eliminated repetitive manual entry and saved the organization 8 hours per week, while simultaneously building the statistical foundation needed to optimize marketing spend. Ultimately, I know that the Data Scientist II role at Horizon Media would allow me to bring my proficiency in Python, SQL, and predictive modeling to the development of the NEON platform. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my statistical testing skills. I led the design and execution of A/B tests for digital campaigns, providing the rigorous data validation needed to optimize audience engagement and channel management. I’m excited by the opportunity to use my background in machine learning and API integration in working on incrementality measurement and automated bid management at Horizon Media. I know that my technical versatility and commitment to data-driven storytelling align with what it takes to succeed at the Data Scientist II role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

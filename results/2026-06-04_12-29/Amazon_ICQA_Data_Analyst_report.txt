@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     ICQA Data Analyst
+Company:  Amazon
+Location: Avenel, NJ
+URL:      https://www.linkedin.com/jobs/view/4414233476
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 83/100
+[████████████████░░░░] 83%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Excel
+  • Python
+  • Tableau
+  • Power BI
+  • PostgreSQL
+  • MySQL
+  • ETL
+  • data visualization
+  • automation
+  • reporting
+  • pivot tables
+  • CTEs
+  • window functions
+  • data modeling
+  • AWS
+  • BigQuery
+  • data mining
+  • process improvement
+  • SOPs
+  • data warehouse
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • VBA macros
+  • SOX reporting
+  • Snowflake
+  • root cause analysis
+  • data storytelling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and advanced query experience
+  • Proficient in Python for ETL and analysis
+  • Experience building dashboards (Power BI, Tableau)
+  • Quantified impact on operations and KPIs
+  • Hands-on data modeling and pipeline development
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit VBA macros experience listed
+  • SOX compliance/reporting not demonstrated
+  • Limited Amazon data warehouse/Quicksight exposure
+  • Warehouse/relo floor ICQA hands-on experience absent
+  • Less than specified years in some job-relevant roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and maintained automated reporting workflows using Excel and VBA macros to track operational KPIs, ensuring 100% data accuracy for stakeholder review.
+  Collaborated on audit initiatives by preparing detailed SOX reporting documentation, identifying process gaps, and proposing data-driven corrective actions to leadership.
+  Performed extensive root cause analysis on operational defect trends, translating complex dataset findings into actionable insights for cross-functional quality improvement teams.
+  Leveraged data storytelling and advanced visualization techniques to present complex defect metrics to leadership, facilitating informed decision-making on process standards.
+  Utilized cloud-based data warehousing environments (similar to AWS architecture) to extract and clean large-scale datasets, ensuring seamless integration for analytical reporting.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the ICQA Data Analyst opportunity with Amazon. I am interested in this opportunity because of Amazon’s reputation for rigorous, data-driven operational excellence and its commitment to constant process improvement. What interests me about working for Amazon is its approach to customer-centric innovation, which inspires me because it mirrors my own philosophy that the true value of data lies in its actionable impact on business outcomes. I believe my technical proficiency in SQL and Python and my ability to conduct deep-dive root cause analysis would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on automating manual workflows to increase efficiency. In fact, at Shine Masters, I replaced manual reporting with automated Power BI dashboards and Zapier-integrated workflows. This resulted in a 40% reduction in data processing time and saved 8 hours per week, allowing for a 300% increase in new customer acquisition. Ultimately, I know that the ICQA Data Analyst role at Amazon would allow me to bring my expertise in data modeling to support daily and weekly SOX reporting and defect investigation. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my data storytelling skills. I conducted exploratory data analysis on 2M+ rows of lending data to identify risk factors, translating these statistical insights into clear reports for stakeholders. I am excited by the opportunity to use my background in Python, SQL, and Excel to work on ICQA initiatives at Amazon. I know that my analytical rigor and dedication to process improvement align with what it takes to succeed at the ICQA Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

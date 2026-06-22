@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Clinical Research Manager Licensed (RN) - Medicine Clinical Trials Office
+Company:  Mount Sinai Morningside
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4431702657
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 10/100
+[██░░░░░░░░░░░░░░░░░░] 10%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (5)
+  • project management
+  • data entry
+  • SOPs
+  • Microsoft Office 365
+  • communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • clinical research
+  • nursing
+  • CAR-T
+  • cellular therapy
+  • clinical trials
+  • patient assessment
+  • informed consent
+  • regulatory compliance
+  • IRB
+  • AE/SAE reporting
+  • supervision
+  • staff training
+  • protocol adherence
+  • phlebotomy
+  • IV placement
+  • BMT
+  • electronic health records
+  • Good Clinical Practice
+  • ACLS
+  • BCLS
+  • clinical research nursing
+  • cellular therapy coordination
+  • pharmacologic administration
+  • patient education
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis and reporting skills
+  • Documentation and SOP development
+  • Process automation and efficiency gains
+  • Cross-functional collaboration
+  • Technical proficiency (Excel, SQL, BI tools)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No nursing license or clinical credentials listed
+  • No clinical research or CAR-T experience
+  • No regulatory/IRB or GCP training noted
+  • Limited years in healthcare settings
+  • No supervisory clinical research experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

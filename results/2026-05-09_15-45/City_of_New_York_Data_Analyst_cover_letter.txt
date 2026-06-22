@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+City of New York
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Analyst position at the City of New York. With my background in data analysis, operations, and software development, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to the City of New York's commitment to evolving the criminal justice system and leveraging data to move towards a smaller jail system without compromising public safety. My experience in identifying trends, developing KPIs, and translating complex data into actionable insights aligns perfectly with OMAP's mission to drive data-driven decision-making.
+
+In my previous roles, I have developed Power BI and Looker workflows to replace manual reporting, significantly reducing data mismatches and improving work efficiency by 40%. Additionally, I created statistical models to identify high-value customer segments, which contributed to a 300% increase in revenue in the targeted segment over 12 months, directly aligning with your need for insightful reporting and strategic initiative support.
+
+I have extensive experience in collecting, cleaning, and analyzing large datasets, developing key performance indicators (KPIs), and conducting statistical analysis including descriptive statistics and regression analysis. My project experience includes architecting production-grade ELT pipelines in Python and SQL to ingest time-series economic data into BigQuery, modeling raw API data into a dbt star schema, and automating data quality validation with Great Expectations. Furthermore, I have a proven ability to create compelling data visualizations using tools such as Tableau and have experience in developing and deploying automated reports and dashboards. While my resume highlights extensive Tableau experience, I am eager to apply my analytical and data visualization skills to Dash, a tool I am keen to master within your team.
+
+I am particularly drawn to the City of New York's mission of enhancing public safety through data-informed strategies and believe my experience in data analysis, statistical modeling, and reporting would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

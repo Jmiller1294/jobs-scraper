@@ -1,0 +1,93 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Manager-Data Science
+Company:  American Express
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4403630676
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • SQL
+  • Python
+  • Customer segmentation
+  • A/B testing
+  • Experimentation
+  • Personalization
+  • Audience segmentation
+  • Funnel optimization
+  • Data products
+  • Automation
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • Git
+  • ETL/ELT
+  • Data governance
+  • Statistical modeling
+  • Reporting
+  • Digital marketing analytics
+  • Campaign measurement
+  • Stakeholder communication
+  • Metrics/KPIs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • XGBoost
+  • K-Means
+  • Clickstream analytics
+  • Identity frameworks
+  • Real-time recommender systems
+  • GenAI
+  • Semantic modeling
+  • Intelligent customer journey optimization
+  • Master's degree
+  • Salesforce CRM (deep integration)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proven segmentation and targeting impact (300% revenue lift)
+  • Experimentation and A/B testing experience
+  • Experience with cloud warehouses (Snowflake, BigQuery)
+  • Clear stakeholder communication and reporting automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit ML models like XGBoost documented
+  • No Master’s degree listed
+  • Limited mention of GenAI or semantic modeling
+  • No explicit clickstream or identity-framework experience
+  • No explicit real-time recommender system experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Transformed user feedback into production-ready code using Python and SQL, addressing friction points in the UI and driving a 15% increase in feature adoption.
+  Developed analytical solutions using Python and SQL, building and enhancing models for customer segmentation and personalization to improve targeting accuracy, such as identifying high-value customer segments that contributed to a 300% increase in revenue.
+  Designed and executed A/B tests for digital marketing campaigns, leveraging experimentation frameworks to measure audience response and lift, providing statistical evidence to optimize marketing spend and funnel performance.
+  Championed innovation by integrating emerging GenAI techniques (demonstrated interest via a personal project/certification) into analytical workflows to enhance targeting precision and analytical productivity.
+  Leveraged cloud data warehouses like Snowflake and BigQuery, alongside Python, to architect and automate ELT pipelines, ensuring data quality and enabling fast reporting and forecasting for enhanced decision-making.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Senior Manager-Data Science opportunity with American Express. I am interested in this opportunity because of American Express's industry leadership in customer acquisition and its commitment to leveraging data and advanced analytics to shape digital experiences.
+
+What interests me about working for American Express is its approach to empowering its customers and colleagues with data-driven insights. This excites, inspires, and intrigues me because it aligns with my passion for transforming raw data into actionable strategies that drive significant business growth.
+
+I believe my experience in developing impactful analytical solutions and my proficiency in data-driven experimentation would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on measurable impact and efficiency. In fact, at Shine Masters Cleaning Services, I developed statistical models to identify high-value customer segments, which directly informed targeted marketing initiatives and contributed to a 300% increase in revenue within that segment over 12 months. This demonstrates my ability to translate complex data analysis into tangible business outcomes.
+
+Ultimately, I know that the Senior Manager-Data Science role at American Express would allow me to bring my expertise in customer segmentation and data-driven strategy to optimizing the Corporate customer acquisition engine. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my automation and reporting skills. I built Python automation for weekly sales and operations reports, saving 8 hours per week and improving reporting accuracy for faster strategic decisions.
+
+I’m excited by the opportunity to use my skills in experimentation and data product development in working on audience segmentation and personalization at American Express. I know that my expertise in SQL, Python, and A/B testing aligns with what it takes to succeed at the Senior Manager-Data Science role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

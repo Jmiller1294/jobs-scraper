@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Product Builder
+Company:  Whalar Group
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414273117
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 67/100
+[█████████████░░░░░░░] 67%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • automation
+  • ETL/ELT
+  • data pipelines
+  • CI/CD
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Git
+  • APIs
+  • A/B testing
+  • data quality
+  • data governance
+  • production deployments
+  • stakeholder collaboration
+  • analytics
+  • metrics
+  • design
+  • logging
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • agent
+  • evals
+  • observability
+  • prototyping
+  • product
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL engineering
+  • Built production ETL/ELT pipelines
+  • Proven automation saving time
+  • Experience with BI and dashboards
+  • Quantified impact on revenue and efficiency
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit agent/LLM agent experience
+  • No named-model eval frameworks used
+  • Limited explicit product/UX prototyping evidence
+  • Observability/dashboard for agents not shown
+  • No direct AI-native agent deployments noted
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

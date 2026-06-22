@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr. LOAN IQ Business Analyst SME
+Company:  COVET IT INC
+Location: Whippany, NJ
+URL:      https://www.linkedin.com/jobs/view/4426098000
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 35/100
+[███████░░░░░░░░░░░░░] 35%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • SQL
+  • ETL
+  • PostgreSQL
+  • Power BI
+  • Data Modeling
+  • Python
+  • ETL Pipelines
+  • Data Analysis
+  • Reporting
+  • JIRA
+  • Confluence
+  • Dashboards
+  • Automation
+  • Data Integration
+  • Git
+  • Tableau
+  • Advanced Excel
+  • SOPs
+  • Risk Analysis
+  • Cloud
+  • Snowflake
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Loan IQ
+  • LOAN IQ
+  • Business Analyst
+  • SME
+  • LOAN IQ-based projects
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL expertise
+  • Experience building ETL pipelines
+  • Power BI and dashboard development
+  • Quantified impact on efficiency and acquisition
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Loan IQ experience listed
+  • Not titled as Loan IQ BA or SME
+  • Limited banking/loan system domain evidence
+  • Short duration in relevant fintech roles
+  • No explicit Loan IQ-based project deliverables
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

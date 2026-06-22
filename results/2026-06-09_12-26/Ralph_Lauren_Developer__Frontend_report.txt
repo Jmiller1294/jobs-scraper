@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Developer, Frontend
+Company:  Ralph Lauren
+Location: Nutley, NJ
+URL:      https://www.linkedin.com/jobs/view/4422722149
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (5)
+  • Git
+  • RESTful APIs
+  • Responsive design
+  • JavaScript
+  • Node.js
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • React.js
+  • Next.js
+  • TypeScript
+  • Redux
+  • Context API
+  • Zustand
+  • HTML5
+  • CSS3
+  • Figma
+  • Webpack
+  • Vite
+  • Babel
+  • NPM/Yarn
+  • GraphQL
+  • Jest
+  • React Testing Library
+  • Cypress
+  • CI/CD
+  • Salesforce Commerce Cloud
+  • E-commerce
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Version control (Git)
+  • API integration experience
+  • Operations automation impact (quantified)
+  • Data modeling and ETL skills
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Lacks front-end React/Next.js experience
+  • No TypeScript proficiency listed
+  • Limited HTML/CSS and responsive UI evidence
+  • No testing framework experience shown
+  • No e-commerce or SFCC domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

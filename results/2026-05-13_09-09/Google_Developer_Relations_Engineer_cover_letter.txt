@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Developer Relations Engineer opportunity with Google. I am interested in this opportunity because Google's commitment to empowering developers and fostering vibrant technology communities deeply resonates with my own passion for building and sharing knowledge. What interests me about working for Google is its pioneering approach to cloud business intelligence through Looker. This focus on enabling data-driven decision-making at scale excites and inspires me because it aligns perfectly with my experience in transforming complex data into accessible insights.
+
+I believe my experience in building data pipelines and my passion for clear data communication would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency, accuracy, and actionable outcomes. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports by ingesting POS and CRM data, eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions. This resulted in improved operational efficiency and empowered faster strategic decisions.
+
+Ultimately, I know that the Developer Relations Engineer role at Google would allow me to bring my expertise in data automation and pipeline development to advocating for external developer requirements and building public content for external developers and users. Additionally, my experience building the FRED Economic Batch Pipeline project enabled me to develop my open-source contribution and CI/CD skills. By architecting a production-grade ELT pipeline in Python and SQL to ingest time-series economic data into BigQuery, modeling raw API data into a dbt star schema, and automating data quality validation with Great Expectations, deploying the final solution via a GitHub Actions CI/CD pipeline, I demonstrated robust development practices.
+
+I’m excited by the opportunity to use my data storytelling and presentation skills in working on Google Cloud's Business Intelligence applications, including Looker, at Google. I know that my technical proficiency in Python, SQL, and BigQuery, combined with my proven ability to translate complex data into understandable insights, aligns with what it takes to succeed at the Developer Relations Engineer role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

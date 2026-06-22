@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Engineer, Backend
+Company:  Betterment
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4340612071
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • AWS S3
+  • ETL
+  • Python
+  • Git
+  • data modeling
+  • relational databases
+  • query optimization
+  • Power BI
+  • Tableau
+  • data pipelines
+  • JIRA
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • distributed systems
+  • scaling
+  • Java
+  • algorithms
+  • data structures
+  • system design
+  • mentoring
+  • project leadership
+  • tests
+  • performance
+  • security
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB experience
+  • ETL and data pipeline development
+  • Python data engineering skills
+  • Dashboarding and reporting (Power BI, Tableau)
+  • Query optimization and data modeling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited backend engineering / Java experience
+  • No explicit large-scale distributed systems work
+  • Under 10 years professional experience
+  • Few documented leadership/mentorship roles
+  • Lack of demonstrated system design and algorithm depth
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

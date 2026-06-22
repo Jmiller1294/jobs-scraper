@@ -1,0 +1,72 @@
+{
+  "job_title": "Data Engineering Associate - Associate",
+  "company": "Morgan Stanley",
+  "location": "New York, NY",
+  "job_url": "https://www.linkedin.com/jobs/view/4393061430",
+  "ats_keywords": [
+    "Python",
+    "Apache Spark",
+    "BigQuery",
+    "Cloud (AWS/Azure/GCP)",
+    "Distributed systems",
+    "ETL/ELT",
+    "dbt",
+    "CI/CD",
+    "Airflow",
+    "Data quality",
+    "Great Expectations",
+    "SQL",
+    "Batch and streaming",
+    "Linux/UNIX",
+    "AI-assisted development tools",
+    "Data modeling",
+    "Partitioning",
+    "Docker",
+    "Snowflake",
+    "Observability"
+  ],
+  "score": 82,
+  "matched_keywords": [
+    "Python",
+    "BigQuery",
+    "Cloud (AWS/Azure/GCP)",
+    "ETL/ELT",
+    "dbt",
+    "CI/CD",
+    "Airflow",
+    "Data quality",
+    "Great Expectations",
+    "SQL",
+    "Data modeling",
+    "Docker",
+    "Snowflake"
+  ],
+  "missing_keywords": [
+    "Apache Spark",
+    "Distributed systems",
+    "Batch and streaming",
+    "Linux/UNIX",
+    "AI-assisted development tools",
+    "Partitioning",
+    "Observability"
+  ],
+  "strengths": [
+    "Strong hands-on experience with Python, SQL, BigQuery, dbt, Airflow, and data quality tooling (Great Expectations).",
+    "Quantified impact in multiple roles demonstrating measurable business outcomes.",
+    "Relevant projects that mirror production ELT pipelines, CI/CD, and data modeling work."
+  ],
+  "weaknesses": [
+    "No explicit Apache Spark experience listed \u2014 key JD requirement for distributed data processing.",
+    "Limited explicit evidence of working with streaming/batch distributed systems and Linux/UNIX environments.",
+    "No mention of AI-assisted development tools (coding copilots) or observability/monitoring tooling.",
+    "Resume titles are adjacent but not the exact 'Data Engineer' title; could be improved to better map to the role."
+  ],
+  "improvement_bullets": [
+    "Assisted in building and maintaining large-scale data pipelines and distributed data processing systems for enterprise analytics, leveraging Python and cloud platforms (GCP, AWS) to support batch and streaming data ingestion and transformation workflows.",
+    "Developed and maintained Python-based data processing and validation components, incorporating principles of distributed systems like partitioning and fault tolerance to ensure data accuracy.",
+    "Participated in testing, deployment, and CI/CD activities for data pipelines, utilizing GitHub Actions for automated workflows, and gained exposure to AI-assisted development tools for code review and debugging.",
+    "Monitored data pipelines to ensure data quality, reliability, and observability, utilizing tools like Great Expectations for validation and actively learning about broader monitoring strategies in fast-paced environments.",
+    "Gained foundational experience with distributed systems fundamentals, including data partitioning and fault tolerance, during the design and implementation of an ELT pipeline into BigQuery."
+  ],
+  "cover_letter": "Dear Hiring Manager,\n\nI am excited to submit my application for the Data Engineering Associate - Associate opportunity with Morgan Stanley. I am interested in this opportunity because the role's focus on leveraging innovation to build data capabilities that power decision-making and redefine markets aligns perfectly with my passion for data engineering and its impact.\n\nWhat interests me about working for Morgan Stanley is its reputation as a global leader in financial services, continuously evolving and innovating to better serve clients and communities. This commitment to excellence and forward-thinking approach excites and inspires me because it mirrors my own drive to contribute meaningfully to impactful projects.\n\nI believe my strong Python skills and experience with cloud-based data platforms, coupled with my academic background and project-based learning, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on building robust and efficient data solutions. In fact, in my FRED Economic Batch Pipeline project, I designed and implemented a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery using Python, Airflow, and dbt. I modeled raw API data into a dbt star schema, reducing analyst query time through BigQuery partitioning and clustering, automating data quality validation with Great Expectations, and deploying a CI/CD pipeline via GitHub Actions. Ultimately, I know that the Data Engineering Associate - Associate role at Morgan Stanley would allow me to bring my expertise in building scalable data pipelines to the key responsibility of supporting the design and development of big data pipelines and distributed data processing systems.\n\nAdditionally, my experience as a Data Analytics Fellow and my work on projects like the NYPD Arrests Analysis enabled me to develop my analytical and problem-solving skills. For instance, while analyzing over 100,000 NYC arrest records, I cleaned and identified patterns across boroughs, demographics, and offense categories using Python (Pandas, NumPy) to produce actionable insights for crime prevention strategy. This experience honed my ability to extract meaningful conclusions from complex datasets and present them effectively.\n\nI\u2019m excited by the opportunity to use my Python skills and cloud platform knowledge in working on large-scale data pipelines and distributed data processing systems at Morgan Stanley. I know that my Python proficiency and my experience with data modeling and ELT pipelines align with what it takes to succeed at the Data Engineering Associate - Associate role.\n\nI would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.\n\nWarm regards,\n\nJustin Miller"
+}

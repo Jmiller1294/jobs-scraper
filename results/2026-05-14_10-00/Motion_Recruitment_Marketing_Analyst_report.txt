@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Marketing Analyst
+Company:  Motion Recruitment
+Location: Englewood Cliffs, NJ
+URL:      https://www.linkedin.com/jobs/view/4414606537
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Excel
+  • Pivot Tables
+  • VLOOKUP
+  • Reporting
+  • PowerPoint
+  • Cross-functional collaboration
+  • Presentation
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • Campaign measurement
+  • Salesforce CRM
+  • Data analysis
+  • Forecasting
+  • A/B testing
+  • Stakeholder communication
+  • Project management
+  • Customer segmentation
+  • Business recommendations
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Product marketing
+  • Sales reporting
+  • Inventory/SCM
+  • Vendor/contract administration
+  • Marketing assets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Excel and reporting skills
+  • Hands-on data analysis with SQL/Python
+  • Proven quantified impact (revenue, efficiency)
+  • Cross-functional collaboration experience
+  • Presentation and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit TV product marketing experience
+  • No clear SCM/aging inventory ownership
+  • Some experience leans technical/analytics-heavy
+  • Shorter tenure in product-focused roles
+  • Potential overqualification in advanced analytics tools
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with product, sales, and supply chain teams to consolidate monthly sales reporting and demand forecasting, ensuring alignment with quarterly revenue targets.
+  Managed cross-functional product marketing initiatives, coordinating the development of marketing assets and advertisements to drive brand awareness for new product launches.
+  Oversaw administrative vendor coordination and contract execution, maintaining meticulous documentation and approval workflows to support product marketing operations.
+  Analyzed aging inventory and available-to-sell (ATS) reports to provide actionable recommendations for supply chain management and product liquidation strategies.
+  Partnered with integrated marketing and PR teams to align product messaging with competitive market trends, directly influencing regional sales performance.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Marketing Analyst opportunity with Motion Recruitment. I am interested in this opportunity because of the unique blend of data-driven strategy and hands-on product marketing operations required to support your TV business division. What interests me about working for Motion Recruitment is its reputation for agility and high-impact placement, which intrigues me because of my own background in driving operational efficiency. I believe my expertise in data-driven sales reporting and my cross-functional project management skills would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex data into clear business strategy. In fact, at Shine Masters, I identified high-value customer segments through statistical modeling and translated these findings into actionable marketing initiatives. This resulted in a 300% increase in revenue for the targeted segment over 12 months, demonstrating my ability to tie analytical insights directly to business growth. Ultimately, I know that the Marketing Analyst role at Motion Recruitment would allow me to bring my analytical rigor to support your TV Product Marketing team’s monthly and quarterly targets. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my supply chain and inventory awareness skills. I managed the ingestion of POS and CRM data to optimize weekly operations, identifying data mismatches that were hindering performance. This led to a 40% improvement in work efficiency and a significant reduction in reporting discrepancies, directly supporting leadership’s decision-making process. I’m excited by the opportunity to use my cross-functional collaboration skills in working on product performance and SCM strategies at Motion Recruitment. I know that my background in reporting and my ability to synthesize sales data align with what it takes to succeed in the Marketing Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

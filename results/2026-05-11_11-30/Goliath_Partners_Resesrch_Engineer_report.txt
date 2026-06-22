@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Resesrch Engineer
+Company:  Goliath Partners
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4412795463
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • Git
+  • ETL/ELT
+  • Data pipeline
+  • Pandas
+  • NumPy
+  • PostgreSQL
+  • Automation
+  • CI/CD
+  • Data quality
+  • Power BI
+  • Tableau
+  • Performance optimization
+  • A/B testing
+  • Modeling
+  • Production
+  • Cloud (AWS S3)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • C++
+  • Low-latency
+  • Real-time systems
+  • High-performance engineering
+  • Machine learning research
+  • Model deployment (ML infra)
+  • Inference optimization
+  • GPU
+  • Distributed systems
+  • Low-level systems programming
+  • Latency profiling
+  • Quantitative trading
+  • Time-series modeling
+  • Feature engineering
+  • Model monitoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ELT/data pipelines
+  • Proven automation and CI/CD delivery
+  • Quantified impact (revenue, efficiency gains)
+  • Familiar with cloud data platforms
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C++ or low-level systems experience
+  • Limited ML model production/deployment evidence
+  • No explicit low-latency or real-time systems work
+  • Lack of quantitative trading or finance domain experience
+  • No GPU or distributed systems experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

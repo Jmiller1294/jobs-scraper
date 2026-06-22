@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Transmission Analyst
+Company:  Brookfield Renewable N.A.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4407857700
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • R
+  • SQL
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • Data modeling
+  • ETL
+  • Time series
+  • PostgreSQL
+  • Data integrity
+  • Reporting
+  • Cross-functional collaboration
+  • Automation
+  • Visualization
+  • Quantitative analysis
+  • Cloud (Snowflake, BigQuery)
+  • Analytical support
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Dayzer
+  • Plexos
+  • PROMOD
+  • Nodal price forecasting
+  • LMP
+  • US bulk power system
+  • Transmission modeling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience with Power BI and Tableau
+  • Advanced Excel and visualization skills
+  • ETL and data modeling experience
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit transmission modeling tool experience
+  • Limited or no market/ISO LMP knowledge
+  • Only 1–3 years domain experience not demonstrated
+  • No electrical engineering or power-market education
+  • No explicit Dayzer/PLEXOS/PROMOD usage
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

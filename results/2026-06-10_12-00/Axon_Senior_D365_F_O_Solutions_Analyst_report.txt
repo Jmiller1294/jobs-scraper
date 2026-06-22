@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior D365 F&O Solutions Analyst
+Company:  Axon
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4407450802
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Power BI
+  • Power Automate
+  • SQL
+  • Python
+  • ETL
+  • Data Modeling
+  • Reporting / Dashboards
+  • Process Automation
+  • Integrations
+  • Data Integrity
+  • JIRA
+  • Confluence
+  • Snowflake
+  • BigQuery
+  • Tableau
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Dynamics 365 F&O
+  • Supply Chain Management
+  • Finance / GL
+  • Copilot Studio
+  • Azure
+  • AI integrations
+  • Power Platform
+  • AP/AR
+  • Inventory Management
+  • Requirements gathering
+  • Copilot Studio
+  • MCP
+  • X++
+  • LCS
+  • Azure DevOps ALM
+  • Cost Accounting
+  • Procurement & Sourcing
+  • Month-end close
+  • GAAP
+  • Agentic workflows
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Power BI dashboard development with measurable impact
+  • Process automation experience (Zapier, Power Automate listed)
+  • Cross-functional collaboration and documentation (JIRA/Confluence)
+  • Cloud and data warehouse exposure (Snowflake, BigQuery, AWS S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No hands-on Dynamics 365 F&O experience
+  • Limited explicit Finance / GL or accounting depth (AP/AR, month-end)
+  • No demonstrated Copilot Studio / MCP or Azure AI deployments
+  • Lacks D365 technical concepts (X++, LCS, Azure DevOps ALM)
+  • Experience years in D365 domain below required 7+
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Oscar Health
+
+Dear Hiring Manager,
+
+I am excited to apply for the Associate, Data Analytics (NYC - Hybrid) position at Oscar Health. With my background in data analytics, operations leadership, and software development, I am confident I would be a strong addition to your team.
+
+Oscar's mission to create a health insurance company that acts like a doctor in the family deeply resonates with me. I am particularly impressed by Oscar's commitment to leveraging technology to achieve this goal and believe my skills in data analysis and operational efficiency can contribute significantly to your member-centric approach.
+
+In my previous roles, I have developed advanced analytical workflows and translated complex data into actionable business strategies. Additionally, I have experience building and optimizing data pipelines, identifying inefficiencies, and presenting findings to stakeholders, which directly aligns with your need for generating insights and supporting data-driven decisions across the organization.
+
+At Shine Masters Cleaning Services, I developed Power BI and Looker workflows that replaced manual reporting, improving efficiency by 40% and reducing data mismatches. I also built Python automation for weekly reports, saving 8 hours per week and enhancing reporting accuracy. Furthermore, I designed and executed A/B tests for marketing campaigns, providing data-driven insights for optimization. My project analyzing FRED Economic data involved architecting a production-grade ELT pipeline using Python, SQL, Snowflake, and BigQuery, demonstrating my ability to work with large datasets and distill relevant insights. My NYPD Arrests Analysis project utilized Pandas and NumPy to identify demographic and geographic patterns, culminating in an interactive Tableau dashboard and a data storytelling presentation to translate statistical insights into actionable recommendations, showcasing my ability to present analysis to leadership.
+
+I am particularly drawn to Oscar Health's mission of changing healthcare and believe my experience in data analysis, stakeholder communication, and driving operational improvements would allow me to contribute meaningfully from day one. I am eager to apply my expertise in SQL, Python (Pandas), Looker, Power BI, and Tableau to identify and address inefficiencies within your clinical data analytics. While my direct healthcare industry experience is developing, my proven ability to quickly master new domains and apply analytical rigor to complex problems positions me for success.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

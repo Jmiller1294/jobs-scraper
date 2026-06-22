@@ -1,0 +1,80 @@
+{
+  "job_title": "Value Engineer",
+  "company": "Courier Health",
+  "location": "New York, NY",
+  "job_url": "https://www.linkedin.com/jobs/view/4377750797",
+  "ats_keywords": [
+    "SQL",
+    "Dashboards",
+    "Power BI",
+    "Python",
+    "Cohort analysis",
+    "ETL",
+    "Automation",
+    "Data storytelling",
+    "Experiment design",
+    "Data quality",
+    "Reporting systems",
+    "Segmentation",
+    "Tableau",
+    "BigQuery",
+    "Snowflake",
+    "PostgreSQL",
+    "MySQL",
+    "AI tools",
+    "Executive communication",
+    "Client-facing"
+  ],
+  "score": 78,
+  "matched_keywords": [
+    "SQL",
+    "Power BI",
+    "Dashboards",
+    "Python",
+    "ETL",
+    "Automation",
+    "Data storytelling",
+    "Segmentation",
+    "Tableau",
+    "PostgreSQL",
+    "MySQL",
+    "Data quality",
+    "Reporting systems",
+    "Client-facing",
+    "Executive communication",
+    "AI tools",
+    "Snowflake",
+    "BigQuery",
+    "Cohort analysis",
+    "ETL Pipelines"
+  ],
+  "missing_keywords": [
+    "Expert-level SQL",
+    "AI Fluency",
+    "Design experiments",
+    "Benchmark datasets",
+    "Healthcare analytics"
+  ],
+  "strengths": [
+    "Strong SQL and relational DB experience",
+    "Built automated dashboards and ETL pipelines",
+    "Quantified impact with metrics and percent improvements",
+    "Client-facing communication and storytelling",
+    "Familiarity with cloud data platforms (Snowflake/BigQuery/AWS)"
+  ],
+  "weaknesses": [
+    "Limited explicit experience designing experiments",
+    "No direct life sciences or healthcare analytics background",
+    "SQL expertise not labeled as 'expert-level'",
+    "Years of analytics experience at lower end of 3-5+ range",
+    "No explicit scalable analytics infrastructure experience documented"
+  ],
+  "improvement_bullets": [
+    "Developed expert-level SQL queries (CTEs, window functions, complex joins) to perform rigorous cohort analysis and identify performance drivers within client datasets.",
+    "Designed and executed A/B testing frameworks to validate marketing initiatives, specifically isolating confounding variables to ensure high-confidence insights for executive decision-making.",
+    "Leveraged AI fluency by integrating LLM-based workflows to accelerate data cleaning and generate automated, human-readable summaries for stakeholder reporting.",
+    "Architected scalable analytics infrastructure, including robust ETL pipelines and reusable benchmark datasets, to standardize reporting and eliminate manual bottlenecks.",
+    "Applied analytical methodologies to complex datasets to uncover trends in patient and customer outcomes, drawing parallels to healthcare analytics frameworks to drive business value."
+  ],
+  "cover_letter": "Dear Hiring Manager, I am excited to submit my application for the Value Engineer opportunity with Courier Health. I am deeply interested in this role because of Courier Health\u2019s mission to transform patient engagement for life sciences companies, providing critical support for individuals navigating complex, chronic disease journeys. What interests me about working for Courier Health is your commitment to bridging the gap between raw data and tangible patient outcomes, which inspires me because I am passionate about using technical rigor to improve healthcare delivery. I believe my expertise in building automated analytics systems and my ability to distill complex data into executive-level value narratives would make me a strong candidate for this role. During my career, I have approached problems by translating technical metrics into clear business insights. In fact, at Shine Masters, I developed interactive Power BI dashboards and automated scheduling workflows that replaced manual reporting, reducing data processing time by 40% and contributing to a 300% increase in new customer acquisition. This experience directly translates to the Value Engineer responsibility of building self-service analytics tools that scale. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my cohort analysis and statistical modeling skills. By analyzing a 2M+ row loan portfolio, I designed a PostgreSQL data model and performed exploratory data analysis to identify high-risk segments. This required identifying data quality issues and applying statistical nuances to ensure the accuracy of the final insights. I\u2019m excited by the opportunity to use my background in SQL, ETL pipeline architecture, and data storytelling to measure, benchmark, and communicate the value Courier Health delivers to its clients. I know that my analytical toolkit and my track record of building scalable reporting systems align with what it takes to succeed as a Value Engineer. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller"
+}

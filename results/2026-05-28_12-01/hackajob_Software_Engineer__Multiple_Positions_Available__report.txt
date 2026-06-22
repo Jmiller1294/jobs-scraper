@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer [Multiple Positions Available]
+Company:  hackajob
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4419067737
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Docker
+  • CI/CD
+  • SQL
+  • Python
+  • Observability
+  • RESTful API
+  • Caching
+  • Cloud
+  • GitHub Actions
+  • Automated testing
+  • Postgres
+  • Performance tuning
+  • Airflow
+  • ETL
+  • dbt
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Java
+  • Spring Boot
+  • Linux
+  • Kafka
+  • Microservices
+  • Junit
+  • Multithreading
+  • SonarQube
+  • AngularJS
+  • Blazemeter
+  • Dynatrace
+  • Grafana
+  • Splunk
+  • OAuth
+  • Groovy
+  • Visio
+  • Confluence
+  • Retry policies
+  • Circuit breaker
+  • Raven
+  • Prepared statements
+  • Caching Techniques (advanced)
+  • Pair programming
+  • Bitbucket Repo
+  • Server Management tools
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data engineering skills
+  • Experience with Python and ETL pipelines
+  • Cloud data platform experience (BigQuery, GCS)
+  • Familiarity with Docker and Postgres
+  • CI/CD automation with GitHub Actions
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated Java/Spring Boot microservices experience
+  • Limited evidence of multithreading or async processing
+  • Lacks explicit Kafka or streaming-platform experience
+  • No mention of observability tools like Dynatrace/Grafana/Splunk
+  • Under 7 years of required industry experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

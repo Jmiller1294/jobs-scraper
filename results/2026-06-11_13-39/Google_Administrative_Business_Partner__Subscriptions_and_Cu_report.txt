@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Administrative Business Partner, Subscriptions and Customer Growth Marketing
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4426617915
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Google Suite
+  • Microsoft Office
+  • project management
+  • cross-functional collaboration
+  • process improvement
+  • SOP documentation
+  • scheduling automation
+  • documentation (Confluence)
+  • ticket tracking (JIRA)
+  • communication
+  • team coordination
+  • data-driven insights
+  • meeting logistics
+  • confidentiality
+  • time zone coordination
+  • task prioritization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • calendar management
+  • travel booking
+  • expense tracking
+  • facilities coordination
+  • event planning
+  • autonomy
+  • executive support
+  • budget tracking
+  • stakeholder management
+  • meeting logistics
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data-driven process improvements
+  • cross-functional collaboration experience
+  • automation of scheduling/workflows
+  • documentation and SOP creation
+  • advanced Google/Microsoft tooling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited explicit executive-level admin experience
+  • no clear calendar management examples
+  • no travel or expense reports evidence
+  • no documented event/offsite planning
+  • unclear multi-timezone scheduling experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

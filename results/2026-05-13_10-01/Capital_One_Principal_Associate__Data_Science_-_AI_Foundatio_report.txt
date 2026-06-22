@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal Associate, Data Science - AI Foundations
+Company:  Capital One
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4403053602
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • AWS
+  • BigQuery
+  • Snowflake
+  • Git
+  • ETL
+  • data pipeline
+  • CI/CD
+  • A/B testing
+  • statistical modeling
+  • data governance
+  • data visualization
+  • production deployment
+  • machine learning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • NLP
+  • LLM
+  • GenAI
+  • PySpark
+  • HuggingFace Transformers
+  • vLLM
+  • VectorDBs
+  • LangChain
+  • model tuning
+  • cloud (broader platforms)
+  • inference optimization
+  • multi-agentic workflow
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Built production-grade ELT pipelines
+  • Quantified impact (revenue growth, efficiency gains)
+  • Experience with BigQuery and Snowflake
+  • CI/CD and automation familiarity
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit NLP/LLM experience
+  • Limited PySpark and distributed ML tooling
+  • HuggingFace/LLM frameworks not listed
+  • Sparse AWS breadth beyond S3
+  • No explicit inference optimization or multi-agent experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

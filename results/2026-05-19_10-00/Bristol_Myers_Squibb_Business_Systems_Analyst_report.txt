@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Systems Analyst
+Company:  Bristol Myers Squibb
+Location: Summit, NJ
+URL:      https://www.linkedin.com/jobs/view/4413328225
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Test scripts
+  • SOP
+  • Work instructions
+  • Training users
+  • System implementation
+  • SDLC
+  • Documentation
+  • Stakeholder communication
+  • Project management
+  • Data modeling
+  • SQL
+  • Python
+  • Power BI
+  • Microsoft Windows
+  • Analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • SAP S4/Hana
+  • EWM
+  • Testing
+  • Manufacturing
+  • Quality (QM)
+  • Procurement (MM)
+  • Warehouse (WM/eWM)
+  • Vendor/third-party support
+  • Troubleshooting
+  • Change management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong analytics and data tooling (SQL, Python, Power BI)
+  • Documentation and SOP creation
+  • Experience with SDLC and implementations
+  • Training and user-facing communication
+  • Project coordination and stakeholder alignment
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SAP S4/Hana experience listed
+  • No EWM/WM/MM/QM module experience
+  • No manufacturing or life-science/FDA experience
+  • Limited vendor/third-party SAP support background
+  • No explicit troubleshooting of SAP systems
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

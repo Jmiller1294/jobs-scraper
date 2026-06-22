@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Vernovis
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413993188
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • dbt
+  • CI/CD
+  • APIs
+  • Airflow
+  • BigQuery
+  • Snowflake
+  • Docker
+  • GitHub Actions
+  • Data modeling
+  • Great Expectations
+  • Spark workloads
+  • Data engineering
+  • ELT pipeline
+  • Feature engineering
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Databricks
+  • Spark
+  • Azure
+  • ML/AI
+  • RAG
+  • GenAI
+  • MLFlow
+  • PyTorch
+  • TensorFlow
+  • Scikit-Learn
+  • Vector search
+  • Observability
+  • APIM
+  • Entra
+  • Unity Catalog
+  • Workspace management
+  • Medallion architecture
+  • LLM orchestration
+  • Production-level AI/ML deployment
+  • Azure Databricks
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ELT/ETL pipeline development
+  • dbt modeling and data quality (Great Expectations)
+  • CI/CD via GitHub Actions
+  • Cloud experience (BigQuery, Snowflake, Docker)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Databricks/Azure Databricks experience listed
+  • No Spark or PySpark evidence
+  • Limited/No ML framework experience (TensorFlow/PyTorch/MLFlow)
+  • No explicit GenAI, RAG, or vector search experience
+  • No Azure platform services (APIM/Entra) or medallion architecture
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

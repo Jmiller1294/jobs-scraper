@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Data Engineer(NJ/NY US Citizens only)
+Company:  Global Solutions Group, Inc.
+Location: Red Bank, NJ
+URL:      https://www.linkedin.com/jobs/view/4416166351
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Snowflake
+  • SQL
+  • Python
+  • Airflow
+  • CI/CD
+  • Git
+  • Data modeling
+  • ELT/ETL
+  • BigQuery
+  • dbt
+  • Data quality
+  • Great Expectations
+  • JavaScript
+  • Postgres
+  • Docker
+  • Cloud
+  • GCS
+  • Testing
+  • Tableau
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Spark
+  • Scala
+  • Informatica
+  • Automic
+  • Metadata
+  • Data lineage
+  • Shell scripting
+  • Performance engineering
+  • Jira
+  • Confluence
+  • 12+ years experience
+  • 5+ years Snowflake
+  • Snowflake data warehouse
+  • Enterprise data solution design
+  • Strong communication
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on Airflow and CI/CD (GitHub Actions)
+  • Experience with Snowflake and BigQuery
+  • Implemented data quality with Great Expectations
+  • Delivered measurable business impact via automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Total experience well below 12+ years
+  • No Spark or Scala experience listed
+  • No Informatica/Automic or explicit orchestration alternatives
+  • Limited explicit Snowflake warehouse development details
+  • Missing Jira/Confluence and metadata/lineage experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

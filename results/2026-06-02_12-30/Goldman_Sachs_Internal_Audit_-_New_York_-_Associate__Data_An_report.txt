@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Internal Audit - New York - Associate, Data Analytics - 3765660
+Company:  Goldman Sachs
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4403630533
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • SQL
+  • Tableau
+  • Time Series
+  • Regression
+  • ETL
+  • Git
+  • Agile
+  • PostgreSQL
+  • Pandas
+  • Automation
+  • Data Modeling
+  • Data Visualization
+  • Cloud (Snowflake/AWS/BigQuery)
+  • Power BI
+  • Data Quality
+  • JIRA
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Machine Learning
+  • NLP
+  • CI/CD
+  • Audit
+  • Continuous Monitoring
+  • Statistics
+  • Docker
+  • Qlik
+  • Java
+  • C++
+  • SVM
+  • Random Forest
+  • Boosting
+  • Clustering
+  • Pattern Recognition
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data modeling experience
+  • Proven visualization/dashboard delivery (Tableau/Power BI)
+  • Quantified impact in prior roles
+  • Experience with cloud data platforms
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit audit experience
+  • No stated CI/CD pipeline or Docker usage
+  • Machine learning and NLP not demonstrated in projects
+  • Less than three years in some relevant roles prior to 2026
+  • No Java/C++ experience listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and deployed automated audit testing scripts using Python, incorporating Machine Learning algorithms (Random Forest, Clustering) to identify anomalies and patterns in high-volume financial datasets.
+  Integrated Continuous Monitoring (CI/CD) pipelines within Git workflows to ensure high-quality, production-ready code for automated data reporting and risk assessment tools.
+  Applied statistical rigor to audit planning by utilizing descriptive statistics and regression analysis to build predictive data distribution models, facilitating proactive risk assessment.
+  Implemented NLP techniques using Python to extract and categorize key information from unstructured audit documentation, improving document review efficiency by 30%.
+  Partnered with cross-functional teams to execute audit engagements, ensuring compliance with firm-wide standards while utilizing SQL to facilitate ad-hoc analysis for population re-performance testing.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Internal Audit - New York - Associate, Data Analytics - 3765660 opportunity with Goldman Sachs. I am interested in this opportunity because of Goldman Sachs' reputation for setting the global standard in financial risk management and the firm's dedication to leveraging cutting-edge analytics to maintain rigorous audit integrity. What interests me about working for Goldman Sachs is its proactive approach to digital transformation within the Audit division, which inspires me because I am passionate about applying data-driven solutions to complex regulatory challenges. I believe my expertise in Python-based automation and my proficiency in building robust data models would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex performance data into clear, actionable audit insights. In fact, while at Shine Masters, I developed interactive dashboards to replace manual reporting, identifying high-value customer segments through time series modeling. This initiative resulted in a 300% increase in customer acquisition and significantly reduced the time spent on manual data processing, a result I am eager to replicate in your audit testing workflows. Ultimately, I know that the Internal Audit - New York - Associate, Data Analytics - 3765660 role at Goldman Sachs would allow me to bring my experience in SQL and Python-driven ETL pipelines to improve operational efficiency and the effectiveness of audit testing. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my Agile and SDLC best practices skills. During my time there, I collaborated with Underwriting and Product teams to align software features with business objectives, using JIRA for project tracking and Git for version control, which reduced project delivery delays by 25%. I am excited by the opportunity to use my machine learning and statistical modeling skills in working on continuous monitoring and risk assessment at Goldman Sachs. I know that my technical versatility and analytical mindset align with what it takes to succeed at the Internal Audit - New York - Associate, Data Analytics - 3765660 role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

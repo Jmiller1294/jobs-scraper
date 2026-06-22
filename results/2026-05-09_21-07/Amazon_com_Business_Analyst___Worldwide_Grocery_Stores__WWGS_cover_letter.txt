@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Amazon.com
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Analyst, Worldwide Grocery Stores (WWGS) position at Amazon.com. With my background in data analysis, operations, and full-stack development, I am confident I would be a strong addition to your team.
+
+Amazon's commitment to leveraging data for innovation, particularly within the supply chain, deeply resonates with my passion for transforming raw data into strategic business insights. I am eager to contribute to a team that is pushing the boundaries of data-driven decision-making.
+
+In my previous roles, I have developed sophisticated SQL queries and data models to extract meaningful business intelligence. Additionally, I have designed and implemented comprehensive data migration strategies, transitioning core datasets to cloud data warehouses like Snowflake and BigQuery, which directly aligns with your need for advanced AI platform integration.
+
+At Shine Masters Cleaning Services, I not only standardized organizational KPIs and data governance frameworks to ensure a "single source of truth" but also translated complex technical findings into actionable business recommendations during stakeholder meetings. Furthermore, my experience includes developing and executing A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend. I have also utilized Advanced Excel (including pivot tables) and Tableau to create clear, compelling data visualizations and reports that communicate complex insights effectively.
+
+I am particularly drawn to Amazon.com's mission of [COMPANY MISSION - You will need to research and insert a specific Amazon mission statement here, e.g., 'customer obsession' or 'pioneering innovation'] and believe my experience in data analysis, ETL, and stakeholder communication would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

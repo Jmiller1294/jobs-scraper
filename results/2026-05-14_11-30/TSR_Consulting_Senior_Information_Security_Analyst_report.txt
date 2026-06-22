@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Information Security Analyst
+Company:  TSR Consulting
+Location: Warren, NJ
+URL:      https://www.linkedin.com/jobs/view/4414702295
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (9)
+  • PowerShell
+  • reporting
+  • data analysis
+  • automation
+  • SQL
+  • Python
+  • Power BI
+  • stakeholder communication
+  • self-starter
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (17)
+  • ServiceNow
+  • Active Directory
+  • IAM
+  • GRC
+  • access reviews
+  • audit support
+  • EntraID
+  • Exchange Mailbox
+  • ticket management
+  • workflow
+  • compliance
+  • Access management
+  • OnPrem AD
+  • queries
+  • access provisioning
+  • security governance
+  • investigations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • scripting & automation (Python, PowerShell listed)
+  • reporting & data analysis (Power BI, SQL)
+  • stakeholder communication
+  • self-directed work
+  • experience with process improvement
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • insufficient Information Security-specific experience (10+ years required)
+  • no explicit ServiceNow experience
+  • no listed OnPrem Active Directory administration
+  • no explicit IAM/access management roles
+  • no audit/GRC or Exchange mailbox experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

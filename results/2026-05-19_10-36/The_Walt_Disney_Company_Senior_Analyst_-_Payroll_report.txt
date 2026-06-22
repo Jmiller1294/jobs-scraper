@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst - Payroll
+Company:  The Walt Disney Company
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415793405
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Excel
+  • Advanced Excel
+  • Pivot Tables
+  • VLOOKUP
+  • Reporting
+  • Reconciliation
+  • Analytics
+  • SQL
+  • PowerPoint
+  • Documentation
+  • Communication
+  • Project management
+  • Data visualization
+  • Onboarding
+  • Offboarding
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Payroll
+  • Union
+  • CBA
+  • Workday
+  • SAP
+  • CATS
+  • Compliance
+  • Audit
+  • Overpayment tracking
+  • Tax claims
+  • HR policies
+  • TWDC Workforce classification
+  • Hiring approval process
+  • Performance management
+  • Talent and succession planning
+  • Freelance compliance reporting
+  • Federal pay laws
+  • State pay laws
+  • Local pay laws
+  • Collective bargaining agreements
+  • Unionized work environments
+  • Broadcast/media experience
+  • Payroll systems
+  • Hire approvals
+  • Labor relations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analytics and SQL skills
+  • Advanced Excel and reporting expertise
+  • Experience building dashboards (Power BI, Tableau)
+  • Documented SOPs and process improvements
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No direct payroll or HR systems (Workday/SAP/CATS) experience
+  • No documented union or CBA payroll experience
+  • Limited HR/payroll compliance and tax claims experience
+  • Less than preferred HR-specific years (experience mainly data/tech roles)
+  • No broadcast/media payroll background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

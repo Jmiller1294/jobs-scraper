@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Credit Analyst - Client Role
+Company:  Arootah
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4427044590
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 67/100
+[█████████████░░░░░░░] 67%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • financial analysis
+  • Excel
+  • SQL
+  • Python
+  • reporting
+  • documentation
+  • collaboration
+  • loan portfolio
+  • data modeling
+  • ETL
+  • bank statements
+  • accounts receivable
+  • tax returns
+  • risk management
+  • portfolio monitoring
+  • decision making
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • credit analysis
+  • cash flow analysis
+  • loan underwriting
+  • credit memorandum
+  • loan pricing
+  • payment schedules
+  • public records
+  • credit scoring
+  • Salesforce CRM
+  • credit policy
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis with SQL and Python
+  • Advanced Excel and reporting (Power BI)
+  • Experience with lending risk project and loan datasets
+  • Process automation and documentation
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit credit underwriting experience
+  • No direct mention of preparing credit memos
+  • No documented cash flow modeling for lending
+  • Salesforce CRM experience not shown
+  • Limited years in credit-specific roles (2+ preferred)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

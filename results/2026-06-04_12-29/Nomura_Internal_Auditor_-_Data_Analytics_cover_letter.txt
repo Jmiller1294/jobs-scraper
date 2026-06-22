@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Internal Audit - Data Scientist (Global Markets) opportunity with Nomura. I am interested in this opportunity because of Nomura's reputation as a global financial services leader with an integrated network and its commitment to innovative solutions, which strongly aligns with my own approach to leveraging data for strategic advantage.
+
+What interests me about working for Nomura is its robust approach to financial services, connecting markets East & West. This global perspective and dedication to disciplined entrepreneurship excites and inspires me because it reflects my belief in building comprehensive and impactful solutions. I believe my proficiency in Python and SQL, combined with my experience in data analytics and ETL pipeline development, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a data-driven mindset, focusing on extracting actionable insights and implementing efficient solutions. In fact, at Shine Masters Cleaning Services, I developed interactive Power BI dashboards to replace manual reporting, improving KPI visibility and reducing data processing time by 40%. This initiative accelerated executive decision-making and demonstrated my ability to translate complex data into clear, actionable insights for improved operational efficiency.
+
+Ultimately, I know that the Internal Audit - Data Scientist role at Nomura would allow me to bring my data analytics skills to bear on key responsibilities such as assessing technology risks and developing automated testing to identify internal control weaknesses. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my data storytelling and reporting skills, where I created time series models to identify high-value customer segments, contributing to a 300% increase in new customer acquisition. This experience honed my ability to communicate complex findings to stakeholders and drive strategic initiatives.
+
+I’m excited by the opportunity to use my data visualization skills in working on the Global Markets audit portfolio at Nomura. I know that my strong analytical capabilities and proven ability to develop robust data solutions align with what it takes to succeed in the Internal Audit - Data Scientist role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

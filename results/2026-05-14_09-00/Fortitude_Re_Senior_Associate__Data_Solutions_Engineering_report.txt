@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Associate, Data Solutions Engineering
+Company:  Fortitude Re
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4414586478
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • ETL
+  • ELT
+  • Snowflake
+  • BigQuery
+  • Data pipelines
+  • Data ingestion
+  • Data transformation
+  • Automation
+  • CI/CD
+  • Great Expectations
+  • Data quality
+  • Data governance
+  • Cloud
+  • PostgreSQL
+  • Git
+  • Debugging
+  • Data modeling
+  • Power BI
+  • Tableau
+  • Pandas
+  • Operational support
+  • Performance optimization
+  • Mentoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python + SQL experience
+  • Hands-on ELT/ETL pipeline delivery
+  • Experience with Snowflake and BigQuery
+  • Automation and CI/CD implementation
+  • Data governance and quality focus
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited insurance/reinsurance domain experience
+  • No explicit Julia proficiency
+  • No explicit R-based projects beyond listing
+  • Less than senior-level tenure in roles
+  • No explicit actuarial/investment domain work
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional partners in finance and operations to design robust, compliant data governance frameworks and documentation for critical business datasets.
+  Provided technical mentorship to junior team members, conducting code reviews and sharing best practices in Python and SQL to elevate overall team delivery standards.
+  Maintained and optimized data pipelines for financial reporting, ensuring high performance and data integrity while applying disciplined debugging and troubleshooting techniques.
+  Leveraged R and Python to analyze complex datasets, delivering insights that informed operational strategies and supported scalable data architecture decisions.
+  Partnered with business stakeholders to translate actuarial and financial requirements into reliable, production-ready data solutions and automated runbooks.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Associate, Data Solutions Engineering opportunity with Fortitude Re. I am interested in this opportunity because of Fortitude Re’s reputation for managing complex legacy liabilities and its commitment to sophisticated, long-term growth in the insurance and reinsurance sector. What interests me about working for Fortitude Re is its role as a leader in transformational insurance solutions; I am particularly intrigued by your proprietary risk modeling capabilities and the company's commitment to building a diverse, collaborative culture. I believe my expertise in architecting high-performance data pipelines and my background in automating financial reporting would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency and scalability. In fact, while at Shine Masters, I identified a gap in data reporting and built a Python-based automation pipeline that replaced manual workflows, resulting in a 40% improvement in efficiency and significant cost savings. Ultimately, I know that the Senior Associate, Data Solutions Engineering role at Fortitude Re would allow me to bring my data engineering rigor to your complex, $111 billion general account data environment. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my robust debugging and cross-functional collaboration skills. During a period of high-volume testing, I optimized complex relational database queries, which improved data accuracy by 60% and provided cleaner datasets for downstream actuarial-style analysis. I’m excited by the opportunity to use my background in cloud-based ELT and automated data quality validation in working on the critical data infrastructure at Fortitude Re. I know that my technical proficiency and commitment to data governance align with what it takes to succeed at the Senior Associate, Data Solutions Engineering role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

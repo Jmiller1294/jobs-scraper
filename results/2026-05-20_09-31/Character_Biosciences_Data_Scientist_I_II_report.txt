@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist I/II
+Company:  Character Biosciences
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4417061397
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 39/100
+[███████░░░░░░░░░░░░░] 39%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • python
+  • R
+  • data pipelines
+  • ETL
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • AWS S3
+  • Snowflake
+  • statistics
+  • data visualization
+  • Power BI
+  • tableau
+  • machine learning
+  • data processing
+  • EDA
+  • git
+  • interactive dashboards
+  • ETL pipelines
+  • cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • survival analysis
+  • mixed-effects modeling
+  • Bayesian methods
+  • longitudinal models
+  • EMR
+  • clinical trial design
+  • biomarker development
+  • medical imaging
+  • OCT
+  • retinal fundus
+  • genomics
+  • phd
+  • 1-3 years life science experience
+  • ophthalmology
+  • biostatistics
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL pipelines
+  • Dashboarding and visualization (Power BI, Tableau)
+  • Cross-functional collaboration
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No domain-specific life sciences/ophthalmology experience
+  • Lacks survival/mixed-effects/Bayesian modeling evidence
+  • No EMR or medical imaging experience
+  • No advanced degree (PhD) listed
+  • Limited professional experience in biomedical data (years)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

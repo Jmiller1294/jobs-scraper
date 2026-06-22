@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Scientist, Rider Personalization
+Company:  Uber
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420438212
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • metrics
+  • algorithm performance
+  • user behavior
+  • Python
+  • SQL
+  • Power BI
+  • Tableau
+  • visualization
+  • ETL
+  • time series
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+  • PostgreSQL
+  • data modeling
+  • automation
+  • dashboarding
+  • data pipelines
+  • visualization & reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • causal inference
+  • experiments
+  • AIML
+  • agentic AI
+  • A/B testing
+  • statistical analysis
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experienced building dashboards (Power BI, Tableau)
+  • Designed ETL and data models (PostgreSQL)
+  • Proven quantifiable impact (40% time reduction, 300% acquisition)
+  • Cloud + data warehouse exposure (AWS S3, Snowflake, BigQuery)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit causal inference modeling experience
+  • No documented experiment/A-B testing design
+  • Limited AIML or recommendation systems experience
+  • Agentic AI design/build experience not shown
+  • Statistical methodologies for quasi-experiments not detailed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

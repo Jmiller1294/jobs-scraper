@@ -1,0 +1,94 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     IT Business Lead Analyst - Vice President
+Company:  Citi
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413869907
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • Business Analysis
+  • Financial Services
+  • Automation
+  • ETL/ELT
+  • Snowflake
+  • BigQuery
+  • CI/CD
+  • Stakeholder Management
+  • Reporting
+  • Data Quality
+  • Tableau
+  • Power BI
+  • Cloud (AWS S3)
+  • Statistical Modeling
+  • A/B Testing
+  • Data Governance
+  • Git
+  • PostgreSQL
+  • MySQL
+  • Advanced Excel
+  • Product Roadmap
+  • Solution Architecture
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Risk
+  • Credit
+  • Market Risk
+  • Compliance
+  • Mentoring
+  • Accounting
+  • Capital Markets
+  • Onboarding
+  • Credit Initiation
+  • Ethical Conduct
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL/ELT and data pipeline experience
+  • Proven reporting and visualization skills (Tableau, Power BI)
+  • Demonstrated measurable impact (efficiency and revenue gains)
+  • Experience with cloud warehouses (Snowflake, BigQuery) and CI/CD
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit risk or credit product experience
+  • No direct capital markets or market risk background
+  • No explicit compliance/regulatory project examples
+  • Mentoring/people-management not evidenced
+  • Accounting background not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment, resulting in a consistent 'single source of truth' for all business stakeholders and a reduction in report discrepancies, demonstrating a strong foundation in data governance principles relevant to financial risk.
+  Developed Python automation for weekly sales and operations reports (ingesting POS and CRM data), demonstrating proficiency in Python and automation for streamlined data processes within a business context.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend and showcasing analytical rigor applicable to risk assessment.
+  Collaborated with product managers on a 14-person team to align features with business objectives, streamlining the software development workflow and reducing delivery delays by 25%, highlighting experience in guiding and influencing stakeholders within a technology-driven environment.
+  Automated data quality validation with Great Expectations to ensure pipeline reliability, deploying the final solution via a GitHub Actions CI/CD pipeline, demonstrating an understanding of robust deployment practices essential for enterprise solutions.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the IT Business Lead Analyst - Vice President opportunity with Citi. I am interested in this opportunity because Citi's commitment to driving AI transformation within finance and risk technology resonates deeply with my passion for leveraging data to solve complex business challenges. What interests me about working for Citi is its reputation as a global leader in financial services and its innovative approach to technology solutions, which excites, inspires, and intrigues me because I am eager to contribute my skills to a forward-thinking organization.
+
+I believe my proficiency in Python/SQL and my extensive experience in business and systems analysis would make me a strong candidate for this role. Throughout my professional career, I have approached problems with a strong analytical mindset and a drive for automation and efficiency. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, reducing data mismatches and improving work efficiency by 40%. This initiative, along with building Python automation for weekly reports that saved 8 hours per week, demonstrates my ability to develop innovative technical solutions and drive automation strategies.
+
+Ultimately, I know that the IT Business Lead Analyst - Vice President role at Citi would allow me to bring my expertise in developing technical solutions to business needs and managing complex applications to the credit initiation and onboarding functions. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my stakeholder management and data governance skills. I translated complex technical findings into business recommendations during stakeholder meetings, closing the gap between raw data and growth strategy, and standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment and a consistent 'single source of truth'.
+
+I’m excited by the opportunity to use my analytical skills in working on the Solutions Hub CSI and guiding the Business Analyst and Product AI Center of Excellence at Citi. I know that my Python/SQL proficiency and my business analysis experience align with what it takes to succeed at the IT Business Lead Analyst - Vice President role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

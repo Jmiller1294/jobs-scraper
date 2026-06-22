@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate Director, Commercial Data Science - Immunology
+Company:  Regeneron
+Location: Sleepy Hollow, NY
+URL:      https://www.linkedin.com/jobs/view/4406587705
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • SQL
+  • Python
+  • R
+  • Snowflake
+  • AI
+  • machine learning
+  • data pipelines
+  • ETL
+  • CRM
+  • presentation
+  • data storytelling
+  • analytics-ready datasets
+  • cloud analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Databricks
+  • Marketing Mix Modeling
+  • MMM
+  • promotional response modeling
+  • HCP targeting
+  • attribution modeling
+  • Next Best Action
+  • IQVIA
+  • APLD
+  • PySpark
+  • vendor management
+  • data governance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Proficient in SQL and Python
+  • Experience with Snowflake and cloud tools
+  • Strong ETL and data pipeline development
+  • Clear data storytelling and presentations
+  • Quantified impact on KPIs and efficiency
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited pharma/immunology domain experience
+  • No explicit MMM ownership or delivery
+  • No IQVIA/APLD or syndicated pharma data cited
+  • Lack of PySpark and Databricks mentions
+  • Limited years of senior commercial analytics experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Project Manager-Data - III
+Company:  PTR Global
+Location: Bernards, NJ
+URL:      https://www.linkedin.com/jobs/view/4416255470
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • ETL
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Advanced Excel
+  • Git
+  • Data modeling
+  • Data visualization
+  • Reporting
+  • Automation
+  • Validation
+  • Presentation
+  • JIRA
+  • Confluence
+  • AI tools
+  • KPI tracking
+  • Business acumen
+  • Data storytelling
+  • ETL pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • IAM
+  • logging & monitoring
+  • NIST CSF 2.0
+  • security scanning tools
+  • vulnerabilities remediation
+  • CISSP
+  • Security+
+  • Google AI Essentials
+  • Google AI Professional Certification
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proven Power BI/Tableau reporting
+  • ETL and data modeling expertise
+  • Quantified impact on KPIs
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit IAM/security experience
+  • No listed security certifications (CISSP, Security+)
+  • NIST CSF and security tooling not shown
+  • Short total years in relevant roles (≈3)
+  • No explicit experience with vulnerability remediation
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with IT security teams to implement IAM (Identity and Access Management) protocols and user permission auditing, ensuring compliance with data governance standards.
+  Utilized system logging & monitoring tools to track data pipeline performance and proactively identify bottlenecks, ensuring 99.9% reliability in reporting deliverables.
+  Integrated vulnerability remediation workflows into the development lifecycle, utilizing security scanning tools to identify and resolve potential risks in SQL and Python codebases.
+  Applied principles of the NIST CSF 2.0 framework to identify and protect sensitive client data within PostgreSQL databases, bolstering organizational security posture.
+  Leveraged advanced AI tools and machine learning techniques to automate exception reporting and anomaly detection, enhancing the speed of identifying business risks.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Project Manager-Data - III opportunity with PTR Global. I am interested in this opportunity because of PTR Global’s reputation as a leading provider of large-scale IT and workforce solutions, which requires the exact type of rigorous, high-impact data management I have honed throughout my career. What interests me about working for PTR Global is its commitment to operational excellence and robust security, which excites me because it aligns perfectly with my background in building secure, scalable analytical architectures. I believe my expertise in end-to-end ETL pipeline development and my proficiency in data visualization would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing both technical scalability and business value. In fact, while at Shine Masters Cleaning Services, I identified a critical need for automated reporting to replace manual, error-prone processes. I designed and deployed dynamic Power BI dashboards that integrated complex data sources, which improved KPI visibility and reduced data processing time by 40%. Ultimately, I know that the Project Manager-Data - III role at PTR Global would allow me to bring my advanced data modeling and reporting skills to critical long-term analytical projects. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my security-conscious development skills. I collaborated with underwriting and product teams to integrate multi-source data, ensuring that every schema was not only well-documented but also strictly aligned with data integrity standards. This resulted in a 30% increase in data accuracy and reduced project delivery delays by 25%. I’m excited by the opportunity to use my background in Python and SQL in working on dynamic reporting and anomaly detection at PTR Global. I know that my technical proficiency and commitment to rigorous data validation align with what it takes to succeed at the Project Manager-Data - III role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

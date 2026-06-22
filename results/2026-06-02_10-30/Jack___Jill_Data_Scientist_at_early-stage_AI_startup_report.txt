@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist at early-stage AI startup
+Company:  Jack & Jill
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4423928415
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • pandas
+  • SQL
+  • ETL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Power BI
+  • Git
+  • PostgreSQL
+  • MySQL
+  • EDA
+  • time series
+  • data modeling
+  • production
+  • feature engineering
+  • deployment
+  • machine learning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • scikit-learn
+  • PyTorch
+  • TensorFlow
+  • NLP
+  • LLMs
+  • dbt
+  • model monitoring
+  • quantified model deployment
+  • proven production model
+  • years of ML experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and pandas usage
+  • Solid SQL and data modeling skills
+  • Production-adjacent ETL and data pipelines
+  • Quantified impact in analytics (e.g., +300% acquisition)
+  • Experience with cloud data platforms (BigQuery, Snowflake, S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML framework experience (scikit-learn/PyTorch/TensorFlow)
+  • No clear deployed ML model for real users
+  • Sparse mention of model monitoring or MLOps
+  • No dbt or modern data engineering tooling listed
+  • Unclear total years of relevant ML/data science experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

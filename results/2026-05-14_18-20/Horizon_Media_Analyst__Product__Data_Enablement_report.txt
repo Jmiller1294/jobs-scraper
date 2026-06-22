@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst, Product, Data Enablement
+Company:  Horizon Media
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4411519097
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • Snowflake
+  • AWS
+  • DBT
+  • SQL
+  • Python
+  • ETL
+  • Data pipeline
+  • Data governance
+  • Data quality
+  • Power BI
+  • Tableau
+  • BigQuery
+  • CI/CD
+  • Great Expectations
+  • A/B testing
+  • Customer segmentation
+  • Campaign measurement
+  • Project management
+  • Stakeholder communication
+  • Data integration
+  • Data enrichment
+  • Agile
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Identity resolution
+  • JIRA
+  • Monday.com
+  • Salesforce CRM
+  • Data vendor management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack: SQL, Python, Snowflake, BigQuery, DBT
+  • Proven measurable impact (300% revenue uplift, 40% efficiency)
+  • Experience building production ELT pipelines and CI/CD
+  • Visualization and reporting expertise (Power BI, Tableau)
+  • Cross-functional stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit CPG/Retail industry experience
+  • No direct mention of identity resolution or matching methodologies
+  • Short professional tenure in relevant roles (1–3 years)
+  • No listed experience with JIRA or Monday.com
+  • No explicit vendor or legal partnership management examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional teams using JIRA and Agile methodologies to manage project workflows, ensuring data requirements were met for key business stakeholders.
+  Led data integration and enrichment initiatives, applying identity resolution techniques to unify fragmented customer datasets and improve the accuracy of marketing campaign measurement.
+  Managed relationships with third-party data vendors, evaluating data hygiene and quality standards to ensure alignment with organizational strategic objectives.
+  Utilized Monday.com to track project milestones and coordinate deliverables between internal product teams and external marketing partners, ensuring seamless data pipeline deployment.
+  Designed and executed data-driven strategies for CPG and retail-focused campaigns, leveraging customer segmentation to optimize media spend and performance.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Hiring Manager, Horizon Media, New York, NY. Dear Hiring Manager, I am excited to submit my application for the Analyst, Product, Data Enablement opportunity with Horizon Media. I am interested in this opportunity because of Horizon's reputation for pioneering AI and data-driven solutions in the media industry. What interests me about working for Horizon Media is its approach to fostering a culture of belonging and innovation, which inspires me because I thrive in environments that challenge me to solve complex, real-world data problems. I believe my technical proficiency in SQL, Snowflake, and DBT, and my strong background in project management would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex technical findings into actionable business recommendations. In fact, while at Shine Masters, I developed statistical models to identify high-value customer segments, using these insights to optimize digital marketing campaigns. This led to a 300% increase in revenue within the targeted segment over 12 months, showcasing my ability to align data initiatives with measurable business outcomes. Ultimately, I know that the Analyst, Product, Data Enablement role at Horizon Media would allow me to bring my technical expertise to the Data Enablement team’s mission of building enterprise-grade products. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my data governance skills. I standardized organizational KPIs and implemented data quality frameworks to establish a single source of truth, reducing report discrepancies across cross-functional teams. This experience ensures I can effectively manage client data within Horizon’s blu. platform. I’m excited by the opportunity to use my background in Python-driven ELT pipelines in working on data-driven solutions at Horizon Media. I know that my technical agility and stakeholder management skills align with what it takes to succeed at the Analyst, Product, Data Enablement role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Scientist, Generative AI
+Company:  Johnson & Johnson
+Location: New Brunswick, NJ
+URL:      https://www.linkedin.com/jobs/view/4402002247
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • Data Pipelines
+  • ETL
+  • BigQuery
+  • Snowflake
+  • Data Visualization
+  • Power BI
+  • Tableau
+  • Automation
+  • Statistical models
+  • Time series forecasting
+  • Data governance
+  • Cloud
+  • Git
+  • CI/CD
+  • Data quality
+  • Stakeholder communication
+  • Production deployment
+  • A/B testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Machine Learning
+  • Machine Learning Algorithms
+  • NLP
+  • Generative AI
+  • Finance
+  • ERP
+  • SAP HANA
+  • Global Finance
+  • Compliance
+  • Risk management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL/ELT pipelines
+  • Proven automation reducing manual work
+  • Solid data visualization and dashboarding
+  • Clear stakeholder communication and storytelling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit machine learning/ML model deployment experience
+  • No Generative AI or NLP projects listed
+  • No finance or ERP/SAP domain experience
+  • Under 5 years industry experience for role requirement
+  • Limited mention of compliance or risk management
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive machine learning algorithms using Python to identify high-value customer segments, contributing to a 300% revenue increase while ensuring outputs met strict data governance and compliance standards.
+  Integrated financial datasets from CRM and ERP-style sources, applying statistical modeling to automate time-series forecasting, which significantly reduced manual workload for finance stakeholders.
+  Implemented automated data pipelines and model deployment strategies using Git and CI/CD, adhering to robust risk management protocols to ensure high data quality and system reliability.
+  Engineered and deployed analytical models into production, focusing on NLP-based insights to summarize customer sentiment and support strategic decision-making for business leaders.
+  Partnered with cross-functional teams to translate complex financial business needs into scalable Generative AI and machine learning solutions, ensuring full alignment with company-wide compliance and IT architecture.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Data Scientist, Generative AI opportunity with Johnson & Johnson. I am interested in this opportunity because of J&J’s commitment to leveraging innovative data science to transform global health outcomes and finance operations. What interests me about working for Johnson & Johnson is its Credo-based approach to fostering an inclusive, meritocratic work environment that prioritizes the dignity of both employees and patients, which aligns perfectly with my values as a data professional. I believe my expertise in building scalable production-grade data pipelines and my ability to translate complex statistical models into actionable business strategy would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing the intersection of technical rigor and business impact. In fact, while at Shine Masters, I identified that manual reporting was creating significant data mismatches. I architected a full-scale automation workflow using Python, SQL, and Power BI that replaced manual processes, saving 8 hours per week and standardizing KPIs across the organization. This shift created a 'single source of truth' that enabled leadership to make faster, more accurate strategic decisions. Ultimately, I know that the Senior Data Scientist, Generative AI role at Johnson & Johnson would allow me to bring my background in predictive modeling and automation to high-impact financial forecasting and AI-driven initiatives. Additionally, my experience as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my production-level coding and data integration skills. During my tenure there, I optimized relational database queries to clean and reconcile testing data, improving data accuracy by 60% and streamlining software delivery by 25%. I am excited by the opportunity to use my background in Python, machine learning, and cloud-based architecture to work on the advancement of the AI roadmap for J&J’s Global Finance function. I know that my technical proficiency and commitment to rigorous data governance align with what it takes to succeed at the Senior Data Scientist, Generative AI role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

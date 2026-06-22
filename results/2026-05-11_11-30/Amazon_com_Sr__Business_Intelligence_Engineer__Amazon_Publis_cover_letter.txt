@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Amazon.com
+
+Dear Hiring Manager,
+
+I am excited to apply for the Sr. Business Intelligence Engineer, Amazon Publisher Monetization, Analytics position at Amazon.com. With my background in data analytics, Python development, and cloud technologies, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to Amazon's innovative approach to publisher monetization and its commitment to leveraging AI and generative technologies to enhance customer experiences and advertiser value. The opportunity to contribute to the APM Agentic Insights team, shaping the future of monetization for Amazon's ad-supported media services, is incredibly compelling.
+
+In my previous roles, I have developed sophisticated data pipelines and reporting workflows that significantly improved efficiency and drove revenue growth. Specifically, I developed Python automation for weekly sales and operations reports, saving 8 hours per week and improving reporting accuracy. Additionally, I created statistical models to identify high-value customer segments, which contributed to a 300% increase in revenue in the targeted segment over 12 months, directly aligning with your need for driving go-to-market strategy and publisher actions with measurable business impact.
+
+I am eager to leverage my experience in building AI-powered analytics experiences, as demonstrated by my FRED Economic Batch Pipeline project where I architected an ELT pipeline and automated data quality validation. I am proficient in SQL and Python for extracting, transforming, and cleaning large datasets, and I have hands-on experience with AWS services like S3. My ability to translate complex technical findings into business recommendations, as evidenced by my work with stakeholders and senior leadership, would allow me to define analytics roadmaps and mentor other BIEs effectively.
+
+I am particularly drawn to Amazon.com's mission of being Earth's most customer-centric company and believe my experience in data modeling, automation, and stakeholder communication would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

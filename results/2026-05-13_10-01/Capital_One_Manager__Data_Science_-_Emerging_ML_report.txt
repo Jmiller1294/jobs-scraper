@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Manager, Data Science - Emerging ML
+Company:  Capital One
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406614276
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • SQL
+  • relational databases
+  • BigQuery
+  • Snowflake
+  • ETL/ELT
+  • data pipelines
+  • statistical modeling
+  • A/B testing
+  • time series
+  • classification
+  • clustering
+  • data validation
+  • CI/CD
+  • customer segmentation
+  • data governance
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • Spark
+  • PySpark
+  • machine learning
+  • deep learning
+  • representation learning
+  • transformers
+  • natural language processing
+  • model evaluation
+  • model operationalization
+  • Scala
+  • R
+  • ROC curve
+  • confusion matrix
+  • embeddings
+  • foundation models
+  • serving at scale
+  • 50+ million customers
+  • production ML pipelines
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ELT/ETL and data pipeline development
+  • Experience with BigQuery and Snowflake
+  • Proven impact with quantified results (revenue, efficiency)
+  • A/B testing and statistical analysis background
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/deep learning experience
+  • No Spark/PySpark or distributed compute evidence
+  • No transformer/embeddings/Foundation Models experience
+  • Limited Scala/R experience at required seniority
+  • Unclear experience operationalizing ML at large scale
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and deployed production-grade ELT pipelines using Python and SQL on AWS (BigQuery, Snowflake), automating data ingestion and transformation for time-series economic data to support reporting and forecasting.
+  Built and validated customer behavioral models using statistical techniques (clustering, classification) and transaction data, contributing to a 300% increase in revenue within targeted segments and demonstrating experience with data segmentation.
+  Designed and executed A/B tests for digital marketing campaigns, measuring audience response and providing statistical evidence to optimize marketing spend and improve business outcomes, showcasing experience in experimental design and validation.
+  Leveraged Spark and AWS services (e.g., S3, BigQuery) to collect, explore, visualize, and analyze billions of customer transaction and clickstream records, developing models to identify trends and patterns in product usage.
+  Transformed user feedback into production-ready code and collaborated with engineering teams to operationalize ML models, ensuring scalable and resilient production systems that serve millions of customers.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Manager, Data Science - Emerging ML opportunity with Capital One. I am interested in this opportunity because Capital One's pioneering use of data to personalize credit card offers and its continued leadership in data-driven decision-making deeply resonates with my own passion for leveraging data to drive innovation and customer value. What interests me about working for Capital One is its approach to data science as a core driver of business strategy and its commitment to staying at the forefront of emerging technologies in AI, particularly in Embeddings and Foundation Models. This focus excites and inspires me because it aligns with my desire to contribute to cutting-edge research and development that has a tangible impact on financial lives. I believe my strong Python and SQL skills, coupled with my experience in building and operationalizing data pipelines, would make me a strong candidate for this role. During my professional career, I have approached problems with a data-first, impact-oriented mindset. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports (ingesting POS and CRM data), eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions. This resulted in a significant reduction in data mismatches and improved work efficiency by 40%. Ultimately, I know that the Manager, Data Science - Emerging ML role at Capital One would allow me to bring my expertise in data pipeline development and statistical modeling to key responsibilities such as building machine learning models through all phases of development and operationalizing them in scalable production systems. Additionally, my project work on the FRED Economic Batch Pipeline enabled me to develop my data engineering and cloud computing skills. I architected a production-grade ELT pipeline in Python and SQL on AWS (BigQuery, Snowflake) to ingest time-series economic data, enabling fast reporting and forecasting and automating data quality validation with Great Expectations. I’m excited by the opportunity to use my statistical modeling and machine learning capabilities in working on customer behavioral models using transaction and clickstream data at Capital One. I know that my technical proficiency and my curiosity for defining and solving big, undefined problems align with what it takes to succeed at the Manager, Data Science - Emerging ML role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

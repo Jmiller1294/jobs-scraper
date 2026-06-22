@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Financial Analyst, Geo, Revenue, Ads, Search, Strategy, Operations
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416557153
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Data pipelines
+  • ETL
+  • BigQuery
+  • Snowflake
+  • Advanced Excel
+  • Power BI
+  • Tableau
+  • Python
+  • PostgreSQL
+  • MySQL
+  • Data analysis
+  • Automation
+  • Stakeholder communication
+  • SOPs
+  • Data modeling
+  • Query optimization
+  • Cross-functional collaboration
+  • Cloud (AWS S3)
+  • KPI reporting
+  • Quantitative analysis
+  • Management reporting
+  • Forecasting
+  • Budget management
+  • Cost allocation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Financial planning
+  • SAP
+  • Building data infrastructure
+  • Implementing scalable monitoring
+  • Developing strategies
+  • Ownership
+  • Executive stakeholder influence
+  • GRAS Finance
+  • Hub/finance DNA
+  • Budgeting for central cost centers
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and query optimization experience
+  • Hands-on ETL and data pipeline development
+  • Proficient with BI tools (Power BI, Tableau) and Advanced Excel
+  • Quantified impact (process time −40%, efficiency +25%, acquisition +300%)
+  • Cross-functional collaboration and documentation (SOPs, JIRA/Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit FP&A/finance job title history
+  • No SAP experience listed
+  • Under 4 years direct FP&A experience
+  • Limited evidence of building scalable monitoring/infrastructure
+  • Few examples of influencing executive stakeholders
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

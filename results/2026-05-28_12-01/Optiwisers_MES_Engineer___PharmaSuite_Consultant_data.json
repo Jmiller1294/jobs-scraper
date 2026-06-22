@@ -1,0 +1,69 @@
+{
+  "job_title": "MES Engineer / PharmaSuite Consultant",
+  "company": "Optiwisers",
+  "location": "Parsippany, NJ",
+  "job_url": "https://www.linkedin.com/jobs/view/4419029006",
+  "ats_keywords": [
+    "PharmaSuite",
+    "MES",
+    "recipes",
+    "validation",
+    "OQ",
+    "PQ",
+    "CSV",
+    "Automation",
+    "FTPS",
+    "L2 interface",
+    "UAT",
+    "Go-Live",
+    "hypercare",
+    "stakeholder management",
+    "training",
+    "SQL",
+    "Python",
+    "Power BI",
+    "documentation",
+    "JIRA"
+  ],
+  "score": 18,
+  "matched_keywords": [
+    "validation",
+    "OQ",
+    "PQ",
+    "CSV",
+    "Automation",
+    "stakeholder management",
+    "training",
+    "documentation",
+    "SQL",
+    "Python",
+    "Power BI",
+    "JIRA"
+  ],
+  "missing_keywords": [
+    "PharmaSuite",
+    "MES",
+    "recipes",
+    "FTPS",
+    "L2 interface",
+    "UAT",
+    "Go-Live",
+    "hypercare"
+  ],
+  "strengths": [
+    "Data analysis and reporting (Power BI, SQL)",
+    "Automation experience (Python, ETL)",
+    "Documentation and SOP creation",
+    "Cross-functional collaboration",
+    "Quantified impact in prior roles"
+  ],
+  "weaknesses": [
+    "No explicit Rockwell PharmaSuite experience",
+    "No MES recipe design/configuration experience",
+    "No pharma/manufacturing industry experience",
+    "No L2/automation interface tag experience",
+    "Onsite Parsippany, NJ availability not stated"
+  ],
+  "improvement_bullets": [],
+  "cover_letter": ""
+}

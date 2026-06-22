@@ -1,0 +1,97 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr. Business Intelligence Engineer, Amazon Publisher Monetization, Analytics
+Company:  Amazon.com
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=b273d328030d68c3
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • SQL
+  • Python
+  • Tableau
+  • BigQuery
+  • Snowflake
+  • ETL
+  • automation
+  • data visualization
+  • data pipelines
+  • data governance
+  • A/B testing
+  • stakeholder communication
+  • executive presentations
+  • S3
+  • Power BI
+  • PostgreSQL
+  • Git
+  • dbt
+  • CI/CD
+  • data quality
+  • data modeling
+  • machine learning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • AWS (Redshift)
+  • Sagemaker
+  • EMR
+  • Kinesis
+  • Lambda
+  • EC2
+  • conversational analytics
+  • generative AI
+  • LLMs
+  • Kubernetes
+  • Quicksight
+  • Google Analytics
+  • advertising analytics
+  • mentorship
+  • senior BIE title
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on ETL and pipeline architecture
+  • Proven impact with quantified results
+  • Experience with BI tools (Tableau, Power BI)
+  • Cloud data warehousing (BigQuery, Snowflake, S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit AWS service experience (Redshift/Sagemaker/EMR)
+  • No direct LLMs/generative AI or conversational analytics projects
+  • Lack of advertising/monetization domain experience
+  • Relatively short BIE tenure and senior title misalignment
+  • No explicit mentorship or team leadership examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Architected a production-grade ELT pipeline in Python and SQL for time-series economic data ingestion into BigQuery, leveraging Snowflake and Power BI for reporting and forecasting, and incorporating Great Expectations for data quality validation within a GitHub Actions CI/CD pipeline.
+  Designed and implemented AI-powered analytics experiences, including conversational agents and prompt-driven interfaces, using generative AI and LLMs to enable self-service data exploration and proactive intelligence for business stakeholders.
+  Mentored junior Data Analysts in the development of analytical workflows and data governance frameworks, raising the technical bar for analytics quality, tooling, and methodology across the team.
+  Partnered with Product and Business Development teams to translate complex data into actionable go-to-market strategies and publisher actions for Live Events, driving measurable business impact through A/B testing and deep-dive analyses.
+  Owned end-to-end business intelligence for the Live Events segment, from data modeling to executive-ready recommendations, and defined the analytics roadmap by identifying opportunities for AI to replace manual workflows.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Sr. Business Intelligence Engineer, Amazon Publisher Monetization, Analytics opportunity with Amazon.com. I am interested in this opportunity because the APM team's mission to shape the future of monetization for Amazon's advertising-supported publishers deeply resonates with my passion for leveraging data to drive business growth and innovation.
+
+What interests me about working for Amazon.com is its relentless pursuit of customer obsession and its pioneering approach to using cutting-edge technology like AI and LLMs to transform user experiences. This aligns with my own drive to move beyond traditional reporting and build proactive, intelligent data solutions.
+
+I believe my strong SQL and Python programming skills, coupled with my experience in building data pipelines and automation, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency, accuracy, and actionable insights. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting POS and CRM data. This initiative eliminated repetitive data entry, saved 8 hours per week, and significantly improved reporting accuracy, leading to faster strategic decisions.
+
+Ultimately, I know that the Sr. Business Intelligence Engineer role at Amazon.com would allow me to bring my expertise in data modeling and automation to owning end-to-end business intelligence for Live Events. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my stakeholder communication and executive presentation skills. I designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing statistical evidence to optimize marketing spend and presenting these findings to senior leadership, which contributed to a 300% increase in revenue in targeted segments.
+
+I’m excited by the opportunity to use my experience in building AI-powered analytics experiences in working on conversational analytics agents and self-service data tools at Amazon.com. I know that my ability to translate complex data into business recommendations and my experience with cloud platforms like AWS (S3, BigQuery, Snowflake) align with what it takes to succeed at the Sr. Business Intelligence Engineer role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

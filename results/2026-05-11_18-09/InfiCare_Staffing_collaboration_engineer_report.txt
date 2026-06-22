@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     collaboration engineer
+Company:  InfiCare Staffing
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413140619
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Power platform
+  • App integration
+  • MSFT APIs
+  • Power BI
+  • Automation
+  • Python
+  • SQL
+  • API integration
+  • Reporting
+  • CI/CD
+  • Git
+  • Cloud
+  • BigQuery
+  • Snowflake
+  • Tableau
+  • Advanced Excel
+  • Certifications
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • MSFT APIs
+  • Video Device setup
+  • CVI
+  • MTR
+  • Resource configuration
+  • Meeting log analysis
+  • Call Quality Dashboard
+  • Networking
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data/reporting skills (Power BI, Tableau, Excel)
+  • Programmatic automation (Python, SQL)
+  • Experience with APIs and integrations
+  • CI/CD and Git workflow experience
+  • Cloud data platform experience (BigQuery, Snowflake)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit MS Teams or CVI/MTR experience
+  • No demonstrated video device setup background
+  • No call quality dashboard or meeting log analysis examples
+  • Networking skills not evidenced
+  • No Microsoft Teams Certifications listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Consulting - Tech Con - AI and Quant Modelling - AI Data Sci - Manager - Mul Positions - 1701508
+Company:  EY
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4400458275
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • Pandas
+  • ETL
+  • Data pipelines
+  • Git
+  • Cloud (AWS/Snowflake/BigQuery)
+  • Power BI
+  • Data modeling
+  • Data visualization
+  • R
+  • Tableau
+  • Version control
+  • BigQuery
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Machine Learning
+  • Generative AI
+  • LLMs
+  • Spark
+  • Model deployment
+  • Azure DevOps
+  • Containerization
+  • NLP
+  • Team management
+  • Consulting
+  • RAG
+  • Retrieval Augmented Generation
+  • Hypothesis testing
+  • Statistics
+  • DevOps
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and pipeline development
+  • Cloud data experience (AWS, Snowflake, BigQuery)
+  • Quantified impact in projects (e.g., 40% time reduction, 300% acquisition)
+  • Data visualization and dashboard delivery (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML model building/deployment experience
+  • No stated experience with Spark or large-scale distributed processing
+  • Generative AI/LLM frameworks not demonstrated
+  • No Azure DevOps or containerization evidence
+  • Limited consulting or managed-team experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

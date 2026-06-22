@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer, Ramp Travel
+Company:  Ramp
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4398330469
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • backend
+  • APIs
+  • SQL
+  • BigQuery
+  • GCP
+  • Docker
+  • Postgres
+  • CI/CD
+  • GitHub Actions
+  • ETL
+  • Airflow
+  • dbt
+  • data quality
+  • Great Expectations
+  • automation
+  • customer collaboration
+  • high-velocity environments
+  • observability
+  • reliability
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • AI agents
+  • travel APIs
+  • travel industry knowledge
+  • service observability
+  • 3+ years backend experience
+  • fluent in Python
+  • scalable systems
+  • performance
+  • policy systems
+  • reporting systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Cloud data infra (BigQuery, GCP, Snowflake)
+  • ETL pipelines with Airflow and dbt
+  • CI/CD and automation (GitHub Actions)
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit backend service/product engineering roles
+  • No demonstrated AI agent development
+  • No travel industry or travel API experience
+  • Unclear 3+ years focused backend engineering
+  • Limited mention of system design for high-scale services
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

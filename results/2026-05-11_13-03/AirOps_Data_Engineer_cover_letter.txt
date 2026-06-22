@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+AirOps
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Engineer position at AirOps. With my background in building robust data pipelines, automating workflows, and ensuring data quality, I am confident I would be a strong addition to your team.
+
+AirOps' mission to empower marketing teams in the AI era by providing accurate, on-brand content that earns citations and trust is incredibly compelling. I am particularly drawn to your focus on data as the core product and your hyper-growth phase, which aligns perfectly with my passion for foundational data engineering.
+
+In my previous roles, I have designed and implemented production-grade ELT pipelines using Python, Airflow, and dbt, ingesting data into cloud platforms like Google BigQuery. Additionally, I have owned the end-to-end development of data solutions, including automated data quality validation with Great Expectations and CI/CD pipelines via GitHub Actions, which directly aligns with your need for an individual who can own the data layer end-to-end with strong guarantees on accuracy and freshness.
+
+My project experience with the FRED Economic Batch Pipeline demonstrates my ability to model raw API data into a dbt star schema, leveraging BigQuery partitioning and clustering for optimized query performance, and to build serving layers that enable self-service analysis. I also have experience transforming data from REST APIs and relational databases to directly support front-end feature development, showcasing my capability to deliver data for product integration rather than just internal reporting.
+
+I am particularly drawn to AirOps' mission of helping brands get found and stay found in the new discovery landscape and believe my experience in building data-intensive systems and ensuring their accuracy and reliability would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

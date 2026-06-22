@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Systems Analyst
+Company:  Bristol Myers Squibb
+Location: Summit, NJ
+URL:      https://www.linkedin.com/jobs/view/4410176233
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Testing
+  • Test scripts
+  • Training
+  • Analytics
+  • Data modeling
+  • Python
+  • SQL
+  • Power BI
+  • Documentation
+  • Microsoft Windows
+  • Project Management
+  • SDLC
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • SAP S4/Hana
+  • EWM
+  • SOP
+  • Manufacturing
+  • Procurement
+  • Warehouse
+  • Quality (QM)
+  • MM
+  • IM
+  • MDG
+  • User acceptance testing
+  • Change management
+  • Third-party support
+  • Third-party support
+  • Life science
+  • FDA
+  • Customer service
+  • Facilitation
+  • Leadership
+  • Communication
+  • Interfaces
+  • Troubleshooting
+  • System implementation
+  • Non-SAP systems
+  • Support
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong analytics and data modeling
+  • Hands-on Python and SQL skills
+  • Experience building reporting (Power BI)
+  • Documentation and reporting automation
+  • SDLC and project experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SAP S4/Hana or EWM experience
+  • No manufacturing or life-sciences background
+  • Lacks SAP module (MM/IM/QM/MDG) expertise
+  • No explicit SAP system implementation history
+  • No demonstrated SAP change management or third-party support
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

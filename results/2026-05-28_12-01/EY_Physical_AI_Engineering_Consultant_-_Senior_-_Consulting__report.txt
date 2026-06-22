@@ -1,0 +1,89 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Physical AI Engineering Consultant - Senior - Consulting - Open Location
+Company:  EY
+Location: Secaucus, NJ
+URL:      https://www.linkedin.com/jobs/view/4399900264
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • Git
+  • SQL
+  • Pandas
+  • ETL pipelines
+  • Data pipelines
+  • Tableau
+  • Power BI
+  • Jira
+  • AWS
+  • Snowflake
+  • BigQuery
+  • PostgreSQL
+  • MySQL
+  • Git (version control)
+  • Data modeling
+  • Data cleaning
+  • Reporting
+  • Automation
+  • Visualization
+  • Advanced Excel
+  • Project management
+  • Documentation
+  • API integration
+  • Time series models
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • C++
+  • Java
+  • ROS
+  • Simulation environments
+  • NVIDIA Omniverse
+  • Robotics
+  • Digital Twin
+  • Computer Vision
+  • Deep Learning
+  • Reinforcement Learning
+  • MLOps platforms
+  • MLFlow
+  • CI/CD practices
+  • Containerization
+  • Spark
+  • TensorFlow
+  • PyTorch
+  • HIL
+  • MBSE
+  • LIDAR
+  • Control algorithms
+  • Kinematics
+  • Dynamics
+  • Generative AI fine-tuning
+  • R (advanced ML)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data pipeline development
+  • Visualization and dashboard delivery (Power BI, Tableau)
+  • Experience with cloud data tools (AWS, Snowflake, BigQuery)
+  • Quantified impact on operations and acquisition
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated robotics or ROS experience
+  • Lacks deep learning / computer vision implementations
+  • No evidence of NVIDIA Omniverse or simulation use
+  • Limited MLOps/CI-CD and containerization experience
+  • Titles focused on data analytics, not robotics/AI engineering
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

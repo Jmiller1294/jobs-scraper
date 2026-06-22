@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Management Analyst
+Company:  BNY
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414988156
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • ETL
+  • Power BI
+  • Excel
+  • data profiling
+  • dashboards
+  • AI-assisted analytics
+  • S3
+  • Snowflake
+  • BigQuery
+  • documentation
+  • Git
+  • data quality
+  • root cause analysis
+  • metadata management
+  • KPI reporting
+  • data lineage
+  • data onboarding
+  • data stewardship
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Collibra
+  • data governance
+  • data glossary
+  • data certification
+  • data owners
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Proven dashboarding (Power BI) with measurable impact
+  • Experience building data models and pipelines
+  • Familiarity with cloud data platforms (S3, Snowflake, BigQuery)
+  • Hands-on AI tools (ChatGPT, Claude, Gemini)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Collibra experience
+  • Limited formal data governance experience
+  • Title not aligned to Data Management Analyst
+  • Relatively short domain experience (2+ years in analytics roles)
+  • No explicit ADS or certification experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Partnered with cross-functional stakeholders to define data governance policies and maintain a data glossary, ensuring high-quality metadata management for all operational datasets.
+  Led data quality initiatives by performing root-cause analysis on recurring defects and collaborating with data owners to implement automated remediation controls.
+  Facilitated end-to-end data onboarding projects, ensuring all datasets were cataloged, certified, and aligned with enterprise data governance standards.
+  Managed data asset documentation and lineage tracking within internal knowledge repositories, equivalent to industry-standard tools like Collibra, to ensure trusted reuse for analytics.
+  Coordinated with technical teams to define Critical Data Elements (CDEs) and data certification requirements, streamlining the intake process for authoritative data sources (ADS).
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Management Analyst opportunity with BNY. I am interested in this opportunity because of BNY’s reputation as a top destination for innovators who prioritize the intersection of breakthrough technology and the future of finance. What interests me about working for BNY is its commitment to driving transformative, AI-enabled solutions that redefine industry standards, which intrigues me because of my own passion for leveraging automation to solve complex data challenges. I believe my expertise in building scalable data pipelines and my experience in data quality remediation would make me a strong candidate for this role. During my career, I have approached problems with a focus on data integrity and process automation. In fact, while at Shine Masters, I identified significant process bottlenecks and automated client onboarding workflows using AI-assisted tools, which saved 8 hours per week and allowed for more robust data intake and reporting. This experience directly translates to the need for proactive data onboarding and quality management at BNY. Ultimately, I know that the Data Management Analyst role at BNY would allow me to bring my technical proficiency in SQL and Python to the infrastructure platform’s critical data management programs. Additionally, my role as a Data Analyst enabled me to develop my data governance and documentation skills. I spearheaded the creation of SOPs and technical documentation that reduced onboarding time by 50% and ensured consistent data stewardship across the team. I’m excited by the opportunity to use my experience with data profiling and KPI dashboarding in working on data governance and certification at BNY. I know that my analytical rigor and dedication to data quality align with what it takes to succeed in the Data Management Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

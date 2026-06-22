@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Systems Analyst
+Company:  Bristol Myers Squibb
+Location: Summit, NJ
+URL:      https://www.linkedin.com/jobs/view/4410601537
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • testing
+  • test scripts
+  • training
+  • system implementation
+  • SDLC
+  • project management
+  • troubleshooting
+  • documentation
+  • communication
+  • team collaboration
+  • Microsoft Windows
+  • Python
+  • SQL
+  • Power BI
+  • automation
+  • data governance
+  • data modeling
+  • customer service
+  • analytics
+  • documentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • SAP S4/Hana
+  • EWM
+  • procurement
+  • warehouse
+  • quality (QM)
+  • work instructions
+  • SOP
+  • manufacturing
+  • life science
+  • MDG
+  • eWM
+  • interfaces
+  • third party support
+  • vendor management
+  • FDA
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analytics and automation skills
+  • Experience building test scripts and documentation
+  • Training and translating technical findings to stakeholders
+  • Project and SDLC experience
+  • Proven measurable impact (quantified results)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SAP S4/Hana or EWM experience listed
+  • No manufacturing or life-science/FDA background
+  • Limited explicit SCM/MM/IM/QM module exposure
+  • No mention of third-party/vendor SAP support
+  • Title misalignment (Data Analyst/Developer vs SAP Business Systems Analyst)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

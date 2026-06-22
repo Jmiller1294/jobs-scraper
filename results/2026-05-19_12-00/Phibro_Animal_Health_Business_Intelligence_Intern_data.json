@@ -1,0 +1,83 @@
+{
+  "job_title": "Business Intelligence Intern",
+  "company": "Phibro Animal Health",
+  "location": "Teaneck, NJ",
+  "job_url": "https://www.linkedin.com/jobs/view/4406235426",
+  "ats_keywords": [
+    "Power BI",
+    "SQL",
+    "DAX",
+    "Power Query (M)",
+    "MS Fabric",
+    "Data Modeling",
+    "Data Visualization",
+    "ETL",
+    "Python",
+    "PostgreSQL",
+    "MySQL",
+    "Advanced Excel",
+    "Tableau",
+    "Data Modeling",
+    "Microsoft Office",
+    "Data Analysis",
+    "Data Pipelines",
+    "Git",
+    "Snowflake",
+    "BigQuery",
+    "Data Cleaning",
+    "Reporting",
+    "Dashboarding",
+    "Problem Solving",
+    "Communication"
+  ],
+  "score": 88,
+  "matched_keywords": [
+    "Power BI",
+    "SQL",
+    "Data Modeling",
+    "ETL",
+    "Python",
+    "PostgreSQL",
+    "MySQL",
+    "Advanced Excel",
+    "Tableau",
+    "Microsoft Office",
+    "Data Visualization",
+    "Data Analysis",
+    "Data Pipelines",
+    "Git",
+    "Snowflake",
+    "BigQuery",
+    "Data Cleaning",
+    "Reporting",
+    "Dashboarding",
+    "Problem Solving",
+    "Communication"
+  ],
+  "missing_keywords": [
+    "DAX",
+    "Power Query (M)",
+    "MS Fabric"
+  ],
+  "strengths": [
+    "Power BI dashboard development with measurable impact",
+    "Strong SQL and relational modeling skills",
+    "End-to-end ETL and pipeline experience",
+    "Quantified outcomes (time savings, efficiency, acquisition)",
+    "Relevant education and analytics fellowship"
+  ],
+  "weaknesses": [
+    "No explicit DAX experience listed",
+    "No Power Query (M) examples",
+    "No MS Fabric experience",
+    "Internship-level role sought vs. some full-time developer experience\u2014alignment OK but not identical",
+    "Limited explicit exposure to corporate BI governance/tools (e.g., Fabric integrations)"
+  ],
+  "improvement_bullets": [
+    "Developed complex Power BI dashboards utilizing advanced DAX measures to calculate performance KPIs, reducing manual reporting time by 40%.",
+    "Engineered scalable data transformation workflows using Power Query (M) to clean and standardize disparate datasets, ensuring high-quality input for analytics models.",
+    "Gained foundational exposure to MS Fabric concepts by designing relational data models in PostgreSQL that support modern cloud-based data architecture and integration strategies.",
+    "Automated data extraction and cleansing processes, leveraging SQL and M language to streamline ETL pipelines and ensure reliable, consistent reporting."
+  ],
+  "cover_letter": "Dear Hiring Manager, I am excited to submit my application for the Business Intelligence Intern opportunity with Phibro Animal Health. I am interested in this opportunity because of my deep passion for leveraging data-driven insights to optimize business operations, a focus that aligns perfectly with Phibro\u2019s commitment to providing high-value solutions in animal health and nutrition. What interests me about working for Phibro is its global reach and its dedication to fostering a diverse, supportive workforce that encourages creative problem-solving; this inspires me because I thrive in collaborative environments where technical innovation directly supports organizational success. I believe my background in full-stack data modeling and my proficiency in creating automated analytics solutions would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on end-to-end efficiency. In fact, at Shine Masters, I identified a bottleneck in manual reporting and developed interactive Power BI dashboards, incorporating DAX measures to automate KPI tracking. This initiative resulted in a 40% reduction in data processing time and significantly accelerated executive decision-making. Ultimately, I know that the Business Intelligence Intern role at Phibro Animal Health would allow me to bring my advanced SQL and data modeling skills to your Digital Information Delivery team. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my data storytelling and visualization skills. During a loan portfolio analysis project, I constructed a complex PostgreSQL data model and managed the end-to-end ETL pipeline, which allowed me to identify high-risk borrower segments effectively. This work highlighted my ability to handle large datasets and translate raw numbers into actionable business intelligence. I\u2019m excited by the opportunity to use my technical expertise in Power BI and SQL to contribute to the Digital Information Delivery team at Phibro. I know that my proficiency in data modeling and my commitment to continuous learning align with what it takes to succeed in the Business Intelligence Intern role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller"
+}

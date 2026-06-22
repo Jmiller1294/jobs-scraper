@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Messaging Engineer
+Company:  The Phoenix Group
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4423147227
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (4)
+  • Office 365
+  • Visio
+  • Microsoft Office
+  • Scripting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Microsoft Exchange
+  • Exchange Online
+  • Hybrid Exchange
+  • Active Directory
+  • Entra ID
+  • Azure AD
+  • PowerShell
+  • DNS
+  • DHCP
+  • Mobile Device Management
+  • Intune
+  • AirWatch
+  • Mobile Iron
+  • Email security
+  • TLS
+  • Anti-spam
+  • Anti-virus
+  • RBAC
+  • Conditional Access
+  • PIM
+  • MFA
+  • Disaster Recovery
+  • Monitoring
+  • Disaster Recovery
+  • On-call support
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Data analysis and visualization (Power BI, Tableau)
+  • Automation and ETL (Python, SQL)
+  • Documented SOPs and technical documentation
+  • Cross-functional collaboration
+  • Quantified impact in operations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Exchange or messaging system experience
+  • No Active Directory/Entra/Azure AD evidence
+  • No PowerShell or DNS/DHCP experience
+  • No MDM (Intune/AirWatch/Mobile Iron) experience
+  • No email security or MFA configuration experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

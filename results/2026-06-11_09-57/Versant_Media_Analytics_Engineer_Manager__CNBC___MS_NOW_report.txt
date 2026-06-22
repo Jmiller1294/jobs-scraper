@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analytics Engineer Manager, CNBC & MS NOW
+Company:  Versant Media
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416300029
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • data modeling
+  • forecasting
+  • time series
+  • ETL
+  • data pipelines
+  • Python
+  • PostgreSQL
+  • Snowflake
+  • BigQuery
+  • data documentation
+  • automation
+  • self-service analytics
+  • Power BI
+  • cross-functional collaboration
+  • version control
+  • testing
+  • data warehouse
+  • analytics engineering
+  • performance tuning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Databricks
+  • data quality
+  • silver-layer
+  • bronze/silver/gold
+  • forecast models
+  • QA
+  • SLA/performance
+  • documentation standards
+  • coach/mentorship
+  • subscriber forecasting
+  • traffic forecasting
+  • business definitions
+  • Databricks environment
+  • modeling frameworks
+  • analytic enablement
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL expertise
+  • Hands-on ETL and pipeline building
+  • Time series/forecasting experience
+  • Cross-functional collaboration
+  • Self-service dashboard enablement
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Databricks experience
+  • Limited explicit bronze/silver/gold layer work
+  • Few examples of formal data quality frameworks
+  • Mentorship/managerial experience minimal
+  • No explicit subscriber/traffic forecasting in production
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

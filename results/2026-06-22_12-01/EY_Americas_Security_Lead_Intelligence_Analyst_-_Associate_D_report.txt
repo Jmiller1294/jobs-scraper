@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Americas Security Lead Intelligence Analyst - Associate Director
+Company:  EY
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4428965007
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • AI tools
+  • open-source research
+  • social media monitoring
+  • intelligence reporting
+  • briefing
+  • situational awareness
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • data analysis
+  • Git
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • OSINT
+  • threat intelligence
+  • incident monitoring
+  • risk assessment
+  • crisis management
+  • travel security
+  • physical security
+  • geopolitical analysis
+  • law enforcement liaison
+  • intelligence cycle
+  • Executive Protection
+  • security assessments
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis (SQL, Python)
+  • Experience with BI tools (Power BI, Tableau)
+  • Familiarity with AI tools (ChatGPT, Claude, Gemini)
+  • Process automation and operational impact
+  • Clear quantitative achievements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit OSINT/intelligence analyst role
+  • Under 10 years' security experience
+  • No law enforcement/US IC experience listed
+  • No security-specific certifications
+  • No demonstrated travel/physical security or Ontic experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

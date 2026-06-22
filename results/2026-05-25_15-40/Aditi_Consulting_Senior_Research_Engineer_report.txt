@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Research Engineer
+Company:  Aditi Consulting
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4408043725
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Python
+  • large datasets
+  • data pipelines
+  • Git
+  • SQL
+  • ETL
+  • AWS
+  • time series
+  • modeling
+  • software engineering
+  • communication
+  • GitHub
+  • open source
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • PyTorch
+  • deep learning
+  • distributed training
+  • FSDP
+  • DDP
+  • machine learning infrastructure
+  • C++
+  • distributed optimization
+  • algorithms
+  • data structures
+  • performance optimization
+  • debugging
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • ETL and data pipeline development
+  • Concrete quantified outcomes (e.g., 40% time reduction)
+  • Experience with AWS (S3) and cloud data tools
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit deep learning/PyTorch experience
+  • No distributed training or FSDP/DDP experience
+  • Limited ML infrastructure or C/C++ skills
+  • Primarily analytics/data roles, not ML research
+  • Few open-source AI/ML contributions shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Founding Engineer
+Company:  Goliath Partners
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4431726780
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • APIs
+  • Git
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • data modeling
+  • data pipelines
+  • dashboarding
+  • automation
+  • time series
+  • Power BI
+  • JIRA
+  • Confluence
+  • quantified outcomes
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • RAG
+  • LLMs
+  • reinforcement learning
+  • vision models
+  • search/retrieval pipelines
+  • scalable
+  • backend
+  • context management
+  • orchestration
+  • multimodal
+  • agent platforms
+  • operating systems
+  • enterprise filesystems
+  • collaboration tools
+  • continual adaptation
+  • long term memory
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL and data pipelines
+  • Quantified impact on business KPIs
+  • Familiarity with cloud data tools (BigQuery, Snowflake, S3)
+  • Dashboarding and data modeling skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LLM or RL experience
+  • Limited backend/architectural engineering evidence
+  • No multimodal or vision-model work
+  • No agent/orchestration platform experience
+  • Title/years misalignment for senior founding role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

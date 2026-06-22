@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Analytics Strategist - Ptarmigan Media opportunity with Omnicom Media. I am interested in this opportunity because of Omnicom Media's impactful work in delivering transformational experiences powered by the Omni marketing orchestration system. What interests me about working for Omnicom Media is its commitment to connecting best-in-class capabilities across its agencies to provide more relevant and actionable consumer experiences, which deeply resonates with my passion for data-driven insights. I believe my strong attention to detail and proven ability in data quality assurance would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a meticulous focus on data integrity and operational excellence. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting POS and CRM data, which eliminated repetitive data entry, saved 8 hours per week, and significantly improved reporting accuracy for faster strategic decisions. This resulted in a consistent 'single source of truth' for all business stakeholders and a reduction in report discrepancies.
+
+Ultimately, I know that the Analytics Strategist role at Omnicom Media would allow me to bring my expertise in data validation and reporting accuracy to ensuring data resilience across platforms and validating campaign tracking. Additionally, my experience as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my problem-solving skills. I designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend. This experience, coupled with my ability to translate complex technical findings into business recommendations during stakeholder meetings, demonstrates my capacity to drive impactful results.
+
+I’m excited by the opportunity to use my data reconciliation and dashboard maintenance skills in working on data integrity, QA & Resilience at Omnicom Media. I know that my attention to detail and proactive approach to data quality align with what it takes to succeed in the Analytics Strategist role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

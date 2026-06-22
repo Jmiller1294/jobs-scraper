@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Underdog.io -Apply to top tech jobs in 60 seconds. A place where companies apply to you
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4422389178
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 75/100
+[███████████████░░░░░] 75%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • BigQuery
+  • dbt
+  • Airflow
+  • GitHub Actions
+  • Docker
+  • Postgres
+  • ETL
+  • ELT
+  • data modeling
+  • dimensional modeling
+  • data quality
+  • Great Expectations
+  • Tableau
+  • Power BI
+  • Excel
+  • CI/CD
+  • GCS
+  • Pandas
+  • NumPy
+  • REST APIs
+  • automation
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Snowflake
+  • AWS
+  • Apache Spark
+  • Looker
+  • Kubernetes
+  • Kafka
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Experience with cloud data warehouse (BigQuery)
+  • Hands-on ELT/ETL pipeline development
+  • Demonstrated automation and CI/CD implementation
+  • Quantified impact on operations and marketing
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Spark experience
+  • Limited evidence of Snowflake production use
+  • Kubernetes/containers orchestration not shown
+  • Few enterprise BI tool variants (no Looker)
+  • Short tenure in some roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,23 @@
+Dear Hiring Manager,
+
+i am excited to submit my application for the Principal Associate, Data Scientist - US Card Marketing Intelligence opportunity with Capital One. i am interested in this opportunity because Capital One's pioneering approach to data-driven decision-making and its commitment to leveraging advanced analytics to improve customer financial lives deeply resonates with my own passion for using data to create impactful solutions.
+
+what interests me about working for Capital One is its approach to individualizing credit card offers through statistical modeling and relational databases from its inception, a true testament to its data-first culture. This continuous innovation excites, inspires, and intrigues me because it aligns with my own drive to explore and implement cutting-edge technologies.
+
+i believe my strong Python and SQL skills, coupled with my proven ability to deliver quantitative results, would make me a strong candidate for this role.
+
+during my professional career, i have approached problems with a focus on analytical rigor and a drive for automation and efficiency. in fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, reducing data mismatches and improving work efficiency by 40%. this demonstrated my ability to translate complex data challenges into streamlined, automated solutions.
+
+subsequently, I created statistical models to identify high-value customer segments, and targeted marketing initiatives informed by these models contributed to a 300% increase in revenue in the targeted segment over 12 months, showcasing my ability to drive tangible business growth through data science.
+
+ultimately, I know that the Principal Associate, Data Scientist - US Card Marketing Intelligence role at Capital One would allow me to bring my expertise in statistical modeling and data pipeline development to developing innovative marketing strategies and optimizing customer experiences.
+
+additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my data governance and reporting automation skills. I standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment, resulting in a consistent "single source of truth" for all business stakeholders and a reduction in report discrepancies.
+
+i’m excited by the opportunity to use my skills in machine learning and data modeling in working on the vast customer data within Capital One's Card organization. i know that my quantitative acumen and my ability to translate complex technical findings into actionable business recommendations align with what it takes to succeed at the Principal Associate, Data Scientist - US Card Marketing Intelligence role.
+
+i would love the opportunity to discuss the role in more detail. thank you for your time and consideration. i look forward to hearing from you soon.
+
+warm regards,
+
+Justin Miller

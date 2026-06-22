@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst Benefits
+Company:  JetBlue
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405177332
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • financial dashboards
+  • ad-hoc reporting
+  • data analysis
+  • project management
+  • presentations
+  • Excel
+  • Power BI
+  • SQL
+  • Python
+  • reporting
+  • stakeholder liaison
+  • dashboard reporting
+  • communication strategy
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Benefits budgeting
+  • variance analysis
+  • invoicing reconciliation
+  • accruals
+  • invoicing reconciliation
+  • behavioral analytics
+  • mentoring
+  • FP&A
+  • HRIS
+  • self-funded plans
+  • costing
+  • utilization
+  • healthcare utilization
+  • benefits consulting
+  • CEBS/PHR
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis (SQL, Python)
+  • Advanced Excel and Power BI reporting
+  • Experience building dashboards and ETL pipelines
+  • Cross-functional collaboration
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct Benefits/Group Insurance experience
+  • No explicit self-funded plan or actuarial work
+  • No HRIS (SAP) experience listed
+  • No certifications (CEBS/PHR)
+  • Unclear years in benefits-specific roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

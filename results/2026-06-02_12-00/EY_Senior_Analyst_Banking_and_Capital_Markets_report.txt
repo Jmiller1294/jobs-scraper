@@ -1,0 +1,88 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst Banking and Capital Markets
+Company:  EY
+Location: Jericho, NY
+URL:      https://www.linkedin.com/jobs/view/4389582405
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • data analysis
+  • SQL
+  • Python
+  • Power BI
+  • visualization
+  • ETL
+  • time series
+  • risk analysis
+  • portfolio analysis
+  • data modeling
+  • communication
+  • presentations
+  • cross-functional collaboration
+  • project management
+  • stakeholder engagement
+  • data storytelling
+  • leadership
+  • Git
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • cloud
+  • advanced Excel
+  • quantitative research
+  • analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • banking
+  • sector insights
+  • credit risk
+  • investment banking
+  • corporate banking
+  • trade finance
+  • sustainability
+  • management consulting
+  • executive engagement
+  • coaching
+  • global
+  • commercial perspective
+  • insights strategy
+  • proactive
+  • client development
+  • industry research
+  • regulatory
+  • senior partner
+  • BCM
+  • subject matter expert
+  • influencing senior clients
+  • multi-cultural
+  • 8-12 years' experience
+  • business development
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack (SQL, Python, ETL)
+  • Proven visualization & dashboard delivery (Power BI, Tableau)
+  • Quantified impact in roles (metrics on efficiency & growth)
+  • Cross-functional collaboration experience
+  • Risk and portfolio analysis project experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct banking/BCM industry experience
+  • Shorter overall sector experience (under 8 years)
+  • Limited executive/partner-level engagement evidence
+  • No explicit coaching/people-management examples
+  • Few domain-specific topics (trade finance, sustainability)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

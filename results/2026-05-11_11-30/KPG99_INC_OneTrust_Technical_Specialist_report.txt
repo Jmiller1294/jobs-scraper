@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     OneTrust Technical Specialist
+Company:  KPG99 INC
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4412900267
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 35/100
+[███████░░░░░░░░░░░░░] 35%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • REST API
+  • software development
+  • systems integration
+  • SDLC
+  • unit testing
+  • integration testing
+  • UAT
+  • Azure DevOps
+  • documentation
+  • stakeholder communication
+  • sensitive data
+  • API integration
+  • ETL
+  • Git
+  • PostgreSQL
+  • automation
+  • data governance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • OneTrust
+  • UCPM
+  • DSAR
+  • Cookie Management
+  • Data Scanning
+  • C#
+  • privacy
+  • security
+  • Azure DevOps (ADO) explicit experience
+  • 6+ years
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python proficiency
+  • API integration experience
+  • ETL and data pipeline development
+  • Stakeholder communication and documentation
+  • Git-based CI/CD and automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No OneTrust experience listed
+  • No C# skills shown
+  • Specific privacy/security tooling not demonstrated
+  • Modules (UCPM/DSAR/Cookie/Data Scanning) absent
+  • Resume shows <6 years relevant dev experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

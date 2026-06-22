@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Hourly Data Analyst
+Company:  New Jersey Institute of Technology
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4414263530
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • experiments
+  • data analysis
+  • Python
+  • SQL
+  • reporting
+  • Git
+  • BigQuery
+  • Snowflake
+  • automation
+  • data quality
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • soil contamination
+  • laboratory investigations
+  • field investigations
+  • microfibers
+  • contaminant transport
+  • PhD
+  • environmental engineering
+  • civil engineering
+  • weekly progress reports
+  • Dr. Boufadel
+  • laboratory
+  • fieldwork
+  • sediment
+  • water
+  • independent research
+  • scientific writing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL/ELT pipelines
+  • Automated reporting and dashboards
+  • Data quality and validation
+  • Effective reporting and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No domain-specific environmental or soil contamination experience
+  • No laboratory or field investigation experience listed
+  • No microfibers or sediment research experience
+  • Does not hold PhD or related degree
+  • No explicit weekly scientific reporting to PI
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

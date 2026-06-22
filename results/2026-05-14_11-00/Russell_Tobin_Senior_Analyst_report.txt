@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst
+Company:  Russell Tobin
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4411192094
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • client service
+  • reporting
+  • documentation
+  • project coordination
+  • vendor management
+  • communication
+  • attention to detail
+  • CRM
+  • reporting
+  • Power BI
+  • Excel
+  • SQL
+  • Python
+  • team collaboration
+  • process improvement
+  • automation
+  • data governance
+  • training/mentorship
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • wealth planning
+  • estate planning
+  • trusts
+  • tax planning
+  • private banking
+  • account onboarding
+  • cash management
+  • investment support
+  • subscription documents
+  • legal coordination
+  • philanthropic initiatives
+  • promissory notes
+  • GRATs
+  • Delaware trusts
+  • gifting strategies
+  • wills
+  • prenuptial agreements
+  • treasury coordination
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data/reporting skills (Power BI, SQL, Python)
+  • process automation and efficiency gains
+  • quantified impact (40% efficiency, 300% segment revenue)
+  • cross-functional collaboration experience
+  • attention to data governance and accuracy
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no explicit family office/wealth management experience
+  • limited finance-specific skills (trusts, estate, tax)
+  • no private banking or treasury experience
+  • titles lean technical (Data Analyst/Developer) vs advisory
+  • less than preferred years in wealth services
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

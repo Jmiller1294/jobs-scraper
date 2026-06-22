@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Patient Reception Rep FLOAT - FT - Day - CMG Central Resource Office
+Company:  Capital Health (US)
+Location: Pennington, NJ
+URL:      https://www.linkedin.com/jobs/view/4340465461
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • customer service
+  • data entry
+  • Microsoft Office
+  • reconciliation
+  • team collaboration
+  • attention to detail
+  • record keeping
+  • patient communication
+  • scheduling
+  • phone triage
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • HIPAA
+  • insurance verification
+  • patient registration
+  • check-in/check-out
+  • claims submission
+  • co-pay collection
+  • pre-authorizations
+  • appointment reminders
+  • patient charts
+  • billing worklists
+  • eligibility checks
+  • privacy policies
+  • time of service batching
+  • clerical duties
+  • receptionist
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data/technical skills (SQL, Excel, Power BI)
+  • Quantified impact in prior roles
+  • Process automation and SOP creation
+  • Cross-functional collaboration
+  • Experience with customer-facing operations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit healthcare registration experience
+  • No HIPAA or medical billing certifications listed
+  • No direct insurance verification or claims experience
+  • Limited receptionist/front-desk title alignment
+  • No explicit experience collecting co-pays or batching
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

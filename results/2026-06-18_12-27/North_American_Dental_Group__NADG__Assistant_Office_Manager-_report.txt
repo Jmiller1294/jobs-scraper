@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Assistant Office Manager-$2,500 Sign on Bonus
+Company:  North American Dental Group (NADG)
+Location: Northford, CT
+URL:      https://www.linkedin.com/jobs/view/4430128383
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Microsoft Office
+  • Reporting
+  • Power BI
+  • Automation
+  • Process documentation
+  • SOPs
+  • Teamwork
+  • Communication
+  • Adaptability
+  • Dependability
+  • Customer service
+  • Training/onboarding
+  • Scheduling
+  • Payments
+  • Data entry
+  • Problem solving
+  • Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • Insurance verification
+  • Medicare/Medicaid
+  • Chart audits
+  • Office manager
+  • Patient relations
+  • Appointment scheduling
+  • Conflict resolution
+  • Billing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Microsoft Office and Excel skills
+  • Experience automating workflows
+  • Documented SOPs and onboarding
+  • Reporting and dashboard creation (Power BI)
+  • Data-driven process improvements with quantified impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No dental or medical office experience
+  • No explicit insurance (Medicare/Medicaid) experience
+  • No office manager title or supervisory dental management
+  • Limited direct patient-facing/customer healthcare examples
+  • No mention of chart audits or dental charting systems
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

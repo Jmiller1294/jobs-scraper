@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst, Real Estate Lending & Special Situations - Selby Jennings
+Company:  Jobs via eFinancialCareers
+Location: Manhattan, NY
+URL:      https://www.linkedin.com/jobs/view/4422226168
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Excel
+  • Power BI
+  • SQL
+  • Python
+  • reporting
+  • presentation
+  • loan portfolio
+  • analytical skills
+  • communication
+  • financial statements
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • financial analysis
+  • underwriting
+  • cash flow modeling
+  • real estate
+  • asset management
+  • due diligence
+  • investment memorandum
+  • valuation
+  • rent rolls
+  • proforma
+  • commercial real estate
+  • debt structures
+  • closing process
+  • research
+  • pivot tables
+  • stakeholder coordination
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong Excel and Power BI reporting
+  • SQL and Python data skills
+  • experience with loan portfolio analysis project
+  • quantified process and efficiency improvements
+  • clear communication and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited direct CRE or lending work experience
+  • no explicit underwriting or cash-flow modeling examples
+  • no investment memorandum creation experience
+  • no asset management of loans
+  • short relevant years in real estate finance (0-1)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

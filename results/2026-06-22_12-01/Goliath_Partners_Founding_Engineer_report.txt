@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Founding Engineer
+Company:  Goliath Partners
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4431726780
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • APIs
+  • Git
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Tableau
+  • automation
+  • data modeling
+  • time series
+  • JIRA
+  • backend
+  • full-stack
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • RAG
+  • LLMs
+  • vision models
+  • reinforcement learning
+  • retrieval
+  • search pipelines
+  • orchestration
+  • scalable
+  • operating systems
+  • enterprise filesystems
+  • collaboration tools
+  • agent platforms
+  • multimodal
+  • long term memory
+  • continual adaptation
+  • autonomous agents
+  • reinforcement learning
+  • founding
+  • model orchestration
+  • browser interaction
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL pipelines and data models
+  • Dashboarding and visualization (Power BI, Tableau)
+  • Full-stack development experience with Git and APIs
+  • Quantified operational impact and metrics-driven results
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated LLM or multimodal model experience
+  • Lacks reinforcement learning and agent platform work
+  • Limited cloud engineering (AWS S3 only) for scalable systems
+  • No explicit RAG or retrieval pipeline implementations
+  • Titles and experience focused on data analytics vs AI systems
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     FX Business Analyst
+Company:  Brown Brothers Harriman
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=7452be964d909a95
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • R
+  • Pandas
+  • ETL
+  • Automation
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • Tableau
+  • Power BI
+  • Advanced Excel
+  • Data modeling
+  • Data pipelines
+  • Data validation
+  • Reporting
+  • Data integrity
+  • Cloud (AWS S3)
+  • Communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Bloomberg
+  • Reuters
+  • Regulatory reporting
+  • Transaction Cost Analysis
+  • Client reporting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Built ETL pipelines and data models
+  • Visualization and dashboard delivery
+  • Quantified operational impact
+  • Familiarity with cloud data platforms
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Bloomberg/Reuters experience
+  • No direct FX or trading domain experience
+  • No documented TCA or post-trade attribution work
+  • Limited tenure in finance-specific roles
+  • Regulatory reporting not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries to clean and reconcile financial datasets, ensuring high data integrity for regulatory reporting and internal audit compliance.
+  Collaborated on financial data projects by utilizing Python to automate data collection, effectively mirroring the workflow of external market data providers like Bloomberg or Reuters.
+  Developed automated reporting flows for client portfolios, including calculating post-trade performance attribution and summarizing transaction metrics to support client-facing investment reviews.
+  Designed and executed complex data analysis to perform Transaction Cost Analysis (TCA), evaluating execution efficiency and providing actionable insights to refine trading strategies.
+  Implemented automated client reporting pipelines that translated raw transaction activity into executive-ready dashboards, reducing manual collation time while ensuring accurate, timely regulatory disclosures.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the FX Business Analyst opportunity with Brown Brothers Harriman. I am interested in this opportunity because of BBH’s 200-year legacy of stability and your commitment to partnership-based service, which aligns with my professional values of collaborative problem-solving and long-term client success. What interests me about working for Brown Brothers Harriman is your role as a thought leader in the FX execution outsourcing industry; your focus on using technology to solve complex client challenges is exactly the environment where I aim to contribute. I believe my expertise in building automated ETL pipelines and my rigorous approach to data integrity would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex data into clear, actionable business strategies. In fact, at Shine Masters Cleaning Services, I developed interactive Power BI dashboards and automated data workflows using Python and Zapier to replace manual reporting. This initiative reduced data processing time by 40% and improved team efficiency by 25%, allowing the business to pivot toward high-value lead generation that drove a 300% increase in customer acquisition. Ultimately, I know that the FX Business Analyst role at Brown Brothers Harriman would allow me to bring my data automation expertise to your FX Business Analytics team’s regulatory and client reporting initiatives. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my financial data reconciliation skills. I collaborated with underwriting teams to clean and reconcile insurance testing data using advanced SQL window functions and CTEs, which improved data accuracy by 30% and significantly reduced project delivery delays. I am excited by the opportunity to use my background in SQL and Python in working on FX data integrity and post-trade performance attribution at Brown Brothers Harriman. I know that my technical proficiency and analytical mindset align with what it takes to succeed in the FX Business Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

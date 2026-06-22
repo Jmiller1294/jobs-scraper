@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Valuation Analyst
+Company:  Cyperus Group LLC
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4415643938
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Excel
+  • SQL
+  • Python
+  • Power BI
+  • data analysis
+  • reporting
+  • ETL
+  • time series
+  • portfolio analysis
+  • data visualization
+  • presentation
+  • stakeholder communication
+  • quantitative analysis
+  • data gathering
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • financial modeling
+  • valuation
+  • real estate
+  • market research
+  • comps
+  • discounted cash flow
+  • client diligence
+  • pricing analysis
+  • financial research
+  • investment analysis
+  • due diligence
+  • model review
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience building ETL pipelines
+  • Advanced Excel and Power BI reporting
+  • Quantitative project experience with large datasets
+  • Clear measurable operational impacts
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No real estate valuation experience
+  • Lacks DCF and formal financial modeling examples
+  • Limited years in finance/valuation (1–3 years)
+  • No explicit client diligence or deal experience
+  • No REIT/private equity exposure shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

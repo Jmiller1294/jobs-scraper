@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Power BI developer
+Company:  Seneca Resources
+Location: Brooklyn, NY
+URL:      https://www.linkedin.com/jobs/view/4418949889
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Power BI
+  • ETL
+  • SQL
+  • Data Modeling
+  • Power Query
+  • Data Warehousing
+  • Data Visualization
+  • Reporting
+  • Documentation
+  • Python
+  • Google Analytics
+  • Snowflake
+  • BigQuery
+  • Stakeholder Collaboration
+  • Performance Optimization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • DAX
+  • Paginated Reports
+  • SSIS
+  • PL/SQL
+  • Geospatial
+  • Power Platform
+  • Azure
+  • T-SQL
+  • Agile Scrum
+  • Report Deployment
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Hands-on Power BI dashboard development
+  • Strong SQL and data modeling experience
+  • ETL and end-to-end pipeline development (Python/SQL)
+  • Quantified impact on KPIs and efficiency
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Less than required 7+ years BI experience
+  • No explicit DAX or Power Platform mentions
+  • No SSIS/PL/SQL/T-SQL experience listed
+  • Limited geospatial and paginated report experience
+  • Azure and PBRS familiarity not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst, Data Science
+Company:  Ventas, Inc.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414484935
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 85/100
+[█████████████████░░░] 85%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Feature engineering
+  • Data visualization
+  • BigQuery
+  • Snowflake
+  • ETL/ELT
+  • Data quality
+  • A/B testing
+  • Power BI
+  • Tableau
+  • Data governance
+  • Stakeholder communication
+  • Pandas
+  • Automation
+  • CI/CD
+  • PostgreSQL
+  • MySQL
+  • Statistical modeling
+  • Time-series
+  • Data storytelling
+  • Advanced Excel
+  • Git
+  • Predictive modeling
+  • Analytics frameworks
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Master's degree
+  • 4+ years experience in analytics
+  • Occupancy
+  • Revenue forecasting
+  • Portfolio management
+  • Finance partnership
+  • Scenario analysis
+  • Model performance monitoring
+  • Senior Housing domain
+  • Relocate to NYC
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Experience with cloud data warehouses
+  • Built ETL pipelines and CI/CD
+  • Quantified impact in prior roles
+  • Effective data storytelling and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Under 4 years targeted analytics experience
+  • Limited explicit predictive modeling in production
+  • No senior housing or healthcare domain experience
+  • No explicit portfolio/finance partnership examples
+  • Relocation/NYC requirement not confirmed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive modeling and scenario analysis frameworks to forecast revenue trends and occupancy rates, enabling data-driven strategic adjustments for stakeholders.
+  Partnered with finance and operations leadership to analyze large datasets, identifying key performance drivers that influenced portfolio-level revenue and operational efficiency.
+  Engineered analytical features from raw operational data to build performance models, conducting continuous model performance monitoring to ensure high-accuracy forecasting.
+  Translated complex business questions from portfolio managers into structured analytical problems, delivering executive-ready narratives that directly shaped senior housing operational strategies.
+  Collaborated with cross-functional teams to reconcile financial and operational data, providing actionable insights that optimized investment decision-making processes.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Analyst, Data Science opportunity with Ventas, Inc. I am interested in this opportunity because of Ventas' position as a leader in the longevity economy and its commitment to improving the lives of an aging population through high-quality senior housing. What interests me about working for Ventas is its data-driven approach to portfolio management and its focus on creating exceptional healthcare environments. I believe my proficiency in predictive modeling and my experience partnering with cross-functional teams to drive operational performance would make me a strong candidate for this role. During my professional career, I have approached problems by bridging the gap between raw data and business strategy. In fact, at Shine Masters, I developed a statistical customer segmentation model and automated reporting pipeline that directly informed marketing strategy, contributing to a 300% increase in revenue for the targeted segment. Ultimately, I know that the Senior Analyst, Data Science role at Ventas would allow me to bring my expertise in Python and SQL to support the Senior Housing portfolio's strategic growth. Additionally, my role as a Data Analyst and Operations Lead at Shine Masters enabled me to develop my stakeholder communication and business alignment skills. I designed A/B tests and standardized organizational KPIs, translating complex technical findings into clear recommendations that drove measurable increases in operational efficiency. I’m excited by the opportunity to use my background in building predictive frameworks to support the complex decision-making needs of the Ventas team. I know that my technical rigor and ability to deliver actionable insights align with what it takes to succeed at the Senior Analyst, Data Science role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

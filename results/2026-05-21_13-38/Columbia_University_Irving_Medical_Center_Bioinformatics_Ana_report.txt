@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Bioinformatics Analyst
+Company:  Columbia University Irving Medical Center
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413628483
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • R
+  • Linux
+  • Windows
+  • Data processing
+  • ETL pipelines
+  • PostgreSQL
+  • SQL
+  • Automation
+  • Version control
+  • Data backup
+  • Data transfer
+  • Data management
+  • Quality assurance
+  • Cloud S3
+  • Scripting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Perl
+  • Bash
+  • NGS pipelines
+  • Genome annotation
+  • Data quality control
+  • Shell scripting
+  • Illumina
+  • Bioinformatics
+  • Clinical review
+  • Regulatory compliance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • ETL and data pipeline development
+  • Experience with Linux and Windows
+  • Proven automation and efficiency gains
+  • Version control and documentation practices
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit bioinformatics or NGS pipeline experience
+  • Perl and Bash not demonstrated
+  • No mention of genome annotation or NCBI/EMBL
+  • Limited years in relevant bioinformatics roles
+  • No explicit regulatory/clinical data handling experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

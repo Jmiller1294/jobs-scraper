@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI & Machine Learning Engineering Consultant - Power & Utilities Sector - Manager - Consulting
+Company:  EY
+Location: Hoboken, NJ
+URL:      https://www.linkedin.com/jobs/view/4408891933
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • Pandas
+  • ETL
+  • Git
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Tableau
+  • Power BI
+  • Jira
+  • Time series
+  • Visualization
+  • R
+  • Model monitoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • CI/CD
+  • MLOps
+  • NLP
+  • Deep learning
+  • PyTorch
+  • scikit-learn
+  • Generative AI
+  • LangChain
+  • RAG
+  • Model retraining
+  • DevOps
+  • Azure DevOps
+  • SCADA
+  • AMI
+  • GIS
+  • EAM
+  • OMS
+  • Historian
+  • Technical Design Optimization
+  • Operations research
+  • Spark
+  • Regulated utilities
+  • Explainability
+  • Model risk management
+  • Cloud production deployment
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Hands-on ETL and time-series modeling
+  • Visualization and dashboarding (Tableau/Power BI)
+  • Cloud experience (AWS S3, Snowflake, BigQuery)
+  • Cross-functional collaboration and JIRA/Git usage
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/ no demonstrated MLOps or CI/CD experience
+  • No explicit deep learning or PyTorch/scikit-learn projects
+  • Generative AI and RAG tooling not evidenced
+  • No utility sector data sources (SCADA/AMI/GIS) experience
+  • Limited managerial/people-management experience (2-4 yrs required)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

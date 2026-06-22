@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Research Scientist, Agent Robustness
+Company:  Scale AI
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4385768846
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • SQL
+  • Git
+  • BigQuery
+  • Snowflake
+  • data analysis
+  • ETL
+  • prototype
+  • communication
+  • time series
+  • cloud
+  • publishing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • agent evaluation
+  • adversarial testing
+  • RLHF
+  • DPO
+  • post-training
+  • benchmarking
+  • RL
+  • agent scaffolding
+  • red-teaming
+  • web browsing
+  • experimentation
+  • quantitative metrics
+  • research
+  • publishing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • ETL and data pipeline experience
+  • Quantified operational impact
+  • Dashboarding and visualization
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited ML/RL research experience
+  • No explicit RLHF/DPO/post-training work
+  • No agent-specific evaluation or red-teaming
+  • Limited publications record
+  • Titles oriented to data/engineering rather than research scientist
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

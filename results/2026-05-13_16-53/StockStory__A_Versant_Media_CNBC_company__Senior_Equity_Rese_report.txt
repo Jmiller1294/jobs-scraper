@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Equity Research Analyst, AI Platform
+Company:  StockStory (A Versant Media/CNBC company)
+Location: Englewood Cliffs, NJ
+URL:      https://www.linkedin.com/jobs/view/4410637462
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 36/100
+[███████░░░░░░░░░░░░░] 36%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • ETL pipelines
+  • APIs
+  • Automation
+  • Power BI
+  • Tableau
+  • Git
+  • Data pipelines
+  • Data validation
+  • Statistical techniques
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • LLM workflows
+  • Factor models
+  • Backtests
+  • Forensic accounting
+  • Three-statement models
+  • Fundamental research
+  • Buy-side experience
+  • Portfolio analysis
+  • Prompt engineering
+  • Error analysis
+  • Reproducible evaluations
+  • Prompt/context engineering
+  • Agentic approaches
+  • Quantamental
+  • Sector-based models
+  • Long-only fund
+  • Hedge fund
+  • Family office
+  • Endowment
+  • Structured extraction
+  • DAGs
+  • Databases (design)
+  • Model evaluation
+  • LLM-based workflows
+  • Systematic strategy
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL/data pipelines
+  • Cloud data warehouse experience (Snowflake, BigQuery)
+  • Proven automation and reporting impact
+  • Statistical modeling and A/B testing experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No buy-side investing experience
+  • No demonstrated forensic accounting or three-statement modeling
+  • No explicit LLM/prompt engineering experience
+  • Limited evidence of portfolio/stock-picking model work
+  • No quantamental or factor model design experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

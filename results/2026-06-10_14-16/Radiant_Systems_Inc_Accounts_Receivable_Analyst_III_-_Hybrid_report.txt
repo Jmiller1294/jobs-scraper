@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Accounts Receivable Analyst III - Hybrid Role
+Company:  Radiant Systems Inc
+Location: Cranbury, NJ
+URL:      https://www.linkedin.com/jobs/view/4426018021
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Invoice-to-Cash
+  • Accounts Receivable
+  • Reconciliation
+  • Power BI
+  • Excel
+  • Data Entry
+  • Reporting
+  • SOP
+  • ERP
+  • Automation
+  • SQL
+  • Python
+  • Team Collaboration
+  • Attention to Detail
+  • Bachelor's Degree
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • SAP
+  • Billing
+  • SAP S/4HANA
+  • Payment Processing
+  • ACH
+  • Wire
+  • Master Data
+  • High-volume Transactions
+  • BlackLine
+  • HighRadius
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI and Excel reporting skills
+  • Experience with ERP data integration and SQL
+  • Documented SOPs and process improvements
+  • Proven data reconciliation and ETL experience
+  • Bachelor's degree in Computer Science
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SAP experience listed
+  • Limited AR/billing-specific job titles
+  • No explicit ACH/wire/payment processing experience
+  • No mention of BlackLine/HighRadius
+  • Short duration in finance-specific roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

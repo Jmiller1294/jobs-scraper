@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Clinical Coordinator III - PA
+Company:  Columbia University Irving Medical Center
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4427852288
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (6)
+  • MS Office
+  • communication skills
+  • charting
+  • care coordination
+  • leadership
+  • 5 years experience
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • NYS PA License
+  • NCCPA Board Certification
+  • BLS Certification
+  • ACLS Certification
+  • DEA Certification
+  • history and physical
+  • pre-op workup
+  • postoperative care
+  • paracentesis
+  • diagnostic test interpretation
+  • patient management plans
+  • tumor board presentation
+  • research support
+  • ECG interpretation
+  • wound care
+  • hospital consultations
+  • medication management
+  • clinical procedures
+  • independent clinical decision-making
+  • charting in patient records
+  • present cases
+  • perform minor procedures
+  • ARC-PA accredited
+  • physician collaborative agreement
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • 10+ years administrative experience
+  • advanced MS Office skills
+  • calendar and travel coordination
+  • data reporting and Excel pivot tables
+  • confidential document handling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No clinical credentials or PA licensure
+  • No documented clinical procedures experience
+  • Lacks medical certifications (BLS/ACLS/DEA)
+  • No surgical or perioperative experience
+  • No research or tumor board presentation evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

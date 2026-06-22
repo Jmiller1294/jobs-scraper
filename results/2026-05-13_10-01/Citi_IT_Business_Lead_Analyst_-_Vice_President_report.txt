@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     IT Business Lead Analyst - Vice President
+Company:  Citi
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413869907
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • ETL/ELT pipelines
+  • Snowflake
+  • BigQuery
+  • CI/CD
+  • Data quality
+  • Automation
+  • Reporting/Visualization
+  • Power BI
+  • Tableau
+  • Git
+  • Stakeholder management
+  • Business analysis
+  • Data governance
+  • Cloud (AWS S3)
+  • A/B testing
+  • Solution architecture
+  • Reporting/Visualization
+  • Mentoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Credit risk
+  • Market risk
+  • Financial services
+  • Accounting
+  • Product roadmap
+  • Compliance
+  • Regulations
+  • Capital markets
+  • Credit Initiation and Onboarding
+  • AI-first practices
+  • Product AI Center of Excellence
+  • Diplomatic skills
+  • Resource allocation
+  • Risk assessment
+  • Master's degree
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Proven ETL/ELT and pipeline development
+  • Experience with Snowflake and BigQuery
+  • Demonstrated automation and reporting impact
+  • Stakeholder communication and data governance
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit finance/capital markets experience
+  • No direct Credit/Market Risk or accounting background
+  • Product roadmap/governance experience minimally shown
+  • AI-first transformation leadership not demonstrated
+  • Regulatory/compliance experience not evident
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

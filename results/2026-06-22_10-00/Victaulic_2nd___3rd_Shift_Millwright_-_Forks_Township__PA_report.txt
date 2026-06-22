@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     2nd & 3rd Shift Millwright - Forks Township, PA
+Company:  Victaulic
+Location: Northampton County, PA
+URL:      https://www.linkedin.com/jobs/view/4414672955
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • SOPs
+  • documentation
+  • troubleshooting
+  • safety procedures
+  • material handling
+  • equipment inspection
+  • process improvement
+  • automation
+  • Power BI
+  • Python
+  • SQL
+  • AWS
+  • ETL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (22)
+  • mechanical maintenance
+  • hydraulic
+  • pneumatic
+  • welding
+  • rigging
+  • electrical repairs
+  • preventive maintenance
+  • lifting
+  • machine operation
+  • painting
+  • forklift
+  • crane
+  • lockout/tagout
+  • production equipment
+  • hand tools
+  • maintenance documentation
+  • material handling equipment
+  • mobile cranes
+  • building repairs
+  • iron castings
+  • plant vehicles
+  • services and utilities
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data automation (Python, ETL)
+  • Reporting & dashboards (Power BI, Tableau)
+  • Process documentation (SOPs)
+  • Quantified impact on operations
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No hands-on mechanical trades experience
+  • No welding or rigging certifications
+  • Lacks electrical repair skills
+  • No forklift/crane/operator qualifications
+  • Limited manufacturing/plant maintenance background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

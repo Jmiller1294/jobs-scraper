@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff, Tech Lead
+Company:  Listen Labs
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405463836
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 63/100
+[████████████░░░░░░░░] 63%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • ETL
+  • CI/CD
+  • Git
+  • Data pipelines
+  • Data quality
+  • Power BI
+  • Tableau
+  • PostgreSQL
+  • MySQL
+  • Automation
+  • Pandas
+  • A/B testing
+  • Data governance
+  • Reporting
+  • AWS (S3)
+  • Statistical modeling
+  • Analytics
+  • DBT
+  • Great Expectations
+  • Power BI
+  • Advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • LLM
+  • Machine Learning
+  • NLP
+  • Computer Vision
+  • Speech analysis
+  • Realtime systems
+  • Distributed information mining
+  • Agent
+  • Synthetic personas
+  • Modeling human behavior
+  • GCP
+  • Docker
+  • Kubernetes
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python + SQL ETL/ELT experience
+  • Proven automation and pipeline CI/CD delivery
+  • Quantified impact (revenue lift, efficiency gains)
+  • Experience with BigQuery and Snowflake
+  • Visualization and reporting expertise (Power BI/Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LLM/ML or NLP experience
+  • Limited realtime, CV, or speech processing background
+  • No distributed systems / orchestration (K8s/Docker) shown
+  • Title misalignment (Data Analyst / Full-Stack vs. Senior ML/AI Engineer)
+  • Relatively short tenure in AI-focused roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

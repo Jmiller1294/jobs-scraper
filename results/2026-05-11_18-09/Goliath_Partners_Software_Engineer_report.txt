@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  Goliath Partners
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4412943584
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 63/100
+[████████████░░░░░░░░] 63%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • data pipelines
+  • BigQuery
+  • Airflow
+  • dbt
+  • data quality
+  • CI/CD
+  • GitHub Actions
+  • ETL/ELT
+  • Postgres
+  • Snowflake
+  • Docker
+  • SQL
+  • Pandas
+  • NumPy
+  • production systems
+  • monitoring
+  • dashboards
+  • Power BI
+  • Tableau
+  • automation
+  • cloud
+  • GCS
+  • risk
+  • trading
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Go
+  • valuation
+  • order execution
+  • post-trade tracking
+  • liquidity
+  • historical performance
+  • safeguards for execution risks
+  • market data
+  • pricing models
+  • high-stakes environments
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Experience building ELT pipelines with Airflow and dbt
+  • Implemented data quality with Great Expectations
+  • CI/CD and GitHub Actions experience
+  • Dashboarding and monitoring (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Go language experience
+  • No explicit trading/market data systems experience
+  • No demonstrated valuation or order-execution work
+  • Limited backend engineering title alignment (mostly analytics/dev)
+  • No quantified experience with execution risk safeguards
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

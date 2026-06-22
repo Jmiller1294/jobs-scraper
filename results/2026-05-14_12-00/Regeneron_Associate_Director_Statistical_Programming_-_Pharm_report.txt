@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate Director Statistical Programming - Pharmacometrics
+Company:  Regeneron
+Location: Tarrytown, NY
+URL:      https://www.linkedin.com/jobs/view/4414485373
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • R
+  • SQL
+  • data integration
+  • project management
+  • programming
+  • validation plan
+  • analysis datasets
+  • QC
+  • data export
+  • electronic submission
+  • statistical analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • SAS
+  • CDISC
+  • PopPK
+  • exposure-response
+  • pharmacokinetics
+  • TFLs
+  • SAS Macro
+  • SAS Graph
+  • annotated CRF
+  • biostatistics
+  • AI in statistical programming
+  • clinical trial data
+  • resource planning
+  • mentor junior staff
+  • clinical pharmacology report
+  • Regulatory submission
+  • SAS Certification
+  • Windows SAS
+  • SAS studio
+  • immunogenicity
+  • exposure response
+  • therapeutic area expertise
+  • CDISC data standards
+  • population PKPD
+  • HAR request
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Data integration and ETL experience
+  • Experience building automation and pipelines
+  • Visualization and reporting (Power BI, Tableau)
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SAS expertise listed
+  • No CDISC or clinical standards experience
+  • No PK/PopPK or pharmacometrics experience
+  • Limited years in clinical/pharma domain
+  • No explicit regulatory submission experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

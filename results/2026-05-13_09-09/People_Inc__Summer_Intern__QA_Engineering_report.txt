@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Summer Intern, QA Engineering
+Company:  People Inc.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4393939891
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • Git
+  • version control
+  • CI/CD
+  • API
+  • automated test cases
+  • test automation frameworks
+  • software testing
+  • data automation
+  • integration testing
+  • regression testing
+  • exploratory testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (22)
+  • JavaScript
+  • TypeScript
+  • Java
+  • Playwright
+  • Cypress
+  • Selenium
+  • Postman
+  • REST Assured
+  • Jira
+  • test case writing
+  • bug reporting
+  • AI-assisted QA
+  • STLC
+  • quality assurance
+  • test planning
+  • visual testing
+  • Playwright
+  • Cypress
+  • Selenium
+  • REST Assured
+  • Postman
+  • Java
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python automation experience
+  • CI/CD familiarity (GitHub Actions mention)
+  • Data engineering and ETL pipeline skills
+  • Quantified impact in prior roles
+  • SQL and database optimization
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit JavaScript/TypeScript/Java experience listed
+  • No named QA tools (Playwright/Cypress/Selenium) experience
+  • No explicit Jira or bug reporting experience
+  • Limited direct QA/STLC role experience
+  • No explicit AI-assisted QA exposure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

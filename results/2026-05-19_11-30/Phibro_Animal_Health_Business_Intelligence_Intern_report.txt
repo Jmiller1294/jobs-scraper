@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Intelligence Intern
+Company:  Phibro Animal Health
+Location: Teaneck, NJ
+URL:      https://www.linkedin.com/jobs/view/4406235426
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Power BI
+  • SQL
+  • Data Modeling
+  • Power BI
+  • Data Visualization
+  • ETL
+  • Python
+  • PostgreSQL
+  • MySQL
+  • Snowflake
+  • BigQuery
+  • Advanced Excel
+  • Microsoft Office
+  • Dashboard Development
+  • Data Cleaning
+  • Git
+  • APIs
+  • Reporting
+  • Data Pipelines
+  • Tableau
+  • Google Data Analytics
+  • Problem Solving
+  • Collaboration
+  • Communication
+  • Attention to Detail
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • DAX
+  • Power Query
+  • MS Fabric
+  • MS Fabric (specific)
+  • Accepting Direction
+  • Adaptable
+  • Attendance and Punctuality
+  • Attentive Listening
+  • Demonstrating Tenacity and Perseverance
+  • Following Policies and Procedures
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI dashboard experience
+  • Solid SQL and data modeling experience
+  • Practical ETL and Python pipeline skills
+  • Quantified impact (time/process/customer metrics)
+  • Experience with cloud warehouses (Snowflake/BigQuery)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit DAX or Power Query examples
+  • MS Fabric not demonstrated
+  • Internship-specific enrollment status not stated
+  • Limited formal experience in enterprise BI teams
+  • Some soft-competency keywords not directly cited
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed robust data models in Power BI using advanced DAX measures and Power Query (M) to transform raw data, reducing report processing time by 40%.
+  Collaborated within the Digital Information Delivery team to architect data solutions, gaining foundational exposure to MS Fabric and cloud-integrated analytics environments.
+  Demonstrated adaptability and a commitment to following policies by documenting complex SOPs, which reduced new hire onboarding time by 50% and ensured consistent data handling.
+  Showcased tenacity in solving complex data integration issues by leveraging Python and SQL to clean, validate, and structure large-scale loan datasets, ensuring high-quality inputs for stakeholders.
+  Exercised attentive listening and critical thinking to translate ambiguous stakeholder requirements into actionable dashboard metrics, consistently delivering projects on-time and aligned with business objectives.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Intelligence Intern opportunity with Phibro Animal Health. I am interested in this opportunity because of Phibro's commitment to innovation in animal health and nutrition and the chance to contribute to your Digital Information Delivery team. What interests me about working for Phibro is its status as a global leader with a diverse workforce that prioritizes creativity and skill development, which inspires me as an early-career data professional. I believe my advanced proficiency in SQL and Power BI, and my collaborative approach to problem-solving, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data-driven efficiency. In fact, while at Shine Masters, I identified a bottleneck in client onboarding and utilized automation tools to streamline workflows; the result was saving 8 hours per week, which allowed the team to pivot toward high-value lead generation and increased new customer acquisition by 300%. Ultimately, I know that the Business Intelligence Intern role at Phibro would allow me to bring my technical expertise in data modeling to support your critical business objectives. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my communication and analytical skills. During a high-stakes portfolio analysis project, I analyzed 2M+ rows of loan data; by applying complex SQL queries and Python-based ETL, I created a scalable model that identified high-risk segments, directly supporting executive decision-making. I’m excited by the opportunity to use my data modeling and DAX skills in working on complex datasets at Phibro. I know that my technical versatility and ability to work effectively in cross-functional environments align with what it takes to succeed at the Business Intelligence Intern role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

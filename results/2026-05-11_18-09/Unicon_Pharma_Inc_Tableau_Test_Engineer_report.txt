@@ -1,0 +1,84 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Tableau Test Engineer
+Company:  Unicon Pharma Inc
+Location: Basking Ridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4412984353
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Tableau
+  • SQL
+  • Dashboard Testing
+  • Data Validation
+  • Automation
+  • Python
+  • Power BI
+  • Snowflake
+  • BigQuery
+  • ETL
+  • CI/CD
+  • Joins
+  • KPI
+  • Data Governance
+  • PostgreSQL
+  • MySQL
+  • Great Expectations
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • Regression Testing
+  • Functional Testing
+  • Selenium
+  • JIRA
+  • Confluence
+  • Redshift
+  • Oracle
+  • Joins, Aggregations, Data Validation
+  • Aggregations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and query optimization experience
+  • Hands-on Tableau dashboard development/testing
+  • Automation with Python and CI/CD pipelines
+  • Experience with cloud data warehouses (Snowflake, BigQuery)
+  • Proven quantifiable impact on reporting accuracy and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit 5+ years BI/Tableau QA title or tenure
+  • No mention of Selenium or Wiisdom
+  • No explicit JIRA/Confluence experience
+  • No Redshift/Oracle experience listed
+  • Limited explicit QA/test-case/regression testing language
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend and performing functional testing on campaign variations.
+  Standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment, resulting in a consistent "single source of truth" for all business stakeholders and a reduction in report discrepancies through rigorous data validation.
+  Integrated multiple datasets from APIs and PostgreSQL warehouses to build structured data, supporting more robust downstream analytics and reporting, and ensuring data integrity through thorough validation processes.
+  Automated data quality validation with Great Expectations to ensure pipeline reliability, deploying the final solution via a GitHub Actions CI/CD pipeline, and ensuring consistent product quality through automated testing procedures.
+  Designed an interactive Tableau dashboard to provide self-service access for stakeholders, visualizing arrests by location, time, and offense type, and validating its functionality and data accuracy against source data.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Tableau Test Engineer opportunity with Unicon Pharma Inc. I am interested in this opportunity because my passion for ensuring data integrity and optimizing reporting through robust testing aligns perfectly with the requirements of this role. What interests me about working for Unicon Pharma Inc. is your reputation for innovation in the pharmaceutical industry; this dedication to advancing healthcare solutions excites and inspires me.
+
+I believe my strong SQL skills and my experience in dashboard testing would make me a strong candidate for this role. During my professional career, I have approached problems with a meticulous and data-driven mindset. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting POS and CRM data, which eliminated repetitive data entry, saved 8 hours per week, and improved reporting accuracy for faster strategic decisions. This resulted in more reliable data for informed decision-making.
+
+Ultimately, I know that the Tableau Test Engineer role at Unicon Pharma Inc. would allow me to bring my expertise in data validation to the critical responsibility of validating Tableau dashboards and KPI calculations. Additionally, my experience with Haven Technologies enabled me to develop my data integration and query optimization skills. I collaborated with product managers on a 14-person team to align features with business objectives, streamlining the software development workflow and reducing delivery delays by 25%. I also optimized relational database queries (CTEs, window functions, joins) to clean and reconcile testing data, improving data accuracy by 60%, which directly contributed to more reliable downstream analytics.
+
+I’m excited by the opportunity to use my dashboard testing skills in working on validating Tableau dashboards and ensuring data accuracy at Unicon Pharma Inc. I know that my strong SQL background and my hands-on experience with dashboard validation align with what it takes to succeed at the Tableau Test Engineer role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

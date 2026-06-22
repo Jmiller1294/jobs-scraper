@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Underdog.io -Apply to top tech jobs in 60 seconds. A place where companies apply to you
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4414596885
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • BigQuery
+  • dbt
+  • Airflow
+  • Python
+  • SQL
+  • GCS
+  • Great Expectations
+  • ETL/ELT pipelines
+  • Data modeling
+  • Data quality
+  • CI/CD
+  • GitHub Actions
+  • Postgres
+  • Docker
+  • Power BI
+  • Tableau
+  • Dimensional modeling
+  • Data warehouse
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Unstructured data
+  • Observability
+  • Feature stores
+  • Vector stores
+  • Embeddings
+  • AI/ML workloads
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong modern cloud/data stack (BigQuery, GCS, Snowflake)
+  • Proven pipeline building with Airflow, dbt, ELT
+  • Emphasis on data quality (Great Expectations, tests)
+  • Solid SQL and Python data engineering experience
+  • CI/CD and automation (GitHub Actions, Docker)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit experience with unstructured data
+  • No direct mention of vector stores or embeddings
+  • No explicit feature store or ML feature pipeline experience
+  • Observability/lineage tooling not listed
+  • Under 6 years’ senior data engineering experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Engineered ETL pipelines to ingest and normalize unstructured data from REST APIs and social media platforms, transforming raw inputs into structured formats for downstream AI and analytical consumption.
+  Designed and implemented production-grade data observability and monitoring workflows using Great Expectations to ensure 99.9% data reliability and pipeline lineage tracking.
+  Integrated vector search concepts and embedding generation within Python pipelines to prepare diverse datasets for AI-driven matching engines and search functionality.
+  Built automated data feature pipelines, structuring relational and transactional data into standardized feature sets to support scalable machine learning and model training workloads.
+  Architected robust data warehouses using star schema modeling to serve as a high-performance foundation for AI-native applications and user-facing intelligence dashboards.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Engineer opportunity with the company. I am interested in this opportunity because of your unique focus on leveraging agentic AI to solve the fragmented infrastructure challenges in the multi-unit franchise market. What interests me about working for your team is your commitment to building an AI-native data foundation, which inspires me because I am passionate about turning complex, real-world data into actionable customer value. I believe my expertise in modern ELT pipeline architecture and my proficiency in transforming complex data into AI-ready structures would make me a strong candidate for this role. During my career, I have approached problems by focusing on building scalable, reliable data foundations. In fact, while building a production-grade ELT pipeline for economic data, I utilized Python, Airflow, and dbt to model raw API data into a star schema, drastically reducing query times for stakeholders. This resulted in a production-grade data warehouse that now serves as a reliable source of truth for high-level decision-making, an impact I look forward to replicating at your company. Ultimately, I know that the Data Engineer role at your company would allow me to bring my experience with dimensional modeling and data quality observability to the design and maintenance of your AI-ready data infrastructure. Additionally, my role as a Full-Stack Software Developer enabled me to develop my end-to-end product ownership skills. I collaborated with stakeholders to synchronize data across systems and translate user feedback into code, which drove a 15% increase in feature adoption and bridged the gap between raw data and user experience. I am excited by the opportunity to use my background in both software engineering and data engineering to work on building AI-powered matching engines at your company. I know that my technical proficiency in the modern data stack and my bias for action align with what it takes to succeed in your fast-paced, mission-driven environment. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

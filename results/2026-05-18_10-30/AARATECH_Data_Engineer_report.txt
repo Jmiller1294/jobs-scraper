@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  AARATECH
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4415651986
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 79/100
+[███████████████░░░░░] 79%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • BigQuery
+  • ETL
+  • Airflow
+  • dbt
+  • data pipelines
+  • data quality
+  • GCS
+  • Snowflake
+  • Postgres
+  • CI/CD
+  • Great Expectations
+  • data modeling
+  • Power BI
+  • Tableau
+  • cloud
+  • dimensional modeling
+  • automation
+  • analytics
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Hadoop
+  • Spark
+  • AML
+  • KYC
+  • regulatory reporting
+  • fraud detection
+  • transaction platforms
+  • risk reporting
+  • Hadoop/Spark
+  • banking systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Cloud data platform experience (BigQuery, GCS, Snowflake, AWS)
+  • Proven ETL/ELT and Airflow pipeline implementations
+  • Data modeling and dbt expertise
+  • Demonstrated quantifiable impacts (efficiency and accuracy gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct banking/financial industry experience
+  • No explicit AML/KYC/regulatory reporting projects
+  • No listed Spark/Hadoop big data tooling experience
+  • Under 2 years labeled Data Engineering role experience
+  • No mention of fraud detection or transaction platform integrations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional stakeholders at Haven Technologies to align data pipelines with financial regulatory reporting standards, ensuring audit-ready data accuracy for internal risk assessments.
+  Engineered Python-based ETL processes to ingest and normalize transaction data from disparate banking systems, implementing data validation checks to support fraud detection and monitoring workflows.
+  Developed robust data models in dbt to aggregate large-scale datasets, specifically focusing on metrics associated with AML (Anti-Money Laundering) and KYC (Know Your Customer) compliance protocols.
+  Integrated REST API data into secure cloud environments (GCP/AWS) to build reporting frameworks that track high-volume financial transactions, reducing manual reconciliation errors by 60%.
+  Optimized data transformation workflows by integrating SQL-based analytics with large-scale processing logic, providing actionable insights for financial risk reporting and operational decision-making.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Engineer opportunity with AARATECH. I am interested in this opportunity because of my deep commitment to building robust data infrastructure that supports complex analytical outcomes. What interests me about working for AARATECH is its focus on leveraging innovative solutions to drive operational efficiency within the financial services sector; this mission resonates with me because I am passionate about the intersection of high-stakes financial data and technical engineering. I believe my advanced proficiency in building scalable ETL pipelines and my expertise in dimensional modeling would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and automation. In fact, while at Haven Technologies, I extracted and transformed complex data from relational databases to synchronize records across systems, which improved overall data accuracy by 60%. This experience directly translates to the need for reliable data processing in a banking environment, as it ensured that downstream systems maintained a 'single source of truth' for business stakeholders. Ultimately, I know that the Data Engineer role at AARATECH would allow me to bring my experience with cloud-native data architecture to support the firm’s critical financial reporting and regulatory compliance requirements. Additionally, my role as a Data Engineer/Developer at Haven Technologies enabled me to develop my cross-functional collaboration skills. I worked closely with product managers to translate technical user feedback into production-ready code, reducing product delivery delays by 25%. I am excited by the opportunity to use my background in SQL and data pipeline automation in working on large-scale financial datasets at AARATECH. I know that my technical versatility and analytical rigor align with what it takes to succeed in the Data Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

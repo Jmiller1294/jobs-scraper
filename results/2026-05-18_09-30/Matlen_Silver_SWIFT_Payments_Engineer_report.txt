@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     SWIFT Payments Engineer
+Company:  Matlen Silver
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4413489417
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Linux
+  • documentation
+  • SQL
+  • Python
+  • Git
+  • APIs
+  • JIRA
+  • Confluence
+  • ETL
+  • PostgreSQL
+  • BigQuery
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • SWIFT
+  • SWIFT Alliance Gateway
+  • SWIFT Alliance Access
+  • SWIFT Web Platform
+  • SWIFTNet Link
+  • ISO20022
+  • RTP
+  • FedNow
+  • SEPA Instant
+  • patching
+  • troubleshooting
+  • testing
+  • compliance
+  • regulatory
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with PostgreSQL and cloud analytics
+  • Documentation and compliance-oriented outputs
+  • ETL and data integration expertise
+  • Version control and ticketing tool experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SWIFT product experience
+  • No demonstrated SWIFT protocol/format knowledge
+  • No payments/real-time payments experience
+  • Limited Linux-specific administration details
+  • Insufficient hands-on patching/troubleshooting evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

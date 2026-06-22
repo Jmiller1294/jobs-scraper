@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Finance Data Analyst
+Company:  Phaxis
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414590927
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • SQL
+  • Excel (Pivot Tables, VLOOKUP)
+  • Power BI
+  • Python
+  • Snowflake
+  • Salesforce CRM
+  • Data reconciliation
+  • Data governance
+  • Automation
+  • ETL
+  • Reporting
+  • Data quality
+  • Analytical skills
+  • Communication
+  • Stakeholder support
+  • Attention to detail
+  • Pivot tables
+  • BigQuery
+  • Lookups
+  • CRM
+  • Cloud (AWS S3)
+  • Data modeling
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • VBA
+  • PowerPoint
+  • Capital IQ
+  • Dealogic
+  • Investment banking
+  • Corporate banking
+  • Macros
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python applied to ETL and pipelines
+  • Hands-on Snowflake and BigQuery experience
+  • Automation reducing manual work and improving accuracy
+  • Proven reporting and Power BI/dashboard development
+  • Quantified impact on efficiency and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct finance/accounting years (1-3 requirement marginally met)
+  • No explicit VBA or Excel macros experience
+  • No Capital IQ or Dealogic exposure
+  • No explicit experience with PowerPoint deliverables
+  • Limited explicit investment/corporate banking background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed advanced Excel models utilizing Macros and VBA to automate complex financial reconciliations, ensuring 100% data accuracy and reducing manual processing time by 15 hours weekly.
+  Presented data-driven investment insights to executive leadership using PowerPoint and Power BI, translating complex CRM datasets into actionable corporate banking strategies.
+  Leveraged experience with capital markets and investment data to perform rigorous data quality checks, ensuring CRM integrity and alignment with internal financial reporting standards.
+  Collaborated with cross-functional stakeholders to streamline financial data workflows, applying analytical rigor to identify opportunities for capital and operational efficiency.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Finance Data Analyst opportunity with Phaxis. I am interested in this opportunity because of the firm's reputation for precision in financial operations and its commitment to data-driven decision-making. What interests me about working for Phaxis is its sophisticated approach to client service and its role as a bridge for talent in the financial sector, which excites me as I look to leverage my technical data background within a specialized financial environment. I believe my expertise in ETL pipeline development and my proficiency in CRM-based financial reporting would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and automation. In fact, while at Shine Masters, I identified a gap in reporting efficiency and built a Python-based automation pipeline that ingested POS and CRM data. The result was a 40% improvement in reporting efficiency and the elimination of 8 hours of manual data entry per week, a mindset I am ready to apply to Phaxis's financial reconciliations. Ultimately, I know that the Finance Data Analyst role at Phaxis would allow me to bring my advanced data modeling skills to support bankers and stakeholders in their daily operations. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my VBA and advanced Excel skills, as I frequently redesigned manual reporting workflows into automated, macro-driven dashboards. This work standardized organizational KPIs and reduced reporting discrepancies by creating a single source of truth for the company. I’m excited by the opportunity to use my SQL and Salesforce proficiency in working on CRM maintenance and financial data reconciliation at Phaxis. I know that my analytical mindset and technical versatility align with what it takes to succeed in the Finance Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

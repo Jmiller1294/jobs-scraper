@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  StreetID
+Location: 
+URL:      https://www.linkedin.com/jobs/view/3811924406
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • Airflow
+  • BigQuery
+  • dbt
+  • ETL/ELT pipelines
+  • data quality
+  • CI/CD
+  • GCS
+  • Great Expectations
+  • data modeling
+  • pipeline automation
+  • batch processing
+  • data validation
+  • Power BI
+  • data ingestion
+  • data transformation
+  • Docker
+  • Postgres
+  • Snowflake
+  • APIs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • time-series data
+  • performance tuning
+  • monitoring
+  • data governance
+  • high-throughput, low-latency platforms
+  • real-time streaming
+  • C++
+  • distributed systems
+  • AI/ML tools
+  • latency reduction
+  • data lineage
+  • robust data APIs
+  • fault tolerance
+  • scalability best practices
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building production ELT pipelines
+  • Proficient with BigQuery, GCS, dbt
+  • Implemented data quality & CI/CD (Great Expectations, GitHub Actions)
+  • Demonstrated measurable impact via automation and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C++ or explicit low-latency systems experience
+  • Limited evidence of real-time/streaming pipelines
+  • Unclear distributed systems or performance-tuning experience
+  • Sparse leadership/mentorship signals at scale
+  • Limited explicit time-series dataset experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

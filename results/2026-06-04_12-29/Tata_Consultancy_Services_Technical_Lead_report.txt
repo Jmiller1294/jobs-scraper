@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technical Lead
+Company:  Tata Consultancy Services
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4403685043
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • JSON
+  • APIs
+  • data transformation
+  • schema design
+  • validation
+  • integration services
+  • batch processing
+  • real-time processing
+  • cloud-native
+  • CI/CD
+  • performance
+  • scalability
+  • error handling
+  • mapping
+  • team lead
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Java
+  • forms extraction
+  • template-driven
+  • Quadient
+  • Azure
+  • AKS
+  • mainframe
+  • template population
+  • document lifecycle
+  • orchestration
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • ETL and data pipelines
+  • SQL and relational modeling
+  • API integration experience
+  • Quantified impact metrics
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java experience listed
+  • No Quadient or forms-engine experience
+  • No mainframe/legacy extraction
+  • Limited cloud (Azure/AKS) exposure
+  • No explicit templating or form orchestration
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

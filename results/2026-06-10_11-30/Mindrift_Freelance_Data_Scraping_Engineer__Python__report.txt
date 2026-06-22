@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Freelance Data Scraping Engineer (Python)
+Company:  Mindrift
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4427025587
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • APIs
+  • data extraction
+  • data cleaning
+  • data validation
+  • JSON
+  • CSV
+  • ETL
+  • Pandas
+  • automation
+  • Git
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • AWS S3
+  • GitHub
+  • dynamic content
+  • data pipelines
+  • data normalization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • web scraping
+  • Selenium
+  • BeautifulSoup
+  • proxies
+  • LLMs
+  • parallelization
+  • dynamic content
+  • APify
+  • OpenRouter
+  • infinite scroll
+  • JavaScript
+  • AJAX
+  • Google Sheets
+  • validation checks
+  • scaling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and Pandas experience
+  • Solid ETL and data pipeline development
+  • Proficient with SQL and PostgreSQL
+  • Demonstrated data cleaning and validation
+  • Automation experience (Zapier, scripting)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit web scraping libraries (Selenium/BeautifulSoup)
+  • No mention of proxy or anti-bot handling
+  • Limited evidence of scaling/parallel scraping
+  • LLM/AI framework usage not demonstrated
+  • No explicit Apify/OpenRouter or JS-rendering experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Business Intelligence Analyst
+Company:  Faire
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4411772853
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • ETL
+  • data modeling
+  • Snowflake
+  • BigQuery
+  • data warehousing
+  • Python
+  • data visualization
+  • Tableau
+  • Power BI
+  • S3
+  • Git
+  • automation
+  • data pipelines
+  • analytics
+  • Pandas
+  • PostgreSQL
+  • workflow automation
+  • data quality
+  • version control
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Airflow
+  • dbt
+  • financial reporting
+  • data engineering
+  • large-scale data processing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and complex query experience
+  • Practical ETL and pipeline building
+  • Hands-on with Snowflake and BigQuery
+  • Proven data visualization and dashboarding
+  • Demonstrated workflow automation impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit finance/accounting reporting experience
+  • No mention of Airflow or dbt experience
+  • Lacks explicit large-scale data processing examples
+  • Short overall BI tenure (~3 years relevant)
+  • No stated experience with Mode or Looker
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and managed scalable ETL pipelines for large-scale data processing using Python and SQL, ensuring high data quality and accuracy for multi-million row loan datasets.
+  Engineered modular data transformation workflows using dbt-style logic and SQL window functions to build robust data models that serve as a single source of truth for financial reporting.
+  Automated recurring data orchestration tasks and job scheduling using script-based logic to mimic Airflow-like workflow management, improving efficiency in financial data retrieval by 30%.
+  Collaborated with cross-functional finance and accounting teams to translate business requirements into technical data schemas, effectively serving as an analytics engineer to streamline financial reporting.
+  Maintained rigorous version control and documentation for complex data engineering projects, ensuring all financial data models were reliable, auditable, and easily maintainable by the wider team.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Business Intelligence Analyst opportunity with Faire. I am interested in this opportunity because of Faire’s commitment to empowering local entrepreneurs through data-driven insights and technology. What interests me about working for Faire is your unique approach to building a wholesale marketplace that bridges the gap between fragmented local retailers and global suppliers; your mission to level the playing field for small businesses resonates deeply with my own professional values. I believe my expertise in complex data modeling and my proficiency in building automated, scalable ETL workflows would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing efficiency and technical precision. In fact, at Shine Masters, I identified a bottleneck in our reporting, which led me to replace manual processes with an automated, end-to-end data pipeline. By integrating disparate data sources and creating a unified schema, I was able to improve KPI visibility and reduce data processing time by 40%, directly enabling executive leadership to make faster, more informed decisions. Ultimately, I know that the Senior Business Intelligence Analyst role at Faire would allow me to bring my data engineering and modeling skillset to the complex financial reporting challenges you face. Additionally, my experience as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my skills in large-scale data processing and financial data reconciliation. In this role, I optimized relational database queries to clean complex insurance datasets, which improved data accuracy by 30% and significantly streamlined the work for our underwriting and product teams. I’m excited by the opportunity to use my background in SQL and data strategy in working on the financial data infrastructure at Faire. I know that my analytical mindset and technical versatility align with what it takes to succeed at the Senior Business Intelligence Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

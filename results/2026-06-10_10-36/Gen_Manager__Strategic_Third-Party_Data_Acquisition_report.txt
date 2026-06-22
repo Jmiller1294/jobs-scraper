@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Manager, Strategic Third-Party Data Acquisition
+Company:  Gen
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413320435
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • data science
+  • SQL
+  • Python
+  • ETL
+  • PostgreSQL
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Power BI
+  • data integration
+  • data profiling
+  • predictive modeling
+  • experimentation
+  • reporting
+  • analytics
+  • stakeholder communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • third-party data
+  • data acquisition
+  • data quality
+  • vendor management
+  • model development
+  • vendor negotiation
+  • contract negotiation
+  • FCRA/GLBA
+  • decision algorithms
+  • real-time data integration
+  • SLAs
+  • latency monitoring
+  • bureau archiving
+  • identity verification
+  • credit bureaus
+  • revenue opportunities
+  • Eppo
+  • Optimizely
+  • GrowthBook
+  • VWO
+  • team management
+  • people management
+  • business models
+  • scenario analysis
+  • presentation to senior leadership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Hands-on with PostgreSQL, Snowflake, BigQuery
+  • Proven reporting & dashboard delivery (Power BI)
+  • Experience building lending risk models and profiling
+  • Cross-functional collaboration and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit third-party/vendor data experience
+  • No listed FCRA/GLBA or regulatory compliance knowledge
+  • Minimal evidence of contract negotiation or pricing optimization
+  • No demonstrated real-time decision system integration
+  • Limited formal people management tenure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

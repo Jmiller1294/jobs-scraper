@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Corporate Access Coordinator
+Company:  KeyBank
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406596834
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Salesforce
+  • CRM
+  • MS Office
+  • Excel
+  • PowerPoint
+  • Calendar management
+  • Reporting
+  • Data management
+  • Client coordination
+  • Automation
+  • SQL
+  • Power BI
+  • Python
+  • Stakeholder communication
+  • Attention to detail
+  • Scheduling
+  • Reporting templates
+  • Weekly reports
+  • Quarterly reporting
+  • Process improvement
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Event coordination
+  • Compliance reporting
+  • Venue logistics
+  • Travel coordination
+  • Venue management
+  • Zoom Webinars
+  • Biannual compliance audit
+  • BD Vision
+  • CoPilot
+  • Industry experience: Technology/Financial
+  • Client meals coordination
+  • Accounting and invoicing
+  • Meeting schedules
+  • Lodging
+  • Internal CRM repository
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong reporting and analytics (Power BI, SQL, Excel)
+  • Automation experience (Python) improving efficiency
+  • CRM familiarity and marketing analytics experience
+  • Quantified impact on revenue and time savings
+  • Cross-functional stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit event logistics or venue management experience
+  • No direct mention of compliance reporting or audits
+  • No Zoom Webinar or webinar-hosting experience
+  • Less than specified client coordination industry tenure
+  • No explicit CoPilot experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

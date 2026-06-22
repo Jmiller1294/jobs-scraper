@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     IT Business Analyst II
+Company:  Nesco
+Location: Manhattan, NY
+URL:      https://www.linkedin.com/jobs/view/4412960483
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • Reporting
+  • Automation
+  • Data pipelines
+  • ETL/ELT
+  • Data quality
+  • Dashboards
+  • Stakeholder management
+  • Data modeling
+  • Snowflake
+  • BigQuery
+  • Git
+  • Testing/validation
+  • Reconciliation
+  • Operational efficiency
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Fixed income
+  • Credit trading
+  • Capital markets
+  • Financial services
+  • Business analysis
+  • Agile
+  • Business requirements
+  • Securities Financing
+  • Equities
+  • Front-office
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Experience building ETL/ELT pipelines
+  • Proven reporting and dashboard delivery (Power BI, Tableau)
+  • Demonstrated automation and operational efficiency gains
+  • Data quality and validation practices
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no explicit Credit Markets or fixed income experience
+  • Business analysis title/years in financial services below preferred
+  • No explicit Agile certification or methodology examples
+  • Few documented business requirements/functional specs artifacts
+  • Limited front-office/trading workflow exposure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

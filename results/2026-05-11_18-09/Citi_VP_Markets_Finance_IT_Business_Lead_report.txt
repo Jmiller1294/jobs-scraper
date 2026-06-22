@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     VP Markets Finance IT Business Lead
+Company:  Citi
+Location: Jersey City, NJ, US
+URL:      https://www.indeed.com/viewjob?jk=869aa568884ed19c
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • SQL
+  • Python
+  • Excel
+  • Power BI
+  • Tableau
+  • Relational databases
+  • SDLC
+  • Stakeholder communication
+  • Data modeling
+  • Automation
+  • Git
+  • Cloud (BigQuery/Snowflake)
+  • Reporting
+  • Data quality
+  • ETL/ELT
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Collateral optimization
+  • Repo lifecycle
+  • Securities lending
+  • Fixed income
+  • Market risk
+  • RFQ
+  • eTrading
+  • Triparty
+  • Trade capture
+  • Borrow vs Pledge
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Experience with ETL/ELT and data pipelines
+  • Reporting and visualization (Power BI/Tableau)
+  • Automation and workflow improvements with measurable impact
+  • Stakeholder communication and translating data to business decisions
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated repo/collateral domain experience
+  • Limited fixed income and securities lending knowledge
+  • No explicit experience with collateral optimization systems
+  • Lacks explicit market risk and RFQ/eTrading exposure
+  • Titles are analyst/developer, not senior Business Analyst in markets
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

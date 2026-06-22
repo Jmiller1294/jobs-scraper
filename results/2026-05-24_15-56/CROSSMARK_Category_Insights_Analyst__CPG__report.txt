@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Category Insights Analyst (CPG)
+Company:  CROSSMARK
+Location: Bloomfield, NJ
+URL:      https://www.linkedin.com/jobs/view/4376203158
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • category management
+  • POS
+  • dashboards
+  • Power BI
+  • Tableau
+  • Excel
+  • SQL
+  • Python
+  • ETL
+  • data storytelling
+  • customer segmentation
+  • project management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • space planning
+  • planogram
+  • Blue Yonder
+  • POG
+  • syndicated data
+  • regression
+  • experimental design
+  • presentations
+  • assortment
+  • store clustering
+  • JDA
+  • BigQuery
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skillset
+  • Experience building dashboards (Power BI, Tableau)
+  • Quantified impact (time savings, acquisition gains)
+  • ETL and data modeling experience
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Blue Yonder/JDA/POG experience
+  • No mention of syndicated data tools
+  • Limited retail/CPG-specific experience
+  • No explicit advanced analytics methods (regression/experimental)
+  • Planogram and space-planning deliverables not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,100 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technology Analyst Program - Data Engineer (Berkeley Heights, NJ)
+Company:  Fiserv
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4412980276
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • ETL
+  • Data pipelines
+  • BigQuery
+  • Snowflake
+  • Data modeling
+  • Data quality
+  • CI/CD
+  • Git
+  • Automation
+  • Data warehousing
+  • Relational databases
+  • Partitioning
+  • Clustering
+  • Pandas
+  • Power BI
+  • Tableau
+  • AWS (S3)
+  • Great Expectations
+  • dbt
+  • Testing/Monitoring
+  • A/B testing
+  • Data governance
+  • Performance optimization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • Azure
+  • Databricks
+  • Apache Spark
+  • Hadoop
+  • Azure Data Factory
+  • GCP Dataflow
+  • Java
+  • CI/CD pipelines (explicit for data)
+  • Databricks workflows
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB skills
+  • Practical Python ETL and automation experience
+  • Experience with BigQuery and Snowflake
+  • Proven quantified impact (revenue, efficiency gains)
+  • CI/CD and data quality tooling (GitHub Actions, Great Expectations)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Azure/Databricks platform experience
+  • Limited exposure to Spark/Hadoop big-data frameworks
+  • No explicit Java experience
+  • Early-career (0-3 years) vs mid-level expectations
+  • On-site availability not stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Assisted in designing and building data ingestion and transformation pipelines using Python and SQL, integrating data from APIs and PostgreSQL warehouses to support downstream analytics and reporting, laying the groundwork for future ELT solutions akin to GCP Dataflow.
+  Supported data modeling and schema design for analytics and operational use cases by optimizing relational database queries (CTEs, window functions, joins) and modeling raw API data into a dbt star schema for enhanced query performance in BigQuery.
+  Developed and maintained Python automation for weekly sales and operations reports, ingesting POS and CRM data and eliminating repetitive tasks, demonstrating skills transferable to workflow orchestration tools.
+  Monitored, troubleshot, and improved pipeline performance and reliability by standardizing organizational KPIs and data governance frameworks, ensuring a consistent 'single source of truth' and reducing report discrepancies, mirroring practices in CI/CD for data quality.
+  Utilized Git for version control to manage collaborative codebase updates, ensuring project stability and seamless team deployments, with experience in deploying solutions via GitHub Actions CI/CD pipelines.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Justin Miller
+November 27, 2023
+
+Hiring Manager
+Fiserv
+
+Dear Hiring Manager,
+
+I am excited to apply for the Technology Analyst Program - Data Engineer (Berkeley Heights, NJ) position at Fiserv. With my background in data analytics and software development, I am confident I would be a strong addition to your team.
+
+Fiserv's role as a global leader in Fintech and payments, moving money and information to move the world, is incredibly inspiring. I am particularly drawn to the opportunity to contribute to an organization that connects financial institutions, corporations, merchants, and consumers on a massive scale.
+
+In my previous roles, I have developed and optimized data pipelines, including building Python automation for weekly sales and operations reports that ingested POS and CRM data, saving 8 hours per week and improving reporting accuracy. Additionally, I have experience with data modeling and schema design, as demonstrated by modeling raw API data into a dbt star schema to optimize query performance within BigQuery and Snowflake, greatly lowering load times through partitioning and clustering.
+
+I have a strong foundation in SQL and relational databases, having optimized relational database queries using CTEs, window functions, and joins to improve data accuracy by 60%. My project experience includes architecting a production-grade ELT pipeline in Python and SQL to ingest time-series economic data into BigQuery, incorporating data quality validation with Great Expectations and deploying via a GitHub Actions CI/CD pipeline, which directly aligns with your need for designing, building, and supporting reliable data pipelines and knowledge of CI/CD practices.
+
+I am particularly drawn to Fiserv's commitment to developing emerging talent through the Technology Analyst Program and believe my experience in data engineering principles, automation, and cloud platforms would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

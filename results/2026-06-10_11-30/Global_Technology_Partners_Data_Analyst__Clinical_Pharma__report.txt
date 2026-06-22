@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst (Clinical/Pharma)
+Company:  Global Technology Partners
+Location: Princeton, NJ
+URL:      https://www.linkedin.com/jobs/view/4426099559
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 77/100
+[███████████████░░░░░] 77%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • Power BI
+  • PostgreSQL
+  • MySQL
+  • ETL
+  • data modeling
+  • data visualization
+  • data warehousing
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • data analysis
+  • business analysis
+  • structured data
+  • time series
+  • data pipelines
+  • data cleaning
+  • communication
+  • data visualization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • clinical data
+  • entity-relationship models
+  • Oracle
+  • PL/SQL
+  • Qlik
+  • unstructured data
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Power BI dashboard development with quantified impact
+  • Experience building ETL pipelines and data models
+  • Proven business-facing analysis and communication
+  • Experience with cloud analytics (Snowflake, BigQuery, AWS)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit pharmaceutical/biotech domain experience
+  • No mention of Oracle or PL/SQL hands-on experience
+  • No explicit ER model experience for clinical data
+  • Unclear experience with unstructured clinical notes/safety narratives
+  • Shorter total relevant industry tenure for life sciences
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

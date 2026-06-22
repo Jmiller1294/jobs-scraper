@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technical Lead
+Company:  KeyBank
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406236535
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • APIs
+  • cloud-native
+  • distributed systems
+  • Git
+  • CI/CD
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • version control
+  • automation
+  • production
+  • testing
+  • data governance
+  • design
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Node.js
+  • TypeScript
+  • GCP
+  • Kubernetes
+  • GKE
+  • microservices
+  • IVR
+  • voice bots
+  • conversational AI
+  • LangChain
+  • Gemini
+  • LangGraph
+  • Infrastructure as Code
+  • SRE
+  • security
+  • PII/PCI
+  • lead engineer
+  • technical lead
+  • agent handoff
+  • observability
+  • containerization
+  • call routing
+  • voice flows
+  • regulated environment
+  • agentic Vibe Coding
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Data engineering and ETL pipelines
+  • BigQuery and Snowflake experience
+  • Automation and scripting with Python
+  • CI/CD exposure (GitHub Actions)
+  • Analytical, quantified impact on business metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Node.js/TypeScript experience listed
+  • No GCP/Kubernetes/GKE hands-on experience
+  • No IVR or contact center/voice bot experience
+  • No conversational AI (Gemini/LangChain/LangGraph)
+  • Limited senior/lead engineering tenure (Tech Lead) and 8+ years
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

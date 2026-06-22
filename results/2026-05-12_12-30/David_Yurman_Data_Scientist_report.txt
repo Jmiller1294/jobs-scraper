@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist
+Company:  David Yurman
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4364466367
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • Snowflake
+  • Tableau
+  • Power BI
+  • R
+  • BigQuery
+  • ETL
+  • Data pipeline
+  • A/B testing
+  • Data governance
+  • Data modeling
+  • Data visualization
+  • Automation
+  • Data quality
+  • Segmentation
+  • CRM
+  • Git
+  • CI/CD
+  • Experimentation
+  • Reporting
+  • AWS (S3)
+  • PostgreSQL
+  • MySQL
+  • Advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Machine learning
+  • Statistical modeling
+  • Retail analytics
+  • Snowflake certification
+  • Python/R certifications
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python + SQL + Snowflake/BigQuery experience
+  • Proven quantified impact (300% segment revenue, 40% efficiency)
+  • End-to-end ETL and CI/CD pipeline delivery
+  • Experience with experimentation and A/B testing
+  • Clear data governance and reporting expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML model production experience
+  • No listed Snowflake/Python or R certifications
+  • Retail-specific analytics experience minimal
+  • Less than full 4-5+ years tenure strictly as Data Scientist
+  • No mention of Tableau/Sigma certifications
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive machine learning models for customer churn and lifetime value, leveraging statistical modeling techniques to inform targeted marketing strategies.
+  Applied statistical modeling and regression analysis to interpret consumer behavior data, identifying key retail analytics trends that drove a 300% revenue increase in targeted segments.
+  Engineered and maintained automated ML data pipelines in Python, ensuring high-quality model training data and operational reliability for demand planning and CRM stakeholders.
+  Leveraged Tableau and advanced statistical techniques to build dashboards that translate complex retail performance data into actionable business insights.
+  Researched and implemented industry-standard machine learning principles to optimize campaign experimentation, reducing model training latency and improving forecast accuracy.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Scientist opportunity with David Yurman. I am interested in this opportunity because of my deep appreciation for David Yurman’s legacy of innovation and craftsmanship, coupled with my passion for applying rigorous data science to the luxury retail sector. What interests me about working for David Yurman is its commitment to both artistic heritage and a forward-thinking, data-driven culture in the heart of New York City; this blend of creativity and technical precision aligns perfectly with my professional background. I believe my expertise in building automated data pipelines and my proficiency in statistical modeling would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex technical datasets into clear, growth-oriented business recommendations. In fact, at Shine Masters, I developed statistical models to identify high-value customer segments and integrated those findings into automated CRM workflows, which contributed to a 300% increase in revenue within the targeted segment over 12 months. Ultimately, I know that the Data Scientist role at David Yurman would allow me to bring my experience in A/B testing and performance optimization to the team's ongoing data analytics initiatives. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my retail-facing analytical skills. I collaborated with business stakeholders to standardize KPIs and data governance frameworks, which replaced manual reporting with automated, high-accuracy workflows and saved 8 hours per week while improving strategic decision-making. I am excited by the opportunity to use my background in Python, SQL, and statistical modeling in working on complex retail analytics problems at David Yurman. I know that my technical versatility and commitment to data-driven decision-making align with what it takes to succeed in the Data Scientist role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

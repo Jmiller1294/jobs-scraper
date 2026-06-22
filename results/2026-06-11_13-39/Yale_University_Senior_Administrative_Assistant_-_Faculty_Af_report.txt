@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Administrative Assistant - Faculty Affairs
+Company:  Yale University
+Location: New Haven, CT
+URL:      https://www.linkedin.com/jobs/view/4423663153
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 63/100
+[████████████░░░░░░░░] 63%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • onboarding
+  • credentialing
+  • documentation
+  • Microsoft Excel
+  • PowerPoint
+  • Microsoft Word
+  • database tracking
+  • reporting
+  • attention to detail
+  • customer service
+  • prioritization
+  • process improvement
+  • stakeholder communication
+  • SOPs
+  • automation
+  • SQL
+  • Power BI
+  • JIRA
+  • confidentiality
+  • project coordination
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • faculty appointments
+  • academic promotions
+  • faculty lifecycle
+  • Workday
+  • credentialing coordination
+  • visa and immigration
+  • Yale policies
+  • privileging
+  • Yale New Haven Health
+  • higher education experience
+  • academic reviews
+  • appointments processing
+  • reappointments
+  • promotions
+  • credentialing tracking
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data and reporting skills (Power BI, SQL, Excel)
+  • process improvement and automation experience
+  • documentation and SOP creation
+  • stakeholder communication and cross-functional work
+  • attention to detail and prioritization
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited explicit faculty/higher-education experience
+  • no Workday experience listed
+  • no direct Yale/health system credentialing experience
+  • no explicit visa/immigration process experience
+  • title misalignment (data roles vs. faculty affairs coordinator)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

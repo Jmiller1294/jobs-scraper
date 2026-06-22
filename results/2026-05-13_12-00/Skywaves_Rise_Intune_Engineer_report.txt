@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Intune Engineer
+Company:  Skywaves Rise
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413999667
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (5)
+  • Python
+  • automation
+  • Git
+  • Power BI
+  • imaging
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (26)
+  • PowerShell
+  • Intune
+  • SCCM
+  • Jamf
+  • application packaging
+  • Win32
+  • pkg/dmg
+  • endpoint management
+  • AI tools
+  • Microsoft 365 Copilot
+  • ChatGPT Enterprise
+  • GitHub Copilot
+  • Claude
+  • scripting
+  • GPO
+  • MDM
+  • MAM
+  • Azure
+  • Entra
+  • VDI
+  • Citrix
+  • AVD
+  • PowerShell
+  • Bash
+  • Entra
+  • Ivanti Mobile Iron
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python scripting and automation
+  • Data engineering and ETL pipelines
+  • Reporting and visualization (Power BI, Tableau)
+  • Quantified impact in prior roles
+  • Git/version control experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit endpoint management tools (Intune/SCCM/Jamf)
+  • No listed experience with enterprise AI tools
+  • No application packaging or macOS pkg/dmg experience
+  • No PowerShell or Bash proficiency shown
+  • Limited explicit Windows/macOS deployment experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

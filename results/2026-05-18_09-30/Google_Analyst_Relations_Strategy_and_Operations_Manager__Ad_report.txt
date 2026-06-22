@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst Relations Strategy and Operations Manager, Ads Marketing
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415652765
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Operations
+  • Data Analysis
+  • Cross-functional
+  • Project Management
+  • Process Improvement
+  • SQL
+  • Python
+  • BigQuery
+  • Snowflake
+  • Tableau
+  • Power BI
+  • Automation
+  • SOPs
+  • KPI
+  • Reporting
+  • Stakeholder Engagement
+  • Executive Stakeholders
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • Analyst Relations
+  • Program Management
+  • Business Strategy
+  • Measurement Frameworks
+  • AI-driven workflows
+  • Sales Enablement
+  • Gartner
+  • Forrester
+  • Strategic Planning
+  • Analyst Sentiment
+  • Industry Thought Leadership
+  • Publication
+  • Analyst Evaluations
+  • Firm Engagement
+  • Cadence
+  • Product Development Integration
+  • Consulting Firms
+  • Evaluation Methodologies
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis and tooling (SQL, Python, Tableau, Power BI)
+  • Demonstrated process automation and efficiency gains
+  • Experience building dashboards and KPIs
+  • Cross-functional collaboration experience
+  • Documented SOPs and operational leadership
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Analyst Relations or AR program experience
+  • Limited documented experience with executive-level engagement duration
+  • No explicit business strategy or program management title
+  • Lacks evidence of measurement frameworks for analyst impact
+  • No mentions of Gartner/Forrester or industry analyst publications
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

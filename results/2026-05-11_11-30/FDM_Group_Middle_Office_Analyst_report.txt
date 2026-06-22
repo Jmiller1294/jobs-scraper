@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Middle Office Analyst
+Company:  FDM Group
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4408533568
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • automation
+  • reporting
+  • stakeholder communication
+  • data quality
+  • ETL
+  • BigQuery
+  • Snowflake
+  • CI/CD
+  • Excel
+  • Power BI
+  • Git
+  • reconciliation
+  • validation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • SWAPs
+  • derivatives
+  • trade lifecycle
+  • Calypso
+  • Traiana
+  • SPECs
+  • risk
+  • confirmation
+  • pricing
+  • valuation
+  • interest rate
+  • currency
+  • equity
+  • LLMs
+  • middle office
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL technical skills
+  • Experience building ETL and automation pipelines
+  • Proven reporting and BI (Power BI) delivery
+  • Demonstrated data quality and reconciliation work
+  • Effective stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit swaps/derivatives experience
+  • No Calypso/Traiana/SPECs platform exposure
+  • Less than required middle office tenure
+  • Limited direct pricing/valuation knowledge
+  • No mention of LLM or advanced finance programming experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Front Office Developer - Marquee NYC Hedge Fund
+Company:  Mondrian Alpha
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4428954172
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • SQL
+  • Python
+  • PostgreSQL
+  • Git
+  • ETL
+  • Cloud (AWS S3)
+  • data modeling
+  • testing
+  • deployment
+  • production experience
+  • quantified impact
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • C#
+  • Apache Kafka
+  • low-latency
+  • concurrency
+  • system design
+  • data structures
+  • algorithms
+  • real-time data
+  • trading systems
+  • credit derivatives
+  • RMBS
+  • CDS
+  • CLOs
+  • hedge fund
+  • deployment
+  • production-level C#
+  • front office
+  • structured credit
+  • credit desk experience
+  • high-throughput
+  • distributed messaging
+  • pricing
+  • portfolio managers
+  • low-latency production
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • ETL and data modeling skills
+  • Python for analytics and pipelines
+  • Documented quantified impacts (percent improvements)
+  • Experience with Git and deployment workflows
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C# experience listed
+  • No Apache Kafka or messaging systems
+  • Lacking credit products/domain experience
+  • No demonstrated low-latency or trading systems work
+  • Limited hedge fund/front-office background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

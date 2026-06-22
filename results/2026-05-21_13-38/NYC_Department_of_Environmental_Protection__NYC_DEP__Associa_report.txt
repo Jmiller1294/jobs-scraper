@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate Developer
+Company:  NYC Department of Environmental Protection (NYC DEP)
+Location: Queens, NY
+URL:      https://www.linkedin.com/jobs/view/4414031157
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • JavaScript
+  • T-SQL
+  • REST API
+  • Azure
+  • SQL
+  • Power BI
+  • Git
+  • API integration
+  • Documentation
+  • Automation
+  • Deployment
+  • ETL
+  • Logging
+  • Service lifecycle
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • C#
+  • Microsoft Dynamics 365
+  • SSRS
+  • WCF
+  • IIS
+  • .NET
+  • MVC
+  • Application monitoring
+  • Incident management
+  • Change management
+  • Unit testing
+  • Testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and ETL experience
+  • Power BI dashboard development with measurable impact
+  • API integration and data engineering
+  • Version control and documentation practices
+  • Automation of workflows reducing manual effort
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C#/.NET development evidence
+  • No Microsoft Dynamics CRM experience
+  • Limited explicit ITSM/incident-change management background
+  • No SSRS or WCF experience
+  • Unclear years of relevant IT service management experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

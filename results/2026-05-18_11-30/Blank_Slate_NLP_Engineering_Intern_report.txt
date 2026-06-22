@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     NLP Engineering Intern
+Company:  Blank Slate
+Location: Manhattan, NY
+URL:      https://www.linkedin.com/jobs/view/4416244857
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • Pandas
+  • ETL pipelines
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • Git
+  • data preprocessing
+  • data pipelines
+  • feature engineering
+  • scaling/optimization
+  • statistics
+  • Docker
+  • LLMs
+  • AI Tools
+  • ETL
+  • PyTorch
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Hugging Face
+  • transformers
+  • vLLM
+  • tokenization
+  • NER
+  • POS tagging
+  • vector databases
+  • Pinecone
+  • Milvus
+  • Weaviate
+  • pgvector
+  • GCP
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Practical ETL and pipeline experience
+  • Quantified impact in prior roles
+  • Experience with cloud data warehouses
+  • Version control and collaboration (Git, JIRA)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Hugging Face/transformers usage
+  • Limited documented NLP-specific tooling (NER/POS/tokenization)
+  • Vector DB experience not shown
+  • LLM engineering depth unclear
+  • GCP experience not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

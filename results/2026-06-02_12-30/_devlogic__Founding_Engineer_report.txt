@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Founding Engineer
+Company:  {devlogic}
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4422428594
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 67/100
+[█████████████░░░░░░░] 67%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • ETL
+  • PostgreSQL
+  • APIs
+  • Git
+  • BigQuery
+  • Snowflake
+  • Data modeling
+  • Data pipelines
+  • Automation
+  • Power BI
+  • Tableau
+  • Full-stack
+  • Production
+  • Data integration
+  • Version control
+  • JIRA
+  • SOPs
+  • Onboarding
+  • Optimization
+  • Postgres
+  • Pandas
+  • Power BI dashboards
+  • ETL pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Research
+  • Published papers
+  • Founding
+  • Equity
+  • PhD
+  • Deep infrastructure
+  • Enterprise systems
+  • Schema translation
+  • Relocation NYC
+  • 50% improvement metric
+  • Authorship
+  • 55+ hour culture
+  • US work authorization
+  • Open-source
+  • Owner-operator
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Solid Python and SQL experience
+  • ETL and data pipeline implementation
+  • PostgreSQL data modeling
+  • Dashboarding with Power BI/Tableau
+  • Operational impact with quantified metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/AI research or publications
+  • No PhD or research co-authorship
+  • Sparse deep systems/infrastructure experience
+  • Unclear open-source contributions
+  • No explicit enterprise schema-translation experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr. Associate, Investment Operations Data
+Company:  Fortitude Re
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4416938295
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data management
+  • data platform
+  • data migration
+  • data validation
+  • reconciliation
+  • SQL
+  • Python
+  • Snowflake
+  • APIs
+  • UAT
+  • data pipelines
+  • data quality
+  • reporting
+  • dashboard
+  • automation
+  • stakeholder engagement
+  • ETL
+  • data modeling
+  • cloud (AWS/S3)
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • investment data
+  • security master
+  • pricing
+  • corporate actions
+  • IBOR
+  • ABOR
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Hands-on ETL and data modeling experience
+  • Experience with Snowflake and AWS S3
+  • Built dashboards and reporting (Power BI, Tableau)
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit investment/asset management domain experience
+  • No mention of security master or corporate actions expertise
+  • IBOR/ABOR operational experience not demonstrated
+  • Under 3 years in investment operations-focused roles
+  • No direct vendor/custodian or pricing provider engagement noted
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

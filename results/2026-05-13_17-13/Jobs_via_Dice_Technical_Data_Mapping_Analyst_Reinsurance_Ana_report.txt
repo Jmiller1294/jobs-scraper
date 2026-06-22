@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technical Data Mapping Analyst(Reinsurance Analyst)
+Company:  Jobs via Dice
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4414155898
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • R
+  • PostgreSQL
+  • MySQL
+  • Snowflake
+  • BigQuery
+  • Tableau
+  • Power BI
+  • Advanced Excel
+  • ETL
+  • Data pipelines
+  • Data quality
+  • Data governance
+  • A/B testing
+  • Data modeling
+  • Git
+  • CI/CD
+  • Stakeholder communication
+  • Presentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Claims management
+  • Policy management
+  • P&C insurance
+  • Jira
+  • Confluence
+  • Agile
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Experience building production ELT pipelines
+  • Proven quantified impact (efficiency and revenue gains)
+  • Visualization and reporting (Tableau, Power BI)
+  • Data governance and quality practices
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no P&C insurance domain experience
+  • No explicit claims/policy system experience
+  • Shorter total industry-relevant tenure vs 7-10y requirement
+  • No Jira/Confluence evidence
+  • Title mismatch (has developer/analyst roles but not 'Technical Data Analyst' in P&C)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated within cross-functional Agile teams using Jira and Confluence to manage documentation and track sprints for complex data pipeline projects.
+  Optimized SQL query performance for policy and claims datasets, demonstrating an aptitude for managing large-scale, industry-specific insurance data structures.
+  Applied rigorous data governance frameworks to ensure accurate reporting of risk-based metrics, mirroring the documentation standards required in P&C insurance environments.
+  Leveraged experience with relational database systems to reconcile complex policy-to-claim mappings, ensuring data integrity across enterprise systems.
+  Utilized Agile methodologies to deliver automated reporting solutions, prioritizing tasks through Jira to meet critical business objectives in fast-paced environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Technical Data Mapping Analyst (Reinsurance Analyst) opportunity with Jobs via Dice. I am interested in this opportunity because of the sophisticated nature of P&C insurance data and the chance to apply my technical rigor to policy and claims management. What interests me about working with the team at Jobs via Dice is its commitment to driving industry innovation through high-quality technical analytics, which intrigues me because I thrive at the intersection of complex data modeling and strategic business decision-making. I believe my expertise in building production-grade ELT pipelines and my proficiency in SQL and Python would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on 'single source of truth' data integrity. In fact, at Shine Masters, I identified a need for standardized KPIs and implemented a new data governance framework to replace manual reporting. This resulted in a 40% improvement in efficiency and eliminated recurring data mismatches. Ultimately, I know that the Technical Data Mapping Analyst role would allow me to bring my deep technical skills to support complex policy and claims reporting. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (a MassMutual company) enabled me to develop my Agile and cross-functional collaboration skills. While there, I worked on a 14-person team to align technical features with business objectives, using Jira to track milestones and reducing delivery delays by 25%. I am excited by the opportunity to use my background in database optimization in working on large-scale P&C datasets at your company. I know that my technical proficiency and analytical discipline align with what it takes to succeed at this role. I would love the opportunity to discuss how my background in data pipeline architecture can support your team. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

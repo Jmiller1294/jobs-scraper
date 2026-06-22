@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     MBA Consultant, Merchandising Analytics & Reporting
+Company:  1-800-FLOWERS.COM, INC.
+Location: Jericho, NY
+URL:      https://www.linkedin.com/jobs/view/4416251777
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 87/100
+[█████████████████░░░] 87%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Snowflake
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • Dashboards
+  • Reporting
+  • BI
+  • Data analysis
+  • ETL
+  • Python
+  • Large datasets
+  • KPI
+  • Presentation
+  • Automation
+  • PostgreSQL
+  • BigQuery
+  • Git
+  • Stakeholder collaboration
+  • Data modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Merchandising
+  • Retail
+  • Reporting accuracy
+  • Self-service analytics
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and ETL experience
+  • Multiple BI tools (Power BI, Tableau)
+  • Experience with large datasets and data modeling
+  • Quantified impact on reporting and operations
+  • Cross-functional collaboration and presentations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit merchandising/retail domain experience
+  • MBA status not indicated
+  • No explicit Sigma experience
+  • Few examples of Snowflake usage in projects
+  • Limited consulting engagement history
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed automated reporting frameworks for inventory and promotional performance, facilitating self-service analytics for cross-functional stakeholders and reducing manual data requests by 40%.
+  Optimized data workflows in Snowflake and SQL to analyze retail sales and merchandising trends, ensuring high reporting accuracy for critical inventory KPIs.
+  Led data-driven initiatives to categorize customer segments, directly influencing merchandising strategies and optimizing promotional planning in a fast-paced retail-oriented environment.
+  Implemented automated monitoring and validation scripts for large datasets, ensuring reporting accuracy across multiple BI platforms for leadership decision-making.
+  Designed and executed end-to-end ETL pipelines in Snowflake, transforming complex raw data into actionable merchandising insights that informed high-level inventory and pricing strategies.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the MBA Consultant, Merchandising Analytics & Reporting opportunity with 1-800-FLOWERS.COM, INC. I am interested in this opportunity because of the company's commitment to leveraging data to enhance the gift-giving experience, which perfectly aligns with my background in transforming complex data sets into actionable business insights. What interests me about working for 1-800-FLOWERS.COM, INC. is its innovative approach to eCommerce and personalized consumer experiences, which intrigues me because it highlights the necessity of precise merchandising analytics in a competitive digital marketplace. I believe my expertise in BI dashboard development and my proficiency in SQL and Snowflake would make me a strong candidate for this role. During my professional career, I have approached problems by translating technical data into clear, executive-ready narratives. In fact, at Shine Masters Cleaning Services, I identified a need for better visibility into performance, so I developed interactive Power BI dashboards that replaced manual processes. This project reduced data processing time by 40% and directly empowered executive leadership to make faster, data-backed decisions that fueled a 300% increase in customer acquisition. Ultimately, I know that the MBA Consultant, Merchandising Analytics & Reporting role at 1-800-FLOWERS.COM, INC. would allow me to bring my passion for reporting automation to streamline your merchandising and planning processes. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my data modeling skills. I analyzed a 250K+ row dataset to uncover demographic patterns that directly supported stakeholders in city safety initiatives. I am excited by the opportunity to use my background in large-scale data analysis in working on merchandising, promotional, and performance data at 1-800-FLOWERS.COM, INC. I know that my analytical problem-solving and technical versatility align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

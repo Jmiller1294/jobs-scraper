@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Production Support Engineer
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414155896
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+  • CI/CD
+  • ETL
+  • Automation
+  • Debugging
+  • Troubleshooting
+  • Reporting
+  • Power BI
+  • Tableau
+  • Stakeholder communication
+  • High-pressure environment
+  • Query optimization
+  • Data pipelines
+  • Data quality
+  • Version control
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Production support
+  • Front-office systems
+  • Incident analysis
+  • Root cause analysis
+  • Managing Directors
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building production-grade ETL pipelines
+  • Proven automation and reporting improvements
+  • CI/CD and version control experience
+  • Effective stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit production support or SRE title
+  • No direct front-office/trading systems experience
+  • Lacks explicit incident/onsite on-call examples
+  • No Java or alternate OOP language listed
+  • Limited explicit experience communicating with senior execs (MDs)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

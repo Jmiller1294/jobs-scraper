@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Middle School Teaching Fellow (PA II)
+Company:  Harlem Children's Zone
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4381057861
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Bachelor's degree
+  • data analysis
+  • communication
+  • collaboration
+  • reporting
+  • training/onboarding
+  • time management
+  • educational technology
+  • stakeholder engagement
+  • SOPs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • lesson planning
+  • classroom management
+  • student assessment
+  • differentiated instruction
+  • parent communication
+  • standards-aligned instruction
+  • behavioral standards
+  • group activities
+  • direct instruction
+  • pursuing NY teaching certification
+  • Master's enrollment
+  • K-12
+  • curriculum design
+  • professional development
+  • mentoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis and reporting skills
+  • Documented SOPs and onboarding reductions
+  • Cross-functional collaboration
+  • Quantified operational improvements
+  • Technical proficiency with analytics tools
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No K-12 or classroom teaching experience
+  • Not enrolled in Master's/teaching certification
+  • Lack of lesson planning examples
+  • No student assessment or behavior management evidence
+  • Limited parent/family engagement history
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

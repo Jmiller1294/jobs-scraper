@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Receptionist
+Company:  Mercer County Works
+Location: Princeton, NJ
+URL:      https://www.linkedin.com/jobs/view/4431354631
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Customer service
+  • Microsoft Office
+  • Communication
+  • Team player
+  • Positive attitude
+  • Documentation
+  • Scheduling
+  • Google Suite
+  • Excel
+  • Written communication
+  • Verbal communication
+  • Time management
+  • Onboarding
+  • Process improvement
+  • Clerical
+  • Administrative
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Reception
+  • Phone handling
+  • Direct calls
+  • Maintain showroom
+  • Front desk
+  • Appointment management
+  • Record keeping
+  • Office appearance
+  • Multitasking
+  • Problem resolution
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Microsoft Office & Excel skills
+  • Proven process improvement with quantified results
+  • Experience documenting SOPs and onboarding
+  • Clear written and verbal communication
+  • Team collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit receptionist/front-desk title or experience
+  • No stated phone/answering desk experience
+  • No automotive or dealership experience
+  • Hours/schedule alignment not mentioned
+  • No mention of maintaining showroom/service area
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

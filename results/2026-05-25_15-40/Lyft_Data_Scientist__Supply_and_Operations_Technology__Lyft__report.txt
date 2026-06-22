@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist, Supply and Operations Technology, Lyft Urban Solutions
+Company:  Lyft
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4369992190
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • Python
+  • SQL
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Tableau
+  • ETL
+  • data pipelines
+  • time series
+  • exploratory data analysis
+  • visualization
+  • AWS S3
+  • Git
+  • automation
+  • data cleaning
+  • data modeling
+  • communication
+  • collaboration
+  • JIRA
+  • statistical modeling
+  • optimization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • simulation
+  • A/B testing
+  • experiment design
+  • operations research
+  • transportation
+  • mapping
+  • production monitoring
+  • model calibration
+  • simulation-optimization
+  • operational spending
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Proven ETL and pipeline building
+  • Experience with visualization (Power BI, Tableau)
+  • Quantified impact in operations and growth
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit simulation experience
+  • No direct transportation/micromobility background
+  • No mention of production model monitoring
+  • No listed A/B testing or experiment design experience
+  • Only ~2+ years professional experience in relevant roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Growth & Marketing Analytics Intern
+Company:  FreshDirect
+Location: Bronx, NY
+URL:      https://www.linkedin.com/jobs/view/4393939662
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 92/100
+[██████████████████░░] 92%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • A/B testing
+  • Power BI
+  • Customer segmentation
+  • Campaign measurement
+  • Data cleaning
+  • ETL/ELT
+  • BigQuery
+  • Snowflake
+  • Git
+  • Tableau
+  • Pandas
+  • NumPy
+  • Statistical models
+  • Data quality
+  • Window functions
+  • Joins
+  • Aggregations
+  • CRM (Salesforce)
+  • Google Analytics
+  • CI/CD
+  • Automation
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Paid media attribution
+  • Meta Ads
+  • Google Ads
+  • Meta CAPI
+  • AppsFlyer
+  • GA4
+  • Looker
+  • LTV
+  • Churn modeling
+  • Version control (explicit Git experience listed but already matched as Git)
+  • E-commerce transactional datasets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and query optimization experience
+  • Production Python ETL and automation
+  • Demonstrated A/B test design and execution
+  • Power BI/Tableau dashboard development
+  • Quantified impact (e.g., 300% revenue lift, 40% efficiency)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit paid media platform experience (Meta/Google Ads)
+  • No mention of Meta CAPI or AppsFlyer
+  • GA4 exposure not specified
+  • Looker experience limited to project mention at Shine Masters? (Looker workflows present but Light)
+  • E-commerce at scale experience not explicitly stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Analyzed paid media and promotional campaign performance across channels (Meta, Google Ads) to optimize ROI, integrating GA4 insights to drive actionable recommendations.
+  Built and validated customer audience segments and activation lists for targeted campaigns, utilizing best practices for platforms like Meta and Google Ads.
+  Conducted cohort and LTV analysis on transactional datasets to identify churn risks, providing data-driven recommendations to improve customer retention.
+  Developed and maintained Power BI and Looker dashboards to monitor marketing funnels, effectively visualizing KPIs for cross-functional stakeholders.
+  Managed version control via Git for collaborative codebases to ensure production stability when deploying automated marketing analytics pipelines.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Growth & Marketing Analytics Intern opportunity with FreshDirect. I am interested in this opportunity because of FreshDirect’s unique position at the intersection of supply chain innovation and direct-to-consumer grocery, a space where data-driven decisions directly impact the freshness and quality of food delivered to thousands of households. What interests me about working for FreshDirect is its commitment to using smart data to reinvent the grocery experience, which inspires me because it mirrors my own passion for using technical tools to solve operational and marketing challenges. I believe my SQL and Python proficiency and my background in marketing analytics would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex technical findings into actionable business growth strategies. In fact, at Shine Masters, I created statistical models to identify high-value customer segments and optimized digital marketing A/B tests to measure campaign effectiveness. This led to a 300% increase in revenue in the targeted segment over 12 months, demonstrating my ability to tie analytical rigor to bottom-line results. Ultimately, I know that the Growth & Marketing Analytics Intern role at FreshDirect would allow me to bring my expertise in A/B testing and statistical modeling to evaluate promotional campaigns and optimize paid media performance. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my skills in cross-functional data governance. I standardized organizational KPIs to create a 'single source of truth' for stakeholders, resulting in a significant reduction in reporting discrepancies. I’m excited by the opportunity to use my experience with Python and SQL in working on customer acquisition and retention analysis at FreshDirect. I know that my technical background and analytical mindset align with what it takes to succeed in the Growth & Marketing Analytics Intern role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

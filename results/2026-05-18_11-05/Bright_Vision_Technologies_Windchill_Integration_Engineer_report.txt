@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Windchill Integration Engineer
+Company:  Bright Vision Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416242360
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (5)
+  • SQL
+  • Python
+  • ETL
+  • documentation
+  • Cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (26)
+  • Windchill
+  • PLM
+  • Info*Engine
+  • Windchill Java API
+  • ERP
+  • SAP
+  • Oracle
+  • CAD integrations
+  • Creo
+  • SolidWorks
+  • REST
+  • SOAP
+  • middleware
+  • MuleSoft
+  • Boomi
+  • OIC
+  • SAP CPI
+  • Windchill data model
+  • profiling
+  • performance optimization
+  • migration
+  • event-driven
+  • Kafka
+  • PTC Windchill certification
+  • ThingWorx
+  • API management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL skills
+  • Python/ETL experience
+  • Documentation and SOP creation
+  • Cross-functional collaboration
+  • Data visualization and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Windchill/PLM experience listed
+  • No Info*Engine or Windchill Java API
+  • Lacks ERP (SAP/Oracle) integration experience
+  • No middleware (MuleSoft/Boomi/OIC) experience
+  • Limited CAD/CAM integration exposure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

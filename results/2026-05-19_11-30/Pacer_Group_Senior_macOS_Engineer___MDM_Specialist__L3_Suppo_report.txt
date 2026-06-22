@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior macOS Engineer / MDM Specialist (L3 Support)
+Company:  Pacer Group
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4415919006
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 10/100
+[██░░░░░░░░░░░░░░░░░░] 10%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (5)
+  • Python
+  • documentation
+  • scripting
+  • Git
+  • SQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • macOS
+  • Jamf
+  • Workspace ONE
+  • MDM
+  • Apple Business Manager
+  • Automated Device Enrollment
+  • VPP
+  • Bash
+  • SSO
+  • PKI
+  • Certificates
+  • Wi‑Fi
+  • VPN
+  • L3 support
+  • RCA
+  • 10,000+ devices
+  • compliance
+  • patching
+  • telemetry
+  • ITIL
+  • Citrix
+  • Active Directory
+  • network troubleshooting
+  • L3 support
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python scripting experience
+  • Documentation and SOP creation
+  • Data analysis and automation
+  • Cross-functional collaboration
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No macOS/Apple MDM experience listed
+  • No Jamf or Workspace ONE experience
+  • Lacks enterprise-scale device management evidence
+  • No PKI/SSO/Network troubleshooting details
+  • Titles do not align to macOS engineering
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

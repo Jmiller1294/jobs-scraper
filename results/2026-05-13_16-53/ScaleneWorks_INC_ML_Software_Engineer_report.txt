@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     ML Software Engineer
+Company:  ScaleneWorks INC
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4414160832
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • Docker
+  • GCP
+  • BigQuery
+  • dbt
+  • CI/CD
+  • SQL
+  • Airflow
+  • ETL
+  • production
+  • monitoring
+  • mentoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • AWS
+  • model deployment
+  • MLOps
+  • machine learning
+  • PyTorch
+  • TensorFlow
+  • OpenAI API
+  • generative models
+  • NLP
+  • Kubernetes
+  • model lifecycle
+  • prompt engineering
+  • RAG
+  • Kubernetes
+  • model lifecycle
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Cloud data infra (GCP, BigQuery)
+  • ETL and Airflow pipeline experience
+  • CI/CD and dbt data modeling
+  • Quantified delivery impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no demonstrated ML/LLM hands-on experience
+  • No PyTorch/TensorFlow evidence
+  • No OpenAI/API or prompt engineering examples
+  • Lacks Kubernetes and container orchestration experience
+  • Under 10 years engineering experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

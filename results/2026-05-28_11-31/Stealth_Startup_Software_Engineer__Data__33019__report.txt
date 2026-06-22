@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer, Data [33019]
+Company:  Stealth Startup
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417632432
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • ETL/ELT
+  • BigQuery
+  • dbt
+  • Airflow
+  • data quality
+  • Great Expectations
+  • data ingestion
+  • data modeling
+  • GCS
+  • Snowflake
+  • Postgres
+  • Docker
+  • CI/CD
+  • data pipelines
+  • analytics
+  • Power BI
+  • Tableau
+  • cloud
+  • automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • geospatial
+  • imputation
+  • demographic
+  • foot traffic
+  • reverse geocoding
+  • census block mapping
+  • trade area analysis
+  • licensed proprietary data
+  • web-scraped sources
+  • OLTP
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and BigQuery experience
+  • Production ELT pipeline development (Airflow, dbt)
+  • Automated data quality validation (Great Expectations)
+  • Practical CI/CD and cloud tooling (GCS, Docker, GitHub Actions)
+  • Quantified impact in prior roles/projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no explicit geospatial experience
+  • No mention of foot-traffic or mobility data
+  • No documented imputation techniques
+  • Unclear experience with licensed proprietary datasets
+  • OLTP experience not explicitly stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed ELT pipelines in Python and SQL to ingest and structure heterogeneous datasets, including demographic profiles and census statistics, ensuring data readiness for predictive modeling.
+  Engineered data quality validation systems using Great Expectations to monitor for missing values, applying imputation techniques to ensure completeness in sparse or irregular datasets.
+  Leveraged SQL for data manipulation across both OLTP systems and analytical databases, optimizing schema design to improve query performance for complex simulation inputs.
+  Integrated web-scraped and proprietary datasets into centralized warehouses, performing data enrichment by joining disparate sources to support cross-functional research and simulation accuracy.
+  Applied geospatial logic and coordinate processing to map and analyze location-level datasets, enabling trade area analysis and demographic correlation in previous data initiatives.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Engineer opportunity with Stealth Startup. I am interested in this opportunity because of your mission to empower organizations with predictive foresight through high-fidelity simulation engines. What interests me about working for Stealth Startup is your commitment to velocity, ownership, and tackling 'impossible' data challenges, which resonates deeply with my experience building production-grade infrastructure. I believe my expertise in architecting end-to-end ELT pipelines and my proficiency in data quality automation would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on both engineering rigor and actionable outcomes. In fact, while building the FRED Economic Batch Pipeline, I developed a production-grade system using Python, Airflow, and dbt to ingest complex economic indicators into BigQuery. I implemented automated validation via Great Expectations and a robust CI/CD workflow, which directly improved analyst query performance and data reliability. Ultimately, I know that the Data Engineer role at Stealth Startup would allow me to bring my experience in building scalable ingestion pipelines to power your simulation engine. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my skills in bridging the gap between raw data and usable software features. I collaborated with stakeholders to synchronize data across relational databases and APIs, which improved data accuracy by 60% and directly supported front-end feature development. I’m excited by the opportunity to use my background in managing heterogeneous data sources to work on data acquisition and enrichment at Stealth Startup. I know that my expertise in data infrastructure and my passion for data quality align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

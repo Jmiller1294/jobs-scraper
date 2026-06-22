@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Physical AI Engineering Consultant - Senior - Consulting - Open Location
+Company:  EY
+Location: Secaucus, NJ
+URL:      https://www.linkedin.com/jobs/view/4399900264
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 36/100
+[███████░░░░░░░░░░░░░] 36%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • Git
+  • SQL
+  • Pandas
+  • ETL pipelines
+  • Data pipelines
+  • Cloud
+  • Jira
+  • Data modeling
+  • Containerization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Machine learning
+  • Deep learning
+  • Computer vision
+  • Robotics
+  • ROS
+  • Digital twin
+  • Simulation
+  • NVIDIA Omniverse
+  • CI/CD
+  • MLOps
+  • MLFlow
+  • Spark
+  • TensorFlow
+  • PyTorch
+  • Containerization
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Hands-on ETL and data pipeline experience
+  • Experience with Git and Jira
+  • Proven analytics and dashboarding impact
+  • Relevant degree in Computer Science
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No robotics or ROS experience listed
+  • No digital twin or Omniverse experience
+  • No ML/DL frameworks (TensorFlow/PyTorch) evidence
+  • Limited cloud (AWS S3 only) and CI/CD details
+  • No explicit MLOps or MLFlow experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

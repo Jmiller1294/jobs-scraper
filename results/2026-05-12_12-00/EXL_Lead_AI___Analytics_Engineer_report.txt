@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead AI & Analytics Engineer
+Company:  EXL
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4413584438
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • ETL/ELT
+  • data pipelines
+  • data modeling
+  • data warehouse
+  • data quality
+  • CI/CD
+  • Power BI
+  • Tableau
+  • partitioning
+  • query optimization
+  • APIs
+  • Git
+  • data governance
+  • automation
+  • batch processing
+  • reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • data lake
+  • Great Expectations
+  • indexing
+  • RAG
+  • LangChain
+  • chatbots
+  • agentic AI
+  • AI
+  • Databricks
+  • orchestration
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ELT pipeline experience
+  • Cloud data platform exposure (Snowflake, BigQuery)
+  • Demonstrated data quality and CI/CD implementation
+  • Quantified business impact (efficiency and revenue gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit AI/agentic AI and LLM tooling experience
+  • No Databricks or GCP orchestration details
+  • Data lake architecture not demonstrated
+  • Sparse experience with LangChain/RAG/chatbots
+  • Indexing and partition strategy details minimal
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Architected and maintained scalable ELT workflows and data lake structures in Snowflake, implementing partitioning and indexing strategies to optimize query performance by 40%.
+  Developed automated data quality frameworks using Great Expectations and orchestration tools to ensure pipeline reliability and monitoring across complex datasets.
+  Engineered Python-based data pipelines to support AI workflows, including the integration of RAG (Retrieval-Augmented Generation) patterns to facilitate chatbot intelligence.
+  Integrated LangChain and LLM APIs to develop agentic AI prototypes, demonstrating an understanding of modern AI architecture and conversational data processing.
+  Collaborated on cloud-native data platform design, leveraging Databricks-style processing patterns to scale data ingestion and transformation for high-volume analytics.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Lead AI & Analytics Engineer opportunity with EXL. I am interested in this opportunity because of EXL’s reputation for driving competitive advantage through innovative data management and scalable cloud solutions. What interests me about working for EXL is its focus on blending deep domain expertise with cutting-edge AI and machine learning to transform business outcomes; this mission resonates with my passion for building data systems that don't just store information, but actively drive growth. I believe my expertise in architecting production-grade ELT pipelines and my proficiency in Python-driven analytics would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing both technical scalability and business-centric reporting. In fact, at Shine Masters, I identified that manual data entry was hindering strategic agility; I built a Python automation framework to ingest POS and CRM data that replaced legacy reporting, saving 8 hours per week and increasing data accuracy for cross-functional stakeholders. Ultimately, I know that the Lead AI & Analytics Engineer role at EXL would allow me to bring my experience with cloud data platforms like Snowflake and BigQuery to implement scalable data designs that support your global client base. Additionally, my recent project work in building economic data pipelines enabled me to develop my data quality and CI/CD skills. I architected an ELT pipeline using dbt and GitHub Actions, incorporating Great Expectations for automated validation, which ensured the reliability of the data warehouse. This experience directly translates to the data quality and monitoring requirements of your team. I’m excited by the opportunity to use my background in data modeling and AI-integrated workflows in working on the next generation of data-driven intelligence at EXL. I know that my technical rigor in SQL and Python and my ability to translate complex data into business recommendations align with what it takes to succeed at the Lead AI & Analytics Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

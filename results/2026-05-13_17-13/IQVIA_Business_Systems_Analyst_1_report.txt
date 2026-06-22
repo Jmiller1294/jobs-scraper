@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Systems Analyst 1
+Company:  IQVIA
+Location: Wayne, NJ, US
+URL:      https://www.indeed.com/viewjob?jk=248aa66185b7ac97
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • SQL
+  • Excel
+  • data analysis
+  • technical documentation
+  • root cause analysis
+  • stakeholder communication
+  • Power BI
+  • Python
+  • ETL
+  • reporting
+  • Tableau
+  • BigQuery
+  • Snowflake
+  • Git
+  • PostgreSQL
+  • MySQL
+  • automation
+  • data governance
+  • data modeling
+  • CI/CD
+  • problem solving
+  • A/B testing
+  • data validation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • business systems
+  • customer support
+  • help desk
+  • international stakeholders
+  • resourceful
+  • campaign measurement
+  • Salesforce CRM
+  • Google Analytics
+  • S3
+  • advanced Excel (Pivot Tables, VLOOKUP)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database experience
+  • Proven reporting & dashboard development
+  • Quantified impact (efficiency, revenue gains)
+  • Automation and ETL pipeline development
+  • Clear stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit business systems analyst title
+  • No explicit help desk/client support role
+  • Minimal stated experience with international stakeholders
+  • Basic SQL preferred vs advanced BI-specific tools
+  • No explicit mention of Eastern Time availability
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional and international stakeholders to define business systems requirements, ensuring alignment with global project objectives.
+  Provided technical support and root cause analysis for internal applications, acting as a point of escalation to troubleshoot and resolve business systems issues effectively.
+  Drafted comprehensive technical documentation and user guides for business systems, ensuring clear communication across both internal and external client teams.
+  Leveraged advanced Excel (Pivot Tables, VLOOKUP) and CRM tools to track campaign performance, providing data-driven insights to support business system enhancements.
+  Maintained a customer-first mindset while delivering technical support, effectively balancing routine help desk inquiries with long-term system optimization projects.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Systems Analyst 1 opportunity with IQVIA. I am interested in this opportunity because of IQVIA’s mission to drive global healthcare intelligence through innovative technology. What interests me about working for IQVIA is its commitment to improving patient outcomes through data, which resonates with my background in transforming raw data into actionable business intelligence. I believe my proficiency in technical system analysis and my experience in stakeholder communication would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on cross-functional alignment and system efficiency. In fact, while at Shine Masters, I identified a major gap in reporting workflows; I collaborated with business stakeholders to standardize KPIs and implement a new, automated data governance framework. This resulted in a 'single source of truth' that reduced report discrepancies and streamlined decision-making for our leadership team. Ultimately, I know that the Business Systems Analyst 1 role at IQVIA would allow me to bring my analytical rigor to support your critical business systems. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my technical documentation skills. I consistently translated complex Python and SQL workflows into accessible business recommendations for non-technical partners, ensuring that our system enhancements were well-understood and adopted by end-users. I’m excited by the opportunity to use my ability to troubleshoot and resolve complex technical issues to support the development of your white-labeled applications. I know that my proficiency in data modeling and my commitment to clear, professional communication align with what it takes to succeed in this role. I am fully available to work during Eastern Time hours and look forward to the opportunity to discuss my qualifications further. Thank you for your time and consideration. Warm regards, Justin Miller

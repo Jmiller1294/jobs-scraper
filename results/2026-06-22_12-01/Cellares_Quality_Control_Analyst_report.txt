@@ -1,0 +1,62 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quality Control Analyst
+Company:  Cellares
+Location: Bridgewater, NJ
+URL:      https://www.linkedin.com/jobs/view/4343485793
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (6)
+  • SOP
+  • documentation
+  • data analysis
+  • automation
+  • training records
+  • analytical testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (17)
+  • qPCR
+  • dPCR
+  • flow cytometry
+  • ELISA
+  • cell-based assays
+  • stability testing
+  • raw material testing
+  • cGMP
+  • method validation
+  • COA/COT
+  • peer review
+  • deviation/CAPA
+  • laboratory maintenance
+  • QC testing
+  • cell therapy
+  • biochemical analysis
+  • equipment calibration
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis skills
+  • Documentation and SOP experience
+  • Automation and process improvement
+  • SQL/Python technical proficiency
+  • Clear quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No wet-lab or biotech lab experience
+  • No explicit cGMP/cGxP experience
+  • Missing cell therapy assay experience
+  • No method validation or QC-specific testing
+  • No regulatory/COA documentation examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

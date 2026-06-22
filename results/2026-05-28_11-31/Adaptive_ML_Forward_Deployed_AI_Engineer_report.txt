@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Forward Deployed AI Engineer
+Company:  Adaptive ML
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4377144308
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 55/100
+[███████████░░░░░░░░░] 55%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • ETL pipelines
+  • data pipelines
+  • SQL
+  • PostgreSQL
+  • APIs
+  • Git
+  • data modeling
+  • time series
+  • AWS S3
+  • BigQuery
+  • Snowflake
+  • data visualization
+  • customer success
+  • cross-functional collaboration
+  • JIRA
+  • Confluence
+  • production deployment
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • synthetic data
+  • reinforcement learning
+  • LLMs
+  • model personalization
+  • production feedback
+  • technical consulting
+  • CI/CD
+  • Python (production deployments)
+  • M.Sc./Ph.D.
+  • enterprise deployments
+  • RLOps
+  • Adaptive Engine
+  • scalable applications
+  • bias for asynchronous communication
+  • in-person Toronto/New York
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and data pipelines
+  • Proven quantified impact (e.g., 40% time reduction, 300% growth)
+  • Cross-functional collaboration experience
+  • Production-oriented projects and deployments
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit RL or LLM specialization
+  • Limited formal ML/AI education (no M.Sc./Ph.D.)
+  • No mention of synthetic data generation
+  • No CI/CD or MLOps tooling listed
+  • Limited enterprise technical consulting experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

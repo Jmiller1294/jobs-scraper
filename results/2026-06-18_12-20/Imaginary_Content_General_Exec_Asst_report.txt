@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     General Exec Asst
+Company:  Imaginary Content
+Location: Norwalk, CT
+URL:      https://www.linkedin.com/jobs/view/4429308626
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 39/100
+[███████░░░░░░░░░░░░░] 39%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Microsoft Office/Google Suite
+  • administrative assistance
+  • organizational
+  • multitasking
+  • written communication
+  • verbal communication
+  • confidentiality
+  • discretion
+  • detail-oriented
+  • proactive
+  • SOP documentation
+  • scheduling
+  • Zapier
+  • customer onboarding
+  • project coordination
+  • team support
+  • problem solving
+  • calendar management
+  • office assistant
+  • executive support
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • G Suite
+  • Apple
+  • household management
+  • errands
+  • creative industry
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Google/Microsoft Suite proficiency
+  • Documented SOPs and onboarding
+  • Scheduling automation (Zapier)
+  • Clear written/verbal communication
+  • Data-driven process improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Apple/macOS experience listed
+  • Limited explicit executive/personal support examples
+  • No creative industry experience noted
+  • Title is data-focused, not EA/assistant
+  • On-site Norwalk CT location not addressed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Excel Specialist - Document Evaluator
+Company:  Mercor
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4423941172
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 85/100
+[█████████████████░░░] 85%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • MS Excel
+  • Google Slides
+  • document analysis
+  • attention to detail
+  • written communication
+  • Bachelor's degree
+  • 3+ years experience
+  • Advanced Excel
+  • Microsoft Office/Google Suite
+  • reporting
+  • data analysis
+  • structured feedback
+  • independent work
+  • asynchronous work
+  • documentation
+  • presentation
+  • Dashboards
+  • analytical skills
+  • data cleaning
+  • ETL
+  • SQL
+  • Python
+  • Power BI
+  • SOPs
+  • quality assessment
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Proficient in Excel/Google Suite and Advanced Excel functions
+  • Strong analytical and reporting experience
+  • Documented SOPs and documentation skills
+  • Independent, asynchronous remote work experience
+  • Quantified impact (time savings, efficiency gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Google Slides examples
+  • Role title mismatch (Data Analyst vs Evaluator)
+  • Limited stated experience reviewing domain-specific documents
+  • Preferred MS/Google Docs experience not detailed
+  • AI interview/process familiarity not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and maintained high-stakes data documentation and technical reports using Google Slides and Google Docs, ensuring clear stakeholder communication and alignment.
+  Performed rigorous quality assessment of complex datasets and domain-specific documents, providing structured feedback to refine data accuracy and operational reporting workflows.
+  Independently executed asynchronous project tasks, including complex Excel data modeling and document review, consistently meeting strict deadlines with high attention to detail.
+  Synthesized technical documentation and project findings into comprehensive Google Slides presentations to guide executive decision-making and project strategy.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Excel Specialist - Document Evaluator opportunity with Mercor. I am interested in this opportunity because of Mercor's reputation for connecting elite talent with top-tier AI research labs, a mission that resonates with my background in data-driven operations and software development. What interests me about working for Mercor is its innovative approach to AI infrastructure, which inspires me because of the company's commitment to precision and technical excellence. I believe my advanced proficiency in MS Excel/Google Suite and my meticulous approach to document analysis would make me a strong candidate for this role. During my professional career, I have approached complex data problems with a focus on auditability and accuracy. In fact, at Shine Masters, I identified a need for standardized reporting and created a library of SOPs and interactive dashboards that served as the single source of truth for our operations. As a result, this reduced new hire onboarding time by 50% and improved overall team efficiency by 25%. Ultimately, I know that the Excel Specialist - Document Evaluator role at Mercor would allow me to bring my analytical rigor to the evaluation of high-quality, domain-specific documents. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my quality assessment skills. I regularly performed deep-dive audits on client onboarding workflows, automating intake processes via Zapier while manually validating data for accuracy. This ensured that our metrics were both reliable and actionable, resulting in a 300% increase in customer acquisition over 12 months. I’m excited by the opportunity to use my document analysis expertise in working on the structured evaluation processes at Mercor. I know that my technical proficiency in MS Excel and my detail-oriented communication skills align with what it takes to succeed at the Excel Specialist - Document Evaluator role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

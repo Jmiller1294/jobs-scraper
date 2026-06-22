@@ -1,0 +1,90 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst/ Senior Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided)
+Company:  Agoda
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4410537455
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 85/100
+[█████████████████░░░] 85%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • R
+  • Tableau
+  • Advanced Excel
+  • Power BI
+  • data visualization
+  • data analysis
+  • A/B testing
+  • data warehouse
+  • BigQuery
+  • Snowflake
+  • ETL
+  • data pipelines
+  • data quality
+  • data governance
+  • dashboards
+  • statistics
+  • experiments
+  • automation
+  • Git
+  • stakeholder communication
+  • business intelligence
+  • Google Analytics
+  • visualization & reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Vertica
+  • Impala
+  • Vertica and/or Impala
+  • product experiments for product development
+  • Web-Analytics for Research
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Hands-on dashboarding (Tableau, Power BI)
+  • Experience building ETL/data pipelines
+  • Quantified impact (revenue lift, efficiency gains)
+  • A/B test design and analysis
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Vertica/Impala experience
+  • Less than extensive enterprise tenure (2+ years borderline)
+  • Limited explicit experience with Vertica/Impala-based warehouses
+  • No explicit mention of Vertica/Impala in projects
+  • Brief tenure in some roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Integrated multiple datasets from APIs and PostgreSQL warehouses, leveraging data warehouse best practices to build structured data for more robust downstream analytics and reporting, including preparation for product development experiments.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend and support product development experiments.
+  Developed Power BI and Looker workflows to replace manual written reporting, reducing data mismatches and improving work efficiency by 40%, while ensuring data quality and integrity.
+  Built Python automation for weekly sales and operations reports (ingesting POS and CRM data), eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions, showcasing strong data pipeline development.
+  Analyzed a 250K+ row dataset using Pandas and NumPy to identify demographic clusters and geographic patterns, demonstrating segmentation-oriented analytical methods and providing insights for city safety initiatives.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Analyst/ Senior Data Analyst (Statistics/Python/BI) (Bangkok-based, relocation provided) opportunity with Agoda. I am interested in this opportunity because Agoda's mission to connect people to destinations and experiences through data and technology deeply resonates with my passion for leveraging analytics to drive impactful business decisions.
+
+What interests me about working for Agoda is its approach to data and technology being at the heart of its culture, fueling curiosity and innovation. This excites, inspires, and intrigues me because it aligns with my own proactive and questioning nature. I believe my proficiency in SQL, Python, and data visualization tools, coupled with my experience in building data pipelines and executing A/B tests, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a focus on identifying trends, anomalies, and opportunities for improvement through rigorous data analysis. In fact, at Shine Masters Cleaning Services, I developed statistical models to identify high-value customer segments; targeted marketing initiatives informed by these models contributed to a 300% increase in revenue in the targeted segment over 12 months. This demonstrates my ability to translate complex data into actionable strategies that drive significant business growth.
+
+Ultimately, I know that the Data Analyst/ Senior Data Analyst role at Agoda would allow me to bring my expertise in data analysis and reporting to identifying content opportunities that drive customer value, bookings, and conversion. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my stakeholder communication skills. I collaborated with various departments, translating complex technical findings into business recommendations during stakeholder meetings to close the gap between raw data and growth strategy. I’m excited by the opportunity to use my data storytelling skills in working on understanding Content goals and KPIs and aligning reports and insights based on them at Agoda.
+
+I know that my strong analytical skills and proactive approach align with what it takes to succeed in the Data Analyst/ Senior Data Analyst role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

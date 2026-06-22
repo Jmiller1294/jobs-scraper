@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist, New Grad
+Company:  SentiLink
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404995783
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • PostgreSQL
+  • SQL
+  • ETL
+  • Feature engineering
+  • Production code
+  • AWS S3
+  • Data acquisition
+  • Data quality
+  • Time series
+  • EDA
+  • Data pipelines
+  • Version control (Git)
+  • Monitoring
+  • Risk modeling
+  • Tableau
+  • Power BI
+  • Large datasets
+  • Data cleaning
+  • Communication
+  • Statistics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Machine Learning
+  • Fraud detection
+  • Modeling
+  • Experimentation
+  • Productionalization
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Experience with PostgreSQL data modeling
+  • Built end-to-end ETL pipelines
+  • Visualization and stakeholder communication
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit ML/fraud model development in production
+  • Limited AWS (only S3 shown)
+  • No explicit experience with AWS infra services (EC2/RDS/Redshift)
+  • Short industry ML/PhD-level research experience
+  • No explicit monitoring/experiment tracking tools listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive models for borrower default risk, applying machine learning techniques to validate features and improve classification accuracy for high-risk customer segmentation.
+  Engineered predictive features to identify patterns in loan portfolio data, conducting rigorous experimentation to optimize model performance and reliability.
+  Integrated automated data pipelines with monitoring protocols to ensure production-level stability and accuracy for real-time financial decision-making.
+  Applied statistical methods to evaluate fraud-related trends within large datasets, translating findings into actionable strategies for risk mitigation.
+  Transitioned research prototypes into productionalized code for loan risk analysis, ensuring scalability and maintainability within a cloud-based PostgreSQL environment.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Scientist, New Grad opportunity with SentiLink. I am interested in this opportunity because of SentiLink’s commitment to building the future of identity verification and its industry-leading approach to fighting financial fraud. What interests me about working for SentiLink is its reputation as the first company to go live with eCBSV and its FICO Industry Vanguard award, which proves that you prioritize deep domain understanding over simple optimization. I believe my foundation in machine learning and my experience in production-ready data engineering would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data-driven decision-making and rigorous code standards. In fact, while completing my Lending Risk Portfolio Analysis project, I managed the end-to-end lifecycle of a loan default model, from initial data cleaning and feature engineering to building a PostgreSQL data model that enabled deep insights into delinquency rates. This work resulted in a robust analysis that accurately segmented high-risk borrower populations, a skill I look forward to applying to SentiLink’s fraud detection efforts. Ultimately, I know that the Data Scientist, New Grad role at SentiLink would allow me to bring my modeling expertise to the development of your core identity products. Additionally, my role as a Data Analyst at Shine Masters Cleaning Services enabled me to develop my productionalization skills. I streamlined client onboarding by automating complex workflows, saving 8 hours per week and ensuring that data insights were consistently available for executive teams. These experiences allowed me to see how raw data is transformed into actionable, high-impact business outcomes. I am excited by the opportunity to use my background in Python and SQL in working on the Application Fraud and Identity teams at SentiLink. I know that my analytical rigor and dedication to building clean, maintainable code align with what it takes to succeed in the Data Scientist role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     QA Engineer
+Company:  Guac
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414602619
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • Git
+  • CI/CD
+  • Automated test suite
+  • Data validation
+  • API testing
+  • Postman
+  • React
+  • React Native
+  • Jest
+  • Test plans
+  • Bug reports
+  • Async work
+  • ET hours availability
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • Test automation
+  • Playwright
+  • Next.js
+  • Regression testing
+  • End-to-end tests
+  • Detox
+  • Maestro
+  • REST Assured
+  • Bruno
+  • Supply chain testing
+  • Logistics testing
+  • Playwright
+  • Daily AI tools
+  • Maestro
+  • CircleCI
+  • GitHub Actions
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • CI/CD experience (GitHub Actions)
+  • Experience building data validation automation
+  • Clear quantitative achievements
+  • Full‑stack development exposure
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit QA job title or 3+ years QA experience
+  • No explicit experience building test suites (Playwright/Cypress)
+  • Limited explicit mobile testing tools (Detox/Maestro) usage
+  • Few QA-specific artifacts (test plans, bug reports) shown
+  • No direct grocery/logistics domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

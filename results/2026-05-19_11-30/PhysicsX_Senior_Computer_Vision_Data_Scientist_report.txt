@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Computer Vision Data Scientist
+Company:  PhysicsX
+Location: Manhattan, NY
+URL:      https://www.linkedin.com/jobs/view/4407861431
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • time series
+  • tabular data
+  • production ML
+  • cloud
+  • AWS
+  • data pipelines
+  • ETL
+  • SQL
+  • Python
+  • model interpretability
+  • data linkage
+  • sparse data
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • computer vision
+  • deep learning
+  • ViT
+  • ResNet
+  • pretrained encoders
+  • Grad-CAM
+  • integrated gradients
+  • uncertainty quantification
+  • Bayesian
+  • model deployment
+  • physics-informed
+  • predictive maintenance
+  • visual features
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience building ETL and data pipelines
+  • Cloud experience (AWS S3)
+  • Quantified operational impact
+  • Dashboarding and visualization (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit computer vision/deep learning experience
+  • No ViT/ResNet or pretrained encoder work
+  • No probabilistic/Bayesian modelling shown
+  • No model deployment/production ML artifacts
+  • No physics-informed or predictive maintenance domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

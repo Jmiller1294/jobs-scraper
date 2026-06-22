@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     VP, Senior Business Data Analyst - Cloud Data Migration
+Company:  Synchrony
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414228246
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Snowflake
+  • BigQuery
+  • Cloud
+  • Python
+  • ETL/ELT
+  • Tableau
+  • Power BI
+  • Dashboards
+  • Automated reporting
+  • CI/CD
+  • Data quality
+  • Data governance
+  • Reporting
+  • Presentation skills
+  • Stakeholder management
+  • Project management
+  • Metrics/KPIs
+  • Data model
+  • Lineage
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Data migration
+  • PII
+  • Data catalog
+  • Data optimization
+  • Change management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and cloud data warehouse experience
+  • Built automated ETL/ELT pipelines
+  • Developed dashboards and reporting (Tableau/Power BI)
+  • Quantified impact (efficiency and revenue gains)
+  • Stakeholder communication and data storytelling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit large-scale cloud migration leadership
+  • No mention of PII discovery or data protection controls
+  • Lacks explicit data catalog/lineage tooling experience
+  • Project management tenure below stated requirement
+  • No demonstrated change management programs
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment, establishing a consistent 'single source of truth' for all business stakeholders and driving adoption of data quality standards.
+  Built Python automation for weekly sales and operations reports (ingesting POS and CRM data), saving 8 hours per week and improving reporting accuracy, while also developing PII identification protocols for sensitive data handling.
+  Developed Power BI and Looker workflows to replace manual written reporting, reducing data mismatches and improving work efficiency by 40%, while also establishing data lineage tracking to understand dependencies.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend and informing change management strategies for new data products.
+  Modeled raw API data into a dbt star schema to optimize query performance, greatly lowering load times through BigQuery partitioning and clustering, demonstrating expertise in data modeling for efficient cloud environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the VP, Senior Business Data Analyst - Cloud Data Migration opportunity with Synchrony. I am interested in this opportunity because the prospect of leading a multi-year cloud data migration for Synchrony's D&A ecosystem deeply aligns with my passion for data infrastructure and operational efficiency. What interests me about working for Synchrony is its commitment to innovation and leveraging data to drive business outcomes, which excites and inspires me because I believe in the transformative power of well-managed and accessible data. I believe my expertise in building robust data pipelines and developing clear, actionable insights would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data-driven solutions and stakeholder alignment. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting POS and CRM data. This initiative eliminated repetitive data entry, saving 8 hours per week and improving reporting accuracy, which directly contributed to faster strategic decisions. Ultimately, I know that the VP, Senior Business Data Analyst - Cloud Data Migration role at Synchrony would allow me to bring my data modeling and automation skills to managing the enterprise cloud data migration roadmap. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my stakeholder management and reporting skills. I designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend and translate complex technical findings into business recommendations during stakeholder meetings. I’m excited by the opportunity to use my data visualization and reporting skills in working on the migration sequencing and PII identification within each migration wave at Synchrony. I know that my strengths in SQL, cloud data warehousing (Snowflake, BigQuery), and ETL/ELT pipeline development, combined with my project management experience, align with what it takes to succeed at the VP, Senior Business Data Analyst - Cloud Data Migration role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

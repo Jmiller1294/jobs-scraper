@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Business Analyst
+Company:  Soho Square Solutions
+Location: Iselin, NJ
+URL:      https://www.linkedin.com/jobs/view/4412804694
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • SQL
+  • PostgreSQL
+  • MySQL
+  • JIRA
+  • Confluence
+  • communication
+  • analytical skills
+  • troubleshooting
+  • Bachelor's in Computer Science
+  • ETL
+  • data modeling
+  • reporting
+  • Power BI
+  • Tableau
+  • cloud (Snowflake)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • IBOR
+  • Asset Management
+  • investment performance
+  • performance calculation
+  • performance reporting
+  • FactSet
+  • Eagle Performance
+  • Leveraged Loans
+  • CFA
+  • CIPM
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB experience
+  • ETL and data modeling skills
+  • Reporting/visualization with Power BI/Tableau
+  • Bachelor's in Computer Science
+  • Experience with JIRA/Confluence
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No IBOR system experience listed
+  • No asset management firm experience (8-10 yrs)
+  • No investment performance calculation experience
+  • No FactSet/Eagle Performance knowledge
+  • No CFA/CIPM or leveraged loans experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Solution Lead
+Company:  Orion Innovation
+Location: Montvale, NJ
+URL:      https://www.linkedin.com/jobs/view/4422411120
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 35/100
+[███████░░░░░░░░░░░░░] 35%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • SQL
+  • Git
+  • Cloud (AWS S3)
+  • ETL pipelines
+  • data pipelines
+  • data modeling
+  • model monitoring
+  • production deployment
+  • prompting (ChatGPT/Claude/Gemini)
+  • scalability
+  • performance optimization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • Large Language Models
+  • Generative AI
+  • prompt engineering
+  • model evaluation
+  • MLOps
+  • model lifecycle
+  • AI governance
+  • model validation
+  • bias mitigation
+  • retrieval-augmented generation
+  • agentic workflows
+  • RAG
+  • model benchmarking
+  • model explainability
+  • responsible deployment
+  • risk management
+  • transformer architectures
+  • fine-tuning
+  • model adaptation
+  • continuous improvement
+  • operational maintainability
+  • transparency
+  • enterprise AI governance
+  • regulatory compliance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Practical ETL and data pipeline experience
+  • Production deployment and automation experience
+  • Experience with AI tools (ChatGPT/Claude/Gemini)
+  • Quantified operational impact (time and efficiency gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LLM or Transformer engineering experience
+  • Limited MLOps and model lifecycle evidence
+  • Lack of AI governance or explainability experience
+  • No demonstrated prompt engineering or fine-tuning
+  • Insufficient years in senior AI/ML roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

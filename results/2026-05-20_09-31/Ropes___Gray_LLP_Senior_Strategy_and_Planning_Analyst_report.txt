@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Strategy and Planning Analyst
+Company:  Ropes & Gray LLP
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4394701029
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Advanced Excel
+  • PowerPoint
+  • Research and analysis
+  • Quantitative analysis
+  • Power BI
+  • SQL
+  • Python
+  • Data visualization
+  • Project management
+  • Reporting
+  • Documentation
+  • ETL
+  • Tableau
+  • Stakeholder communication
+  • Presentation
+  • Data modeling
+  • Time series
+  • Problem solving
+  • Business analytics
+  • SOPs
+  • Cross-functional collaboration
+  • Data storytelling
+  • AWS S3
+  • Snowflake
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack (SQL, Python, Power BI, Tableau)
+  • Quantified impact (time savings, efficiency, acquisition gains)
+  • Experience with ETL and data modeling
+  • Cross-functional collaboration and documentation
+  • Advanced Excel and presentation skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Less professional services/consulting background
+  • Only ~3 years relevant experience (meets minimum)
+  • No explicit PowerPoint deliverable examples
+  • Limited law/industry-specific knowledge
+  • Hybrid on-site commitment not specified
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

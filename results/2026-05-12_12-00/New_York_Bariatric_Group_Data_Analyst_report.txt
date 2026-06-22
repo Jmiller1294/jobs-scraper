@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst
+Company:  New York Bariatric Group
+Location: Roslyn Heights, NY
+URL:      https://www.linkedin.com/jobs/view/4411286072
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Power BI
+  • Python
+  • Tableau
+  • data validation
+  • automation
+  • ETL
+  • BigQuery
+  • Snowflake
+  • reporting
+  • dashboards
+  • data pipelines
+  • CI/CD
+  • data modeling
+  • data quality
+  • Git
+  • PostgreSQL
+  • MySQL
+  • Advanced Excel
+  • stakeholder communication
+  • data governance
+  • R
+  • cloud
+  • A/B testing
+  • data integration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Power Automate
+  • Jira
+  • Healthcare analytics
+  • Revenue Cycle Management (RCM)
+  • Finance analytics
+  • SQL Server Management Studio
+  • 3+ years healthcare experience
+  • Bachelor in data analytics
+  • AI-driven tools
+  • problem solving
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Power BI and Tableau experience
+  • Proven automation and ETL pipeline delivery
+  • Quantified impact on efficiency and revenue
+  • Experience with cloud data platforms (BigQuery, Snowflake)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit healthcare/RCM experience
+  • No Power Automate or Jira listed
+  • No mention of SQL Server Management Studio
+  • Education not specifically in data analytics (CS degree)
+  • Healthcare domain expertise not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized complex SQL queries using SQL Server Management Studio and PostgreSQL to support operations and Revenue Cycle Management (RCM) data integrity, improving validation accuracy by 60%.
+  Partnered with cross-functional stakeholders to drive finance analytics initiatives, utilizing advanced Excel and Power BI to identify cost-saving trends and revenue opportunities.
+  Streamlined operational workflows by implementing automated solutions in Jira and Microsoft Power Automate, reducing manual documentation time and enhancing project visibility.
+  Applied rigorous problem-solving skills to troubleshoot healthcare-related data anomalies, ensuring reporting consistency across diverse internal and external datasets.
+  Integrated AI-driven tools into existing Python workflows to enhance predictive reporting, providing actionable insights for resource allocation and business growth.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst opportunity with New York Bariatric Group. I am interested in this opportunity because of your commitment to patient-centered innovation and the opportunity to apply advanced data analytics to improve clinical outcomes. What interests me about working for New York Bariatric Group is your unique approach to utilizing data-driven systems to help patients achieve long-term health, which resonates with my passion for leveraging technology to solve complex operational challenges. I believe my proficiency in SQL and Python and my experience in building automated analytical workflows would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data governance and system efficiency. In fact, at Shine Masters, I identified that manual reporting was creating data mismatches, so I architected automated Python and Power BI workflows to serve as a single source of truth for the organization. This initiative resulted in a 40% improvement in work efficiency and significantly reduced reporting discrepancies, a skill set I look forward to applying to your operational and financial data. Ultimately, I know that the Data Analyst role at New York Bariatric Group would allow me to bring my expertise in SQL query optimization to support your RCM and finance reporting needs. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my stakeholder communication skills. I successfully translated complex technical findings from customer segmentation models into actionable growth strategies, resulting in a 300% increase in revenue for key segments. I’m excited by the opportunity to use my data modeling and visualization expertise in working on patient outcome reporting at New York Bariatric Group. I know that my technical versatility and analytical problem-solving align with what it takes to succeed at the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Intune Engineer
+Company:  Skywaves Rise
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413999667
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (4)
+  • Python
+  • automation
+  • deployment
+  • scripting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • PowerShell
+  • Intune
+  • SCCM
+  • Jamf
+  • application packaging
+  • Win32
+  • pkg
+  • dmg
+  • endpoint management
+  • AI tools
+  • Microsoft 365 Copilot
+  • ChatGPT Enterprise
+  • GitHub Copilot
+  • Claude
+  • endpoint troubleshooting
+  • performance tuning
+  • VDI
+  • GPO
+  • MDM
+  • MAM
+  • Azure
+  • Entra
+  • M365
+  • Autopilot
+  • Ivanti Mobile Iron
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python automation and ETL
+  • Data engineering and analytics
+  • Reporting and visualization (Power BI, Tableau)
+  • Git and CI/CD experience
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit endpoint management experience
+  • Lacks Intune/SCCM/Jamf skills
+  • No AI tools deployment experience listed
+  • No Windows/macOS packaging experience
+  • Limited PowerShell/Bash exposure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

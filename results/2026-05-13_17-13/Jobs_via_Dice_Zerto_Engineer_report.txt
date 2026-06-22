@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Zerto Engineer
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414166616
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (8)
+  • Automation
+  • Python
+  • SQL
+  • Git
+  • Reporting
+  • Monitoring
+  • Troubleshooting
+  • CI/CD
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • Zerto
+  • VPG configuration
+  • VMware ESXi
+  • vCenter
+  • Azure
+  • Replication
+  • DR testing
+  • Journal sizing
+  • VRA deployment
+  • PowerShell
+  • Performance tuning
+  • Runbooks
+  • RTO/RPO
+  • Wave execution
+  • VNIC
+  • Network
+  • Storage
+  • VRA
+  • NSG
+  • Compression
+  • Agent/driver
+  • Retention
+  • Boot order
+  • IP mapping
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong automation with Python
+  • Data reporting and dashboards
+  • CI/CD and Git experience
+  • Quantified operational impact
+  • Analytical and troubleshooting mindset
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Zerto experience
+  • No VMware vSphere/ESXi evidence
+  • No Azure platform work
+  • No PowerShell/PowerCLI skills
+  • Limited infrastructure/DR testing background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

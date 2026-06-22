@@ -1,0 +1,92 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst, Data Analytics
+Company:  Current
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4385131673
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 90/100
+[██████████████████░░] 90%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • Looker
+  • Power BI
+  • Tableau
+  • dbt
+  • data visualization
+  • data governance
+  • A/B testing
+  • data pipeline
+  • Snowflake
+  • BigQuery
+  • ETL
+  • data quality
+  • KPI dashboards
+  • customer segmentation
+  • data modeling
+  • stakeholder communication
+  • campaign measurement
+  • POS/CRM integration
+  • Advanced Excel
+  • Git
+  • data-driven insights
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (2)
+  • dimensional modeling
+  • machine learning (familiarity)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on with Looker, Tableau, Power BI
+  • Built production ELT pipelines (Snowflake/BigQuery)
+  • Quantified impact (revenue lift, time saved)
+  • Data governance and KPI standardization
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Under 3 years fintech-specific experience
+  • Limited explicit dimensional modeling detail
+  • No explicit machine learning projects
+  • Short tenures in some roles
+  • No explicit dbt production experience note (project shows modeling)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Modeled raw API data into a dbt star schema to optimize query performance, greatly lowering load times through BigQuery partitioning and clustering, demonstrating experience with dimensional modeling concepts.
+  Familiarity with machine learning techniques and predictive analytics is a plus, and my experience developing customer segmentation models and A/B testing for marketing campaigns has provided foundational exposure to predictive analytical approaches.
+  Developed Power BI and Looker workflows to replace manual written reporting, reducing data mismatches and improving work efficiency by 40%, showcasing proficiency in both Power BI and Looker for KPI dashboards.
+  Modeled raw API data into a dbt star schema to optimize query performance, greatly lowering load times through BigQuery partitioning and clustering, demonstrating experience with dbt for data modeling.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend, highlighting campaign measurement experience.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Current
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Analyst, Data Analytics position at Current. With my background in data analysis, operations leadership, and software development, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to Current's mission of transforming financial access for everyday Americans and empowering all Americans to build better financial futures. As a data professional who thrives on using data to drive growth and optimize user experience, I am eager to contribute to such a impactful mission.
+
+In my previous roles, I have developed sophisticated data workflows and analytical models that directly address the core requirements of this role. Specifically, I led the development of Power BI and Looker workflows that replaced manual reporting, increasing work efficiency by 40% and ensuring data accuracy. Additionally, I created statistical models for customer segmentation which directly contributed to a 300% increase in revenue in targeted segments, aligning with your need for identifying high-impact opportunities and understanding customer behavior.
+
+I have a strong proficiency in SQL and Python for data analysis and manipulation, as evidenced by building Python automation for sales and operations reports and optimizing database queries. My experience also includes extensive work with data visualization tools like Tableau, Power BI, and Looker, enabling me to develop and maintain dashboards to track key performance indicators (KPIs) and communicate insights effectively to both technical and non-technical stakeholders. Furthermore, my FRED Economic Batch Pipeline project involved architecting a production-grade ELT pipeline using Python and SQL into BigQuery, and modeling data into a dbt star schema, demonstrating my experience with data warehousing and transformation tools.
+
+I am particularly drawn to Current's mission of [COMPANY MISSION] and believe my experience in [RELEVANT SKILL] would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

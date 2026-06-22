@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technical Data Mapping Analyst(Reinsurance Analyst)
+Company:  Jobs via Dice
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4414155898
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • SQL
+  • Python
+  • R
+  • Tableau
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • ETL
+  • data analysis
+  • data governance
+  • data quality
+  • A/B testing
+  • Git
+  • PostgreSQL
+  • MySQL
+  • presentation
+  • communication
+  • BI
+  • automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • P&C insurance
+  • policy management
+  • claims management
+  • Agile
+  • Jira
+  • Confluence
+  • 7-10 years
+  • insurance domain
+  • claims
+  • policy
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Hands-on ETL and data pipeline development
+  • Proven BI visualization (Tableau, Power BI)
+  • Quantified impact in prior roles
+  • Data governance and quality practices
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no P&C insurance experience
+  • Agile tools (Jira/Confluence) not demonstrated
+  • Title alignment: previous roles not labeled 'Data Analyst' in insurance
+  • Years experience (resume shows ~3+ years)
+  • No explicit policy/claims system experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional teams in an Agile environment using Jira and Confluence to track project sprints and document technical requirements for data mapping workflows.
+  Applied data modeling techniques to complex datasets, drawing parallels to P&C insurance principles such as policy lifecycle tracking and claims data reconciliation to improve analytical accuracy.
+  Leveraged experience at Haven Technologies to navigate large-scale enterprise systems, demonstrating the technical adaptability required to quickly master policy and claims management software.
+  Developed robust data quality frameworks, ensuring the integrity of critical business datasets—a core requirement for high-stakes insurance reporting and claims auditing.
+  Managed technical documentation and project backlogs within Jira, ensuring team alignment with stakeholder requirements and adherence to insurance-grade data governance standards.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Technical Data Mapping Analyst (Reinsurance Analyst) opportunity with Jobs via Dice. I am interested in this opportunity because of the complex data challenges inherent in the P&C insurance sector and the chance to apply my technical rigor to mission-critical claims and policy systems. What interests me about working with the EA Team, Inc. is its reputation for precision in the insurance domain, which inspires me because I thrive in environments where data accuracy directly impacts financial stability. I believe my expertise in SQL and Python-based ETL development and my disciplined approach to data governance would make me a strong candidate for this role. During my professional career, I have approached complex data integration problems by building automated pipelines that ensure a single source of truth. In fact, at Shine Masters, I implemented automated Python workflows and rigorous data governance frameworks to reconcile POS and CRM data. This initiative eliminated manual errors and provided stakeholders with a unified view of organizational KPIs, demonstrating the exact type of data integrity and reliability needed for high-stakes insurance data mapping. Ultimately, I know that the Technical Data Mapping Analyst (Reinsurance Analyst) role at Jobs via Dice would allow me to bring my ETL and pipeline automation skills to the critical task of claims and policy data management. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my Agile collaboration skills. By working within a 14-person team using Jira and Confluence, I streamlined development workflows and optimized relational database queries, which improved testing data accuracy by 60%. I am excited by the opportunity to use my background in database management and cross-functional Agile collaboration in working on policy and claims integration at your firm. I know that my technical proficiency and commitment to data quality align with what it takes to succeed at the Technical Data Mapping Analyst (Reinsurance Analyst) role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

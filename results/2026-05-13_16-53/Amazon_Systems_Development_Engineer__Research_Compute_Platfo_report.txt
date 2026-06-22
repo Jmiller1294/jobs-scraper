@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Systems Development Engineer, Research Compute Platform, Fauna
+Company:  Amazon
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414232437
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • AWS
+  • automation
+  • Docker
+  • Git
+  • SQL
+  • CI/CD
+  • monitoring
+  • profiling
+  • capacity planning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Linux
+  • GPU
+  • CUDA
+  • job scheduler
+  • Slurm
+  • Ray
+  • Kubernetes
+  • GPU diagnostics
+  • hardware RMA
+  • Ansible
+  • Bash
+  • driver management
+  • NVLink
+  • DCGM
+  • IOMMU
+  • Go
+  • containerization
+  • cloud burst
+  • on-prem
+  • fleet provisioning
+  • SkyPilot
+  • GPU operator
+  • PSU
+  • memory
+  • storage
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python automation
+  • Data pipelines & CI/CD
+  • SQL & database optimization
+  • Reporting & visualization
+  • Cross-functional communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Linux sysadmin experience
+  • No on-prem GPU or CUDA experience
+  • No job scheduler (Slurm/Ray) experience
+  • Limited infrastructure tooling (Ansible/Go/Bash) evidence
+  • No hardware diagnostics / RMA experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

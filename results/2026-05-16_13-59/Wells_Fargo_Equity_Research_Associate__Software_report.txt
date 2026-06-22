@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Equity Research Associate, Software
+Company:  Wells Fargo
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405637327
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Software sector
+  • SQL
+  • Python
+  • Excel
+  • PowerPoint
+  • Databases
+  • ETL
+  • Tableau
+  • Communication
+  • Team collaboration
+  • Financial models
+  • Quantitative analysis
+  • Presentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Equity Research
+  • Financial statement analysis
+  • Bloomberg
+  • FactSet
+  • Modeling
+  • Accounting principles
+  • Industry research
+  • Securities
+  • Series 86
+  • Series 87
+  • Series 63
+  • SIE
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python analytics
+  • Advanced Excel and visualization (Power BI/Tableau)
+  • ETL and database design experience
+  • Quantified impact in prior roles
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit equity research title/experience
+  • Limited finance/accounting credentials listed
+  • No Bloomberg/FactSet experience noted
+  • No FINRA registrations or securities experience
+  • No direct software-sector research coverage evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

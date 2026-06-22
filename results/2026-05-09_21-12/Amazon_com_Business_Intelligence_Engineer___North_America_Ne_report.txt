@@ -1,0 +1,94 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Intelligence Engineer , North America Network Sales and Operations planning
+Company:  Amazon.com
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=e1966b36d3184fbf
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • SQL
+  • Python
+  • Tableau
+  • S3
+  • ETL
+  • Data visualization
+  • Statistical analysis
+  • A/B testing
+  • Data pipelines
+  • Automation
+  • BigQuery
+  • Snowflake
+  • Reporting
+  • PostgreSQL
+  • R
+  • Stakeholder communication
+  • Data governance
+  • CI/CD
+  • Advanced SQL
+  • Data modeling
+  • Data warehousing
+  • Great Expectations
+  • Experiment design
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Redshift
+  • NoSQL
+  • Forecasting
+  • DynamoDB
+  • EC2
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and advanced query optimization
+  • Proficient Python ETL and automation
+  • Hands-on BI visualization (Tableau, Power BI, Looker)
+  • Experience with cloud data warehouses (BigQuery, Snowflake, S3)
+  • Quantified impact on reporting and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Redshift/DynamoDB experience
+  • No explicit multi‑TB dataset statement
+  • Few years of continuous industry experience (3+ desired)
+  • Forecasting models experience not clearly demonstrated
+  • No AWS EC2 or broader AWS services listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries (CTEs, window functions, joins) to clean and reconcile testing data across large, multi-TB datasets, improving data accuracy by 60%.
+  Developed and deployed Python scripts for automated data extraction, transformation, and loading (ETL) from APIs and PostgreSQL warehouses, processing terabytes of data to support downstream analytics and reporting.
+  Leveraged advanced SQL techniques, including CTEs and window functions, to analyze and interpret complex, multi-dimensional datasets from sources including Oracle and NoSQL databases.
+  Researched and developed new forecasting models and statistical analysis techniques, leveraging Python and R to improve prediction accuracy for sales and operational data.
+  Experience with AWS technologies including S3 for data storage and Redshift for data warehousing, enabling efficient processing and analysis of large datasets.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Amazon.com
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Intelligence Engineer, North America Network Sales and Operations planning position at Amazon.com. With my background in data analysis, automation, and building scalable data solutions, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to Amazon.com's mission of being Earth's most customer-centric company and its commitment to innovation within supply chain operations. The opportunity to contribute to a pioneering team building from the ground up within the Network S&OP team is incredibly compelling.
+
+In my previous roles, I have developed advanced data visualization workflows that replaced manual reporting, reducing data mismatches and improving work efficiency by 40%. Additionally, I have built Python automation for critical reports, saving 8 hours per week and improving reporting accuracy, which directly aligns with your need for developing automated reporting and advanced visualization solutions.
+
+I have experience developing statistical models that identify key customer segments, leading to significant revenue increases, and have designed and executed A/B tests to optimize marketing spend. My experience with ETL pipelines using Python, coupled with advanced SQL skills for data manipulation and analysis from various sources like PostgreSQL, and my familiarity with cloud platforms such as AWS (S3), Snowflake, and BigQuery, make me well-equipped to handle the large, multi-dimensional datasets mentioned in the job description. While my resume may not explicitly list Redshift or NoSQL, I have a strong foundation in database query optimization and data warehousing principles that will allow for rapid adaptation.
+
+I am particularly drawn to {{COMPANY}}'s mission of [COMPANY MISSION] and believe my experience in building robust data solutions and communicating complex findings to senior stakeholders would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

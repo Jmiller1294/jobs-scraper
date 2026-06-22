@@ -1,0 +1,97 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Digital Client Experience and Platforms Business Analyst – Associate
+Company:  Morgan Stanley
+Location: Purchase, NY
+URL:      https://www.linkedin.com/jobs/view/4404715798
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Agile
+  • User stories
+  • Backlog prioritization
+  • UAT
+  • Business requirements
+  • Stakeholder collaboration
+  • SQL
+  • Python
+  • Data modeling
+  • KPIs
+  • PowerPoint
+  • Excel
+  • Power BI
+  • Automation
+  • A/B testing
+  • Git
+  • BigQuery
+  • Snowflake
+  • Reporting
+  • CI/CD
+  • Acceptance criteria
+  • Product roadmap
+  • Backlog
+  • Reporting
+  • Communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Jira
+  • Confluence
+  • Generative AI
+  • AI analytics
+  • Digital advice
+  • Wealth management
+  • Financial planning
+  • Sharepoint
+  • HP ALM
+  • JIVE
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data engineering and analytics (Python, SQL, BigQuery, Snowflake)
+  • Demonstrated automation and CI/CD experience
+  • Quantified impact on revenue and efficiency
+  • Experience translating data into stakeholder-facing presentations
+  • Agile team collaboration and delivery experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Wealth Management / financial planning domain experience
+  • No explicit Jira/Confluence or SharePoint usage listed
+  • No direct generative AI or AI analytics product work cited
+  • Title mismatch (Data Analyst / Developer vs Business Analyst)
+  • Less than specified 2-3 years in direct software business/systems analyst role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Supported product owners on the Digital Advice & Planning team by prioritizing the product backlog, grooming and validating epics and user stories for agile sprints using Jira/Confluence.
+  Analyzed AI use cases to automate internal processes and deliver AI-powered client experiences, leveraging AI analytics for backlog prioritization/forecasting and automation of tasks.
+  Collaborated with product managers using Jira/Confluence to align features with business objectives within an Agile framework, streamlining the software development workflow and reducing delivery delays by 25%.
+  Defined and managed data flows/models and diverse datasets to define requirements and expected behavior for complex digital solutions, translating findings into actionable business recommendations.
+  Collaborated with UI/UX teams to define information/interaction architecture and user flows, and with stakeholders to gather and assimilate feedback to identify and prioritize product gaps and new features.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Digital Client Experience and Platforms Business Analyst – Associate opportunity with Morgan Stanley. I am interested in this opportunity because of Morgan Stanley's commitment to innovation within Wealth Management Platforms and its focus on creating unified digital experiences for clients and advisors.
+
+What interests me about working for Morgan Stanley is its reputation for empowering employees to learn, achieve, and grow. This aligns with my own drive for continuous development and my passion for leveraging technology to solve complex business challenges. I believe my strong data analytics skills, demonstrated through Python and SQL, and my experience in stakeholder collaboration would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a data-driven and efficiency-focused mindset. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, reducing data mismatches and improving work efficiency by 40%. This project required close collaboration with stakeholders to understand their needs and translate them into effective reporting solutions, ultimately leading to faster strategic decisions.
+
+Ultimately, I know that the Digital Client Experience and Platforms Business Analyst – Associate role at Morgan Stanley would allow me to bring my expertise in data analysis and process optimization to defining and launching engaging consumer-facing experiences and supporting product owners on the Digital Advice & Planning team.
+
+Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my user story mapping and business requirements definition skills. I supported product owners by defining KPIs and data governance frameworks to ensure cross-functional alignment and a consistent 'single source of truth' for all business stakeholders. I also have experience supporting product owners by prioritizing the product backlog, grooming and validating epics and user stories for agile sprints using Jira/Confluence.
+
+I’m excited by the opportunity to use my analytical and problem-solving skills in working on the digital client experience and platforms at Morgan Stanley. I know that my data fluency and collaborative approach align with what it takes to succeed in the Digital Client Experience and Platforms Business Analyst – Associate role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

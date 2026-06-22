@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Customer Insights Analyst (Bangkok Based, Relocation Provided)
+Company:  Agoda
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4410530493
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • R
+  • BigQuery
+  • Snowflake
+  • ETL
+  • data modeling
+  • time series
+  • data visualization
+  • data analysis
+  • reporting
+  • PostgreSQL
+  • MySQL
+  • customer segmentation
+  • campaign measurement
+  • Google Analytics
+  • business intelligence
+  • data-driven decision making
+  • machine learning
+  • experimentation
+  • data pipelines
+  • analytics
+  • Advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • A/B testing
+  • SAS
+  • SPSS
+  • VBA
+  • S3
+  • Salesforce CRM
+  • statistics
+  • modeling
+  • presentation skills
+  • negotiation skills
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proficient in Tableau and Power BI
+  • Hands-on ETL and data pipeline development
+  • Quantified impact (process improvements, acquisition growth)
+  • Experience with cloud data warehouses (BigQuery, Snowflake)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit A/B testing experience
+  • No SAS/SPSS/VBA listed
+  • Short professional experience duration (0–3 years)
+  • Unclear formal statistics/ML model deployment experience
+  • Presentation/negotiation skills not strongly evidenced
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed and executed A/B testing frameworks for marketing campaigns, utilizing statistical analysis to measure performance lift and optimize conversion rates.
+  Applied advanced statistical methods and predictive modeling to evaluate the impact of multi-channel marketing campaigns on customer lifetime value.
+  Led stakeholder presentations, translating complex technical findings into actionable business strategies and negotiating project roadmaps with cross-functional teams.
+  Performed rigorous A/B testing on ad-copy and bidding strategies, utilizing data-driven insights to refine segmentation and improve ROI.
+  Integrated Salesforce CRM data with external marketing datasets, applying predictive modeling to enhance customer acquisition and retention strategies.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Customer Insights Analyst (Bangkok Based, Relocation Provided) opportunity with Agoda. I am interested in this opportunity because of Agoda's reputation for being at the forefront of data-driven travel innovation. What interests me about working for Agoda is its culture of using data and technology to fuel global exploration, which resonates with my passion for solving complex analytical problems. I believe my expertise in end-to-end data pipelines and my strong background in predictive modeling would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on measurable impact. In fact, at Shine Masters Cleaning Services, I designed time-series models to identify high-value customer segments; these targeted initiatives informed by my data analysis contributed to a 300% increase in new customer acquisition over 12 months. Ultimately, I know that the Customer Insights Analyst role at Agoda would allow me to bring my proficiency in Python and SQL to optimize campaign performance and experimentation strategies. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my communication and collaboration skills. I collaborated cross-functionally with Underwriting and Product teams to align software features with business objectives, which reduced project delivery delays by 25%. I am excited by the opportunity to use my background in A/B testing and statistical analysis in working on large-scale marketing programs at Agoda. I know that my technical versatility and analytical mindset align with what it takes to succeed at the Customer Insights Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

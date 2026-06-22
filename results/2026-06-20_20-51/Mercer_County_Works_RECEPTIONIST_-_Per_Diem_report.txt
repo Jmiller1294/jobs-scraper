@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     RECEPTIONIST - Per Diem
+Company:  Mercer County Works
+Location: Princeton, NJ
+URL:      https://www.linkedin.com/jobs/view/4431342739
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • scheduling
+  • Microsoft Office
+  • Google Suite
+  • communication
+  • organization
+  • attention to detail
+  • fast-paced environment
+  • data entry
+  • calendar management
+  • printer
+  • record keeping
+  • time management
+  • problem solving
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • receptionist
+  • multi-line telephone
+  • customer service
+  • patient interaction
+  • background check
+  • child abuse clearance
+  • FBI fingerprint
+  • calendar management
+  • confidentiality
+  • crisis management
+  • appointment scheduling
+  • front desk operations
+  • printer
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical and software proficiency (MS Office, Google Suite, Power BI)
+  • Proven process improvement and automation experience
+  • Quantified operational impact (time savings, efficiency gains)
+  • Clear documentation and SOP creation
+  • Data-driven problem solving and communication of insights
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Lacks explicit receptionist/front-desk title experience
+  • No mention of multi-line phone system experience
+  • No healthcare or patient-facing experience specified
+  • Missing required child protection and background clearances
+  • Limited explicit customer service or crisis-management examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

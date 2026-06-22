@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Model Serving Engineer
+Company:  Bright Vision Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416240387
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • AWS S3
+  • Git
+  • observability
+  • logging
+  • incident response
+  • performance engineering
+  • ETL
+  • memory management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • GPU utilization
+  • Kubernetes
+  • autoscaling
+  • LLM
+  • vLLM
+  • TensorRT-LLM
+  • distributed systems
+  • API gateways
+  • caching
+  • request routing
+  • batching
+  • speculative decoding
+  • request multiplexing
+  • multi-tenant routing
+  • rate limiting
+  • KV cache
+  • canary releases
+  • shadow testing
+  • automated rollback
+  • model quantization
+  • FinOps
+  • multi-region
+  • security controls
+  • content filtering
+  • abuse detection
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL pipelines
+  • PostgreSQL and BigQuery expertise
+  • Observable production monitoring and logging
+  • Quantified operational improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No GPU/LLM serving experience listed
+  • No Kubernetes or autoscaling experience
+  • Limited distributed systems background
+  • No explicit model serving frameworks (vLLM/TensorRT)
+  • No multi-tenant or advanced routing implementations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

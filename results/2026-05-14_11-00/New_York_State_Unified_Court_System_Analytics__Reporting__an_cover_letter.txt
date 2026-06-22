@@ -1,0 +1,18 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Principal Court Analyst (Analytics, Reporting, and Outreach Specialist) opportunity with the New York State Unified Court System. I am interested in this opportunity because of the critical role the position plays in ensuring accurate and efficient operations within a high-volume, compliance-driven environment, aligning directly with my passion for leveraging data to improve public service.
+
+What interests me about working for the New York State Unified Court System is its commitment to upholding rigorous standards of professionalism, accuracy, accountability, and statutory compliance. This dedication to integrity and public service excites and inspires me because it mirrors my own professional values.
+
+I believe my strong analytical abilities and my experience in developing impactful reporting and automation solutions would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a focus on data-driven insights and operational efficiency. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting POS and CRM data. This initiative eliminated repetitive data entry, saving 8 hours per week and significantly improving reporting accuracy for faster strategic decisions. This resulted in improved operational efficiency and faster strategic decision-making, directly applicable to overseeing daily jury operations.
+
+Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my stakeholder communication and presentation skills. I translated complex technical findings into business recommendations during stakeholder meetings, effectively closing the gap between raw data and growth strategy. I also designed an interactive Tableau dashboard for the NYPD Arrests Analysis project, providing self-service access for stakeholders and delivering a data storytelling presentation to translate statistical insights into actionable recommendations.
+
+I’m excited by the opportunity to use my data analysis and reporting skills in working on juror utilization analysis and targeted outreach initiatives at the New York State Unified Court System. I know that my proficiency in SQL, Python, Power BI, and Tableau, combined with my experience in data governance and automation, aligns with what it takes to succeed in the Principal Court Analyst role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

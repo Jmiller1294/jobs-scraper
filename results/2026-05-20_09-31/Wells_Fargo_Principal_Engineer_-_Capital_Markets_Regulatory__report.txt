@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal Engineer - Capital Markets Regulatory Technology
+Company:  Wells Fargo
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416151044
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • Git
+  • AWS
+  • PostgreSQL
+  • BigQuery
+  • ETL
+  • Data modeling
+  • Microservices
+  • Cloud-native
+  • Observability
+  • CI/CD
+  • Power BI
+  • Tableau
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • FastAPI
+  • gRPC
+  • Java
+  • Service Mesh
+  • Distributed Systems
+  • Low-latency
+  • Derivatives
+  • FICC
+  • Trade lifecycle
+  • Micro Front-End
+  • Agentic Development
+  • Real-time valuations
+  • Mentorship
+  • High-performance
+  • Scala
+  • Istio
+  • Linkerd
+  • Reactive architectures
+  • JVM tuning
+  • Quant teams
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Experience building ETL pipelines
+  • Cloud data tools (AWS, BigQuery, Snowflake)
+  • Proven analytics and dashboarding (Power BI, Tableau)
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java or JVM/concurrency experience listed
+  • No gRPC / service mesh / distributed systems depth
+  • No capital markets / FICC / derivatives domain experience
+  • Limited low-latency / high-performance engineering evidence
+  • No explicit leadership/Principal-level architecture roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,81 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Data Engineer with FactSet benchmark/ State Street benchmark data Experience
+Company:  Amtex Systems Inc
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4412969419
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Snowflake
+  • Python
+  • dbt
+  • ETL
+  • ELT
+  • API
+  • REST
+  • CI/CD
+  • Microservices
+  • Relational databases
+  • BigQuery
+  • Docker
+  • Data modeling
+  • Data quality
+  • Airflow
+  • Performance optimization
+  • Git
+  • Power BI
+  • Tableau
+  • Dimensional modeling
+  • Automation
+  • Postgres
+  • Great Expectations
+  • GitHub Actions
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (17)
+  • GitLab CI/CD
+  • AKS
+  • Master Data Management
+  • Oracle
+  • Sybase
+  • SQL Server
+  • State Street benchmark
+  • FactSet benchmark
+  • GraphQL
+  • Azure
+  • Jira
+  • AI/ML
+  • Claude Code
+  • GitHub Copilot
+  • Linux
+  • Shell scripting
+  • Snowflake MDM
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational experience
+  • Python backend and ETL pipeline skills
+  • dbt and data modeling experience
+  • Cloud data platform exposure (BigQuery, Snowflake, AWS)
+  • CI/CD and automation experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit FactSet or State Street benchmark experience
+  • Limited Azure/AKS and GitLab CI/CD exposure
+  • No clear Master Data Management implementation experience
+  • Under 10 years development experience
+  • Limited mention of GraphQL, Oracle, Sybase, SQL Server
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

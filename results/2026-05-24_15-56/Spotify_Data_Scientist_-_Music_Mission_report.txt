@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist - Music Mission
+Company:  Spotify
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4369909177
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • data exploration
+  • metrics
+  • ETL
+  • data modeling
+  • dashboarding
+  • Power BI
+  • Tableau
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • EDA
+  • version control (Git)
+  • data pipelines
+  • AI tools
+  • quantified impact
+  • communication
+  • product intuition
+  • statistical analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • A/B testing
+  • causal inference
+  • experimentation
+  • machine learning
+  • large-scale datasets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Hands-on ETL and data modeling experience
+  • Dashboarding and visualization (Power BI, Tableau)
+  • Proven quantified impact on business metrics
+  • Experience with cloud data tools (BigQuery, Snowflake, AWS S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit A/B testing or causal inference experience listed
+  • Limited machine learning/model evaluation details
+  • Less than required 4+ years in targeted Data Scientist role
+  • No explicit experience with generative music systems
+  • Unclear work with very large-scale production datasets
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

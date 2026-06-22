@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst Senior Manager, DT&I (Partnership)
+Company:  BDO USA
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4384764982
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Power BI
+  • SQL
+  • Python
+  • Jira
+  • Confluence
+  • Data analysis
+  • Dashboards
+  • ETL
+  • Reporting
+  • Technical documentation
+  • Process improvement
+  • Automation
+  • Data modeling
+  • Visualization
+  • Version control (Git)
+  • Stakeholder management
+  • Project management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • Power Automate
+  • Power Apps
+  • Azure DevOps
+  • Alteryx
+  • Low code
+  • Test plans
+  • Requirements gathering
+  • Tax experience
+  • Public accounting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI dashboard development with measured impact
+  • Solid SQL and data modeling experience
+  • Experienced in ETL and Python-driven pipelines
+  • Familiar with Jira/Confluence for documentation and tracking
+  • Demonstrated process optimization and automation成果
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Power Platform (Power Automate/Apps) experience
+  • No Azure DevOps experience listed
+  • Limited or no tax/public accounting background
+  • No Alteryx or low-code platforms mentioned
+  • No explicit certification in business analysis or project management
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

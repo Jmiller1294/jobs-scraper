@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Digital Analyst
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4419069245
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • SQL
+  • Google Analytics
+  • ecommerce
+  • customer behavior
+  • site performance
+  • Tableau
+  • Power BI
+  • data visualization
+  • data extraction
+  • joins
+  • transactional data
+  • business recommendations
+  • time series
+  • ETL
+  • BigQuery
+  • Snowflake
+  • Python
+  • Google Data Analytics Certificate
+  • Advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Adobe Analytics
+  • conversion funnel
+  • SELECT
+  • WHERE
+  • data quality
+  • tracking implementation
+  • A/B testing
+  • Adobe Customer Journey Analytics (CJA)
+  • retail industry
+  • campaign measurement
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database query experience
+  • Hands-on with Google Analytics and marketing analytics
+  • Proven dashboarding in Power BI and Tableau
+  • Quantified impact on KPIs and operations
+  • Experience with ETL, BigQuery, Snowflake, Python
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Adobe Analytics experience
+  • Limited ecommerce-specific job title/tenure
+  • No mention of tracking implementation or data QA
+  • A/B testing exposure not specified
+  • No Adobe CJA or retail industry callouts
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized ecommerce conversion funnels by analyzing transactional data in SQL to identify drop-off points, resulting in actionable recommendations that increased revenue.
+  Executed complex SQL queries (SELECT, JOINs, WHERE clauses) to extract datasets from Snowflake, ensuring high data quality through rigorous validation and error-checking processes.
+  Collaborated with cross-functional teams to support website tracking implementation, ensuring accurate event tagging for Google Analytics to capture critical customer behavior metrics.
+  Spearheaded A/B testing initiatives to optimize digital performance, leveraging statistical analysis to provide business recommendations that improved site engagement and conversion rates.
+  Monitored and maintained data pipelines to ensure the integrity of retail transactional data, enabling stakeholders to make data-driven decisions based on accurate, real-time performance reporting.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Digital Analyst opportunity with Apex Systems via Dice. I am interested in this opportunity because of my passion for turning complex ecommerce datasets into clear, actionable business strategies. What interests me about working for Apex Systems is its commitment to driving digital growth through data-backed innovation, which aligns perfectly with my professional background in technical data analysis and marketing performance. I believe my proficiency in SQL and Google Analytics, and my experience in optimizing conversion funnels, would make me a strong candidate for this role. During my professional career, I have approached problems by translating raw behavioral data into concrete business wins. In fact, while at Shine Masters, I implemented a new data-driven marketing strategy by creating time-series models to identify high-value segments, which directly contributed to a 300% increase in new customer acquisition over 12 months. This experience in driving bottom-line growth is a direct precursor to the impact I hope to deliver for your ecommerce clients. Ultimately, I know that the Digital Analyst role at Apex Systems would allow me to bring my advanced SQL expertise to support complex data extraction and analysis. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my data visualization and cross-functional collaboration skills. When tasked with replacing manual reporting, I built interactive Power BI dashboards that reduced data processing time by 40% and accelerated decision-making for executive leadership. I’m excited by the opportunity to use my background in Google Analytics and transactional data analysis in working on site performance optimization at Apex Systems. I know that my technical fluency and business-first mindset align with what it takes to succeed at the Digital Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

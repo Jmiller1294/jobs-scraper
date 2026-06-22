@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Associate, Investment Data (Private Equity)
+Company:  MFM Search LLC
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4412663356
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • SQL
+  • Python
+  • ETL
+  • data quality
+  • data governance
+  • APIs
+  • CI/CD
+  • DevOps
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • unit testing
+  • data platform operations
+  • data modeling
+  • Git
+  • data ingestion
+  • reporting
+  • stakeholder communication
+  • PostgreSQL
+  • automation
+  • data validation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Informatica
+  • Finbourne LUSID
+  • Aladdin
+  • S&P i-Level
+  • Burgiss
+  • Refinitiv
+  • Bloomberg
+  • Microsoft SQL technologies
+  • data catalog/metadata
+  • database administration
+  • financial instruments
+  • private equity markets
+  • asset owner experience
+  • 4-6 years experience
+  • data profiling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python hands-on experience
+  • Proven ETL and automation delivery
+  • Cloud data platform experience (Snowflake, BigQuery)
+  • Reporting & visualization (Power BI, Tableau)
+  • Effective stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no explicit private equity/investment management experience
+  • No listed experience with key vendor platforms (LUSID, Aladdin, Bloomberg)
+  • Database administration on Microsoft SQL not shown
+  • Total investment-data years under 4-6 range
+  • Few explicit examples of metadata/catalog governance
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

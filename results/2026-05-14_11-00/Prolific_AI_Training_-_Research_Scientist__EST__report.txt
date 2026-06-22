@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Training - Research Scientist (EST)
+Company:  Prolific
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405244970
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 73/100
+[██████████████░░░░░░] 73%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data analysis
+  • Python
+  • SQL
+  • statistical models
+  • A/B testing
+  • data quality
+  • data pipelines
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • data validation
+  • Git
+  • ETL/ELT
+  • data governance
+  • reporting
+  • automation
+  • Pandas
+  • CI/CD
+  • visualization
+  • time-series analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • research methodology
+  • experimental design
+  • statistical reasoning
+  • quantitative analysis
+  • stakeholder communication
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Demonstrated A/B testing and statistical modeling
+  • Experience building production ETL/ELT pipelines
+  • Proven automation and reporting impact with quantifiable results
+  • Familiarity with BigQuery, Snowflake, and CI/CD
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Research Scientist title/tenure
+  • No explicit published research or peer-reviewed work
+  • Research methodology and experimental design not clearly detailed
+  • No mention of scientific reasoning evaluation experience
+  • No PayPal/payment or remote participant specifics stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed and executed rigorous A/B testing frameworks and experimental designs to measure digital marketing campaign performance, applying scientific methodology to optimize spend and audience engagement.
+  Led quantitative analysis of 250K+ row datasets, employing advanced statistical reasoning and modeling to derive actionable insights that drove a 300% revenue increase in key customer segments.
+  Formulated and communicated complex data-driven business recommendations to stakeholders, bridging the gap between raw research/data findings and long-term organizational strategy.
+  Applied scientific methodology to audit and standardize organizational KPIs, ensuring data governance frameworks aligned with rigorous research standards for accurate reporting.
+  Collaborated with cross-functional teams to integrate disparate research datasets, applying analytical rigor to clean, reconcile, and validate information for high-stakes decision-making.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the AI Training - Research Scientist (EST) opportunity with Prolific. I am interested in this opportunity because of my deep commitment to bridging the gap between rigorous data analysis and actionable AI development. What interests me about working for Prolific is its approach to centering human-in-the-loop data in AI model development, which excites me because it represents a necessary shift toward more accurate, nuanced, and aligned machine intelligence. I believe my expertise in experimental design and my background in complex data analysis would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on scientific methodology and iterative improvement. In fact, while at Shine Masters, I designed and executed complex A/B tests to measure marketing campaign responses, requiring precise control over variables and statistical validation. This work resulted in a 300% revenue increase in targeted segments, demonstrating how structured experimentation directly impacts business growth—a skill set I am eager to apply to evaluating AI model performance. Ultimately, I know that the AI Training - Research Scientist (EST) role at Prolific would allow me to bring my background in statistical reasoning to evaluating the methodology and scientific output of cutting-edge AI models. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my quantitative analysis skills. I built Python-based ETL pipelines to ingest and standardize messy CRM data, ensuring high data quality and reliability. By applying these same standards of data validation and analytical precision to AI evaluation tasks, I can ensure that Prolific’s datasets remain the gold standard for AI developers. I’m excited by the opportunity to use my background in Python and SQL in working on improving cutting-edge AI models at Prolific. I know that my expertise in experimental design and quantitative analysis aligns with what it takes to succeed at the AI Training - Research Scientist (EST) role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

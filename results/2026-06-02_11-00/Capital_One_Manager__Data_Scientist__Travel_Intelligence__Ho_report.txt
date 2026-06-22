@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Manager, Data Scientist, Travel Intelligence, Hotels
+Company:  Capital One
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4422423104
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • Relational databases
+  • ETL
+  • Time series
+  • Data modeling
+  • Data visualization
+  • Tableau
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • S3
+  • Pandas
+  • Automation
+  • Git
+  • PostgreSQL
+  • MySQL
+  • Cloud computing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Machine Learning
+  • AWS
+  • Spark
+  • H2O
+  • Feature engineering
+  • Model evaluation
+  • A/B testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Practical ETL and data modeling skills
+  • Proven impact via quantified outcomes
+  • Dashboarding and visualization expertise
+  • Experience with cloud data tools (S3, BigQuery, Snowflake)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit machine learning production experience
+  • Little or no Spark / H2O experience
+  • AWS engineering experience minimal
+  • No explicit model evaluation/validation details
+  • Title is Data Analyst / Developer, not Data Scientist
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     NMC_000376 - Sr. Business Analyst – Fixed Income & Algorithmic Trading
+Company:  New Millenium Consulting
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415688328
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • SQL
+  • Excel
+  • Power BI
+  • Tableau
+  • data analysis
+  • Python
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • ETL
+  • Git
+  • JIRA
+  • Confluence
+  • agile
+  • documentation
+  • data visualization
+  • communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • FIX messages
+  • algorithmic trading
+  • real-time applications
+  • Global Securities Financing
+  • Equities
+  • Fidessa
+  • Horizon Trading Solutions
+  • Dash Financials
+  • Bloomberg EMSX
+  • ION
+  • trading systems
+  • 5-8 years BA experience
+  • business analyst title
+  • functional specifications
+  • use cases
+  • testing and validation
+  • user support
+  • financial services experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database skills
+  • Proficient in Python and ETL pipelines
+  • Experience with BI tools (Power BI, Tableau)
+  • Documented process and project tracking (JIRA/Confluence)
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No direct algorithmic trading experience
+  • No FIX protocol or trading venue tools listed
+  • Limited finance/trading domain experience
+  • Resume lacks Business Analyst title/5-8 yrs BA experience
+  • No explicit real-time application or testing experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

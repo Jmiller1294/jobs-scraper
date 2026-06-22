@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Workday Principal Business Systems Analyst
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4402050104
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 36/100
+[███████░░░░░░░░░░░░░] 36%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • Reporting
+  • SQL
+  • Python
+  • APIs
+  • ETL
+  • Power BI
+  • Dashboards
+  • Testing
+  • Reporting automation
+  • Stakeholder engagement
+  • Data governance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • Workday Studio
+  • EIB
+  • Core Connector
+  • Payroll connector
+  • Integrations
+  • XML
+  • XSLT
+  • XPATH
+  • BIRT
+  • Calculated Fields
+  • Security Policies
+  • SaaS architecture
+  • Tenant configuration
+  • Data loads
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience building ETL pipelines
+  • Dashboard and reporting automation expertise
+  • Quantified impact on efficiency and revenue
+  • Stakeholder communication and data governance
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Workday experience
+  • No Workday certifications
+  • Missing Workday integration tools (Studio/EIB)
+  • Limited HR/payroll systems exposure
+  • Under 6 years Workday-related experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

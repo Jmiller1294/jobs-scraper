@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Revenue & Pricing Analyst
+Company:  COGENT Infotech
+Location: White Plains, NY
+URL:      https://www.linkedin.com/jobs/view/4416958655
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 79/100
+[███████████████░░░░░] 79%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Power BI
+  • Advanced Excel
+  • pivot tables
+  • VLOOKUP
+  • SQL
+  • Python
+  • PostgreSQL
+  • data visualization
+  • ETL
+  • reporting
+  • data integration
+  • data automation
+  • data cleaning
+  • time series
+  • data modeling
+  • statistical analysis
+  • presentation skills
+  • team collaboration
+  • SOP documentation
+  • requirements gathering
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • utility revenue
+  • pricing analysis
+  • NYISO market
+  • Public Service Commission
+  • Energy Charge Adjustments
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI and visualization delivery
+  • Advanced Excel expertise
+  • Solid SQL and PostgreSQL experience
+  • Proven automation and ETL development
+  • Measured impact with quantified outcomes
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit utility/energy sector experience
+  • Limited stated pricing/revenue analysis background
+  • NYISO and PSC policy knowledge not shown
+  • MBA or graduate degree not listed
+  • Only 2+ years directly relevant experience borderline
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

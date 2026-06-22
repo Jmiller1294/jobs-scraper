@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Lorven Technologies Inc.
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4430557699
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • Python
+  • SQL
+  • Java
+  • Scala
+  • BigQuery
+  • Airflow
+  • ETL/ELT
+  • data modeling
+  • data quality
+  • Great Expectations
+  • CI/CD
+  • GitHub Actions
+  • Snowflake
+  • AWS
+  • docker
+  • GCS
+  • dimensional modeling
+  • Bachelor's degree
+  • collaboration
+  • communication
+  • advanced analytics
+  • dbt
+  • machine learning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (2)
+  • Hadoop
+  • Spark
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Hands-on ELT pipeline experience (BigQuery, Airflow, dbt)
+  • Proven data quality and CI/CD practices
+  • Dimensional modeling and analytics reporting
+  • Bachelor's in Computer Science
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Hadoop experience listed
+  • Limited/no explicit Spark usage
+  • Machine learning tools (Anaconda) not demonstrated
+  • Scala mentioned but without concrete projects
+  • Java experience present but not quantified in data contexts
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Refactored legacy Java backend services to improve data ingestion throughput, demonstrating strong proficiency in Java development for scalable data systems.
+  Utilized Scala in data processing tasks to leverage functional programming patterns, effectively optimizing large-scale data transformation workflows.
+  Engineered distributed data processing pipelines incorporating Spark-based transformations to handle high-volume datasets, ensuring high availability and performance.
+  Integrated Hadoop-based HDFS storage strategies to manage large-scale archival data, ensuring compliance with enterprise data retention and access requirements.
+  Leveraged Anaconda-based environments to develop and iterate on advanced analytics models, utilizing Jupyter notebooks for collaborative machine learning experimentation.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Engineer opportunity with Lorven Technologies Inc. I am interested in this opportunity because of your commitment to leveraging advanced analytics to solve complex business problems. What interests me about working for Lorven Technologies Inc. is your forward-thinking approach to big-data architecture, which intrigues me because it aligns perfectly with my background in building production-grade data pipelines. I believe my expertise in Python and SQL-based ELT pipeline design and my ability to bridge the gap between technical data solutions and stakeholder objectives would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data integrity and performance. In fact, in my recent FRED Economic Batch Pipeline project, I designed a star-schema architecture using dbt and BigQuery to process multi-source financial data. By implementing rigorous data quality validations with Great Expectations and automating the workflow via Apache Airflow, I reduced query latency and ensured actionable data availability for non-technical users. Ultimately, I know that the Data Engineer role at Lorven Technologies Inc. would allow me to bring my deep understanding of automated data pipelines to support your advanced analytics initiatives. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my Java and backend integration skills. I collaborated with engineering teams to extract and synchronize data from REST APIs into relational databases, which directly improved UI performance and feature adoption by 15%. I am excited by the opportunity to use my programming versatility in Python, Java, and Scala to work on high-impact data ingestion and transformation projects at Lorven Technologies Inc. I know that my technical versatility and commitment to data quality align with what it takes to succeed at the Data Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

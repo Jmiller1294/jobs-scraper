@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Engineer, Application Engineering
+Company:  ICE
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4283423149
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 36/100
+[███████░░░░░░░░░░░░░] 36%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Tableau
+  • Python
+  • SQL
+  • Git
+  • Automation
+  • Reporting
+  • Troubleshooting
+  • Scripting
+  • PostgreSQL
+  • MySQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • IBM MQ
+  • SWIFT
+  • IBM Sterling Integrator
+  • Linux
+  • Windows
+  • Puppet
+  • Ansible
+  • Bash
+  • PowerShell
+  • LDAP
+  • DR
+  • BCP
+  • SDLC
+  • Performance tuning
+  • On-call
+  • Monitoring
+  • Configuration management
+  • Monitoring
+  • File Gateway
+  • Business Objects
+  • Sterling Integrator
+  • SWIFT
+  • Message queueing
+  • MFT
+  • Operational Concepts
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Data engineering with Python and SQL
+  • Tableau and Power BI reporting
+  • Automation of workflows
+  • Experience with Git and version control
+  • Quantified impact in operations and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit IBM MQ or SWIFT experience
+  • No Linux/Windows systems engineering evidence
+  • Limited infrastructure/configuration management (Puppet/Ansible)
+  • No on-call or 24/7 production ops experience listed
+  • Lacks MFT/IBM Sterling Integrator experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

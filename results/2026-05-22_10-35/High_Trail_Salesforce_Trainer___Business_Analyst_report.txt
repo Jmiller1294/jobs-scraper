@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Salesforce Trainer / Business Analyst
+Company:  High Trail
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4418129339
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • User Adoption
+  • Training
+  • Requirements Gathering
+  • Stakeholder Management
+  • UAT
+  • Documentation
+  • Jira
+  • Confluence
+  • Reporting
+  • Dashboards
+  • SQL
+  • Power BI
+  • Cross-functional Collaboration
+  • Agile
+  • SOPs
+  • Process Optimization
+  • Data Quality
+  • Analytics
+  • Presentation Skills
+  • KPI Analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Salesforce
+  • Change Management
+  • Business Process Mapping
+  • Enablement
+  • Admin Certification
+  • Sales Cloud
+  • Service Cloud
+  • Salesforce Business Analyst
+  • Salesforce Consultant
+  • Advanced Administrator
+  • Salesforce CRM
+  • Lucidchart
+  • Enterprise-scale Salesforce
+  • Adoption Metrics
+  • Platform Utilization
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong reporting & dashboard development
+  • Cross-functional collaboration experience
+  • SOP and documentation creation
+  • Applied analytics and SQL skills
+  • Experience with Jira/Confluence
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Salesforce hands-on experience
+  • No Salesforce certifications listed
+  • Limited explicit change management experience
+  • Title not aligned to Salesforce BA
+  • Less than required 5+ yrs in Salesforce BA roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

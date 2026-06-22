@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Equity Analyst (Business & Information Services) L/S Hedge Fund
+Company:  Upward Trend
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417736617
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 22/100
+[████░░░░░░░░░░░░░░░░] 22%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • SQL
+  • Python
+  • Tableau
+  • Excel
+  • Cloud (AWS/Snowflake)
+  • Data modeling
+  • ETL
+  • Reporting
+  • Quantitative analysis
+  • Presentation
+  • Team collaboration
+  • Critical thinking
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • Equity Research
+  • Long/Short
+  • Business Services
+  • Information Services
+  • Financials
+  • FinTech
+  • Investment analysis
+  • Fundamental analysis
+  • Financial modeling
+  • Valuation
+  • Securities
+  • Portfolio management
+  • Due diligence
+  • Idea generation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Experience building ETL and data models
+  • Visualization and reporting (Tableau, Power BI, Excel)
+  • Quantitative analysis with measurable impacts
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit equity/asset management experience
+  • No financial modeling or valuation examples
+  • Limited sector coverage in Business/Information Services
+  • Short buyside or sellside tenure
+  • No L/S or portfolio management track record
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

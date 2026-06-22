@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Manager, Data Scientist - US Card (Resiliency Intelligence)
+Company:  Capital One
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415883181
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • Time Series
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Tableau
+  • EDA
+  • Git
+  • Automation
+  • Data Pipelines
+  • Relational Databases
+  • Data Modeling
+  • Feature Engineering
+  • AWS
+  • Visualization
+  • Advanced Excel
+  • Python (Pandas)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • Machine Learning
+  • Model Validation
+  • Clustering
+  • Classification
+  • ROC
+  • XGBoost
+  • scikit-learn
+  • Statsmodels
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Relational DB design and optimization
+  • End-to-end ETL and data pipelines
+  • Quantified impact in projects/operations
+  • Visualization and dashboarding expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/modeling tools listed
+  • No clear production ML deployment experience
+  • Short professional ML years of experience
+  • PhD/advanced-degree level experience not met
+  • Sparse mention of AWS ML services or Spark
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Engineered predictive classification models using scikit-learn and XGBoost to identify high-value customer segments, resulting in a 300% increase in new customer acquisition.
+  Built and backtested time-series and regression models, performing rigorous model validation and interpreting performance metrics like ROC curves to ensure reliability in production environments.
+  Utilized statsmodels and Python for advanced statistical analysis and clustering, translating complex numeric datasets into actionable insights for operational process improvements.
+  Optimized data pipelines on AWS, integrating large-scale relational database queries to prepare clean, feature-engineered datasets for machine learning model training.
+  Collaborated with cross-functional teams to deploy automated reporting, applying machine learning concepts to streamline data-driven decision-making and project delivery timelines.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Manager, Data Scientist - US Card (Resiliency Intelligence) opportunity with Capital One. I am interested in this opportunity because of Capital One's pioneering legacy in leveraging statistical modeling and relational databases to disrupt the credit card industry, a mission that resonates deeply with my own passion for data-driven social impact. What interests me about working for Capital One is its commitment to using machine learning to help customers regain financial stability; this focus on driving business value through personalized solutions at scale is truly inspiring. I believe my expertise in Python-based predictive modeling and my background in relational database optimization would make me a strong candidate for this role. During my professional career, I have approached problems by bridging the gap between raw data and tangible business outcomes. In fact, while at Shine Masters, I developed time-series and classification models to identify high-value segments, which directly informed targeted marketing initiatives. This resulted in a 300% increase in new customer acquisition over 12 months, proving my ability to turn complex data into significant revenue growth. Ultimately, I know that the Manager, Data Scientist - US Card (Resiliency Intelligence) role at Capital One would allow me to bring my technical proficiency in scikit-learn and XGBoost to the critical task of developing personalized financial resources for customers. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my production-level engineering skills. I collaborated with underwriting and product teams to integrate multi-source data from PostgreSQL databases into unified schemas, which improved data accuracy by 30% and significantly reduced project delivery delays. I am excited by the opportunity to use my experience in building end-to-end data pipelines in working on the development of machine learning solutions at Capital One. I know that my analytical rigor and hands-on experience with open-source tools align with what it takes to succeed at the Manager, Data Scientist - US Card (Resiliency Intelligence) role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

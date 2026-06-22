@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Principal Engineer - Fanatics Markets
+Company:  Fanatics
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4398401741
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • Postgres
+  • AWS
+  • Python
+  • SQL
+  • Git
+  • APIs
+  • ETL
+  • Data modeling
+  • Automation
+  • JIRA
+  • Confluence
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • Kubernetes
+  • Kafka
+  • Redis
+  • Kotlin
+  • Java
+  • Distributed systems
+  • Low latency
+  • Scalability
+  • Architecture
+  • Observability
+  • Incident response
+  • Mentoring
+  • Performance tuning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • SQL and Postgres expertise
+  • ETL and data pipeline development
+  • Python analytics and automation
+  • Dashboarding and reporting (Power BI, Tableau)
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Lack of Kotlin/Java experience
+  • No Kafka or Redis background
+  • Limited distributed systems architecture experience
+  • Insufficient years (>=15) of senior systems experience
+  • No evidence of incident response/observability leadership
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

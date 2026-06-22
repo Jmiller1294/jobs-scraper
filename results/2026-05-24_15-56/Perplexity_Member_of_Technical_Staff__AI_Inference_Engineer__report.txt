@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff (AI Inference Engineer)
+Company:  Perplexity
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4322043807
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 22/100
+[████░░░░░░░░░░░░░░░░] 22%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (9)
+  • Python
+  • SQL
+  • ETL
+  • Git
+  • PostgreSQL
+  • PyTorch
+  • profiling
+  • performance optimization
+  • distributed systems
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Rust
+  • CUDA
+  • CuTe DSL
+  • GPU programming
+  • LLM architectures
+  • GPU kernels
+  • quantization
+  • NCCL
+  • RDMA
+  • Triton
+  • CUTLASS
+  • Kubernetes
+  • Nsight
+  • INT8
+  • FP8
+  • FP4
+  • tensor cores
+  • NVLink
+  • InfiniBand
+  • mixed-precision serving
+  • model/tensor parallelism
+  • container orchestration
+  • GPU scheduling
+  • autoscaling inference workloads
+  • CUDA-GDB
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL pipelines
+  • Demonstrated performance improvements with analytics tooling
+  • Version control and collaborative development (Git)
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Rust experience listed
+  • No CUDA or GPU kernel development
+  • No explicit ML inference or LLM production experience
+  • Limited distributed GPU communication knowledge
+  • No container orchestration/GPU scheduling experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

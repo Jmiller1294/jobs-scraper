@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst
+Company:  Pomeroy
+Location: Parsippany, NJ
+URL:      https://www.linkedin.com/jobs/view/4411238685
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (9)
+  • SQL
+  • BigQuery
+  • Data modeling
+  • Process modeling
+  • Cloud
+  • Data Lake
+  • Agile/Scrum
+  • AS-IS/TO-BE
+  • Jira
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • SAP
+  • GCP
+  • FICO
+  • MM
+  • SD
+  • PP
+  • CDS views
+  • SDLC
+  • CBAP
+  • Information Security Awareness
+  • Sales Datasets
+  • Functional specifications
+  • IBP
+  • Web applications
+  • Years of SAP techno-functional experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL expertise
+  • BigQuery and cloud experience
+  • Data pipeline & ETL development
+  • Quantified impact on reporting/ revenue
+  • Data visualization (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SAP techno-functional experience
+  • Limited GCP-specific credentials
+  • No CDS views or SAP dataset mapping evidence
+  • Less than 10 years enterprise IT/SAP experience
+  • No CBAP or formal BA certification
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

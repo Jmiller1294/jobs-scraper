@@ -1,0 +1,59 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst -Therapeutics
+Company:  Guidepoint
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404520155
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 22/100
+[████░░░░░░░░░░░░░░░░] 22%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • Analytical skills
+  • Communication
+  • Stakeholder engagement
+  • Python
+  • SQL
+  • Tableau
+  • Power BI
+  • Data analysis
+  • Reporting
+  • Automation
+  • A/B testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • Therapeutics research
+  • Biotech/Pharma
+  • Expert interviews
+  • Investment research
+  • SEC filings
+  • Primary research
+  • Idea generation
+  • Research methodologies
+  • Market trends
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical data-analysis skills (Python, SQL)
+  • Experience with visualization tools (Tableau, Power BI)
+  • Proven automation and pipeline development
+  • Quantified impact on business metrics
+  • Clear stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No biotech/pharma or therapeutics research experience
+  • No investment/buy-side or sell-side research background
+  • No demonstrated expert interview moderation
+  • No SEC filings or financial statement analysis experience
+  • Limited relevant years in investment research domain
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

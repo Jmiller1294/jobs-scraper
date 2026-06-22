@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Process Development Engineer II - Analytics
+Company:  Regeneron
+Location: Tarrytown, NY
+URL:      https://www.linkedin.com/jobs/view/4401179225
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 22/100
+[████░░░░░░░░░░░░░░░░] 22%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • automation
+  • Python
+  • SQL
+  • data analysis
+  • documentation
+  • collaboration
+  • continuous improvement
+  • high-throughput
+  • SOPs
+  • Git
+  • AWS
+  • Tableau
+  • Power BI
+  • experimental design
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (21)
+  • liquid chromatography
+  • capillary electrophoresis
+  • immunoassays
+  • size and charge variant analysis
+  • reversed phase chromatography
+  • mixed mode chromatography
+  • assay development
+  • biopharmaceuticals
+  • analytical characterization
+  • statistical design of experiments
+  • biochemistry
+  • chemical engineering
+  • precision
+  • accuracy
+  • impurity data
+  • biophysical analysis
+  • immunoassay
+  • assay robustness
+  • high-throughput analytical methodologies
+  • manufacturing process development
+  • characterization
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis with Python and SQL
+  • Experience building ETL pipelines and dashboards
+  • Demonstrated process automation and SOP documentation
+  • Cross-functional collaboration experience
+  • Quantified operational impact (time/process improvements)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No laboratory wet-lab techniques listed
+  • Lacks chromatography/electrophoresis experience
+  • No explicit biopharma or biochemical background
+  • Limited years of relevant lab experience
+  • No statistical DOE or assay validation evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

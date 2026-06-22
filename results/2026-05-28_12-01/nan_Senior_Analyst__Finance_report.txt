@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst, Finance
+Company:  nan
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=a21683f4d15feca9
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Advanced Excel
+  • Pivot Tables
+  • VLOOKUP
+  • Power BI
+  • SQL
+  • ETL
+  • Data extraction
+  • Data upload
+  • Data reconciliation
+  • Reporting templates
+  • Data validation
+  • Automation
+  • Project management
+  • Stakeholder communication
+  • Cross-functional collaboration
+  • SOP documentation
+  • Ad hoc reporting
+  • Prioritization
+  • Data modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Financial reporting
+  • Forecasting
+  • Variance analysis
+  • OneStream
+  • Hyperion HFM
+  • Essbase
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Excel and Power BI reporting skills
+  • SQL and ETL pipeline experience
+  • Proven process automation and efficiency gains
+  • Cross-functional collaboration and communication
+  • Documented SOPs and reporting governance
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct corporate finance/accounting titles
+  • No explicit forecasting or variance analysis experience
+  • No listed experience with OneStream/Hyperion/Essbase
+  • Less than typical 3-5 years in pure finance roles
+  • Primary background in data analytics/software rather than FP&A
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

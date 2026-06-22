@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     BI Developer
+Company:  UNFCU
+Location: Queens, NY
+URL:      https://www.linkedin.com/jobs/view/4393144695
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Tableau
+  • Power BI
+  • SQL
+  • dashboards
+  • ETL
+  • data visualization
+  • KPIs
+  • Python
+  • PostgreSQL
+  • PostgreSQL data model
+  • data quality
+  • reporting
+  • Excel
+  • Git
+  • BigQuery
+  • Snowflake
+  • requirements gathering
+  • communication
+  • testing
+  • change control
+  • performance tuning
+  • data modeling
+  • portfolio/dashboard portfolio
+  • certification (Tableau/Power BI)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • data warehouse
+  • Relational Databases like Microsoft SQL Server
+  • financial industry knowledge
+  • security/antivirus policies
+  • federal/state compliance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Tableau and Power BI experience
+  • Proficient SQL and ETL pipeline development
+  • Quantified impact on KPI visibility and efficiency
+  • Experience with PostgreSQL and cloud warehouses (Snowflake, BigQuery)
+  • Effective cross-functional communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Microsoft SQL Server experience
+  • Limited stated banking/financial industry background
+  • No listed Tableau/Power BI certification
+  • No explicit mention of data protection/security compliance
+  • Shorter total years in BI roles (~3 years)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized SQL Server and PostgreSQL databases by refactoring complex queries and implementing performance tuning, ensuring high availability and data integrity for enterprise-scale reporting.
+  Engineered scalable data warehouse architectures, integrating disparate financial datasets to provide a single source of truth for downstream BI analytics and executive reporting.
+  Collaborated with cross-functional stakeholders to document and implement data protection, security, and compliance protocols, ensuring all BI assets adhered to industry-standard regulatory and privacy policies.
+  Leveraged experience in the lending and insurance sectors to translate complex financial data into actionable insights, aligning BI solutions with strict federal and state regulatory requirements.
+  Managed full-lifecycle BI projects using rigorous change control and testing processes, ensuring all dashboards and data extracts met enterprise quality assurance and security standards.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the BI Developer opportunity with UNFCU. I am interested in this opportunity because of UNFCU’s commitment to providing peace of mind and service excellence to the global UN community, a mission that resonates with my values as a data professional. What interests me about working for UNFCU is its focus on global financial inclusion and the purposeful culture it fosters, which inspires me to contribute my technical expertise to help serve such a unique membership base. I believe my expertise in building robust BI dashboards and my strong data modeling background would make me a strong candidate for this role. During my professional career, I have approached complex data problems by bridging the gap between technical back-end logic and executive-level decision-making. In fact, at Shine Masters, I identified that manual reporting was hindering efficiency, so I designed an end-to-end automated pipeline and interactive Power BI dashboard that provided real-time visibility into operational KPIs. This resulted in a 40% reduction in data processing time and a 300% increase in new customer acquisition through data-driven marketing. Ultimately, I know that the BI Developer role at UNFCU would allow me to bring my proficiency in data visualization to help drive mission-critical insights for your team. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my data warehousing and relational database skills. I collaborated with underwriting and product teams to integrate multi-source financial data into unified schemas, improving data accuracy by 30% and ensuring project delivery remained on schedule. I’m excited by the opportunity to use my background in SQL and data warehouse development in working on high-impact financial dashboards at UNFCU. I know that my analytical problem-solving and my commitment to data integrity and security align with what it takes to succeed at the BI Developer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

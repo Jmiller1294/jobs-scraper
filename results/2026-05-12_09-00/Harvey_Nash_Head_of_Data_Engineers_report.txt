@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Head of Data Engineers
+Company:  Harvey Nash
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4410814136
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • Airflow
+  • CI/CD
+  • data pipelines
+  • data quality
+  • monitoring
+  • data governance
+  • dbt
+  • BigQuery
+  • GCS
+  • Great Expectations
+  • ELT
+  • Snowflake
+  • Docker
+  • Postgres
+  • GitHub Actions
+  • dimensional modeling
+  • Power BI
+  • Tableau
+  • ETL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Databricks
+  • Azure
+  • Spark
+  • Spark
+  • cloud data platforms
+  • front-office
+  • trading
+  • commodity data
+  • energy
+  • Databricks Workflows
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ELT/ETL pipeline building
+  • Data quality with Great Expectations
+  • CI/CD via GitHub Actions
+  • dbt and dimensional modeling experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Azure or Databricks experience listed
+  • No Spark experience shown
+  • Limited trading/front-office domain experience
+  • Less cloud variety (GCP/AWS but not Azure)
+  • Resume lacks senior data engineering title
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

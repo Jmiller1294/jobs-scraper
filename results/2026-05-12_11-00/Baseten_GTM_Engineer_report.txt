@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     GTM Engineer
+Company:  Baseten
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404931450
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • Salesforce
+  • API
+  • automation
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • ETL
+  • CRM
+  • workflow
+  • integration
+  • data governance
+  • BI
+  • Power BI
+  • Tableau
+  • Git
+  • CI/CD
+  • data quality
+  • A/B testing
+  • analytics
+  • reporting
+  • stakeholder communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • Clay
+  • webhooks
+  • data enrichment
+  • integration platforms
+  • Claude Code
+  • GTM Engineering
+  • revops
+  • Harmonic
+  • Parallel.ai
+  • ZoomInfo
+  • engagement platforms
+  • agent platforms
+  • agent frameworks
+  • stack consolidation
+  • high-growth B2B
+  • Claude
+  • Cursor
+  • Codex
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on BigQuery and Snowflake experience
+  • Proven automation and ETL delivery
+  • Salesforce CRM familiarity
+  • Quantified impact on revenue and efficiency
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Clay experience
+  • No mention of webhooks or third-party webhook implementations
+  • No AI coding assistant (Claude Code) usage listed
+  • Limited GTM/RevOps-specific tooling (e.g., Outreach, Harmonic)
+  • Less direct experience at high-growth AI-native B2B companies
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

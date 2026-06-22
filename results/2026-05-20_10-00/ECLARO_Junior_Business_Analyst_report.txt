@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Junior Business Analyst
+Company:  ECLARO
+Location: Brooklyn, NY
+URL:      https://www.linkedin.com/jobs/view/4413607213
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • Power BI
+  • Excel
+  • Documentation
+  • Automation
+  • ETL
+  • PostgreSQL
+  • Data validation
+  • UAT
+  • Testing
+  • Presentation
+  • SOP
+  • Workflow mapping
+  • Process improvement
+  • Stakeholder communication
+  • Version control
+  • JIRA
+  • Data modeling
+  • PowerPoint
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • Visio
+  • Azure DevOps
+  • ArcGIS
+  • GIS
+  • Oracle
+  • Figma
+  • Schneider Electric ArcFM
+  • Azure Cloud
+  • Azure Databricks
+  • Azure Data Factory
+  • Azure logic App
+  • Power BI Report Server
+  • Snowflake
+  • BigQuery
+  • QA / UAT Coordination
+  • Enterprise GIS
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Power BI dashboards with quantifiable impact
+  • ETL and data modeling experience
+  • Documentation and SOP creation
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit GIS/ArcGIS experience
+  • No Azure DevOps experience listed
+  • No Oracle database experience
+  • No Visio or Figma artifacts mentioned
+  • Limited utility/energy sector internships
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

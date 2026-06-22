@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Science Analyst III - Pediatrics - Digital and Technology Partners - Remote
+Company:  Mount Sinai Health System
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416357008
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • ETL
+  • Data modeling
+  • Data integration
+  • Data visualization
+  • Advanced Excel
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • PostgreSQL
+  • MySQL
+  • Dashboards
+  • Reporting
+  • Project documentation
+  • Stakeholder communication
+  • Data quality
+  • Statistical analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Mentoring
+  • Healthcare analytics
+  • Claims
+  • Epic/Clarity
+  • HEDIS
+  • Care Management
+  • Quality measurement
+  • Medicaid
+  • Medicare
+  • Facets
+  • Amisys
+  • Revenue modeling
+  • Managed care contracting
+  • Population management
+  • Clinical decision support
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Proven Power BI and Tableau dashboarding
+  • ETL and data modeling experience
+  • Experience integrating multiple data sources
+  • Quantified impact on operational KPIs
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited healthcare-specific systems experience
+  • Under 7 years healthcare analytics experience
+  • No explicit claims/EMR tool usage listed
+  • No explicit experience with HEDIS/NY Medicaid/CMS reporting
+  • Limited mentoring/senior-level leadership evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     IH Data Analyst-1
+Company:  Atlas
+Location: Bethpage, NY
+URL:      https://www.linkedin.com/jobs/view/4419082270
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Microsoft Office
+  • Excel
+  • Power BI
+  • SQL
+  • Python
+  • Data analysis
+  • ETL
+  • Database
+  • PostgreSQL
+  • Reporting
+  • Documentation
+  • Communication
+  • Detail oriented
+  • Travel
+  • Git
+  • Tableau
+  • Automation
+  • SOPs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • AHERA
+  • Asbestos Inspector License
+  • Vendor coordination
+  • Inspection database
+  • Project oversight
+  • BigQuery
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis and ETL skills
+  • Proficient in Power BI and reporting
+  • Solid SQL and PostgreSQL experience
+  • Documented SOPs and technical documentation
+  • Demonstrated process automation and efficiency gains
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No AHERA/asbestos inspector license listed
+  • Limited direct inspection/vendor management experience
+  • No explicit AHERA/inspection database experience
+  • Experience under 3 years in environmental domain
+  • Travel availability not explicitly stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

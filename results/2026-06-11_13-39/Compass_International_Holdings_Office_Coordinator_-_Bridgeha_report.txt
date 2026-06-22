@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Office Coordinator - Bridgehampton, NY
+Company:  Compass International Holdings
+Location: Bridgehampton, NY
+URL:      https://www.linkedin.com/jobs/view/4427558578
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Microsoft Office
+  • Google Suite
+  • Customer service
+  • Scheduling
+  • Marketing
+  • Budgeting
+  • Administrative support
+  • Data entry
+  • Communication
+  • Detail-oriented
+  • Conference room booking
+  • CRM (Salesforce)
+  • Reporting
+  • Document management
+  • Project coordination
+  • Photography upload
+  • Workflow automation
+  • SOPs
+  • Phone handling
+  • Mail/UPS handling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • DocuSign
+  • Transaction Manager
+  • Processing commissions
+  • Real estate interest
+  • Processing commissions
+  • Agent name riders
+  • Open House signs
+  • East End Long Island (EELI)
+  • CIH home platform
+  • Dashboard
+  • Trident
+  • Referral network
+  • Exclusive agreements
+  • Leases
+  • Active Pipe
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical proficiency (Office, Google, reporting tools)
+  • Workflow automation and SOP documentation
+  • Reporting and dashboard development
+  • Customer-facing operations experience
+  • Detail-oriented with process improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No DocuSign or Transaction Manager experience listed
+  • No explicit real estate or licensing background
+  • Limited direct experience processing commissions/contracts
+  • No mention of EELI, CIH, Dashboard, Trident platforms
+  • Titles are technical (Data Analyst/Developer), not front office
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

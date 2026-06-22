@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst, Paid Search
+Company:  Publicis Collective
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404246634
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • campaign reporting
+  • A/B testing
+  • Excel
+  • SQL
+  • Python
+  • Google Analytics
+  • data analysis
+  • Power BI
+  • Google
+  • data pipelines
+  • QA
+  • Google Data Analytics
+  • performance monitoring
+  • campaign optimization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • paid search
+  • bid management
+  • Bing
+  • PPC
+  • budget pacing
+  • competitive analysis
+  • bid management tools
+  • Oath
+  • Benchtools
+  • Google Trends
+  • vendor paperwork
+  • billing reconciliation
+  • trafficking
+  • paid search platforms
+  • campaign development
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis and SQL/Python skills
+  • Experience with reporting and visualization (Power BI, Tableau)
+  • Proven A/B testing and experimentation
+  • Process automation and ETL pipeline experience
+  • Effective stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit paid search/PPC campaign management experience
+  • No mention of bid management platforms
+  • No Bing/Oath platform experience
+  • Limited direct advertising billing/trafficking experience
+  • Only ~2 years total related experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

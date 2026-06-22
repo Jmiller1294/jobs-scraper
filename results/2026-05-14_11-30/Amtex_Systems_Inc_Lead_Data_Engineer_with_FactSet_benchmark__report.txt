@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Data Engineer with FactSet benchmark/ State Street benchmark data Experience
+Company:  Amtex Systems Inc
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4412969419
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 30/100
+[██████░░░░░░░░░░░░░░] 30%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • SQL
+  • Snowflake
+  • Python
+  • ETL
+  • ELT
+  • dbt
+  • APIs
+  • GitHub Actions
+  • CI/CD
+  • Docker
+  • Postgres
+  • Data modeling
+  • Data quality
+  • Airflow
+  • Great Expectations
+  • BigQuery
+  • Dimensional modeling
+  • REST
+  • Cloud (GCP/AWS)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • FactSet benchmark data
+  • State Street benchmark data
+  • Master Data Management
+  • Sybase
+  • SQL Server
+  • Oracle
+  • Azure Kubernetes Service
+  • GitLab CI/CD
+  • GraphQL
+  • Middle Office processes
+  • Back Office processes
+  • Azure cloud
+  • AI/ML
+  • Claude Code
+  • GitHub Copilot
+  • Jira
+  • Full-stack web app support
+  • Agile
+  • Linux
+  • Shell scripting
+  • Performance optimization
+  • Microservices
+  • DevOps
+  • Testing best practices
+  • Sybase
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and advanced query skills
+  • Proficient Python for backend and ETL
+  • Experience with dbt and data modeling
+  • Cloud and data platform experience (BigQuery, Snowflake, AWS)
+  • CI/CD and data quality automation (GitHub Actions, Great Expectations)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit FactSet or State Street benchmark experience
+  • Limited MDM experience mentioned
+  • Lacks Azure/Kubernetes and AKS exposure
+  • No Sybase/SQL Server/Oracle experience cited
+  • Under 10 years development experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Engineer - Capital Markets Technology - FICC Strategic Trade Management
+Company:  Wells Fargo
+Location: Iselin, NJ
+URL:      https://www.linkedin.com/jobs/view/4416147164
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • Cloud (AWS)
+  • Git
+  • data modeling
+  • distributed systems
+  • observability
+  • risk
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Java
+  • microservices
+  • gRPC
+  • service mesh
+  • low latency
+  • Kafka
+  • FINOS CDM
+  • agentic AI
+  • model context protocol
+  • trading lifecycle
+  • streaming
+  • Apache Flink
+  • Docker
+  • Kubernetes
+  • CI/CD
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python data engineering and ETL
+  • SQL and PostgreSQL modeling
+  • Cloud (AWS S3) experience
+  • Data visualization (Power BI, Tableau)
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java or Spring Boot experience
+  • No microservices/gRPC/service-mesh evidence
+  • Limited capital markets/trading domain experience
+  • No agentic AI / FINOS CDM experience
+  • Lack of streaming/Kafka/Flink background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

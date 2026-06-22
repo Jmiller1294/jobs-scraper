@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Mainframe Data Analyst
+Company:  Infinite Computer Solutions
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4414109932
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Excel
+  • Testing and validation
+  • Stakeholder management
+  • Reporting
+  • ETL
+  • Automation
+  • Data quality
+  • Python
+  • Documentation
+  • Problem solving
+  • Project delivery
+  • Client-facing
+  • Version control
+  • Data governance
+  • Communication
+  • PostgreSQL
+  • Data reconciliation
+  • BigQuery
+  • Snowflake
+  • Power BI
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • COBOL
+  • Mainframe
+  • IBM JCL
+  • TSO/TPX
+  • Optis
+  • VBA
+  • Access
+  • Credit card issuing
+  • Issuing Industry
+  • Fiserv
+  • JCL
+  • Financial balancing
+  • Offline system testing
+  • Conversion mapping
+  • Conversion processes
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database skills
+  • Proven ETL and automation experience
+  • Data quality and validation practices
+  • Reporting and visualization expertise
+  • Stakeholder communication and delivery
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No COBOL/mainframe experience
+  • No IBM JCL/TSO knowledge
+  • Lacks VBA/Access skills
+  • No explicit credit card issuing experience
+  • Limited platform conversion experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

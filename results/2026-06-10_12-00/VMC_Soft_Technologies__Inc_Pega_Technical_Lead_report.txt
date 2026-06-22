@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Pega Technical Lead
+Company:  VMC Soft Technologies, Inc
+Location: East Hanover, NJ
+URL:      https://www.linkedin.com/jobs/view/4427019758
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • APIs
+  • Git
+  • JIRA
+  • Confluence
+  • SQL
+  • Python
+  • PostgreSQL
+  • Power BI
+  • deployments
+  • development
+  • testing
+  • support
+  • stakeholder management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Pega
+  • Pega Infinity
+  • Pega PRPC
+  • Integrations
+  • Service REST
+  • Connect REST
+  • UI
+  • defect triaging
+  • code review
+  • PCSSA 23
+  • requirements gathering
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with APIs and data integrations
+  • Version control and collaboration (Git)
+  • Dashboarding and visualization (Power BI)
+  • Documented processes and JIRA/Confluence usage
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Pega platform experience
+  • No Pega certifications (PCSSA)
+  • No explicit Pega integrations (Service/Connect REST)
+  • No demonstrated defect triaging/code review in Pega
+  • Limited UI/UX development with Pega context
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

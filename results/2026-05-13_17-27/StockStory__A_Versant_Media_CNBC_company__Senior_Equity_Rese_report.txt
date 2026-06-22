@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Equity Research Analyst, AI Platform
+Company:  StockStory (A Versant Media/CNBC company)
+Location: Englewood Cliffs, NJ
+URL:      https://www.linkedin.com/jobs/view/4410637462
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • ETL/ELT
+  • automation
+  • data pipelines
+  • APIs
+  • databases
+  • Power BI
+  • Tableau
+  • Git
+  • statistical models
+  • data governance
+  • A/B testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • LLM workflows
+  • factor models
+  • forensic accounting
+  • three-statement models
+  • equity research
+  • buy-side experience
+  • prompt engineering
+  • error analysis
+  • prompt/context engineering
+  • backtests
+  • quantamental
+  • sector models
+  • stock-picking models
+  • portfolio analysis
+  • long-term fundamental analysis
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ELT/ETL and pipeline building
+  • Experience with Snowflake and BigQuery
+  • Visualization and reporting (Power BI, Tableau)
+  • Demonstrated automation and measurable impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No buy-side investing experience
+  • No explicit equity research background
+  • Missing forensic accounting / three-statement modeling
+  • No LLM / prompt engineering experience
+  • Limited quant/financial modeling (factor models) evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

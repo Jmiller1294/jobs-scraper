@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     English (Canada) Data Labeling Associate - NYC based
+Company:  Welo Data
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413606675
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 79/100
+[███████████████░░░░░] 79%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • data quality
+  • model evaluation
+  • AI
+  • critical thinking
+  • attention to detail
+  • written communication
+  • guidelines
+  • QA
+  • data analysis
+  • SQL
+  • Python
+  • ETL
+  • documentation
+  • stakeholder communication
+  • data visualization
+  • Power BI
+  • Tableau
+  • SOPs
+  • Git
+  • JIRA
+  • BigQuery
+  • ChatGPT
+  • AWS (S3)
+  • Snowflake
+  • attention to consistency
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • native-level Canadian English
+  • university degree (explicit)
+  • 1-2 years professional writing
+  • 2+ years GenAI safety
+  • on-site NYC
+  • audit-based reviews
+  • edge case identification
+  • calibration
+  • labeling/annotation experience
+  • communicate insights to stakeholders (explicit meetings)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical skills (SQL, Python, ETL)
+  • Proven data quality and analysis impact
+  • Experience with model/AI tools (ChatGPT, Claude, Gemini)
+  • Clear documentation and SOP creation
+  • Data visualization and stakeholder reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Canadian English/native-level statement
+  • GenAI safety experience under 2 years
+  • Professional writing experience not specified as 1–2 years
+  • On-site location eligibility not stated
+  • Limited explicit annotation/auditing role experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

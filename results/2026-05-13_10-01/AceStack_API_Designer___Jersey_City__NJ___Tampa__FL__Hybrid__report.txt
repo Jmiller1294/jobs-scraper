@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     API Designer : Jersey City, NJ / Tampa, FL (Hybrid) : Onsite : Full Time Permanent
+Company:  AceStack
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4414112222
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • API documentation
+  • API prototyping
+  • Python
+  • Git
+  • PostgreSQL
+  • AWS
+  • CI/CD
+  • Automated API testing
+  • Agile/Scrum
+  • Developer experience
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • REST
+  • OpenAPI/Swagger
+  • API design
+  • API lifecycle
+  • JWT
+  • OAuth2
+  • API gateways
+  • gRPC
+  • AsyncAPI
+  • Postman
+  • API governance
+  • Microservices
+  • AWS EKS
+  • Event-driven APIs
+  • Versioning
+  • API security
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python automation
+  • Experience with APIs and data integration
+  • CI/CD pipeline implementation
+  • Database expertise (PostgreSQL)
+  • Agile team collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit REST/gRPC design experience
+  • Lacks OpenAPI/AsyncAPI or Swagger mentions
+  • No API gateway/management platform usage
+  • Missing OAuth2/JWT/API key security experience
+  • Limited formal software engineering certification/10+ yrs
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

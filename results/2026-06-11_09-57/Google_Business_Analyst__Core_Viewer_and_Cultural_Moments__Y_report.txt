@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst, Core Viewer and Cultural Moments, YouTube Marketing
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416512433
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • BI
+  • Gemini
+  • Python
+  • BigQuery
+  • Snowflake
+  • Customer Segmentation
+  • Campaign Measurement
+  • Marketing Analytics
+  • Data storytelling
+  • ETL
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • Data visualization
+  • Data modeling
+  • Cloud (AWS S3)
+  • Data pipelines
+  • Quantitative analysis
+  • Stakeholder communication
+  • Scripting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Looker
+  • A/B testing
+  • OKRs
+  • Agency management
+  • Project scoping
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Marketing analytics experience
+  • Proven quantified impact (processing time -40%, acquisition +300%)
+  • End-to-end ETL and data modeling experience
+  • Visualization and BI tool proficiency (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Looker experience
+  • No documented agency management
+  • No explicit OKR metric ownership
+  • Shorter tenure in senior analytics roles (2+ years post-grad)
+  • No MBA or advanced quantitative degree
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

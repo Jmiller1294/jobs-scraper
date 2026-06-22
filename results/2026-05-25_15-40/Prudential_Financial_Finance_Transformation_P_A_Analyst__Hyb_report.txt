@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Finance Transformation P&A Analyst (Hybrid)
+Company:  Prudential Financial
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4368058470
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Power BI
+  • Advanced Excel
+  • SQL
+  • Python
+  • Dashboards
+  • ETL
+  • Data modeling
+  • Data analysis
+  • Data visualization
+  • Process automation
+  • Cross-functional collaboration
+  • Cloud (Snowflake/AWS)
+  • JIRA
+  • Confluence
+  • Reporting
+  • Time series
+  • Data validation
+  • Stakeholder communication
+  • Problem solving
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • GAAP
+  • Management reporting
+  • Capital management
+  • Investments
+  • Power BI reports (building dashboards specifically for finance)
+  • MBA
+  • CPA
+  • CFA
+  • Process redesign
+  • C#
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI and dashboard experience with quantified impact
+  • Advanced Excel and SQL proficiency
+  • Practical Python ETL and modeling experience
+  • Cross-functional collaboration and communication
+  • Process automation with measurable efficiency gains
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit finance/GAAP reporting experience
+  • No listed certifications like CPA/CFA/MBA
+  • Limited tenure in finance-specific roles (3-5 years preferred)
+  • No explicit exposure to actuarial/treasury concepts
+  • Limited mention of large-scale cloud data platforms in finance context
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries to clean and reconcile large-scale insurance and financial testing data, ensuring data integrity for GAAP-aligned management reporting.
+  Streamlined financial data workflows by automating manual reporting processes, achieving a 40% reduction in processing time and improving accuracy for investment-focused decision-making.
+  Led process redesign initiatives by documenting and optimizing operational workflows, which reduced onboarding time and standardized data-driven reporting practices across cross-functional teams.
+  Integrated multi-source financial data into unified cloud-based schemas (Snowflake/PostgreSQL), facilitating scalable analytics for capital management and liquidity monitoring.
+  Applied data modeling techniques to identify borrower delinquency risks, effectively translating complex financial metrics into actionable insights for strategic investment and portfolio planning.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Finance Transformation P&A Analyst (Hybrid) opportunity with Prudential Financial. I am interested in this opportunity because of Prudential's commitment to tech-forward financial management and the evolution of its investment data strategy. What interests me about working for Prudential is its proactive approach to FM Transformation, as it perfectly aligns with my passion for leveraging automation and data analytics to drive business-critical financial decisions. I believe my expertise in data-driven process automation and my cross-functional collaboration skills would make me a strong candidate for this role. During my professional career, I have approached problems with an entrepreneurial mindset, prioritizing efficiency and accuracy. In fact, at Shine Masters Cleaning Services, I spearheaded the transition from manual, legacy reporting to automated Power BI dashboards. By integrating complex data pipelines and refining the underlying data models, I reduced data processing time by 40% and enabled executive leadership to make faster, more informed decisions regarding customer acquisition and resource allocation. Ultimately, I know that the Finance Transformation P&A Analyst role at Prudential would allow me to bring my technical proficiency in SQL and Python to support the team’s vision for high-integrity financial reporting. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my financial data reconciliation skills. I collaborated with underwriting and product teams to optimize relational database queries and clean insurance testing datasets, which improved data accuracy by 30% and directly supported the alignment of software features with business objectives. I am excited by the opportunity to use my background in financial data integrity in working on large-scale investment data strategy at Prudential. I know that my analytical rigor and dedication to process improvement align with what it takes to succeed at the Finance Transformation P&A Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

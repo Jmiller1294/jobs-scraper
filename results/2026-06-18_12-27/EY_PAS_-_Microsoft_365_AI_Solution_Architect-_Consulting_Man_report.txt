@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     PAS - Microsoft 365 AI Solution Architect- Consulting Manager- Multiple Locations
+Company:  EY
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417248789
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Power BI
+  • SharePoint
+  • SQL
+  • Python
+  • Git
+  • Tableau
+  • ETL
+  • Agile
+  • Project governance
+  • Certifications
+  • Consulting
+  • Power Automate
+  • Microsoft Office/Google Suite
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Microsoft 365
+  • Teams
+  • Copilot
+  • Copilot Studio
+  • Agent 365
+  • LLM
+  • RAG
+  • MCP
+  • A2A
+  • Azure AI
+  • Responsible AI
+  • Power Platform
+  • MS-900
+  • MS-102
+  • PL-400
+  • PL-600
+  • AI-900
+  • SC-100
+  • AI Agent Builder Associate
+  • M365 Copilot deployment
+  • Copilot Control System
+  • Microsoft Search
+  • Visual Studio
+  • Building agents
+  • Large enterprise implementation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python data engineering
+  • Power BI and Tableau visualization
+  • ETL pipeline development
+  • Cross-functional project delivery
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited Microsoft 365 architecture experience
+  • No explicit Copilot/Copilot Studio work
+  • Missing Power Platform developer/architect certifications
+  • Lack of Agent 365 and LLM/RAG experience
+  • No large enterprise M365 implementations shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

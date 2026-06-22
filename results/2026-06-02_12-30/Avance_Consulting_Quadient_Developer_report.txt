@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quadient Developer
+Company:  Avance Consulting
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4423946306
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 26/100
+[█████░░░░░░░░░░░░░░░] 26%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Agile SDLC
+  • Jira
+  • SQL
+  • Python
+  • Git
+  • APIs
+  • product development
+  • stakeholder communication
+  • team leadership
+  • Scrum
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • life insurance
+  • annuities
+  • customer communication
+  • Quadient
+  • Exstream
+  • product backlog
+  • epics
+  • features
+  • stories
+  • product vision
+  • coach
+  • mentor
+  • system architect
+  • tech lead
+  • product owner review
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Agile experience with Jira
+  • Strong SQL and Python skills
+  • Cross-functional collaboration
+  • Quantified impact on operations
+  • ETL and data integration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit life insurance/annuity domain experience
+  • No Quadient/Exstream experience
+  • Limited senior product leadership (15+ yrs) evidence
+  • No explicit coaching/mentoring examples at scale
+  • No documented product backlog/epic/story ownership
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+BASTA
+
+Dear Hiring Manager,
+
+I am excited to apply for the Director of Data Strategy position at BASTA. With my background in hands-on data analysis, pipeline development, and translating complex data into actionable insights, I am confident I would be a strong addition to your team.
+
+BASTA's mission to transform first-generation students' college degrees into strong careers deeply resonates with me. I am particularly impressed by how Seekr leverages data to create precision matching, personalized guidance, and structured pathways, directly addressing the systemic barriers faced by this population.
+
+In my previous roles, I have developed and implemented data-driven strategies that significantly improved efficiency and revenue. At Shine Masters Cleaning Services, I built Python automation for weekly reports, saving 8 hours per week and improving reporting accuracy. Additionally, I created statistical models for customer segmentation that contributed to a 300% increase in revenue within the targeted segment.
+
+I am adept at building and maintaining robust data infrastructure, including ETL pipelines and data warehouses, ensuring data reliability and accessibility for non-technical teams. I have a proven track record of designing intuitive BI dashboards (Power BI, Tableau) that are readily adopted and used for decision-making, and I am skilled in translating complex findings into compelling data stories for diverse stakeholders, including Development teams for funder reporting.
+
+I am particularly drawn to BASTA's mission of advancing economic mobility for first-generation students nationwide and believe my experience in data strategy and impact measurement would allow me to contribute meaningfully from day one. I am eager to apply my skills in building, analyzing, and communicating data to further BASTA's impactful work.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sales Insights Analyst
+Company:  Vertice
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4357649247
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Power BI
+  • data analysis
+  • ETL
+  • dashboards
+  • presenting to executives
+  • cross-functional
+  • automation
+  • data visualization
+  • PostgreSQL
+  • data storytelling
+  • process improvement
+  • KPI monitoring
+  • advanced Excel
+  • Git
+  • data modeling
+  • queries
+  • Tableau
+  • AWS S3
+  • customer segmentation
+  • business analytics
+  • Python Pandas
+  • Snowflake
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Spanish
+  • consulting
+  • professional services
+  • Sales enablement
+  • C-level outreach
+  • Salesforce CRM
+  • moderately complex concepts
+  • designing dashboards for sales
+  • humility
+  • two days in New York office
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Proven dashboarding and visualization
+  • Cross-functional collaboration experience
+  • Quantified impact on ops and acquisition
+  • ETL and data modeling expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit consulting/professional services title
+  • No mention of Spanish fluency
+  • Limited direct sales/commercial analytics experience
+  • Unclear experience presenting to C-level externally
+  • No explicit Salesforce CRM project (only marketing analytics)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Partnered cross-functionally with Sales and Product leadership to translate complex SaaS spend data into compelling narratives, presenting ROI-focused insights directly to C-level executives to drive deal closures.
+  Acted as a commercial analytics partner, utilizing Salesforce CRM and SQL to audit client tech stacks, identifying cost-saving opportunities that directly supported sales enablement and revenue growth.
+  Delivered professional services-style business analysis by creating custom dashboards and automated reports that empowered stakeholders to make data-driven procurement decisions.
+  Adopted a highly adaptable, 'get-stuff-done' approach in a fast-paced environment, balancing multiple workstreams and shifting priorities while maintaining consistent delivery and high-quality output.
+  Leveraged advanced data modeling and storytelling techniques to demonstrate the financial impact of software procurement, effectively communicating value propositions to diverse internal and external stakeholders.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Commercial Analyst opportunity with Vertice. I am interested in this opportunity because of Vertice’s proven track record of revolutionizing software procurement through agentic workflows and AI-driven insights, which perfectly aligns with my background in data-backed decision-making. What interests me about working for Vertice is your remarkable 13X revenue growth and your mission to bring transparency to global technology spend, which inspires me because I am passionate about using data to solve complex financial challenges. I believe my expertise in data-driven storytelling and my proficiency in SQL/Python-based analytical modeling would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex, multi-source datasets into actionable operational strategies. In fact, at Shine Masters, I developed interactive Power BI dashboards and time-series models that identified high-value customer segments, which informed marketing initiatives and contributed to a 300% increase in new customer acquisition. Ultimately, I know that the Commercial Analyst role at Vertice would allow me to bring my data visualization and analytical skills to provide the Sales organization with the critical insights needed to win high-value deals. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my cross-functional collaboration and technical documentation skills. I collaborated directly with Underwriting and Product teams to align software features with business objectives, optimizing SQL queries that improved data accuracy by 30% and reduced project delivery delays by 25%. I am excited by the opportunity to use my background in Python and SQL to build the dynamic tools required for Vertice's Intelligent Procurement Platform. I know that my technical agility and business acumen align with what it takes to succeed at the Commercial Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

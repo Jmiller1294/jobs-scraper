@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Investment Returns Analyst
+Company:  Initio Capital
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420269646
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • financial modeling
+  • quantitative analysis
+  • Excel
+  • PowerPoint
+  • SQL
+  • Python
+  • PostgreSQL
+  • Power BI
+  • tableau
+  • dashboards
+  • ETL
+  • reporting
+  • presentation
+  • portfolio analysis
+  • risk analysis
+  • data accuracy
+  • sensitivity analysis
+  • scenario analysis
+  • performance attribution
+  • benchmarking
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • IRR
+  • MOIC
+  • cash flows
+  • time-weighted returns
+  • NPV
+  • CAGR
+  • volatility
+  • investment committee materials
+  • client reporting
+  • asset management
+  • private equity
+  • investment banking
+  • realized and unrealized outcomes
+  • funds
+  • indices
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Dashboard and reporting proficiency (Power BI, Tableau)
+  • Quantitative and risk analysis projects
+  • ETL and data modeling expertise
+  • Documented, measurable impact in roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit finance-specific metrics (IRR, MOIC, NPV)
+  • No direct investment banking/asset management experience listed
+  • Limited mention of PowerPoint-driven senior stakeholder presentations
+  • Early-career with <3 years industry experience
+  • No explicit experience with time-weighted returns or volatility analysis
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

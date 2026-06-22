@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineer II opportunity with CLEAR. I am interested in this opportunity because CLEAR's mission to build the secure identity company of the future and leverage networked digital identity deeply resonates with my passion for innovative data solutions. What interests me about working for CLEAR is its forward-thinking approach to identity management and data security, which inspires me because I believe in the power of data to create safer and more streamlined experiences.
+
+I believe my proficiency in SQL, Python, and cloud-based data infrastructure, coupled with my experience in building robust data pipelines, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a focus on building scalable, automated, and high-quality data systems. In fact, in my role at Haven Technologies, I collaborated with stakeholders to align software features with business processes, reducing product delivery delays by 25%. I then extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs, improving data accuracy by 60% through SQL queries.
+
+Ultimately, I know that the Data Engineer II role at CLEAR would allow me to bring my expertise in data pipeline development and data modeling to building and enhancing your platform. Additionally, my project experience as an Analytics & Operations Lead at Shine Masters Cleaning Services enabled me to develop my analytical and operational efficiency skills. I built a business intelligence reporting system in Excel that identified inefficiencies driving a 40% improvement in operational efficiency and automated recurring workflows, reducing manual tasks by 30%.
+
+I’m excited by the opportunity to use my data engineering skills in working on the next generation of products at CLEAR. I know that my experience with dbt, Airflow, Snowflake, BigQuery, and data quality frameworks aligns with what it takes to succeed in the Data Engineer II role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

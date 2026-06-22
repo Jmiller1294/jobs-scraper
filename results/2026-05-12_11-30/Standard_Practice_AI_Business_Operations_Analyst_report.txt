@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Operations Analyst
+Company:  Standard Practice AI
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413454161
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • BigQuery
+  • Snowflake
+  • Git
+  • ETL
+  • automation
+  • reporting
+  • data quality
+  • dashboards
+  • A/B testing
+  • data governance
+  • analytics
+  • operations
+  • CI/CD
+  • communication
+  • problem decomposition
+  • attention to detail
+  • stakeholder management
+  • reporting
+  • root-cause analysis
+  • startups
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • IVR
+  • payer workflows
+  • revenue cycle
+  • healthcare
+  • spreadsheets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience building dashboards and reporting
+  • Proven automation and ETL pipeline delivery
+  • Quantified impact on efficiency and revenue
+  • Cross-functional stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct healthcare or payer experience
+  • No explicit IVR or telephony experience
+  • Spreadsheets mention not prominent
+  • Under 3 years operations-specific tenure
+  • Call workflow or voice AI experience absent
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized SQL query performance to reconcile complex data sets, identifying root-cause errors in call-logic workflows similar to those found in payer or revenue cycle management systems.
+  Utilized advanced Excel and Google Sheets to model operational performance, tracking key metrics across thousands of calls to identify patterns in IVR navigation and AI voice agent success.
+  Partnered with cross-functional teams to translate ambiguous operational data into actionable insights, improving system reliability for high-volume outbound calling and patient engagement platforms.
+  Investigated data discrepancies across CRM and POS platforms, applying a rigorous analytical approach to improve data quality—a skill directly transferable to navigating complex healthcare provider datasets.
+  Built and maintained automated dashboards to monitor workflow health, proactively flagging failures in automated outbound calling processes to drive immediate performance improvements.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Operations Analyst opportunity with Standard Practice AI. I am interested in this opportunity because of the company's ambitious mission to modernize critical healthcare infrastructure through AI-driven automation. What interests me about working for Standard Practice AI is its approach to automating complex, manual healthcare workflows; the intersection of voice AI and administrative efficiency perfectly aligns with my background in data-driven operations. I believe my expertise in building automated reporting systems and my proficiency in root-cause analysis would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on data integrity and process optimization. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, identifying data mismatches that previously hindered visibility. This resulted in a 40% improvement in operational efficiency and established a single source of truth for all business stakeholders. Ultimately, I know that the Business Operations Analyst role at Standard Practice AI would allow me to bring my analytical rigor to the monitoring and scaling of your voice AI platform. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my systems-thinking skills. During this time, I collaborated with a 14-person team to align features with business objectives, using SQL window functions and joins to clean and reconcile testing data, which improved data accuracy by 60%. This experience in a structured, enterprise-level environment allows me to effectively partner with Engineering and Product teams to troubleshoot call logic and platform reliability. I’m excited by the opportunity to use my background in Python automation and data visualization in working on optimizing call outcomes and IVR navigation at Standard Practice AI. I know that my technical versatility and commitment to operational excellence align with what it takes to succeed in the Business Operations Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineer with GEN AI opportunity with SWITS DIGITAL Private Limited. I am interested in this opportunity because SWITS DIGITAL's innovative approach to leveraging data engineering for cutting-edge AI/ML and GenAI applications aligns perfectly with my career aspirations and technical expertise.
+
+What interests me about working for SWITS DIGITAL is its commitment to [something unique about the company, e.g., 'pushing the boundaries of generative AI solutions']. This excites, inspires, and intrigues me because it represents the future of data-driven innovation, a field I am passionate about.
+
+I believe my strong Python development skills and my extensive experience with dbt and modern data engineering tools would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on building robust, scalable, and efficient data solutions. In fact, in the FRED Economic Batch Pipeline project, I designed and implemented a production-grade ELT pipeline ingesting Federal Reserve economic data from the FRED API into Google BigQuery using Python, Airflow, dbt, and GCS. This pipeline included modeling raw API data into a dbt star schema, automating data quality validation with Great Expectations, and deploying a CI/CD pipeline via GitHub Actions. The result was a significant reduction in analyst query time through BigQuery partitioning and clustering, and a robust, automated data flow.
+
+Ultimately, I know that the Data Engineer with GEN AI role at SWITS DIGITAL would allow me to bring my expertise in building scalable data pipelines to the crucial task of powering AI/ML and GenAI applications. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my API development and data integration skills. I collaborated with stakeholders to align software features with business processes, reducing product delivery delays by 25%, and extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs. The result was a 15% increase in feature adoption and improved data accuracy.
+
+I’m excited by the opportunity to use my data modeling and transformation skills in working on the design, build, and maintenance of scalable data pipelines and data platforms at SWITS DIGITAL. I know that my strong programming experience in Python and my hands-on experience with dbt align with what it takes to succeed at the Data Engineer with GEN AI role.
+
+I would love the opportunity to discuss the role in more detail and elaborate on how my skills and experience, including my foundational understanding of Generative AI concepts, can contribute to SWITS DIGITAL's success. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

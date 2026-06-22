@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Manager, Data Scientist - Credit Review opportunity with Capital One. I am interested in this opportunity because Capital One's pioneering use of data analytics to personalize credit card offers and its continued leadership in data-driven decision-making resonates with my passion for leveraging data to drive significant business impact.
+
+What interests me about working for Capital One is its forward-thinking approach to data innovation. The company's journey from disrupting the credit card industry with statistical modeling and relational databases to becoming a Fortune 200 leader in data-driven decision-making excites and inspires me because it demonstrates a sustained commitment to technological advancement and a deep understanding of how data can revolutionize financial services.
+
+I believe my strong Python and SQL skills, coupled with my experience in statistical modeling and data pipeline development, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on tangible results and efficiency. In fact, at Shine Masters Cleaning Services, I built Python automation for weekly sales and operations reports, ingesting POS and CRM data using ETL/ELT principles. This saved 8 hours per week and eliminated repetitive data entry, leading to improved reporting accuracy for faster strategic decisions.
+
+Ultimately, I know that the Manager, Data Scientist - Credit Review role at Capital One would allow me to bring my expertise in building robust data pipelines to effectively analyze massive datasets and develop innovative solutions for credit risk management. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my statistical modeling skills. I created statistical models to identify high-value customer segments, and targeted marketing initiatives informed by these models contributed to a 300% increase in revenue in the targeted segment over 12 months.
+
+I'm excited by the opportunity to use my A/B testing and data visualization skills in working on challenging models and new ways of making better decisions at Capital One. I know that my technical proficiency and my statistically-minded approach align with what it takes to succeed in the Manager, Data Scientist - Credit Review role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

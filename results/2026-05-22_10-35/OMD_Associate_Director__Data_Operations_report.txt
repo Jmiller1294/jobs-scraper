@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate Director, Data Operations
+Company:  OMD
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416757269
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • Power BI
+  • SQL
+  • Python
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Tableau
+  • ETL
+  • data pipelines
+  • reporting
+  • data modeling
+  • automation
+  • JIRA
+  • Git
+  • project management
+  • stakeholder management
+  • data quality
+  • data transformation
+  • BI technologies
+  • SOPs
+  • analytics
+  • data ops
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • DBT
+  • Great Expectations
+  • Starburst
+  • Smartsheet
+  • Salesforce Marketing Cloud Intelligence
+  • DAX
+  • JavaScript
+  • campaign reporting
+  • naming conventions
+  • governance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI expertise with quantified impact
+  • Solid SQL and ETL experience
+  • Python for pipelines and analysis
+  • Cloud experience (Snowflake, BigQuery, AWS S3)
+  • Experience with JIRA, Git, cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Under 8 years' required experience (approx. 2–3 years)
+  • Limited explicit agency/paid-media experience
+  • No DBT or Great Expectations experience
+  • No explicit Salesforce Marketing Cloud Intelligence experience
+  • Limited mention of formal data governance or taxonomy design
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

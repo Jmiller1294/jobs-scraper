@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst - Platforms & Partnerships
+Company:  AMC Global Media
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4381652981
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • content tracking
+  • ingestion
+  • validation
+  • spreadsheets
+  • documentation
+  • cross-functional coordination
+  • events support
+  • technical troubleshooting
+  • reporting
+  • SQL
+  • Python
+  • Power BI
+  • Excel
+  • AWS S3
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • digital video workflows
+  • asset management
+  • metadata
+  • AVOD
+  • FAST
+  • SVOD
+  • EST
+  • VOD publishing
+  • screening platforms
+  • clip/reel requests
+  • SOPs
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Proven reporting and dashboarding (Power BI, Tableau)
+  • Experience automating ingestion and ETL pipelines
+  • Cross-functional communication and stakeholder translation
+  • Operational process improvements with documented outcomes
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit media/streaming platform experience
+  • No direct AVOD/FAST/EST platform exposure listed
+  • No specific asset management system experience
+  • No explicit metadata or media file format expertise
+  • Titles are analytics-focused, not media operations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

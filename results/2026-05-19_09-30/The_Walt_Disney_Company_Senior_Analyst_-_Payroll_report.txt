@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst - Payroll
+Company:  The Walt Disney Company
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415793405
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Excel
+  • Advanced Excel
+  • VLOOKUP
+  • Pivot tables
+  • Power BI
+  • Reporting
+  • Analytics
+  • SQL
+  • Documentation
+  • Process improvement
+  • Project management
+  • Confidentiality
+  • Onboarding
+  • Reconciliation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Payroll
+  • Union
+  • CBA
+  • Compliance
+  • Payroll systems
+  • Workday
+  • SAP
+  • CATS
+  • Audit
+  • Federal pay laws
+  • State pay laws
+  • Local pay laws
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Advanced Excel skills
+  • Power BI reporting and dashboards
+  • SQL and data engineering
+  • Process documentation and SOPs
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No payroll-specific experience
+  • No Workday/SAP/CATS experience listed
+  • No union/CBA payroll handling
+  • Limited HR/payroll systems expertise
+  • Under 3 years HR/payroll domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

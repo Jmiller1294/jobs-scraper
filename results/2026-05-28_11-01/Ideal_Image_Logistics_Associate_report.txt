@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Logistics Associate
+Company:  Ideal Image
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417294934
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • MS Excel
+  • MS Word
+  • MS Outlook
+  • inventory
+  • reporting
+  • documenting
+  • warehouse
+  • packaging
+  • packing and shipping
+  • ERP
+  • scanning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • shipping
+  • receiving
+  • cycle counts
+  • FIFO
+  • shipping logs
+  • UPS
+  • FedEx
+  • DHL
+  • lifting 50lbs
+  • kitting
+  • inventory replenishment
+  • continuous improvement
+  • Lean
+  • safety procedures
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Excel and reporting skills
+  • Experience documenting SOPs
+  • Operational process improvement
+  • Inventory and warehouse exposure
+  • ERP familiarity
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit shipping/receiving experience
+  • No carrier (UPS/FedEx/DHL) systems listed
+  • No demonstrated cycle counting/FIFO practice
+  • No physical lifting or warehouse role highlighted
+  • No Lean/continuous improvement certification
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

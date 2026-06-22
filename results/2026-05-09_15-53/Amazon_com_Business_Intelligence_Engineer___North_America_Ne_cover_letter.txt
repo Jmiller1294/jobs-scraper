@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Amazon.com
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Intelligence Engineer, North America Network Sales and Operations planning position at Amazon.com. With my background in data analysis, automation, and stakeholder communication, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to Amazon's relentless pursuit of operational excellence and its commitment to optimizing the customer experience through innovative supply chain solutions. The opportunity to contribute to the North America Network S&OP team, building forecasting models and data solutions from the ground up, is incredibly compelling.
+
+In my previous roles, I have developed and implemented robust data solutions that drive efficiency and revenue growth. Additionally, I have built Python automation for weekly sales and operations reports, saving 8 hours per week and improving reporting accuracy, which directly aligns with your need for developing automated reporting and processing large, multi-dimensional datasets from multiple sources.
+
+I have a proven track record of translating complex technical findings into clear, actionable business recommendations for senior stakeholders, as demonstrated by my work in identifying high-value customer segments that contributed to a 300% increase in revenue. Furthermore, I have experience in architecting production-grade ELT pipelines using Python and SQL, specifically leveraging technologies like Snowflake and BigQuery to ingest and transform time-series economic data, aligning with your requirements for data modeling, warehousing, and building ETL pipelines.
+
+I am particularly drawn to Amazon.com's mission of being Earth’s most customer-centric company and believe my experience in data analysis, forecasting techniques, and advanced visualization would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

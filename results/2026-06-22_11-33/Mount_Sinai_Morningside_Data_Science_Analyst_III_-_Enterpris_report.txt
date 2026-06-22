@@ -1,0 +1,93 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Science Analyst III - Enterprise Data & Analytics - Digital and Technology Partners - Hybrid/Onsite
+Company:  Mount Sinai Morningside
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4431687852
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • ETL
+  • data modeling
+  • data visualization
+  • data analysis
+  • PostgreSQL
+  • MySQL
+  • Git
+  • BigQuery
+  • Snowflake
+  • reporting
+  • Dashboards
+  • data pipelines
+  • time series
+  • Advanced Excel
+  • JIRA
+  • Confluence
+  • automation
+  • project documentation
+  • stakeholder communication
+  • data quality
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • R
+  • SAS
+  • Java/MapReduce
+  • JavaScript/TypeScript
+  • Palantir Foundry
+  • SSIS
+  • Data Stage
+  • PowerCenter
+  • Epic/Clarity
+  • Facets
+  • Dimensional Insights
+  • SAP/Business Objects
+  • MicroStrategy
+  • object-oriented coding
+  • Agile
+  • healthcare analytics
+  • clinical data
+  • claims data
+  • revenue cycle
+  • nurse informaticist
+  • advanced statistical methods
+  • mentoring
+  • leading technical team
+  • financial modeling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • BI tooling: Tableau and Power BI
+  • ETL and data pipeline development
+  • Experience with cloud warehouses (BigQuery, Snowflake)
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited healthcare-specific systems experience (Epic, claims)
+  • No R/SAS or Java/MapReduce evidence
+  • No JavaScript/TypeScript or Palantir Foundry exposure
+  • Less than required senior healthcare analytics tenure
+  • No explicit mentoring/leadership of analytics teams
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated in an Agile environment to build, document, and maintain healthcare-adjacent data workflows, leveraging Python and SQL to clean and reconcile complex datasets, ensuring high-quality metrics for clinical and operational decision-making.
+  Mentored junior team members on best practices for data documentation and SQL query optimization, fostering a culture of technical rigor and ensuring redundancy in critical reporting workflows.
+  Led technical initiatives to integrate clinical and operational data from disparate internal sources, applying advanced statistical methods to identify trends in patient throughput and resource allocation.
+  Developed and maintained comprehensive project documentation, ensuring all analytic methods, key decision points, and data caveats were clearly articulated to facilitate replication and transparency for stakeholder leadership.
+  Optimized data quality by creating robust automated validation checks and feeding actionable insights back to data stewards, directly enhancing the reliability of reporting used in high-stakes operational planning.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Science Analyst III - Enterprise Data & Analytics - Digital and Technology Partners - Hybrid/Onsite opportunity with Mount Sinai Morningside. I am interested in this opportunity because Mount Sinai’s reputation for integrating advanced analytics and AI into patient care aligns with my passion for using data to drive operational excellence. What interests me about working for Mount Sinai is its commitment to being a 'Smart Hospital' that prioritizes evidence-based decision-making, which inspires me because I am eager to apply my technical background to clinical environments. I believe my expertise in ETL pipelines and advanced data modeling, and my experience in cross-functional stakeholder communication would make me a strong candidate for this role. During my professional career, I have approached complex operational problems by bridging the gap between raw data and actionable strategy. In fact, at Shine Masters, I identified that manual reporting was causing significant bottlenecks; I built interactive Power BI dashboards and automated data pipelines that replaced outdated processes, reducing processing time by 40% and improving overall team efficiency by 25%. Ultimately, I know that the Data Science Analyst III role at Mount Sinai would allow me to bring my proficiency in SQL and Python to support the Clinical Command Center in generating actionable intelligence. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my Agile and documentation skills. I collaborated with underwriting and UI/UX teams to reconcile insurance testing data using complex SQL queries and window functions, which increased data accuracy by 30% and reduced project delivery delays by 25%. I’m excited by the opportunity to use my background in data mining and process improvement in working on patient throughput and operational awareness at Mount Sinai. I know that my technical analytical skills and commitment to data integrity align with what it takes to succeed at the Data Science Analyst III role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

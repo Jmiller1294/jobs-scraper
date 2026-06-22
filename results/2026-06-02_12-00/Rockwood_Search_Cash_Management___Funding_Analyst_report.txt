@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Cash Management / Funding Analyst
+Company:  Rockwood Search
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4422420850
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 22/100
+[████░░░░░░░░░░░░░░░░] 22%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • API
+  • automation
+  • SQL
+  • Python
+  • ETL
+  • Snowflake
+  • BigQuery
+  • Excel
+  • Power BI
+  • reporting
+  • SOPs
+  • data pipelines
+  • reconciliation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Kyriba
+  • Fed Wires
+  • ACH
+  • CHIPS
+  • SWIFT MT
+  • SWIFT MX
+  • wire transactions
+  • cash management
+  • treasury operations
+  • failed wires troubleshooting
+  • payment reconciliation
+  • account funding
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Data engineering (SQL, ETL, Python)
+  • Reporting & dashboards (Power BI, Excel)
+  • Process automation experience
+  • Documented SOPs and workflow improvement
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No treasury/cash management experience
+  • No Kyriba experience
+  • No SWIFT (MT/MX) knowledge
+  • No Fed Wire/ACH/CHIPS experience
+  • Limited payments reconciliation details
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

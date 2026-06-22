@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Product Specialist
+Company:  Kensho Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4397323851
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 67/100
+[█████████████░░░░░░░] 67%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • AI
+  • Python
+  • SQL
+  • ETL
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • data pipelines
+  • data modeling
+  • API integration
+  • visualization
+  • cross-functional collaboration
+  • communication
+  • analytics
+  • technical demos
+  • AI tools
+  • quantitative results
+  • stakeholder presentations
+  • SOPs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • market analysis
+  • customer engagement
+  • product roadmap
+  • sales enablement
+  • sales specialist
+  • solutions architect
+  • B2B selling
+  • metadata
+  • groundings
+  • LRA
+  • go-to-market
+  • co-development
+  • industry conferences
+  • competitive analysis
+  • strategic positioning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL and data modeling
+  • Proven analytics with quantified impact
+  • Experience with BI tools and dashboards
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit B2B sales or solutions engineering experience
+  • No direct product roadmap or go-to-market ownership shown
+  • Lacks domain-specific items (LRA, Groundings, metadata)
+  • Under 3 years in AI-focused customer-facing roles
+  • Limited evidence of leading strategic partnerships or conferences
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

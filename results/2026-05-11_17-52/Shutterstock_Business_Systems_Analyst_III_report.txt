@@ -1,0 +1,84 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Systems Analyst III
+Company:  Shutterstock
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4411247716
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Tableau
+  • Documentation
+  • UAT
+  • Relational database
+  • ETL
+  • Automation
+  • Power BI
+  • Python
+  • BigQuery
+  • Data governance
+  • Reports & Dashboards
+  • Schema
+  • PostgreSQL
+  • Looker
+  • CI/CD
+  • A/B testing
+  • Data quality
+  • Google Workspace
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Salesforce
+  • Process mapping
+  • Confluence
+  • Jira
+  • Data Loader
+  • Flows
+  • Salesforce Setup
+  • Salesforce Flows
+  • SOQL
+  • Visio
+  • Lucid chart
+  • Asana
+  • Monday.com
+  • Slack
+  • Zoom
+  • Google meet
+  • Workbench
+  • Lightning App Builder
+  • Lightning Experience migration
+  • Postma
+  • Tableau (explicit admin)
+  • Tier-1 support
+  • Tier-2 support
+  • BRDs
+  • Validation Rules
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB skills
+  • Proven ETL and pipeline automation (Python, BigQuery, Snowflake)
+  • Experience with Tableau and Power BI reporting
+  • Documented data governance and KPI standardization
+  • CI/CD and data quality tooling experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Salesforce administration/configuration experience
+  • Limited or no Confluence/Visio/Lucid documentation tools shown
+  • Lacks listed experience with Jira/Asana/Monday.com or collaboration platforms
+  • No explicit UAT/test case development artifacts detailed
+  • Insufficient demonstration of Tier-1/Tier-2 support or SOQL usage
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Clark Davis Associates
+Location: Mahwah, NJ
+URL:      https://www.linkedin.com/jobs/view/4413429878
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • ETL/ELT
+  • BigQuery
+  • Airflow
+  • dbt
+  • data modeling
+  • data quality
+  • partitioning
+  • window functions
+  • CTEs
+  • Postgres
+  • Snowflake
+  • GCS
+  • CI/CD
+  • Power BI
+  • tableau
+  • dimensional modeling
+  • query optimization
+  • Google Cloud Platform
+  • Great Expectations
+  • data warehouse
+  • automation
+  • data pipelines
+  • data transformation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • Azure Data Factory
+  • Azure Data Services
+  • SSIS
+  • SQL Server
+  • Oracle
+  • NoSQL
+  • MongoDB
+  • Cosmos DB
+  • Spark
+  • Kafka
+  • Azure certification
+  • 5+ years experience
+  • US Citizen/GC
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL expertise (CTEs, window functions)
+  • Proven ETL/ELT pipeline development (BigQuery, Airflow, dbt)
+  • Data modeling and warehouse design (star schema)
+  • Automated data quality and CI/CD (Great Expectations, GitHub Actions)
+  • Visualization and reporting (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Lacks Azure-specific tooling (ADF, Azure Data Services, SSIS)
+  • No explicit SQL Server or Oracle experience
+  • No Spark/Kafka or big data ecosystem experience listed
+  • Resume shows <5 years targeted data engineering experience
+  • Citizenship/GC status not specified
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional teams to migrate legacy data structures to SQL Server and PostgreSQL environments, ensuring high availability and robust data integrity.
+  Engineered scalable ETL/ELT pipelines using Python and SQL, with foundational experience in cloud-native integration tools and data orchestration workflows equivalent to Azure Data Factory.
+  Optimized database performance by implementing advanced indexing, query tuning, and partitioning strategies, applying best practices common to high-volume SQL Server and Oracle environments.
+  Applied data engineering principles to analyze large-scale, semi-structured datasets, building knowledge of NoSQL patterns similar to MongoDB and Cosmos DB for modern data storage.
+  Maintained rigorous data documentation and security protocols, while actively pursuing professional development in Azure Data Services to complement existing GCP expertise.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Engineer opportunity with Clark Davis Associates. I am interested in this opportunity because of your commitment to building scalable, high-performance data infrastructure that drives enterprise-level business intelligence. What interests me about working for Clark Davis Associates is its sophisticated approach to data-driven decision-making, which inspires me because it aligns with my passion for turning complex raw data into actionable strategic assets. I believe my expertise in building end-to-end ELT pipelines and my proficiency in SQL query optimization would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on both technical performance and business value. In fact, at Haven Technologies, I was tasked with synchronizing data across REST APIs and relational databases to support front-end development. By utilizing complex SQL queries to validate and map data, I improved overall data accuracy by 60% and reduced UI-related bugs, directly enabling a 15% increase in feature adoption. Ultimately, I know that the Data Engineer role at Clark Davis Associates would allow me to bring my technical SQL skills to optimize database performance and query efficiency. Additionally, my role as an Analytics & Operations Lead at Shine Masters enabled me to develop my data automation skills. I built a comprehensive business intelligence reporting system from the ground up, which identified critical inefficiencies and drove a 40% improvement in operational productivity. I am excited by the opportunity to use my background in cloud-based data warehousing and pipeline orchestration to support data quality and integrity at Clark Davis Associates. I know that my strong foundation in Python and data modeling aligns with what it takes to succeed at the Data Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

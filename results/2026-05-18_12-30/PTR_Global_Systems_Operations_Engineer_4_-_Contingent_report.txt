@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Systems Operations Engineer 4 - Contingent
+Company:  PTR Global
+Location: Iselin, NJ
+URL:      https://www.linkedin.com/jobs/view/4416259055
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Linux
+  • Python
+  • SQL
+  • Git
+  • PostgreSQL
+  • automation
+  • scripting
+  • troubleshooting
+  • monitoring
+  • logging
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Red Hat Enterprise Linux
+  • Tomcat
+  • SSL/TLS
+  • certificate management
+  • LDAP
+  • SSO
+  • CI/CD
+  • Jenkins
+  • high availability
+  • disaster recovery
+  • SAN storage
+  • Ansible
+  • Kubernetes
+  • Splunk
+  • ELK
+  • certificate authorities
+  • vulnerability management
+  • patching
+  • Control- M
+  • identity management
+  • Tomcat on containers
+  • Spring Boot
+  • enterprise storage
+  • Single Sign-On
+  • resiliency
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with PostgreSQL and databases
+  • Automation and scripting experience
+  • Data visualization and reporting expertise
+  • Documented SOPs and process improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Red Hat Enterprise Linux administration experience listed
+  • No Tomcat or middleware platform experience
+  • No SSL/TLS or certificate lifecycle experience
+  • No LDAP/SSO or identity management experience
+  • Insufficient systems engineering (5+ years) and UNIX background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

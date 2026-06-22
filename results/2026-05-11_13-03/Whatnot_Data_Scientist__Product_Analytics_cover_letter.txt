@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Whatnot
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Scientist, Product Analytics position at Whatnot. With my background in data analysis, product development, and building scalable data solutions, I am confident I would be a strong addition to your team.
+
+Whatnot's position as the largest livestream shopping platform in North America and Europe, coupled with its innovative approach to building a new industry, is incredibly inspiring. I am particularly drawn to your commitment to enabling anyone to turn their passion into a business.
+
+In my previous roles, I have developed sophisticated analytical frameworks and built robust data pipelines to drive product strategy and operational efficiency. Additionally, I have successfully designed and executed A/B tests and translated complex data findings into actionable recommendations, which directly aligns with your need for a data scientist who can generate insights, drive experimentation, and shape product direction.
+
+At Shine Masters Cleaning Services, I designed and executed A/B tests for digital marketing campaigns, providing the statistical evidence needed to optimize marketing spend. I also developed Python automation for weekly sales and operations reports, ingesting POS and CRM data to create scalable data pipelines that empower teams with timely insights. My work at Haven Technologies involved optimizing relational database queries using advanced SQL techniques like CTEs and window functions to clean and reconcile testing data, improving data accuracy by 60%.
+
+I am particularly drawn to Whatnot's mission of bringing people together through commerce and believe my experience in data science, coupled with my ability to communicate complex ideas clearly to diverse stakeholders, would allow me to contribute meaningfully from day one. I am eager to leverage my skills in SQL, Python, Snowflake, BigQuery, and A/B testing to help Whatnot continue its rapid growth and build delightful experiences for buyers and sellers.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

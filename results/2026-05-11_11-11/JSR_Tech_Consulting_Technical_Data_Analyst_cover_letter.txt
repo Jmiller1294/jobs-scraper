@@ -1,0 +1,20 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+JSR Tech Consulting
+
+Dear Hiring Manager,
+
+I am excited to apply for the Technical Data Analyst position at JSR Tech Consulting. With my background in data analysis, automation, and translating complex data into actionable insights, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to JSR Tech Consulting's focus on driving impactful data solutions for clients and believe my proactive approach to data management and analysis aligns well with your company's commitment to innovation and efficiency.
+
+In my previous roles, I have successfully developed and implemented automated reporting solutions that significantly improved efficiency and accuracy. Additionally, I have experience creating statistical models for customer segmentation and targeting marketing initiatives, which directly aligns with your need for analyzing and activating People-related data assets.
+
+I understand the critical importance of robust data governance and quality in large-scale initiatives. In my role at Shine Masters Cleaning Services, I standardized organizational KPIs and data governance frameworks, establishing a "single source of truth" and reducing report discrepancies. I also have a strong foundation in SQL and Python for data analysis, and proficiency with data visualization tools such as Power BI and Tableau, all of which are key requirements for this role.
+
+I am eager to leverage my skills in data quality, analytics, and stakeholder communication to support your People Domain Activation initiative. I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

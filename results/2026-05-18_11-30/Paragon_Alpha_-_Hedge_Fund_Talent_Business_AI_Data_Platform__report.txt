@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI/Data Platform Engineer - Equity Trading
+Company:  Paragon Alpha - Hedge Fund Talent Business
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4416245861
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • ETL
+  • APIs
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Data pipelines
+  • Data modeling
+  • Automation
+  • Workflow automation
+  • Git
+  • Power BI
+  • Tableau
+  • Version control
+  • Data visualization
+  • ETL Pipelines
+  • Orchestration
+  • AI tools
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Data products
+  • LLM workflows
+  • Retrieval systems
+  • Platform engineering
+  • System design
+  • Scalability
+  • Governance
+  • Agentic engineering
+  • Self-serve AI
+  • Production-grade systems
+  • Secure data products
+  • Discoverable data
+  • Connectors
+  • Templates
+  • Testing/debugging
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data pipeline experience
+  • Experience with cloud data platforms (BigQuery, Snowflake, AWS S3)
+  • Delivered measurable process improvements (quantified)
+  • API and database integration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit platform engineering or system design roles
+  • No demonstrated LLM/advanced retrieval system implementation
+  • Lacking production-grade scalable systems examples
+  • Little evidence of governance or discoverable data products
+  • Limited years in senior engineering titles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

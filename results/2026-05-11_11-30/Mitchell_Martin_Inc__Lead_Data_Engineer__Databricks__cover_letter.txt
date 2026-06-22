@@ -1,0 +1,20 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Mitchell Martin Inc.
+
+Dear Hiring Manager,
+
+I am excited to apply for the Lead Data Engineer (Databricks) position at Mitchell Martin Inc. With my background in building robust data platforms, scaling cloud-based solutions, and driving operational efficiency through data, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to Mitchell Martin Inc.'s commitment to innovation in data solutions and believe my experience in modernizing data platforms aligns perfectly with the high-visibility nature of this role.
+
+In my previous roles, I have built and managed data infrastructure that directly supported business objectives, such as creating a business intelligence reporting system that drove a 40% improvement in operational efficiency. Additionally, I have extensive experience in developing production-grade ELT pipelines, most notably with Python, Airflow, and dbt, which directly aligns with your need for scaling data solutions using cloud-based technologies.
+
+I have a proven track record in defining data modeling architecture and standards, including dimensional modeling with star schemas and fact/dimension tables, and I am adept at establishing governance for data flow standards through comprehensive data quality validation using tools like Great Expectations. My experience extends to cloud ecosystems like Google Cloud Platform (BigQuery, GCS) and AWS, and I have successfully implemented CI/CD pipelines using GitHub Actions, demonstrating my ability to build comprehensive data solutions.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals and how I can contribute to your data platform architecture initiatives. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

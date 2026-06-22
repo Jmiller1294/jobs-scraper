@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Forward Deployed Engineer
+Company:  Diligent
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4386795911
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 73/100
+[██████████████░░░░░░] 73%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • APIs
+  • SQL
+  • ETL
+  • Cloud
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Full‑Stack
+  • Data pipelines
+  • Power BI
+  • Tableau
+  • Customer‑facing
+  • Automation
+  • Git
+  • PostgreSQL
+  • MySQL
+  • AI/LLM
+  • Zapier
+  • JIRA
+  • Confluence
+  • Data modeling
+  • Power BI dashboards
+  • ETL pipelines
+  • Data storytelling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Prototyping
+  • Executive presence
+  • Discovery
+  • Pre‑sales
+  • Forward‑deployed
+  • C++
+  • TypeScript
+  • Java
+  • Front‑end frameworks
+  • Integrations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Built end‑to‑end ETL and analytics pipelines
+  • Delivered executive dashboards with measurable impact
+  • Cross‑functional collaboration experience
+  • Experience with AI tools (ChatGPT, Claude, Gemini)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit prototyping / demo product experience
+  • No stated pre‑sales or field engineering roles
+  • Few front‑end or TypeScript/JS examples
+  • No C++/Java or broader programming language breadth
+  • Executive‑level representation not strongly evidenced
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Logistics Associate
+Company:  ALC
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420270719
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 36/100
+[███████░░░░░░░░░░░░░] 36%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • inventory
+  • MS Excel
+  • MS Word
+  • MS Outlook
+  • documentation
+  • reporting
+  • communication
+  • warehouse
+  • packaging
+  • scanning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • shipping
+  • receiving
+  • ERP
+  • packing
+  • cycle counts
+  • FIFO
+  • shipping logs
+  • UPS
+  • FedEx
+  • DHL
+  • lifting 50lbs
+  • kitting
+  • inventory replenishment
+  • continuous improvement
+  • Lean
+  • safety procedures
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Excel and Office literacy
+  • Experience with documentation and reporting
+  • Operational process improvement experience
+  • Data-driven automation and efficiency gains
+  • Cross-functional communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit shipping/receiving experience
+  • No ERP/MRP system usage listed
+  • No carrier (UPS/FedEx/DHL) integrations
+  • No physical warehouse lifting/sto reeroom duties mentioned
+  • No FIFO/cycle count or inventory replenishment details
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

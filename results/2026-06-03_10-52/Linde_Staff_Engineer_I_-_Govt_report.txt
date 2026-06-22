@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Engineer I - Govt
+Company:  Linde
+Location: New Providence, NJ
+URL:      https://www.linkedin.com/jobs/view/4404323464
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • Windows
+  • Linux
+  • Relational databases
+  • Data pipelines
+  • Documentation
+  • Troubleshooting
+  • ETL
+  • Version control (Git)
+  • Automation
+  • Sensors
+  • Real-time monitoring
+  • Testing and validation
+  • Data acquisition
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • C/C++
+  • Assembly
+  • PLC programming
+  • Embedded systems
+  • Instrumentation
+  • Signal processing
+  • Hardware integration
+  • Communication protocols
+  • Radiation detection
+  • Vacuum systems
+  • Safety standards
+  • Visual Basic 6.0
+  • Delphi/Pascal
+  • FORTRAN
+  • Modbus
+  • Scintillation counters
+  • Geiger-Müller
+  • Spectroscopy
+  • DOD clearance
+  • Gas flow systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and data pipelines
+  • Solid documentation and version control practices
+  • Proven troubleshooting and automation outcomes
+  • Dashboarding and reporting expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C/C++ or low-level programming evidence
+  • No embedded systems or PLC experience
+  • No explicit instrumentation or signal processing work
+  • No radiation detection or gas/vacuum systems experience
+  • No mention of DOD clearance or US government interface
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

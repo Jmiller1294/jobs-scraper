@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Governance Analyst
+Company:  Bessemer Trust
+Location: Woodbridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4401980317
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data governance
+  • data quality
+  • metadata
+  • SQL
+  • data integration
+  • data profiling
+  • BI dashboards
+  • Power BI
+  • Excel
+  • Snowflake
+  • BigQuery
+  • Python
+  • Git
+  • data validation
+  • data stewardship
+  • data rules
+  • data catalog
+  • data lineage
+  • data management
+  • data analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Informatica IDMC
+  • Oracle
+  • Qlik Sense
+  • Jira
+  • AI governance
+  • GPT
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on ELT/warehouse work (Snowflake/BigQuery)
+  • Proven data quality automation (Great Expectations)
+  • Dashboarding and reporting (Power BI, Tableau)
+  • Quantified impact and process improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Informatica IDMC experience
+  • No Oracle database mention
+  • Qlik Sense not listed
+  • Limited explicit enterprise data catalog administration
+  • No Jira or formal governance tooling noted
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Partnered with Operations, Technology, and business stakeholders to implement and enforce data governance policies, standards, and procedures, ensuring enterprise data is well-defined and trusted for regulatory, operational, and analytical use.
+  Acted as a Data Governance Steward, capturing, establishing, and maintaining enterprise metadata and cataloged data assets, including ongoing updates to business, technical, and governance details using SQL for analysis and validation.
+  Supported the end-to-end data quality rule lifecycle, including defining business rule intent, analyzing and designing rule logic in SQL, and partnering with Rule Owners to communicate rule logic and results through dashboards.
+  Explored, profiled, and analyzed new and existing data across multiple systems, leveraging strong SQL skills and familiarization with tools like Jira for tracking data issues and governance work.
+  Familiarity with AI and comfort using GPT-based tools responsibly to support analysis, documentation, and data governance work, aligning with emerging AI governance considerations.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+hiring manager Bessemer Trust company address dear hiring manager i am excited to submit my application for the Senior Data Governance Analyst opportunity with Bessemer Trust. i am interested in this opportunity because my experience in establishing data quality, managing metadata, and operationalizing governance frameworks directly aligns with the core responsibilities outlined for this role. what interests me about working for Bessemer Trust is its long-standing commitment to client interests and its fiduciary mindset, which I find deeply inspiring because it suggests a culture that values data integrity and trustworthy information as foundational to client success. i believe my SQL expertise and my experience with data cataloging would make me a strong candidate for this role. during my professional career i have approached problems with a focus on establishing clear data definitions and robust governance. in fact, at Shine Masters Cleaning Services, I standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment, resulting in a consistent "single source of truth" for all business stakeholders and a reduction in report discrepancies. [share r of star story to showcase the impact result that can be connected to this role.] this initiative directly contributed to improved decision-making and operational efficiency. ultimately i know that the Senior Data Governance Analyst role at Bessemer Trust would allow me to bring my proficiency in SQL to enforcing defined data governance policies and standards. additionally my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data quality and metadata management skills. through building Python automation for reports, I eliminated repetitive data entry and ensured reporting accuracy, saving 8 hours per week. i’m excited by the opportunity to use my experience in data profiling and analysis in working on enterprise data cataloging and data quality rule lifecycles at Bessemer Trust. i know that my strong SQL skills and my proactive approach to data stewardship align with what it takes to succeed at the Senior Data Governance Analyst role. i would love the opportunity to discuss the role in more detail. thank you for your time and consideration. i look forward to hearing from you soon. warm regards Justin Miller

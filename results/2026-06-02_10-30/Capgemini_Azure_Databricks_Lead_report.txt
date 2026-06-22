@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Azure Databricks Lead
+Company:  Capgemini
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4423925269
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • SQL
+  • Python
+  • Git
+  • ETL
+  • Data Pipelines
+  • Data Ingestion
+  • Data Cleansing
+  • Documentation
+  • Jobs/Orchestration
+  • Notebooks
+  • Data Modeling
+  • APIs
+  • Power BI
+  • Version Control
+  • Snowflake
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • PySpark
+  • Delta Lake
+  • Azure Data Factory
+  • Azure Databricks
+  • Azure
+  • ADLS
+  • CI/CD
+  • Performance Optimization
+  • Data Governance
+  • DevOps
+  • Synapse
+  • Event Hub
+  • Key Vault
+  • Clusters
+  • Autoscaling
+  • Medallion Architecture
+  • Azure SQL
+  • Delta
+  • Databricks notebooks
+  • Orchestration
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL skills
+  • Python ETL experience
+  • Dashboarding and reporting
+  • ETL pipeline development
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Azure/Databricks experience
+  • No PySpark or Delta Lake evidence
+  • Limited cloud (Azure) integrations
+  • No CI/CD or Azure DevOps experience
+  • No explicit production Databricks jobs
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

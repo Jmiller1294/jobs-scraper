@@ -1,0 +1,86 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Dashboard Testing Specialist
+Company:  Net2Source (N2S)
+Location: Basking Ridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4413435620
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Tableau
+  • SQL
+  • data validation
+  • Excel
+  • dashboard testing
+  • performance validation
+  • data quality
+  • Python
+  • Snowflake
+  • BigQuery
+  • Git
+  • joins
+  • aggregations
+  • data governance
+  • manual testing
+  • KPI calculations
+  • reporting
+  • pivot tables
+  • ETL
+  • data pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • test automation
+  • JIRA
+  • Confluence
+  • automation frameworks
+  • Wiisdom
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Tableau and dashboard development experience
+  • Solid SQL skills including joins and aggregations
+  • Proven data quality and validation work
+  • Automation experience with Python and ELT pipelines
+  • Quantified impact in prior roles (efficiency and revenue gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit experience with Tableau-specific automation tools (Wiisdom)
+  • No mention of JIRA/Confluence for test management
+  • Limited explicit QA/test case development experience
+  • Under 5 years of BI/dashboard testing experience
+  • No explicit Redshift/Oracle experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed Power BI and Looker workflows to replace manual written reporting, reducing data mismatches and improving work efficiency by 40%. (Incorporates 'reporting' and implies data quality/validation)
+  Built Python automation for weekly sales and operations reports (ingesting POS and CRM data), saving 8 hours per week and improving reporting accuracy for faster strategic decisions. (Highlights automation and data quality)
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing statistical evidence for optimizing marketing spend. (Demonstrates analytical approach similar to test case development)
+  Collaborated with product managers on a 14-person team to align features with business objectives, streamlining the software development workflow and reducing delivery delays by 25%. (Highlights collaboration and process improvement, aligning with team collaboration in the JD)
+  Modeled raw API data into a dbt star schema to optimize query performance, greatly lowering load times through BigQuery partitioning and clustering. (Demonstrates understanding of data structures relevant to BI and performance, which is a key aspect of dashboard testing)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Dashboard Testing Specialist opportunity with Net2Source (N2S). I am interested in this opportunity because the role's focus on ensuring the quality, accuracy, and reliability of Tableau dashboards through a combination of manual testing, SQL-based data validation, and test automation directly aligns with my core strengths and career aspirations.
+
+What interests me about working with Net2Source is your company's recognition by Staffing Industry Analysts for accelerated growth and commitment to providing the 'Right Talent – Right Time – Right Place – Right Price,' which speaks to a dedication to excellence and impactful solutions. This approach excites me because it mirrors my own commitment to delivering high-quality, data-driven results.
+
+I believe my strong analytical thinking and hands-on experience in data validation would make me a strong candidate for this role. During my professional career, I have approached problems with a meticulous attention to detail and a drive for efficiency. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows that replaced manual reporting, reducing data mismatches and improving work efficiency by 40%. This resulted in a more accurate and reliable single source of truth for all business stakeholders.
+
+Ultimately, I know that the Dashboard Testing Specialist role at Net2Source would allow me to bring my strong data validation skills to ensuring the accuracy and reliability of Tableau dashboards. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my test case conceptualization and execution skills. For example, I designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend. This experience, along with building Python automation for reports, highlights my ability to think critically about testing methodologies and process improvement.
+
+I’m excited by the opportunity to use my intermediate SQL skills and experience with data quality in working on the crucial aspects of dashboard functionality, performance, and underlying data integrity at Net2Source. I know that my analytical thinking and proven experience in data validation align with what it takes to succeed at the Dashboard Testing Specialist role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

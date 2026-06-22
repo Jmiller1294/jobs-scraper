@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Development Engineer, Amazon Ads Nova
+Company:  Amazon
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413415954
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • Git
+  • AWS S3
+  • Snowflake
+  • BigQuery
+  • ETL
+  • CI/CD
+  • dbt
+  • Data pipelines
+  • Automation
+  • Testing
+  • PostgreSQL
+  • Power BI
+  • A/B testing
+  • Source control
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • R
+  • C#
+  • Java
+  • C++
+  • Object Oriented Design
+  • Distributed systems
+  • Design patterns
+  • Scalability
+  • Code reviews
+  • Build processes
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL data pipeline experience
+  • Cloud data stack: Snowflake and BigQuery
+  • CI/CD and automation implementation
+  • Quantified impact on revenue and efficiency
+  • Experience with analytics visualization (Power BI)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit software engineering (C#/Java/C++)
+  • No clearly stated distributed systems experience
+  • Object oriented design and architecture not emphasized
+  • Limited years of professional SDE experience for role
+  • Few mentions of code review/design pattern processes
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

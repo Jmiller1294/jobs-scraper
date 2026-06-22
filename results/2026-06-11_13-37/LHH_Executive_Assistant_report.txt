@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Executive Assistant
+Company:  LHH
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4426620476
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Microsoft Office
+  • PowerPoint
+  • Excel
+  • communication
+  • presentations
+  • reports
+  • cross-functional coordination
+  • stakeholder liaison
+  • documentation
+  • process improvement
+  • SOPs
+  • team collaboration
+  • organization
+  • deadline management
+  • automation
+  • JIRA
+  • Confluence
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Outlook
+  • calendar management
+  • travel arrangements
+  • confidentiality
+  • scheduling
+  • time management
+  • project support
+  • prioritization
+  • stakeholder liaison
+  • deadline management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Advanced Excel and Power BI reporting
+  • Process documentation and SOP creation
+  • Cross-functional collaboration experience
+  • Automation implementation (Zapier, ETL)
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct executive assistant title/experience
+  • No explicit calendar or travel management examples
+  • Confidential information handling not demonstrated
+  • Onsite New York EA-specific experience unclear
+  • Only 2+ years in relevant admin-facing roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

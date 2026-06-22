@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Lead Securities Quantitative Analytics Specialist - C++ Engineer
+Company:  Wells Fargo
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4403418556
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • Python 3
+  • C++17
+  • Git
+  • CI/CD
+  • SQL
+  • BigQuery
+  • Snowflake
+  • ETL
+  • Testing
+  • API design
+  • Agile
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • C API
+  • Quantitative analytics
+  • Mortgage modeling
+  • Derivative valuation
+  • Hedging
+  • Interest rate modeling
+  • Prepayment analysis
+  • High-performance APIs
+  • ABIs
+  • Calling conventions
+  • Compiler behavior
+  • Dynamic linking
+  • C++2x
+  • Horizon forecasting
+  • Model validation
+  • Model development
+  • CMake
+  • JNI
+  • SWIG
+  • Platform-specific ABIs
+  • Object file formats
+  • Portable C interfaces
+  • Buy-side experience
+  • Confluence
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • CI/CD and testing pipeline familiarity
+  • Cloud data platform experience (BigQuery, Snowflake)
+  • Proven automation and ETL skills
+  • Version control and collaborative development (Git)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated C/C++ production experience
+  • Lacks C API (JNI/SWIG) skills
+  • No quantitative finance or mortgage modeling background
+  • Missing ABI/calling-convention and low-level systems knowledge
+  • Limited buy-side/sell-side quant library experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

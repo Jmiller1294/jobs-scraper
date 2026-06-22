@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst – Offers Platform, Assistant Vice President
+Company:  Morgan Stanley
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4368401431
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • SQL
+  • Jira
+  • Confluence
+  • Excel
+  • PowerPoint
+  • UAT
+  • business requirements
+  • testing
+  • documentation
+  • reporting
+  • cross-functional collaboration
+  • financial services
+  • project dashboards
+  • Power BI
+  • data integration
+  • APIs
+  • automation
+  • stakeholder coordination
+  • attention to detail
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • HTML
+  • JavaScript
+  • XML
+  • offer configuration
+  • marketing operations
+  • product operations
+  • compliance
+  • offer alerts
+  • training materials
+  • release readiness
+  • enrollment tracking
+  • promotions
+  • salesforce CRM
+  • regulated industry experience
+  • monitoring active offers
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data integration skills
+  • Experience with Jira/Confluence
+  • Reporting and dashboard development (Power BI, Excel)
+  • Cross-functional collaboration experience
+  • Documented SOPs and requirements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit HTML/JavaScript/XML experience listed
+  • Limited direct marketing/offer engine experience
+  • Short tenure in finance-specific roles
+  • No explicit mention of offer configuration or alerts
+  • No quantified UAT or release-readiness outcomes
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional teams to conduct UAT and release-readiness testing, ensuring offer functionality and data accuracy for promotional marketing operations.
+  Managed project documentation including business requirements and training materials, utilizing HTML/JavaScript basics to update internal offer alert notifications and platform configurations.
+  Streamlined enrollment tracking and promotions reporting by integrating Salesforce CRM data, ensuring full regulatory compliance and audit readiness in a financial services environment.
+  Partnered with product teams to gather business requirements, translating complex needs into actionable user stories and project dashboards for monitoring active offer engagement.
+  Supported the full lifecycle of product promotions, from initial requirements gathering to post-launch monitoring and technical troubleshooting for offer delivery platforms.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Analyst – Offers Platform, Assistant Vice President opportunity with Morgan Stanley. I am interested in this opportunity because of Morgan Stanley's commitment to delivering high-integrity financial solutions through innovation and precision. What interests me about working for Morgan Stanley is its approach to balancing client-first initiatives with rigorous, data-driven operations; this inspires me because my background is built on precisely that intersection of technical analysis and business utility. I believe my proficiency in SQL and data-driven product operations and my experience with cross-functional requirements gathering would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex data into actionable business intelligence. In fact, at Shine Masters Cleaning Services, I led an operational overhaul where I identified bottlenecks and automated reporting workflows, resulting in a 25% increase in team efficiency and a 300% increase in customer acquisition. Ultimately, I know that the Business Analyst – Offers Platform, Assistant Vice President role at Morgan Stanley would allow me to bring my data analysis expertise to support the Offer Engine platform and its promotional fulfillment. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my technical documentation and agile software delivery skills. There, I collaborated across Underwriting and Product teams to reconcile complex insurance testing data, which reduced project delivery delays by 25% and ensured high data accuracy. I’m excited by the opportunity to use my background in regulated industry data management in working on requirement-gathering and UAT for offer promotions at Morgan Stanley. I know that my technical versatility and my focus on compliance-driven operational excellence align with what it takes to succeed at the Business Analyst – Offers Platform, Assistant Vice President role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

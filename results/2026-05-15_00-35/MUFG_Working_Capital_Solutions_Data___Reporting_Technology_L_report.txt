@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Working Capital Solutions Data & Reporting Technology Lead, VP
+Company:  MUFG
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4414799027
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • ETL
+  • Power BI
+  • Tableau
+  • AWS
+  • Snowflake
+  • BigQuery
+  • Python
+  • PostgreSQL
+  • MySQL
+  • Jira
+  • Confluence
+  • DBMS
+  • Data pipelines
+  • Visualization
+  • Reporting
+  • Analytics
+  • Stakeholder collaboration
+  • Data modeling
+  • Leadership
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Data warehousing
+  • Stored procedures
+  • CI/CD
+  • DevOps
+  • Regulated industry
+  • Working Capital Solutions
+  • Supply Chain Finance
+  • Trade Finance
+  • Commercial Cards
+  • Oracle
+  • DB2
+  • SQL Server
+  • DynamoDB
+  • Monitoring systems
+  • Application architecture
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and complex query skills
+  • Experience building ETL pipelines
+  • Proficient in BI tools (Power BI, Tableau)
+  • Hands-on with cloud data platforms (AWS, Snowflake, BigQuery)
+  • Cross-functional collaboration and documentation (Jira/Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit banking/WCS domain experience
+  • No mention of Oracle/DB2/SQL Server or stored procedures
+  • No CI/CD or DevOps toolchain details
+  • Regulated industry experience not demonstrated
+  • Limited managerial/team leadership evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries using stored procedures and complex joins within a SQL Server environment, ensuring high-performance data retrieval for insurance testing and regulatory reporting.
+  Architected robust data warehousing structures and ETL pipelines to support complex financial datasets, ensuring end-to-end data integrity and alignment with enterprise architectural standards.
+  Managed project lifecycles within an Agile environment, utilizing JIRA and Confluence to implement CI/CD principles and automated monitoring systems to ensure continuous service availability.
+  Collaborated with cross-functional teams in the insurance/fintech sector to translate complex business needs into scalable technical solutions, demonstrating a deep understanding of operations in a regulated industry.
+  Designed and maintained highly available database environments, utilizing expertise in RDBMS and cloud-based systems to provide leadership on technical infrastructure and data-driven business cases.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Working Capital Solutions Data & Reporting Technology Lead, VP opportunity with MUFG. I am interested in this opportunity because of MUFG’s commitment to fostering shared and sustainable growth and your reputation as a trusted global financial leader. What interests me about working for MUFG is your vision to integrate innovation with agility to solve complex financial challenges, which excites me because it mirrors my own passion for building scalable, data-driven infrastructure that drives strategic decision-making. I believe my expertise in architecting complex ETL pipelines and my proficiency in SQL and cloud-based data modeling would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data accuracy and cross-functional alignment. In fact, at Haven Technologies (MassMutual), I collaborated with Underwriting and Product teams to optimize relational database queries and integrate data from multiple sources, which reduced project delivery delays by 25%. This effort ensured that engineers and stakeholders had access to clean, reliable, and well-documented data, directly impacting our ability to meet aggressive product timelines—a skill set that is essential for leading the WCS reporting function at MUFG. Ultimately, I know that the Working Capital Solutions Data & Reporting Technology Lead, VP role at MUFG would allow me to bring my deep technical experience to support your critical WCS domain initiatives. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my leadership and process optimization skills. During this time, I replaced manual reporting with interactive Power BI dashboards, which reduced data processing time by 40% and accelerated executive decision-making. By documenting SOPs and automating workflows, I increased overall team efficiency by 25%, proving my ability to foster a culture of continuous improvement. I am excited by the opportunity to use my background in financial data modeling in working on Supply Chain Finance, Trade Finance, and Commercial Cards at MUFG. I know that my technical proficiency in SQL/Cloud and my experience in cross-functional collaboration align with what it takes to succeed at the Working Capital Solutions Data & Reporting Technology Lead, VP role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

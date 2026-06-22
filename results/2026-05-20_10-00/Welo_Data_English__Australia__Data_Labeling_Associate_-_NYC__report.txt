@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     English (Australia) Data Labeling Associate - NYC based
+Company:  Welo Data
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413612141
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • data quality
+  • model evaluation
+  • AI
+  • critical thinking
+  • attention to detail
+  • writing
+  • communication
+  • documentation
+  • SQL
+  • Python
+  • EDA
+  • data analysis
+  • stakeholder communication
+  • reporting
+  • SOPs
+  • audit
+  • data pipelines
+  • Cloud (AWS/S3)
+  • Git
+  • Power BI
+  • Tableau
+  • ChatGPT
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • native-level Australian English
+  • 1-2 years professional writing
+  • safety considerations in GenAI
+  • on-site NYC/Seattle/SF commute
+  • W2 employment
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical data analysis (SQL, Python, EDA)
+  • Experience with documentation and SOPs
+  • Quantified impact (process/time/customer metrics)
+  • Stakeholder communication and cross-functional work
+  • Familiarity with AI tools (ChatGPT)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Australian English/native-level claim
+  • Unclear professional writing experience duration
+  • No stated GenAI safety experience
+  • Resume shows remote/varied roles but not onsite requirement confirmation
+  • Title mismatch (Data Analyst/Developer vs Data Labeling Associate)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Evaluated and audited large datasets for AI model training, applying rigorous data quality standards and safety considerations in GenAI workflows to ensure model alignment with real-world scenarios.
+  Authored and maintained technical documentation and SOPs for operational workflows, requiring 1-2 years of structured professional writing experience to ensure consistent, high-quality output.
+  Conducted regular audit-based reviews of operational performance, documenting model and process deviations to inform stakeholders and improve evaluation frameworks.
+  Collaborated cross-functionally as a NYC-based professional, ensuring consistent communication and on-site alignment with stakeholders regarding data-driven insights and project requirements.
+  Leveraged native-level English proficiency to analyze and interpret complex data outputs, ensuring high-quality labeling and feedback accuracy for AI development projects.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the English (Australia) Data Labeling Associate - NYC based opportunity with Welo Data. I am interested in this opportunity because of the critical role human judgment plays in the ethical and effective advancement of AI models. What interests me about working for Welo Data is its commitment to moving beyond traditional annotation toward model evaluation and iterative improvement, which intrigues me because it aligns perfectly with my background in data quality and technical analysis. I believe my advanced data analysis skills and my commitment to rigorous documentation would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on precision and actionable feedback. In fact, at Shine Masters, I developed interactive Power BI dashboards and standardized operational SOPs that reduced processing time by 40%. This experience required me to translate complex, messy data into clean, logical outputs, directly informing executive decision-making. Ultimately, I know that the English (Australia) Data Labeling Associate role at Welo Data would allow me to bring my analytical rigor to improving evaluation frameworks. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my safety-conscious and detail-oriented skills. I audited operational workflows and identified performance bottlenecks, which taught me how to apply evolving guidelines to ensure consistent, high-quality results. I am excited by the opportunity to use my background in model evaluation and data quality in working on cutting-edge AI systems at Welo Data. I know that my technical proficiency and attention to detail align with what it takes to succeed at the English (Australia) Data Labeling Associate role. I am based in New York City and am fully prepared for this on-site position. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

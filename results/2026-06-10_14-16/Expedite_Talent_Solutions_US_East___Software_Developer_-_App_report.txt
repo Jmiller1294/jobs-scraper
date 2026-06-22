@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     US_East | Software Developer - Application Server Technologies_L4
+Company:  Expedite Talent Solutions
+Location: Bloomfield, NJ
+URL:      https://www.linkedin.com/jobs/view/4427054684
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • ETL
+  • data modeling
+  • data pipelines
+  • PostgreSQL
+  • Git
+  • AWS
+  • Snowflake
+  • BigQuery
+  • data integration
+  • validation
+  • QA
+  • stakeholder engagement
+  • data visualization
+  • LLM evaluation
+  • agents
+  • GenAI
+  • gold-standard datasets
+  • test strategies
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • ontology
+  • knowledge graphs
+  • RAG
+  • scientific domain
+  • biochemistry
+  • LLM evaluation
+  • Reactome
+  • PubMed
+  • agent tuning
+  • semantic layers
+  • food science
+  • R&D environments
+  • scientific stakeholder communication
+  • agentic AI
+  • golden dataset creation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and data pipelines
+  • Cloud and data warehouse exposure (AWS, Snowflake, BigQuery)
+  • Demonstrated validation and QA mindset
+  • Proven stakeholder engagement and reporting abilities
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit ontology or knowledge-graph experience
+  • Limited domain experience in biochemistry/food science
+  • Few explicit GenAI/agent framework project details
+  • No citations of PubMed/Reactome or external scientific datasets
+  • Short R&D/scientific environment tenure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

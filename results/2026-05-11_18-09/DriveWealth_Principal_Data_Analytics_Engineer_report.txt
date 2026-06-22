@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal Data Analytics Engineer
+Company:  DriveWealth
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4400955075
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • SQL
+  • Python
+  • Snowflake
+  • BigQuery
+  • CI/CD
+  • ETL/ELT
+  • data modeling
+  • data quality
+  • Git
+  • automation
+  • Pandas
+  • data governance
+  • performance optimization
+  • APIs
+  • metrics/KPIs
+  • data pipelines
+  • reporting
+  • data transformation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • dbt
+  • Databricks
+  • unit testing
+  • Spark
+  • financial data
+  • orchestration
+  • DevOps
+  • dbt materializations
+  • AI-assisted engineering
+  • Sigma Computing
+  • Data Apps
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Production ELT pipeline delivery
+  • Data quality and governance initiatives
+  • Quantified business impact (revenue, efficiency gains)
+  • CI/CD and Git-based deployments
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/No dbt production experience listed
+  • No Databricks/Spark demonstrated
+  • Under 8 years of relevant experience
+  • Limited fintech/capital markets domain evidence
+  • Few mentions of unit testing or SLA monitoring
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

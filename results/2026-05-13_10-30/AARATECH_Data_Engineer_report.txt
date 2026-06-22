@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  AARATECH
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4414120521
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • BigQuery
+  • Airflow
+  • dbt
+  • ETL/ELT pipelines
+  • data modeling
+  • data quality
+  • Great Expectations
+  • GCS
+  • Snowflake
+  • AWS
+  • Postgres
+  • Docker
+  • data warehousing
+  • reporting
+  • Power BI
+  • Tableau
+  • analytics
+  • CI/CD
+  • dimensional modeling
+  • data pipelines
+  • GCP
+  • ETL
+  • data transformation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • AML
+  • KYC
+  • fraud detection
+  • regulatory reporting
+  • Hadoop
+  • Spark
+  • financial data systems
+  • transaction platforms
+  • risk reporting
+  • banking domain experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Proven ELT pipeline development (BigQuery, Airflow, dbt)
+  • Data quality and CI/CD experience
+  • Experience with cloud data infra (GCP, Snowflake, AWS)
+  • Quantified impact in past roles/projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit banking/financial employer experience
+  • No direct AML/KYC or regulatory reporting work noted
+  • No explicit Spark/Hadoop big data tooling experience
+  • Under 2 years labeled Data Engineering title experience
+  • Fraud detection and transaction platform integration not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Integrated data from various sources, including REST APIs and relational databases, to build clean, structured datasets that directly supported front-end feature development and reduced UI bugs, demonstrating early experience with data integration relevant to banking systems and transaction platforms.
+  Monitored marketing campaign metrics and identified performance patterns to guide strategic decisions, increasing leads by 40%, and supported reporting for risk, compliance, and fraud detection by analyzing trends and performance indicators.
+  Built a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery using Python, Airflow, dbt, and GCS, modeling raw API data into a dbt star schema and performing data quality validation with Great Expectations, aligning with requirements for supporting ETL and data warehousing solutions for financial data.
+  Cleaned and analyzed 100,000+ NYC arrest records using Python (Pandas, NumPy), identifying patterns across boroughs, demographics, and offense categories to produce actionable insights for crime prevention strategy, showcasing foundational skills in handling large-scale datasets and informing strategic decisions.
+  Automated recurring business operations and reporting workflows using workflow automation tools, reducing manual tasks by 30% and freeing team capacity for higher-value work, which can be applied to developing and maintaining data pipelines for financial data processing and ensuring data accuracy and regulatory compliance.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Engineer opportunity with AARATECH. I am interested in this opportunity because of Aaratech's focus on delivering innovative solutions through data-driven insights and collaborative partnerships, particularly within the banking and financial services domain. What interests me about working for AARATECH is its commitment to improving operational efficiency and enabling better outcomes through data-driven insights and collaborative partnerships, which aligns with my passion for leveraging data engineering to solve complex business problems. I believe my advanced SQL and Python skills, coupled with my proven ELT pipeline development experience, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on building robust, efficient, and accurate data solutions. In fact, in my role at Haven Technologies, I extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs by building structured, clean datasets that directly supported front-end feature development and reduced UI bugs. This resulted in a 15% increase in feature adoption and improved data accuracy by 60% through SQL query validation. Ultimately, I know that the Data Engineer role at AARATECH would allow me to bring my expertise in developing and maintaining data pipelines for financial data processing to support reporting for risk, compliance, and fraud detection. Additionally, my project experience as a Data Analytics Fellow enabled me to develop my data modeling and data quality skills. In my FRED Economic Batch Pipeline project, I built a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery using Python, Airflow, dbt, and GCS, modeling raw API data into a dbt star schema and automating data quality validation with Great Expectations. This project resulted in reduced analyst query time and deployed a CI/CD pipeline via GitHub Actions. I’m excited by the opportunity to use my proficiency in cloud platforms like GCP and Snowflake, along with my experience with dbt and Airflow, in working on large-scale financial datasets at AARATECH. I know that my strong SQL and Python skills, and my experience in building robust data pipelines, align with what it takes to succeed at the Data Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Research Engineer, Pretraining, DeepMind
+Company:  Google DeepMind
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4409936984
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • AWS S3
+  • Git
+  • ETL
+  • data pipelines
+  • time series models
+  • serving
+  • pretraining
+  • collaboration with product teams
+  • GitHub
+  • Tableau
+  • Power BI
+  • machine learning
+  • model evaluation
+  • research
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • JAX
+  • TPU
+  • XLA
+  • inference-optimized model design
+  • large transformer-based models
+  • fine-tuning
+  • RLHF
+  • model serving (production LLM)
+  • Gemini pretraining
+  • accelerated linear algebra
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data pipeline experience
+  • Quantified impact (e.g., 40% time reduction, 300% acquisition)
+  • Full-stack collaboration with product and UX teams
+  • Experience with cloud data tools (BigQuery, AWS S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated JAX/TPU/XLA experience
+  • No explicit transformer or large-model fine-tuning experience
+  • Only ~2+ years relevant ML/data experience vs 5-year requirement for inference design
+  • Limited research/applied research publications or contributions
+  • No explicit experience with RLHF or Gemini pretraining
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

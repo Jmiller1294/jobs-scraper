@@ -1,0 +1,88 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr. Tax Analyst, State and Local Tax Audit
+Company:  Amazon.com
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=5055e78d850fc3c7
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • Advanced Excel
+  • Power BI
+  • ETL
+  • Data visualization
+  • Data quality
+  • AWS
+  • Snowflake
+  • BigQuery
+  • Process improvement
+  • Data governance
+  • Reporting
+  • Git
+  • Stakeholder communication
+  • Pandas
+  • CI/CD
+  • Data modeling
+  • Analytical experience
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Tax research
+  • SALT
+  • Audit response
+  • Information Document Requests
+  • CPA
+  • Master's degree
+  • Alteryx
+  • Amazon QuickSight
+  • Accounting principles
+  • State and local tax
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python (Pandas) skills
+  • Experience with BigQuery and Snowflake
+  • Proven process automation and ETL delivery
+  • Advanced Excel and Power BI reporting
+  • Track record of quantified impact (efficiency and revenue)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit tax or SALT experience
+  • No CPA or accounting credential
+  • No documented audit or IDR handling
+  • Limited domain knowledge of state/local tax law
+  • Master's degree not present
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment, resulting in a consistent "single source of truth" for all business stakeholders and a reduction in report discrepancies, which can be applied to managing tax data and ensuring accuracy for audit responses.
+  Developed Power BI and Looker workflows to replace manual written reporting, reducing data mismatches and improving work efficiency by 40%, demonstrating a capability to drive process improvement and automation initiatives for tax reporting.
+  Built Python automation for weekly sales and operations reports (ingesting POS and CRM data), eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions, showcasing skills relevant to responding to Information Document Requests.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend. This analytical rigor can be applied to researching and documenting state and local tax issues and positions.
+  Integrated multiple datasets from APIs and PostgreSQL warehouses to build structured data, supporting more robust downstream analytics and reporting. This experience can be leveraged to prepare and analyze data in response to Information Document Requests for tax audits.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Sr. Tax Analyst, State and Local Tax Audit opportunity with Amazon.com. I am interested in this opportunity because of Amazon's commitment to innovation and its critical role in navigating complex regulatory environments, which aligns with my passion for data-driven problem-solving in analytical roles.
+
+What interests me about working for Amazon.com is its approach to leveraging technology to drive efficiency and accuracy. This excites, inspires, and intrigues me because it directly mirrors my professional experience in building automated data solutions and deriving actionable insights from complex datasets.
+
+I believe my proficiency in SQL and Python, coupled with my experience in data automation and process improvement, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data integrity and operational efficiency. In fact, at Shine Masters Cleaning Services, I built Python automation for weekly sales and operations reports, ingesting POS and CRM data. This eliminated repetitive data entry, saving 8 hours per week, and significantly improved reporting accuracy, leading to faster strategic decisions. This resulted in a 40% improvement in work efficiency and a reduction in data mismatches, showcasing my ability to enhance reporting accuracy and streamline processes.
+
+Ultimately, I know that the Sr. Tax Analyst, State and Local Tax Audit role at Amazon.com would allow me to bring my analytical rigor and process improvement skills to preparing and analyzing data in response to Information Document Requests. Additionally, my experience as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data governance skills. I standardized organizational KPIs and data governance frameworks, ensuring cross-functional alignment and a consistent "single source of truth" for all business stakeholders, which reduced report discrepancies. I’m excited by the opportunity to use my data analysis and automation skills in working on tax audit matters with government agencies at Amazon.com.
+
+I know that my strong analytical experience and proven ability to drive process improvement align with what it takes to succeed at the Sr. Tax Analyst, State and Local Tax Audit role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

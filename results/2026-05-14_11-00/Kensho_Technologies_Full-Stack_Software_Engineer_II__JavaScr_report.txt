@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Full-Stack Software Engineer II (JavaScript)
+Company:  Kensho Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4366929870
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • JavaScript
+  • Git
+  • CI/CD
+  • SQL
+  • Python
+  • Docker
+  • AWS
+  • BigQuery
+  • dbt
+  • Airflow
+  • Data modeling
+  • ETL/ELT
+  • Data quality
+  • Product collaboration
+  • Mentorship
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • TypeScript
+  • React
+  • Next.js
+  • SPA
+  • Web UI
+  • CI/CD
+  • Sentry
+  • Prometheus
+  • Tailwind
+  • Design systems
+  • LangGraph
+  • AI SDK
+  • Drizzle
+  • Amazon EKS
+  • Langfuse
+  • Web performance
+  • Framework knowledge
+  • Kind communication
+  • UX
+  • Project estimates
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data engineering
+  • Experience with ELT pipelines and dbt
+  • Python automation and testing
+  • CI/CD and GitHub Actions experience
+  • Quantified impact in roles (efficiency, leads, accuracy)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit TypeScript or React experience
+  • Limited direct web UI/framework work
+  • No Next.js, Tailwind, or frontend libs listed
+  • Little cloud ops (EKS, Prometheus, Sentry) experience
+  • Frontend product/UX expertise not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

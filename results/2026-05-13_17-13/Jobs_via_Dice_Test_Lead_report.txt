@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Test Lead
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414174162
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (6)
+  • Python
+  • Git
+  • CI/CD Integration
+  • API Testing
+  • Agile Methodologies
+  • Test Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Selenium WebDriver
+  • XPath
+  • CSS Selectors
+  • Java
+  • JavaScript
+  • TestNG
+  • JUnit
+  • Jenkins
+  • GitLab CI
+  • Azure DevOps
+  • JIRA
+  • TestRail
+  • Postman
+  • RestAssured
+  • BrowserStack
+  • Selenium Grid
+  • low-code automation
+  • POM
+  • AI-assisted testing
+  • cross-browser testing
+  • automation frameworks
+  • Selenium Grid
+  • BrowserStack
+  • TestNG
+  • TestRail
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python programming and automation
+  • CI/CD exposure (GitHub Actions referenced)
+  • Data automation and ETL pipelines
+  • Analytical and debugging skills
+  • Experience in Agile teams
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Selenium WebDriver experience listed
+  • No Java or JavaScript test coding evidence
+  • No TestNG/JUnit or POM framework experience
+  • No test management tools (JIRA/TestRail) listed
+  • No explicit cross-browser or cloud test platform experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

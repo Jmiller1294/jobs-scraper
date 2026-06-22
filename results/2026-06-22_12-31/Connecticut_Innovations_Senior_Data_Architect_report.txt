@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Architect
+Company:  Connecticut Innovations
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4427058024
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • data warehouse
+  • ETL/ELT
+  • dbt
+  • data modeling
+  • BigQuery
+  • Python
+  • SQL
+  • Airflow
+  • data quality
+  • CI/CD
+  • APIs
+  • Postgres
+  • Docker
+  • dimensional modeling
+  • batch processing
+  • pipelines
+  • monitoring
+  • production
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Snowflake
+  • Azure
+  • observability
+  • identity resolution
+  • streaming
+  • data lake
+  • mentoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python technical skills
+  • Hands-on ETL/ELT and pipeline experience
+  • Experience with dbt and dimensional modeling
+  • Implemented data quality automation
+  • Built production ELT on BigQuery with CI/CD
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no Azure platform experience
+  • No explicit Snowflake or Synapse experience
+  • Sparse leadership/architect title and 7+ yrs requirement
+  • No hospitality/PMS or multi-touch attribution experience
+  • Limited observability/streaming and identity-resolution evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

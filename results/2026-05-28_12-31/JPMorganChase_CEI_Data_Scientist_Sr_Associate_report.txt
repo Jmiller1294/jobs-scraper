@@ -1,0 +1,93 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     CEI Data Scientist Sr Associate
+Company:  JPMorganChase
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417657013
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • R
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • AWS (S3)
+  • ETL
+  • Data visualization
+  • Data modeling
+  • Data quality
+  • EDA
+  • Automation
+  • AI tools
+  • KPI reporting
+  • Communication
+  • Stakeholder presentations
+  • Time series
+  • Credit risk
+  • Data pipelines
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • SAS
+  • Alteryx
+  • Econometrics
+  • Mortgage Banking
+  • Financial Services
+  • Master's degree
+  • SQL procedure writing
+  • Critical thinking (explicit)
+  • Underwriting domain experience
+  • Salesforce CRM (as required)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proven visualization skills (Power BI, Tableau)
+  • Experience building ETL pipelines and data models
+  • Quantified impact in projects and operations
+  • Familiarity with AI tools and cloud platforms
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Less than preferred 4+ years in financial services analytics
+  • No explicit SAS or Alteryx experience
+  • No Master's degree
+  • Limited direct mortgage banking experience
+  • Resume lacks explicit econometric methods mention
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries using advanced SQL techniques (CTEs, window functions, joins) to clean and reconcile insurance testing data, improving data accuracy by 30%.
+  Developed and deployed time series models to identify high-value customer segments, informing targeted marketing initiatives that contributed to a 300% increase in new customer acquisition over 12 months.
+  Collaborated cross-functionally with Underwriting, Product, and UI/UX teams to align software features with business objectives, resulting in a 25% reduction in project delivery delays, demonstrating strong interpersonal and critical thinking skills in a fast-paced environment.
+  Designed an end-to-end ETL pipeline using Python and SQL to transform raw loan data into analytics-ready tables, including handling missing values, type casting, and validation checks, showcasing robust data wrangling capabilities.
+  Created interactive Power BI dashboards and Tableau visualizations to replace manual reporting, improving KPI visibility and accelerating executive decision-making, aligning with the need for clear communication of macroeconomic and financial data trends.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the CEI Data Scientist Sr Associate opportunity with JPMorganChase. I am interested in this opportunity because the Center for Economic Intelligence's mission to monitor and develop a holistic view of consumer and business financial well-being through data aligns perfectly with my passion for leveraging data to understand economic trends. What interests me about working for JPMorganChase is its unparalleled position as the nation's largest bank, providing a unique vantage point to inform public perspective on economic direction, which deeply excites and inspires me.
+
+I believe my strong analytical capabilities and experience in data wrangling and visualization would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on deriving actionable insights from complex datasets. In fact, at Shine Masters Cleaning Services, I developed time series models to identify high-value customer segments; targeted marketing initiatives informed by these models contributed to a 300% increase in new customer acquisition over 12 months. This demonstrated my ability to translate complex performance data into clear insights that drive significant business results.
+
+Ultimately, I know that the CEI Data Scientist Sr Associate role at JPMorganChase would allow me to bring my advanced SQL and Python skills to bear on the critical task of analyzing macroeconomic and financial data, including the integration of advanced AI tools. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my data integration and data quality assurance skills. I collaborated cross-functionally with several departments including Underwriting and Product teams to align software features with business objectives, reducing project delivery delays by 25%, and optimized relational database queries to clean and reconcile insurance testing data, improving data accuracy by 30%.
+
+I’m excited by the opportunity to use my data visualization and storytelling skills in working on the development of a holistic internal & external view of financial well-being at JPMorganChase. I know that my ability to clearly articulate discoveries with solid data support and my experience with cutting-edge approaches to data wrangling, analysis, and visualization align with what it takes to succeed in the CEI Data Scientist Sr Associate role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

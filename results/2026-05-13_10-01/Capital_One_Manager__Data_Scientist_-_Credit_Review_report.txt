@@ -1,0 +1,90 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Manager, Data Scientist - Credit Review
+Company:  Capital One
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4410584740
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • relational databases
+  • R
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+  • Power BI
+  • Tableau
+  • data pipelines
+  • ETL/ELT
+  • data quality
+  • A/B testing
+  • statistical models
+  • segmentation
+  • automation
+  • CI/CD
+  • data visualization
+  • data governance
+  • time series
+  • analytics
+  • predictive modeling
+  • machine learning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • H2O
+  • Spark
+  • Conda
+  • Scala
+  • deep learning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Applied statistical modeling and A/B testing
+  • Data pipeline and ETL/ELT implementation
+  • Experience with BigQuery and Snowflake
+  • Proven quantified impact (revenue and efficiency gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit machine learning project details
+  • No mention of H2O or Spark experience
+  • Less than preferred years in advanced ML/predictive modeling
+  • No PhD or advanced degree in quantitative field
+  • Scala and deep learning not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Built Python automation for weekly sales and operations reports (ingesting POS and CRM data) using ETL/ELT principles, saving 8 hours per week and eliminating repetitive data entry.
+  Developed Power BI and Looker workflows to replace manual written reporting, reducing data mismatches and improving work efficiency by 40% through robust data pipeline implementation.
+  Created statistical models, including clustering and classification techniques, to identify high-value customer segments; targeted marketing initiatives informed by these models contributed to a 300% increase in revenue in the targeted segment over 12 months.
+  Leveraged Python and SQL to architect a production-grade ELT pipeline that ingested time-series economic data into BigQuery, enabling fast reporting and forecasting.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend and perform model validation.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Manager, Data Scientist - Credit Review opportunity with Capital One. I am interested in this opportunity because Capital One's pioneering use of data analytics to personalize credit card offers and its continued leadership in data-driven decision-making resonates with my passion for leveraging data to drive significant business impact.
+
+What interests me about working for Capital One is its forward-thinking approach to data innovation. The company's journey from disrupting the credit card industry with statistical modeling and relational databases to becoming a Fortune 200 leader in data-driven decision-making excites and inspires me because it demonstrates a sustained commitment to technological advancement and a deep understanding of how data can revolutionize financial services.
+
+I believe my strong Python and SQL skills, coupled with my experience in statistical modeling and data pipeline development, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on tangible results and efficiency. In fact, at Shine Masters Cleaning Services, I built Python automation for weekly sales and operations reports, ingesting POS and CRM data using ETL/ELT principles. This saved 8 hours per week and eliminated repetitive data entry, leading to improved reporting accuracy for faster strategic decisions.
+
+Ultimately, I know that the Manager, Data Scientist - Credit Review role at Capital One would allow me to bring my expertise in building robust data pipelines to effectively analyze massive datasets and develop innovative solutions for credit risk management. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my statistical modeling skills. I created statistical models to identify high-value customer segments, and targeted marketing initiatives informed by these models contributed to a 300% increase in revenue in the targeted segment over 12 months.
+
+I'm excited by the opportunity to use my A/B testing and data visualization skills in working on challenging models and new ways of making better decisions at Capital One. I know that my technical proficiency and my statistically-minded approach align with what it takes to succeed in the Manager, Data Scientist - Credit Review role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

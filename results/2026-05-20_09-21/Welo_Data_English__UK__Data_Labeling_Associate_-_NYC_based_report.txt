@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     English (UK) Data Labeling Associate - NYC based
+Company:  Welo Data
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413601914
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data quality
+  • model evaluation
+  • AI tools
+  • critical thinking
+  • communication
+  • attention to detail
+  • Python
+  • SQL
+  • documentation
+  • data analysis
+  • ETL
+  • Power BI
+  • trend identification
+  • stakeholder communication
+  • SOPs
+  • Git
+  • Snowflake
+  • BigQuery
+  • AWS (S3)
+  • QA
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • native-level English
+  • annotation
+  • guidelines
+  • evaluation frameworks
+  • data auditing
+  • annotation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical skills (Python, SQL, ETL)
+  • Proven data quality and reporting improvements
+  • Experience documenting SOPs and using Git/JIRA/Confluence
+  • Quantified impact on metrics (time savings, efficiency gains)
+  • Familiarity with AI tools (ChatGPT, Claude, Gemini)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit UK/native-level British English proficiency
+  • Limited explicit annotation or labeling role experience
+  • Short tenure in roles relative to stated 2+ years safety experience
+  • Onsite location not confirmed (resume NY but commute specifics absent)
+  • No explicit experience applying labeling guidelines or evaluation frameworks
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

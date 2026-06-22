@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Founding Engineer (Senior/Tech Lead)
+Company:  Cassidy
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4431727163
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 44/100
+[████████░░░░░░░░░░░░] 44%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Postgres
+  • SQL
+  • Python
+  • Git
+  • API integration
+  • production systems
+  • data modeling
+  • ETL
+  • BigQuery
+  • Snowflake
+  • AWS
+  • JIRA
+  • Confluence
+  • product instincts
+  • scalability
+  • reliability
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • TypeScript
+  • Node
+  • React
+  • LLM orchestration
+  • agent systems
+  • workflow orchestration
+  • enterprise permissioning
+  • applied AI
+  • founder experience
+  • Postgres (explicit role experience with large-scale systems)
+  • workflow orchestration (implementation)
+  • permissioning systems
+  • tool calling
+  • agentic harnesses
+  • full stack TypeScript
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data modeling
+  • Python ETL and analytics pipelines
+  • Experience with production data systems
+  • Cloud data stack familiarity (AWS, BigQuery, Snowflake)
+  • Product-oriented cross-functional work
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No TypeScript/Node/React full‑stack evidence
+  • Limited applied AI/LLM production experience
+  • No explicit large-scale system reliability ownership
+  • No enterprise permissioning or agent system experience
+  • No founder/co‑founder background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

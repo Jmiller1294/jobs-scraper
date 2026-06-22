@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     WMOS Analyst
+Company:  FreshDirect
+Location: Woodbridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4400679314
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • SQL
+  • Oracle Database
+  • Python
+  • ETL
+  • PostgreSQL
+  • automation
+  • Power BI
+  • reporting
+  • scripts
+  • jobs
+  • procedures
+  • debugging
+  • logs
+  • stakeholder management
+  • continuous improvement
+  • data accuracy
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Manhattan Associates WMS
+  • Manhattan Integration Framework
+  • webMethods
+  • WMS
+  • integration support
+  • warehouse operations
+  • inventory accuracy
+  • production support
+  • root cause analysis
+  • warehouse workflows
+  • fulfillment
+  • distribution
+  • labor
+  • MIF
+  • SCI
+  • Oracle packages
+  • webMethods debugging
+  • Manhattan configuration
+  • WMS environments
+  • operational performance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database skills
+  • ETL and automation experience
+  • Data visualization and reporting
+  • Cross‑functional collaboration
+  • Quantified process improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Manhattan WMS experience
+  • No webMethods or MIF experience listed
+  • Limited warehouse/distribution domain experience
+  • No explicit Oracle PL/SQL packages experience
+  • Shorter tenure in relevant roles (<=3 years)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

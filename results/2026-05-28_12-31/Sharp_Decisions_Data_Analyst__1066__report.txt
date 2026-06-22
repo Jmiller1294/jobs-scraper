@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst (1066)
+Company:  Sharp Decisions
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4389769025
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Data Analysis
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • Advanced Excel
+  • Relational databases
+  • PostgreSQL
+  • MySQL
+  • ETL
+  • Data visualization
+  • KPI
+  • Data cleansing
+  • Data modeling
+  • Cloud
+  • Snowflake
+  • BigQuery
+  • Automation
+  • Reporting
+  • Stakeholder collaboration
+  • SOP documentation
+  • PostgresQL
+  • PowerBI
+  • Python (Pandas)
+  • Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Email monitoring
+  • Defender
+  • Purview
+  • KRI
+  • Data Loss Prevention
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB experience
+  • Proficient in Python and ETL pipelines
+  • Hands-on Tableau and Power BI reporting
+  • Proven impact with quantified outcomes
+  • Experience integrating multi-source data
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Email monitoring/DLP tool experience
+  • No mention of Defender/Proofpoint or Purview
+  • KRI definition/reporting not specified
+  • Limited enterprise-scale EIP program experience
+  • Short tenures in some roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with security and operations teams to monitor and analyze data movement, gaining exposure to data loss prevention (DLP) principles while scrubbing sensitive information from upstream source systems.
+  Utilized advanced SQL and Python to identify anomalous patterns in system logs, effectively contributing to data security reporting and the proactive identification of potential security risks.
+  Partnered with cross-functional stakeholders to define key risk indicators (KRIs) and performance metrics (KPIs), ensuring robust reporting accuracy for enterprise-level information protection programs.
+  Streamlined data ingestion into central warehouses by implementing validation scripts that mirror standard security compliance workflows, including audit-readiness and data access integrity.
+  Applied data modeling techniques to categorize and protect enterprise data, ensuring that reporting structures were aligned with security best practices and organizational governance requirements.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Loss Prevention Analyst (1066) opportunity with Sharp Decisions. I am interested in this opportunity because of my strong background in data engineering and relational database management, which aligns perfectly with the need to scrub and secure enterprise data within a CyberDW environment. What interests me about working for Sharp Decisions is its commitment to high-level information protection, which inspires me because I am passionate about the intersection of data integrity and cybersecurity. I believe my expertise in SQL and Python-driven ETL pipelines and my experience in developing KPIs would make me a strong candidate for this role. During my professional career, I have approached complex data problems by automating messy workflows and creating high-visibility dashboards. In fact, at Shine Masters, I developed interactive Power BI dashboards and automated intake workflows, which reduced data processing time by 40% and saved 8 hours per week in manual labor. These efforts directly resulted in improved operational visibility and team efficiency, outcomes I am eager to replicate while assisting your EIP team in defining and tracking critical KRIs. Ultimately, I know that the Data Loss Prevention Analyst (1066) role at Sharp Decisions would allow me to bring my technical rigor to the critical task of monitoring data flows and system security. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my skills in cross-functional stakeholder management. I collaborated closely with Underwriting and Product teams to align software features with business objectives, reducing delivery delays by 25%. This experience, combined with my technical background in PostgreSQL and data modeling, ensures I can successfully bridge the gap between security data and stakeholder requirements. I am excited by the opportunity to use my data analysis expertise in working on the CyberDW project at Sharp Decisions. I know that my SQL proficiency and ability to design technical requirements align with what it takes to succeed at the Data Loss Prevention Analyst (1066) role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

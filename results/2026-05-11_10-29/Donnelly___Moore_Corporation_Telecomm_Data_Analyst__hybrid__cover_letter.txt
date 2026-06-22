@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Donnelly & Moore Corporation
+
+Dear Hiring Manager,
+
+I am excited to apply for the Telecomm Data Analyst (hybrid) position at Donnelly & Moore Corporation. With my background in data analysis and operations, I am confident I would be a strong addition to your team.
+
+I am particularly interested in Donnelly & Moore Corporation's focus on optimizing client operations through expert data analysis, a mission that strongly resonates with my own professional goals.
+
+In my previous roles, I have developed robust data workflows to identify cost-saving opportunities and optimize expenditures by auditing invoices and identifying overcharges from telecommunication carriers. Additionally, I have managed high-level data reports, performing in-depth analysis of telecommunication invoices from AT&T and other vendors, and summarizing complex information for leadership presentations, which directly aligns with your need for detailed-oriented analysis of thousands of records.
+
+I have extensive experience with manual data extraction from PDF invoices, categorizing billing types (e.g., international, excess) to enable detailed pivot table analysis and identify discrepancies, a critical requirement for this role. My proficiency extends to using Power BI and Tableau to develop reports and dashboards, visualizing telecommunication expense data and presenting findings to stakeholders to support strategic cost reduction initiatives.
+
+I am particularly drawn to Donnelly & Moore Corporation's mission of delivering data-driven insights for operational efficiency and believe my experience in Telecom Expense Management and invoice analysis would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

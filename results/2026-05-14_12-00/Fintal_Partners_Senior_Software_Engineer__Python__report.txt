@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Software Engineer (Python)
+Company:  Fintal Partners
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414491341
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • NumPy
+  • Pandas
+  • Docker
+  • Airflow
+  • BigQuery
+  • GCS
+  • Snowflake
+  • dbt
+  • CI/CD
+  • GitHub Actions
+  • ETL/ELT
+  • Postgres
+  • Data pipelines
+  • Data modeling
+  • Great Expectations
+  • Power BI
+  • Cloud (GCP/AWS)
+  • SQL
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Cython
+  • Kubernetes
+  • Terraform
+  • Ansible
+  • Spark
+  • Distributed systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python data stack experience (Pandas, NumPy)
+  • Production ELT pipeline building with Airflow and dbt
+  • Cloud data infrastructure (BigQuery, GCS, Snowflake)
+  • CI/CD and automation (GitHub Actions)
+  • Quantitative data handling and large dataset experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Cython experience
+  • No Kubernetes container orchestration listed
+  • No Terraform/Ansible orchestration experience
+  • Limited distributed systems architecture evidence
+  • Relatively short relevant senior engineering experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

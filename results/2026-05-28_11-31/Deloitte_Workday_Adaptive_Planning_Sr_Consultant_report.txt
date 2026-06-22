@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Workday Adaptive Planning Sr Consultant
+Company:  Deloitte
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420408694
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • SQL
+  • Python
+  • Power BI
+  • reporting
+  • documentation
+  • ETL
+  • data modeling
+  • testing
+  • JIRA
+  • Confluence
+  • consulting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • Workday Adaptive Planning
+  • EPM
+  • Enterprise Performance Management
+  • financials
+  • supply chain
+  • Workstreams
+  • implementation
+  • requirements gathering
+  • user training
+  • prototyping
+  • configuration
+  • Workday certification
+  • stakeholder management
+  • mentoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Power BI dashboard development with quantified impact
+  • ETL and data modeling experience
+  • Documentation and process SOP creation
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Workday Adaptive Planning experience
+  • No EPM or ERP implementation background
+  • Limited finance/supply-chain domain experience
+  • No Workday certification
+  • Under 5 years consulting/Workday experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr Product Delivery Associate, User Acceptance Testing Lead
+Company:  JPMorganChase
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4422426607
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (9)
+  • Jira
+  • SQL
+  • MySQL
+  • Automation
+  • API testing
+  • Agile
+  • SDLC
+  • Test data
+  • Defect tracking
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • Selenium
+  • Appium
+  • Cucumber
+  • Java
+  • Mobile testing
+  • Rest Assured
+  • Postman
+  • Oracle
+  • DB2
+  • JavaScript
+  • Junit
+  • Test plans
+  • Environment readiness
+  • Automation framework
+  • TSYS
+  • Cucumber framework
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • SQL and database optimization
+  • Python ETL and automation
+  • Dashboarding and reporting (Power BI, Tableau)
+  • Jira and documentation experience
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java automation experience listed
+  • No Selenium/Appium/Cucumber evidence
+  • Limited mobile testing experience
+  • No explicit API automation tools detailed
+  • No TSYS/credit card domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

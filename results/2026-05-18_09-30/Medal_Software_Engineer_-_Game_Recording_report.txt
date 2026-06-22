@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer - Game Recording
+Company:  Medal
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415651865
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • APIs
+  • performance
+  • debugging
+  • Docker
+  • SQL
+  • Python
+  • Git
+  • CI/CD
+  • BigQuery
+  • Airflow
+  • dbt
+  • ETL
+  • cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • C/C++
+  • C#
+  • memory dumps
+  • low-level
+  • graphics
+  • game engines
+  • Unity
+  • Unreal
+  • profiling
+  • reverse-engineering
+  • anti-cheat
+  • video data
+  • profiling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Data engineering and ETL experience
+  • Strong SQL and BigQuery skills
+  • Python proficiency and automation
+  • CI/CD and Docker experience
+  • Proven analytic impact with quantified results
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C/C++ or C# experience listed
+  • No low-level or memory dump debugging experience
+  • No graphics or game-engine integration background
+  • No reverse-engineering or anti-cheat experience
+  • Limited or no video/streaming data experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

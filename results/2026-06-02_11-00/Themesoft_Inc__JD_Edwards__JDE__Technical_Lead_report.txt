@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     JD Edwards (JDE) Technical Lead
+Company:  Themesoft Inc.
+Location: White Plains, NY
+URL:      https://www.linkedin.com/jobs/view/4422424183
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • integrations
+  • APIs
+  • SQL
+  • Python
+  • ETL
+  • Git
+  • PostgreSQL
+  • Tableau
+  • Power BI
+  • Snowflake
+  • AWS S3
+  • production support
+  • stakeholder communication
+  • JIRA
+  • executive presence
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • JDE EnterpriseOne
+  • CNC
+  • Orchestrator
+  • BSSV
+  • RICE
+  • ER/UBE
+  • JDE upgrades
+  • middleware
+  • technical lead
+  • offshore/onshore
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • ETL and data integration experience
+  • Visualization (Power BI, Tableau)
+  • Cloud familiarity (Snowflake, AWS S3)
+  • Documented process and stakeholder reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No JDE-specific experience
+  • No CNC/Orchestrator/BSSV/RICE skills
+  • No demonstrated JDE upgrade experience
+  • No explicit technical lead or offshore/onshore management
+  • Limited ERP/production middleware experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Research Scientist, Google Research
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4375785566
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • data modeling
+  • time series
+  • BigQuery
+  • Snowflake
+  • Git
+  • data pipelines
+  • data visualization
+  • Power BI
+  • Tableau
+  • Cloud
+  • version control
+  • statistical analysis
+  • experiments
+  • evaluation metrics
+  • Prototyping
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • PhD
+  • research papers
+  • publication
+  • leading research
+  • academic collaboration
+  • scientific communication
+  • machine learning
+  • publication submission
+  • influencing researchers
+  • long-term research strategy
+  • hardware performance
+  • compilers
+  • natural language processing
+  • data mining
+  • two years research leadership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Hands-on ETL and data modeling experience
+  • Proven delivery of analytics dashboards (Power BI, Tableau)
+  • Experience with cloud data tools (BigQuery, Snowflake, AWS S3)
+  • Quantified impact on business metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PhD or equivalent research degree
+  • No documented scientific publications
+  • Limited formal research leadership experience
+  • Minimal machine learning / deep learning evidence
+  • Lacks multi-year research agenda or academic collaborations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

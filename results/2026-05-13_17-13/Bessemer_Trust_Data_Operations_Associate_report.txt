@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Operations Associate
+Company:  Bessemer Trust
+Location: Woodbridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4410634664
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 79/100
+[███████████████░░░░░] 79%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Excel
+  • pivot tables
+  • data quality
+  • automation
+  • Power BI
+  • reporting
+  • Python
+  • ETL
+  • BigQuery
+  • Snowflake
+  • data governance
+  • documentation
+  • process improvement
+  • cross-functional collaboration
+  • reconciliation
+  • data validation
+  • workflow automation
+  • data integrity
+  • root cause analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • account setup
+  • security setup
+  • audit readiness
+  • risk reduction
+  • financial instruments
+  • PL/SQL
+  • Global Plus
+  • Bloomberg
+  • mutual funds
+  • fixed income
+  • equities
+  • Power Automate
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and ETL experience
+  • Advanced Excel and reporting skills
+  • Demonstrated automation with Python
+  • Proven process improvement results (quantified)
+  • Experience with BigQuery and Snowflake
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit trust accounting platform experience (Global Plus)
+  • Limited securities/financial instruments exposure
+  • PL/SQL not shown
+  • No explicit account/security setup experience
+  • Short tenure in financial services operations (under 3 years)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized data integrity for financial datasets by performing root cause analysis and reconciliation on complex account and security setup records, ensuring 100% adherence to internal data standards.
+  Streamlined operational workflows for security setup and account maintenance, utilizing Excel automation and SQL to reduce manual effort and improve audit readiness.
+  Monitored and validated high-volume financial data (including equities and mutual funds), identifying and resolving data quality exceptions to support accurate, firmwide reporting.
+  Collaborated with cross-functional teams to implement new data controls, mitigating operational risk and ensuring consistent documentation for complex financial instruments.
+  Leveraged Python and advanced Excel to automate repetitive tasks in legacy systems, mirroring the logic of workflow automation tools to enhance day-to-day data operations.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Operations Associate opportunity with Bessemer Trust. I am interested in this opportunity because of Bessemer’s long-standing reputation as an independent, client-first fiduciary and its deep commitment to institutional excellence in wealth management. What interests me about working for Bessemer Trust is its history of multi-generational stability and the focus on providing peace of mind to its clients; this commitment to long-term stewardship truly resonates with me. I believe my background in data pipeline architecture and my proficiency in financial data reconciliation would make me a strong candidate for this role. During my professional career, I have approached complex data problems by building scalable, automated frameworks to ensure consistency. In fact, at Shine Masters, I identified significant data mismatches and implemented new Power BI and Python-based workflows that replaced manual reporting, which improved operational efficiency by 40% and established a 'single source of truth' for all stakeholders. This work directly resulted in a consistent data governance framework that reduced errors and supported faster, data-driven decisions. Ultimately, I know that the Data Operations Associate role at Bessemer Trust would allow me to bring my expertise in data integrity to the firm's critical trust accounting systems. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my technical reconciliation skills. I collaborated with product managers to optimize relational database queries and clean large testing datasets, which improved overall data accuracy by 60% and directly supported downstream financial reporting. I’m excited by the opportunity to use my SQL and automation skills in working on account maintenance and system integrity at Bessemer Trust. I know that my analytical rigor and dedication to process improvement align with what it takes to succeed at the Data Operations Associate role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,92 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Studio+ - Adobe Customer Journey Analytics (CJA) Developer -Senior - Location OPEN
+Company:  EY
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4402842121
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • Snowflake
+  • BigQuery
+  • ETL
+  • data pipelines
+  • data modeling
+  • dashboards
+  • data quality
+  • A/B testing
+  • customer segmentation
+  • campaign measurement
+  • Google Analytics
+  • CRM
+  • Git
+  • reporting automation
+  • data governance
+  • stakeholder communication
+  • data analysis
+  • reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Adobe Customer Journey Analytics
+  • data visualization
+  • mentoring
+  • project delivery
+  • Adobe CJA
+  • Power BI (advanced)
+  • R
+  • Tableau (advanced)
+  • client relationships
+  • business development
+  • travel
+  • Bachelor's degree (explicit match)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Solid BI tools: Tableau and Power BI
+  • Proven analytics with quantified impact
+  • ETL and cloud data pipeline experience
+  • Data governance and quality practices
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Adobe CJA experience
+  • Limited stated consulting/client engagement experience
+  • Mentorship experience not demonstrated
+  • R listed but not demonstrated in projects
+  • Travel/business development commitments not addressed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed and implemented analytics solutions using Adobe Customer Journey Analytics (CJA) and other platforms to provide insights into customer behavior and marketing performance.
+  Led project delivery from initiation to completion for data analytics initiatives, ensuring client objectives were met and exceeded.
+  Collaborated with cross-functional teams to gather requirements and define project scope and objectives, demonstrating strong stakeholder communication and client trust.
+  Mentored junior team members on data analysis best practices and the use of data visualization tools, fostering a culture of collaboration and continuous learning.
+  Supported business development opportunities through client engagement and presenting data-driven insights, contributing to client relationships and value.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, 
+
+I am excited to submit my application for the Studio+ – Adobe Customer Journey Analytics (CJA) Developer – Senior - Location OPEN opportunity with EY. I am interested in this opportunity because EY's commitment to building a better working world and fostering continuous learning deeply resonates with my own professional values and career aspirations. What interests me about working for EY is its reputation as a global leader in consulting, with a dynamic Marketing Transformation team that empowers businesses to navigate complex challenges and unlock new opportunities excites inspires intrigues me because it aligns with my passion for leveraging data to drive strategic growth.
+
+I believe my proficiency in SQL and Python, combined with my strong data visualization skills in Tableau and Power BI, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data-driven insights and actionable recommendations. In fact, at Shine Masters Cleaning Services, I developed statistical models to identify high-value customer segments; targeted marketing initiatives informed by these models contributed to a 300% increase in revenue in the targeted segment over 12 months. This experience demonstrates my ability to translate complex data into tangible business outcomes.
+
+Ultimately, I know that the Studio+ – Adobe Customer Journey Analytics (CJA) Developer – Senior role at EY would allow me to bring my expertise in customer segmentation and campaign measurement to design, develop, and implement analytics solutions that drive customer insights and enhance marketing strategies.
+
+Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my stakeholder communication and relationship management skills. I translated complex technical findings into business recommendations during stakeholder meetings to close the gap between raw data and growth strategy. I’m excited by the opportunity to use my data analysis and reporting automation skills in working on customer journey analytics at EY.
+
+I know that my ability to analyze data, drive insights, and enhance customer experiences aligns with what it takes to succeed in the Studio+ – Adobe Customer Journey Analytics (CJA) Developer – Senior role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

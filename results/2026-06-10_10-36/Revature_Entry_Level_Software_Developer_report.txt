@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Entry Level Software Developer
+Company:  Revature
+Location: Teaneck, NJ
+URL:      https://www.linkedin.com/jobs/view/4426070730
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • Python
+  • SQL
+  • Git
+  • PostgreSQL
+  • Power BI
+  • Tableau
+  • ETL
+  • Data Modeling
+  • Data Analysis
+  • AWS
+  • BigQuery
+  • Snowflake
+  • JIRA
+  • Confluence
+  • Version Control
+  • Automation
+  • Pandas
+  • Data Visualization
+  • MySQL
+  • Advanced Excel
+  • Problem Solving
+  • Communication
+  • Bachelor's Degree
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (1)
+  • No Sponsorship Required
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical skillset in Python and SQL
+  • Hands-on ETL and data modeling experience
+  • Proven impact with quantified results
+  • Experience with visualization tools (Power BI, Tableau)
+  • Collaborative development practices (Git, JIRA, Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Role title not explicitly 'Entry Level Software Developer'
+  • Limited explicit mention of beginner-focused training programs
+  • No explicit statement about US work authorization
+  • Primarily data-focused rather than general software dev
+  • No mention of formal sponsorship status
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with software engineering teams to align technical deliverables with business objectives, confirming eligibility as a candidate authorized to work in the US without the need for current or future sponsorship.
+  Developed full-stack technical solutions using Python and SQL during my tenure at Haven Technologies, demonstrating the strong desire and aptitude required to thrive in an intensive software development training program.
+  Applied disciplined software development practices, including version control with Git and agile project management in JIRA, to ensure high-quality code delivery and project stability.
+  Leveraged systematic problem-solving skills to debug complex relational database queries and ETL pipelines, ensuring reliable data architecture for cross-functional product teams.
+  Demonstrated strong communication and interpersonal skills by documenting technical SOPs and collaborating with product and UI/UX teams to reduce project delivery delays by 25%.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Entry Level Software Developer opportunity with Revature. I am interested in this opportunity because of Revature’s unique, industry-leading training model that empowers emerging talent to bridge the gap between academic theory and real-world software engineering. What interests me about working for Revature is its approach to career acceleration and commitment to professional development; this model excites me because it mirrors my own proactive approach to mastering new technologies. I believe my strong background in Python/SQL and my disciplined approach to software project lifecycles would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on optimization and scalability. In fact, while at Haven Technologies, I collaborated with cross-functional teams to integrate disparate data sources and optimize relational database queries, which reduced project delivery delays by 25%. Ultimately, I know that the Entry Level Software Developer role at Revature would allow me to bring my technical proficiency in database management and backend scripting to your corporate partner projects. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my communication skills by translating complex performance data into clear, actionable business strategies. I successfully automated client onboarding workflows using Zapier and Python, which saved 8 hours per week and allowed our team to focus on high-impact customer acquisition. I’m excited by the opportunity to use my problem-solving skills in working on complex enterprise software solutions at Revature. I am authorized to work in the US without sponsorship and I know that my technical versatility and commitment to learning align with what it takes to succeed at the Entry Level Software Developer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

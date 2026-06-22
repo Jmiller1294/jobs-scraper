@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quality Control Data Analyst
+Company:  Zing Recruiting
+Location: Piscataway, NJ
+URL:      https://www.linkedin.com/jobs/view/4423935325
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • Excel
+  • Power BI
+  • Tableau
+  • PostgreSQL
+  • BigQuery
+  • data cleaning
+  • ETL
+  • data validation
+  • data reconciliation
+  • data model
+  • validation checks
+  • documentation
+  • reporting
+  • SOPs
+  • missing values
+  • cross-functional collaboration
+  • communication
+  • data integrity
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • data entry
+  • data reconciliation (supplier docs)
+  • specific gravity
+  • refractive index
+  • density
+  • color
+  • form
+  • Certificates of Analysis
+  • Technical Data Sheets
+  • raw material specifications
+  • chemistry degree
+  • flavor fragrance industry
+  • traceability
+  • supplier collaboration
+  • compliance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with ETL and data cleaning
+  • Power BI/Tableau reporting
+  • Documented SOPs and validation checks
+  • Cross-functional communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No chemistry or QC lab background
+  • No flavor/fragrance industry experience
+  • No mention of raw material quality attributes
+  • Limited supplier/CoA handling experience
+  • No specific-years QC experience stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

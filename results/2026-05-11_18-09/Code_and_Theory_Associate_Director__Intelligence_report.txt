@@ -1,0 +1,97 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate Director, Intelligence
+Company:  Code and Theory
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4402613771
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • SQL
+  • Tableau
+  • Power BI
+  • Python
+  • Snowflake
+  • BigQuery
+  • Excel
+  • data quality
+  • data governance
+  • ETL
+  • automation
+  • dashboards
+  • data integration
+  • customer segmentation
+  • A/B testing
+  • reporting frameworks
+  • communication
+  • Salesforce CRM
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (17)
+  • data auditing
+  • data ecosystem mapping
+  • market sizing
+  • financial modeling
+  • CDP
+  • forecasting
+  • Standards for attribution
+  • Crossbeam
+  • Adobe Experience Cloud
+  • Adobe partner portals
+  • deal registration systems
+  • social analytics
+  • regression
+  • cohort analysis
+  • propensity-to-engage scoring
+  • site analytics
+  • advanced statistical modeling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Experienced building dashboards (Tableau, Power BI)
+  • Proven automation and ETL pipeline delivery
+  • Demonstrated segmentation and A/B testing with measurable impact
+  • Data governance and reconciliation experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Adobe ecosystem/CDP experience
+  • No explicit Crossbeam or partner portal experience
+  • Few quantified examples of market sizing or financial models
+  • Shorter total relevant years (approx 2+ years in analytics roles)
+  • Limited explicit advanced statistical modeling (regression/cohort) shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Assessed data quality across CRM systems and marketing platforms, performing data auditing and gap analyses to ensure completeness, accuracy, and timeliness, foundational for strategic decision-making.
+  Mapped data flows across organizational systems, identifying silos and integration gaps to establish robust analytical scaffolding for operating model design and improved connected decision-making.
+  Built and maintained structured account research databases, integrating data from multiple sources (including CRM exports) to support quantitative inputs for account prioritization, including deal size estimates and market sizing.
+  Developed financial models and market sizing analyses, leveraging advanced statistical techniques such as regression and cohort analysis to inform strategic recommendations and competitive benchmarks.
+  Designed and built reporting frameworks, defining KPIs, establishing baselines, and developing tracking methodologies for ongoing programs, integrating data from various sources including CRM and CDP environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Associate Director, Intelligence opportunity with Code and Theory. I am interested in this opportunity because Code and Theory's reputation for tackling complex, high-impact problems at the intersection of creativity and technology deeply resonates with my own passion for leveraging data to drive strategic direction and business growth.
+
+What interests me about working for Code and Theory is your approach to solving consumer and business problems by establishing new capabilities for your clients. This excites, inspires, and intrigues me because I believe in the power of robust intelligence to not just inform, but fundamentally shape client strategies and outcomes.
+
+I believe my strong proficiency in SQL and Python, coupled with my experience in building impactful data visualizations and reporting frameworks, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on turning raw data into actionable evidence. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, reducing data mismatches and improving work efficiency by 40%. This resulted in more accurate strategic decisions and a 300% increase in revenue for targeted customer segments.
+
+Ultimately, I know that the Associate Director, Intelligence role at Code and Theory would allow me to bring my data analysis and quantitative research skills to conduct deep-dive quantitative research on target accounts and analyze pipeline data to identify conversion patterns and whitespace.
+
+Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data governance and automation skills. I standardized organizational KPIs and data governance frameworks, resulting in a consistent 'single source of truth' for all business stakeholders and a reduction in report discrepancies. I also built Python automation for weekly reports, saving 8 hours per week and improving reporting accuracy.
+
+I’m excited by the opportunity to use my data integration and auditing capabilities in working on auditing data sources across client environments and mapping data flows at Code and Theory. I know that my proficiency in SQL, Python, and data visualization tools, alongside my experience in data governance and automation, aligns with what it takes to succeed at the Associate Director, Intelligence role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

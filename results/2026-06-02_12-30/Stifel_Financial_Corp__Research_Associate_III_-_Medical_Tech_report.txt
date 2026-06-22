@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Research Associate III - Medical Technology & Supplies
+Company:  Stifel Financial Corp.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4412994240
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Excel
+  • advanced Excel
+  • financial statements
+  • cash flow statement
+  • income statement
+  • balance sheet
+  • SQL
+  • Python
+  • data validation
+  • model testing
+  • ETL
+  • Power BI
+  • Tableau
+  • data modeling
+  • report writing
+  • presentation
+  • time management
+  • critical thinking
+  • quantitative analysis
+  • presentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • financial modeling
+  • discounted cash flow
+  • valuation
+  • Bloomberg
+  • FactSet
+  • comp sheets
+  • investment thesis
+  • sector analysis
+  • institutional sales
+  • economics
+  • accounting
+  • finance
+  • Securities Analysis
+  • travel
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python analytics
+  • Advanced Excel and visualization (Power BI, Tableau)
+  • ETL and data modeling experience
+  • Quantified operational impact
+  • Report and dashboard development
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit equity research or DCF experience
+  • No Bloomberg/FactSet exposure listed
+  • Limited finance/accounting coursework cited
+  • Title misalignment (Data Analyst vs Research Associate)
+  • Under 3-5 years industry finance experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

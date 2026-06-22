@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     ITSM Workflow Engineer
+Company:  National Hockey League (NHL)
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405279874
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • Power BI
+  • Reporting
+  • Cloud (AWS)
+  • CI/CD
+  • Automation
+  • Data pipeline
+  • Git
+  • REST API
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • ServiceNow
+  • ITSM
+  • Incident Management
+  • Problem Management
+  • Change Management
+  • CMDB
+  • Flow Designer
+  • Scripting
+  • JavaScript
+  • IntegrationHub
+  • Automated Test Framework
+  • Now Assist
+  • Predictive Intelligence
+  • Virtual Agent
+  • AI/ML
+  • Observability
+  • ServiceNow Performance Analytics
+  • ServiceNow CSA
+  • ITIL 4 Foundation
+  • Service Portal
+  • Agent Workspace
+  • Spoke Development
+  • GenAI controller
+  • LLM integration
+  • Service Catalog
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Proven automation and ETL pipeline delivery
+  • Quantified impact on reporting and revenue
+  • Experience with CI/CD and Git
+  • Visualization and reporting proficiency (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No ServiceNow platform experience listed
+  • No ITSM module or ITIL experience
+  • No JavaScript/Glide scripting examples
+  • No AI/LLM or Now Assist experience
+  • No CMDB or observability integrations mentioned
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Staff Uber Technical Lead, Observability Intelligence
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413877993
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • BigQuery
+  • ETL/ELT
+  • CI/CD
+  • data quality
+  • data governance
+  • design and architecture
+  • automation
+  • Snowflake
+  • Git
+  • PostgreSQL
+  • reporting/visualization
+  • Cloud (AWS S3)
+  • statistical modeling
+  • cross-functional collaboration
+  • A/B testing
+  • data processing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • ML infrastructure
+  • model deployment
+  • observability
+  • scalability
+  • debugging
+  • technical leadership
+  • project management
+  • model evaluation
+  • fine tuning
+  • reinforcement learning
+  • speech/audio
+  • LLMs
+  • generative agents
+  • site reliability engineering
+  • AlertManager
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL/ELT and BigQuery pipelines
+  • Proven automation and CI/CD implementations
+  • Quantified business impact (e.g., revenue, efficiency)
+  • Cross-functional collaboration and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no ML model deployment experience
+  • No explicit ML infrastructure or SRE experience
+  • Insufficient years of senior technical leadership
+  • No reinforcement learning or speech/audio background
+  • No familiarity stated with LLMs/generative AI
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

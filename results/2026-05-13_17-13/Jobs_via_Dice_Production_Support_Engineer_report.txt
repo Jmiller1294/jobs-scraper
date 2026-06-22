@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Production Support Engineer
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414155896
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • ETL
+  • Automation
+  • CI/CD
+  • Git
+  • Debugging
+  • Troubleshooting
+  • Reporting
+  • Production support
+  • Stakeholder communication
+  • High-pressure environment
+  • Version control
+  • Data pipelines
+  • Root cause analysis
+  • Incident analysis
+  • Front-office systems
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Java
+  • Object-oriented programming
+  • Managing Directors
+  • Trading systems
+  • Preventive measures
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Hands-on ETL and pipeline development
+  • Proven automation and CI/CD implementation
+  • Quantified impact on reporting and revenue
+  • Effective stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java or explicit OOP projects listed
+  • Limited explicit trading/front-office support experience
+  • No direct mention of managing director-level updates
+  • No formal incident/problem management role listed
+  • Unclear years of production support experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

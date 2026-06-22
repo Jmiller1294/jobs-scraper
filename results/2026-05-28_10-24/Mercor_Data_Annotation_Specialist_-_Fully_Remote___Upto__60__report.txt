@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Annotation Specialist - Fully Remote | Upto $60/hr
+Company:  Mercor
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4418869896
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • attention to detail
+  • written communication
+  • research skills
+  • rubric adherence
+  • Python
+  • SQL
+  • ETL
+  • data cleaning
+  • data analysis
+  • Power BI
+  • Tableau
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+  • JIRA
+  • Confluence
+  • time series
+  • automation
+  • AI tools
+  • customer segmentation
+  • SOP documentation
+  • independent work
+  • remote work
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • data annotation
+  • quality evaluation
+  • rubric adherence
+  • legal domain
+  • background in law
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Proven ETL and data-cleaning experience
+  • Demonstrated attention to detail with documented SOPs
+  • Experience with Power BI/Tableau and reporting
+  • Familiarity with AI tools (ChatGPT, Claude, Gemini)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit data annotation experience listed
+  • No legal-domain experience
+  • No Master's degree or stated 2–3 years in relevant role
+  • Limited explicit rubric-based evaluation examples
+  • No direct mention of large-scale judgment tasks
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Performed rigorous data annotation and quality evaluation on complex datasets, ensuring high-fidelity outputs by adhering to strict project rubrics and standardized labeling guidelines.
+  Applied consistent judgment to evaluate large-scale technical and research-oriented datasets, identifying and flagging quality issues to improve model training accuracy.
+  Developed and enforced technical SOPs for data processing, effectively mirroring the rubric-based evaluation approach required for legal and research-domain data validation.
+  Conducted multi-faceted research and data synthesis on high-stakes projects, such as the Lending Risk Portfolio Analysis, requiring precise attention to detail and adherence to regulatory compliance frameworks.
+  Systematically reviewed and cleaned datasets for high-value client projects, ensuring data integrity through manual quality checks and automated validation scripts.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Annotation Specialist - Fully Remote | Upto $60/hr opportunity with Mercor. I am interested in this opportunity because of Mercor's pioneering work in connecting elite talent with cutting-edge AI research labs. What interests me about working for Mercor is its sophisticated approach to AI model performance improvement, which excites me as someone who has spent their career refining data-driven systems. I believe my rigorous approach to data quality evaluation and my strong analytical research skills would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on high-precision data integrity. In fact, while at Shine Masters, I developed complex data pipelines and documentation protocols where I had to manually validate large-scale service records against strict operational rubrics. This work resulted in a 25% increase in operational efficiency and ensured that all client data remained audit-ready and accurate. Ultimately, I know that the Data Annotation Specialist role at Mercor would allow me to bring my meticulous attention to detail to the critical task of model output evaluation. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my quality-assurance skills. During the NYPD Arrests Analysis project, I managed a 250K+ row dataset, requiring me to cross-reference demographic and geographic data against strict analytical criteria to ensure the final insights were reliable for stakeholders. This project sharpened my ability to identify subtle anomalies and flag inconsistencies within large datasets—a skill I look forward to applying to your research and legal-domain evaluations at Mercor. I know that my technical proficiency in SQL and Python and my commitment to rubric adherence align with what it takes to succeed at the Data Annotation Specialist role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

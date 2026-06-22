@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     LLM Fine-Tuning Engineer
+Company:  Bright Vision Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416250145
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 22/100
+[████░░░░░░░░░░░░░░░░] 22%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (8)
+  • Python
+  • Git
+  • data pipelines
+  • SQL
+  • ETL
+  • documentation
+  • AWS (S3)
+  • debugging
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • fine-tuning
+  • LLM
+  • PyTorch
+  • RLHF
+  • DPO
+  • LoRA
+  • QLoRA
+  • distributed training
+  • FSDP
+  • ZeRO
+  • GPU clusters
+  • dataset curation
+  • evaluation
+  • human evaluation
+  • mixed precision
+  • sequence packing
+  • model reproducibility
+  • model artifacts
+  • parameter-efficient fine-tuning
+  • training stability
+  • multimodal
+  • synthetic data
+  • red-teaming
+  • open-source LLM libraries
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and data pipelines
+  • Proven documentation and SOP creation
+  • Dashboarding and visualization expertise
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No LLM fine-tuning or PyTorch experience listed
+  • Less than required years of ML/LLM experience
+  • No distributed training or GPU cluster operations
+  • No RLHF/DPO or parameter-efficient methods experience
+  • No publications or open-source LLM contributions
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

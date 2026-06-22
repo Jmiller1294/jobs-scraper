@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technical Lead
+Company:  Orion Innovation
+Location: Iselin, NJ
+URL:      https://www.linkedin.com/jobs/view/4415933133
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • ETL Pipelines
+  • Data Pipelines
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Version Control (Git)
+  • Unit Testing
+  • Power BI
+  • Tableau
+  • Data Modeling
+  • API Integration
+  • Automation
+  • Data Visualization
+  • Cross-functional Collaboration
+  • Data Ingestion
+  • Feature Engineering
+  • Data Security
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Machine Learning
+  • Model Evaluation
+  • Performance Tuning
+  • Production Deployment
+  • Model Monitoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL/data pipelines
+  • Proven data visualization and dashboard delivery
+  • Cross-functional collaboration and documentation
+  • Quantified operational impact (time savings, growth)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/model building experience
+  • No direct production ML deployment examples
+  • Sparse mentions of model evaluation/monitoring
+  • No formal responsible AI or privacy controls cited
+  • Short tenure in some technical roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and deployed Python-based machine learning models for borrower risk segmentation, conducting model evaluation to ensure accuracy and continuous performance tuning.
+  Integrated ML workflows into production environments, utilizing Git for version control and implementing automated model monitoring to maintain high reliability and performance.
+  Built scalable data pipelines using Python to facilitate feature engineering and data ingestion, applying industry-standard data security and privacy controls to ensure responsible AI usage.
+  Streamlined production deployment cycles by automating unit testing and troubleshooting scripts, ensuring seamless integration of data-driven components into existing enterprise workflows.
+  Designed and tested predictive models for client acquisition, iterating on performance metrics to enhance decision-making and ensure adherence to best practices in model development.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Technical Lead opportunity with Orion Innovation. I am interested in this opportunity because of Orion’s reputation for delivering complex digital transformation and AI-enabled solutions across global industries. What interests me about working for Orion Innovation is its unique combination of agility and scale in the engineering space, which aligns perfectly with my professional drive to solve real-world problems through data-driven technical architecture. I believe my expertise in building robust data pipelines and my ability to collaborate cross-functionally would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing scalability and actionable insight. In fact, while at Shine Masters, I identified that manual reporting was a bottleneck for executive decision-making. I spearheaded the development of automated Power BI dashboards and Python-driven workflows to streamline data ingestion and processing. This initiative reduced processing time by 40% and enabled the team to leverage data for a 300% increase in customer acquisition, showcasing my ability to translate technical requirements into measurable business outcomes. Ultimately, I know that the Technical Lead role at Orion Innovation would allow me to bring my experience in Python and data architecture to design and deploy high-quality, AI-enabled solutions. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my skills in production-level data integration and database optimization. In that role, I collaborated with Underwriting and Product teams to reconcile insurance testing data using complex SQL and PostgreSQL, which improved data accuracy by 30%. I managed this through rigorous documentation and JIRA ticket tracking, ensuring seamless project delivery. I’m excited by the opportunity to use my machine learning and pipeline optimization skills in working on AI-driven workflows at Orion Innovation. I know that my proficiency in Python-based development and cross-functional leadership align with what it takes to succeed at the Technical Lead role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

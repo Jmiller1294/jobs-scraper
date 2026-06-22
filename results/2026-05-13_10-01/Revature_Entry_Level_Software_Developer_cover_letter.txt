@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Entry Level Software Developer opportunity with Revature. I am interested in this opportunity because Revature's commitment to training motivated individuals and no prior professional experience requirement for this role perfectly aligns with my desire to launch a career in technology. What interests me about working for Revature is its approach to providing comprehensive, paid training and real-world projects in partnership with Fortune 500 companies. This focus on in-demand programming skills and career acceleration excites and inspires me because it offers a structured path for continuous learning and professional growth.
+
+I believe my strong Python and SQL skills, coupled with my hands-on ETL and data pipeline experience, would make me a strong candidate for this role. During my professional career, I have approached problems with a problem-solving mindset and a drive for automation. In fact, at Shine Masters Cleaning Services, I built Python automation for weekly sales and operations reports, ingesting POS and CRM data, which eliminated repetitive data entry, saved 8 hours per week, and improved reporting accuracy for faster strategic decisions. This resulted in improved efficiency and enabled quicker, data-informed strategic decisions.
+
+Ultimately, I know that the Entry Level Software Developer role at Revature would allow me to bring my problem-solving skills to developing robust software solutions. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my communication skills. I translated complex technical findings into business recommendations during stakeholder meetings, closing the gap between raw data and growth strategy. I’m excited by the opportunity to use my analytical and problem-solving skills in working on impactful projects at Revature. I know that my technical aptitude and my eagerness to learn align with what it takes to succeed at the Entry Level Software Developer role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

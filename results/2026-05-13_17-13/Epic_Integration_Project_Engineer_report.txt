@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Integration Project Engineer
+Company:  Epic
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4320292611
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • ETL
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Tableau
+  • Data governance
+  • Data quality
+  • CI/CD
+  • Automation
+  • APIs
+  • AWS (S3)
+  • PostgreSQL
+  • MySQL
+  • Git
+  • Analytical skills
+  • A/B testing
+  • Modeling
+  • Relational databases
+  • Reporting
+  • Stakeholder communication
+  • Data pipelines
+  • Data validation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Epic systems
+  • Healthcare integration
+  • HL7
+  • FHIR
+  • Integration architecture
+  • Project management
+  • Travel 25-60%
+  • Bachelor in related field (explicit match)
+  • U.S. work eligibility
+  • COVID-19 vaccination
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Cloud data warehouse skills (BigQuery, Snowflake)
+  • Visualization and reporting (Power BI, Tableau)
+  • Demonstrated automation and CI/CD implementation
+  • Quantified impact (revenue growth, efficiency gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Epic/healthcare integration experience
+  • No HL7/FHIR or interoperability protocols listed
+  • Limited explicit project management experience
+  • Relocation and travel willingness not stated
+  • U.S. work eligibility and vaccination not confirmed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

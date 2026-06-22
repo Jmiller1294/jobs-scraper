@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist
+Company:  Tata Consultancy Services
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416166866
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • Python
+  • SQL
+  • AWS
+  • BigQuery
+  • ETL Pipelines
+  • Time Series forecasting
+  • Tableau
+  • Power BI
+  • Git
+  • Data Modeling
+  • Leadership
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • Machine Learning
+  • Natural Language Processing
+  • Generative AI
+  • Deep Learning
+  • TensorFlow
+  • ScikitLearn
+  • Model Serving
+  • Docker
+  • Kubernetes
+  • Airflow
+  • Feature Store
+  • ONNX
+  • CI/CD
+  • Experimentation
+  • Reinforcement Learning
+  • Multimodal LLMs
+  • Speech Recognition
+  • Probabilistic Inference
+  • Recommendation Systems
+  • Bayesian Inference
+  • Optimization
+  • Information Retrieval
+  • Hopsworks
+  • Feast
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data modeling
+  • Practical time-series and analytical projects
+  • Visualization and dashboard delivery (Tableau/Power BI)
+  • Experience with AWS S3 and BigQuery
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no ML/DL frameworks experience listed
+  • No explicit NLP/Generative AI or LLM project work
+  • Missing containerization and orchestration (Docker/K8s)
+  • No model serving or MLOps tooling experience
+  • Under 8 years experience for role requirement
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

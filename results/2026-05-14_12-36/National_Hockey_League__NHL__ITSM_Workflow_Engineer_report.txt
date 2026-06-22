@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     ITSM Workflow Engineer
+Company:  National Hockey League (NHL)
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405279874
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Automation
+  • CI/CD
+  • Python
+  • REST API
+  • Performance Analytics
+  • DevOps
+  • IntegrationHub
+  • CMDB
+  • Asset Management
+  • Incident Management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • ServiceNow
+  • ITSM
+  • Problem Management
+  • Change Management
+  • AI
+  • Predictive Intelligence
+  • Now Assist
+  • Flow Designer
+  • Scripting
+  • JavaScript
+  • Service Portal
+  • Request Management
+  • Knowledge Management
+  • ATF
+  • Observability
+  • DevOps Pipeline
+  • Integration Spokes
+  • GenAI
+  • Virtual Agent
+  • CMDB quality
+  • ServiceNow CSA
+  • ITIL 4 Foundation
+  • ServiceNow CAD
+  • Entra
+  • Azure OpenAI
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong automation with Python
+  • Quantified impact in prior roles
+  • Data pipeline and ETL expertise
+  • Reporting and analytics (Power BI, Tableau)
+  • SQL and database optimization
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No ServiceNow platform experience listed
+  • No ServiceNow scripting/JavaScript experience
+  • Lacks ITIL and ServiceNow certifications
+  • No explicit AI/LLM or Now Assist experience
+  • Limited ITSM domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

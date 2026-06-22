@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior GTM Data Analyst
+Company:  Wiz
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413317672
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • BigQuery
+  • AI
+  • dashboards
+  • self-service reporting
+  • data models
+  • ETL
+  • data pipelines
+  • data quality
+  • segmentation
+  • Git
+  • GitHub
+  • Tableau
+  • Power BI
+  • stakeholder communication
+  • BI
+  • analytics
+  • data engineering
+  • Snowflake
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (4)
+  • dbt
+  • regression
+  • funnel analysis
+  • Looker
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proven dashboarding (Power BI, Tableau) with measurable impact
+  • ETL and data pipeline development
+  • Cross-functional stakeholder collaboration
+  • Experience with cloud data platforms (BigQuery, Snowflake, AWS)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit dbt experience
+  • Limited tenure in core analytics roles (3+ years borderline)
+  • No Looker experience listed
+  • No explicit advanced statistical/regression projects
+  • No mention of VSCode or BigQuery/dbt workflow specifics
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Owned the end-to-end development of scalable data models using Python and SQL, while gaining familiarity with dbt to transform raw data into production-ready GTM datasets.
+  Performed advanced statistical analysis, including regression modeling and funnel analysis, to identify key drivers of customer acquisition and optimize conversion paths.
+  Leveraged VSCode and Git to build and version-control robust data pipelines, ensuring code modularity and documentation standards consistent with modern BI workflows.
+  Collaborated with cross-functional stakeholders to migrate and maintain reporting from traditional platforms to enterprise-grade tools like Looker, enhancing self-service capabilities for GTM teams.
+  Developed automated workflows and data-driven insights by integrating AI tools with existing SQL and BigQuery infrastructure to accelerate the delivery of strategic GTM analytics.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior GTM Data Analyst opportunity with Wiz. I am interested in this opportunity because of Wiz’s position as the fastest-growing startup and its commitment to cloud security innovation. What interests me about working for Wiz is its culture of empowering employees to act as 'one-person teams' to drive real business impact; this vision of blending technical rigor with creative problem-solving deeply resonates with my professional philosophy. I believe my advanced data modeling and pipeline development skills and my analytical approach to GTM strategy would make me a strong candidate for this role. During my professional career at Shine Masters, I approached problems by proactively identifying operational bottlenecks. In fact, when tasked with improving marketing ROI, I built custom time-series models and automated data processing pipelines to track customer segments. By transforming this raw data into clear, actionable insights via Power BI, I empowered leadership to optimize marketing spend, which contributed to a 300% increase in new customer acquisition over 12 months. Ultimately, I know that the Senior GTM Data Analyst role at Wiz would allow me to bring my deep technical experience in SQL, Python, and BigQuery to build the reliable, scalable data foundations needed for GTM leadership. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my stakeholder communication and cross-functional collaboration skills. I led the transition from manual, error-prone reporting to an automated, self-service dashboarding ecosystem that reduced processing time by 40% and aligned the operations team on a unified set of KPIs. This experience in driving data maturity prepared me for the cross-functional nature of the Wiz team, where I am eager to partner with IT and Finance to improve data quality. I’m excited by the opportunity to use my background in Python and modern ETL workflows in working on the GTM Analytics infrastructure at Wiz. I know that my analytical fundamental strength and my curiosity for AI-enabled workflows align with what it takes to succeed at the Senior GTM Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

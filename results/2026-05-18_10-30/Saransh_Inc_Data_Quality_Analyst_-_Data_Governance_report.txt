@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Quality Analyst - Data Governance
+Company:  Saransh Inc
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416247267
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data quality
+  • data profiling
+  • root cause analysis
+  • data validation
+  • SQL
+  • Python
+  • ETL pipeline
+  • data modeling
+  • metrics & dashboards
+  • Power BI
+  • PostgreSQL
+  • data auditing
+  • data cleansing
+  • documentation
+  • stakeholder collaboration
+  • JIRA
+  • Confluence
+  • data reconciliation
+  • data pipelines
+  • AWS S3
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • data lineage
+  • data governance
+  • Snowflake
+  • BigQuery
+  • data standards
+  • data security
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Proven dashboarding and metric delivery (Power BI)
+  • Experience with data modeling and large datasets
+  • Documented processes and used Confluence/JIRA
+  • Cross-functional collaboration and issue resolution
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit data governance policy implementation
+  • No clear metadata/lineage management examples
+  • Sparse mention of regulatory/compliance work
+  • Partial cloud toolset coverage (Snowflake/BigQuery only listed, limited use)
+  • No explicit data security controls described
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries to clean and reconcile insurance testing data, establishing data lineage by documenting source-to-target mappings in Confluence to ensure compliance with data governance standards.
+  Built an end-to-end ETL pipeline to transform raw loan data into analytics-ready tables, incorporating automated data validation rules to enforce data quality standards and security protocols.
+  Conducted regular data profiling and auditing on 2M+ row datasets to detect anomalies, data drift, and root causes of quality issues, ensuring adherence to enterprise data security policies.
+  Developed and maintained data dictionaries and business glossaries in JIRA to provide metadata management and transparency, improving cross-functional understanding of data definitions.
+  Collaborated with IT and business units to implement data governance policies, ensuring that all reporting outputs maintained high-level data consistency and regulatory compliance across Snowflake and BigQuery environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Quality Analyst - Data Governance opportunity with Saransh Inc. I am interested in this opportunity because of Saransh Inc.’s reputation for maintaining high standards of data integrity and its commitment to leveraging robust governance frameworks to drive enterprise strategy. What interests me about working for Saransh Inc. is its focus on building reliable, scalable data infrastructures, which aligns perfectly with my background in bridging the gap between technical data engineering and business-critical decision-making. I believe my expertise in data validation and root cause analysis, and my ability to enforce rigorous data governance standards, would make me a strong candidate for this role. During my professional career, I have approached data problems with a focus on precision and documentation. In fact, while at Haven Technologies, I encountered discrepancies in insurance testing data; I led the effort to optimize relational queries and reconcile the data, which improved overall accuracy by 30%. By documenting these processes in Confluence, I ensured long-term project transparency and team alignment, which directly translates to the data lineage and documentation requirements of this role. Ultimately, I know that the Data Quality Analyst - Data Governance role at Saransh Inc. would allow me to bring my technical SQL and ETL skills to ensure the accuracy and consistency of your data assets. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data profiling skills. I managed the end-to-end audit of client datasets, utilizing Power BI to identify anomalies and operational bottlenecks. This initiative not only reduced processing time by 40% but also established the foundation for the automated quality rules that guided our company-wide KPI strategy. I am excited by the opportunity to use my proficiency in data auditing in working on maintaining enterprise data security and compliance at Saransh Inc. I know that my experience in building ETL pipelines and my commitment to data governance align with what it takes to succeed at the Data Quality Analyst - Data Governance role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Vice President, Data and Analysis
+Company:  Digitas North America
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414492329
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • Customer Segmentation
+  • A/B testing
+  • Data governance
+  • Automation
+  • ETL/ELT
+  • Statistical models
+  • CRM
+  • Google Analytics
+  • Leadership
+  • Stakeholder communication
+  • Data quality
+  • CI/CD
+  • Cloud (AWS S3)
+  • Git
+  • Advanced Excel
+  • Campaign measurement
+  • Data storytelling
+  • PostgreSQL
+  • MySQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Master's degree
+  • 15+ years experience
+  • SVP title
+  • Integrated marketing
+  • Programmatic advertising exposure
+  • Pharmaceutical/healthcare experience
+  • Audience-based marketing
+  • Supervised/unsupervised learning mention
+  • Generative AI tools
+  • Cross-functional resource management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack (Python, SQL, Snowflake, BigQuery)
+  • Proven data automation and ETL delivery
+  • Quantified impact on revenue and efficiency
+  • Experience in segmentation and campaign measurement
+  • Effective stakeholder communication and storytelling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Insufficient seniority (SVP-level 15+ years)
+  • No master’s degree listed
+  • Limited explicit experience in programmatic/audience-based marketing
+  • No pharmaceutical/healthcare domain experience
+  • Lacks explicit modern ML methods (supervised/unsupervised) examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

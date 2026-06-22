@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Consultant, Analytics & Insights
+Company:  Amazon
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417076740
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • PostgreSQL
+  • MySQL
+  • AWS S3
+  • Snowflake
+  • ETL
+  • Time series
+  • Data storytelling
+  • Visualization
+  • Automation
+  • Customer segmentation
+  • Campaign measurement
+  • Query optimization
+  • Data pipelines
+  • EDA
+  • Presentation
+  • Git
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Advanced SQL
+  • Statistical modelling
+  • Advertising publishers
+  • Marketing/creative agencies
+  • 3+ years consulting
+  • 5+ years experience
+  • Senior stakeholder (C-level) engagement
+  • Fluency with Python for advanced modelling
+  • Master's degree
+  • Performance advertising
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and query optimization experience
+  • Proficient Python data pipelines and ETL
+  • Experienced in visualization (Tableau, Power BI)
+  • Delivered quantified business impact
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Less advertising/agency-specific experience
+  • Shorter total years of senior client-facing experience
+  • Limited explicit advanced statistical modeling examples
+  • No listed consulting firm experience
+  • No master's degree/preferred qualifications
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Investigations Analyst – Digital Forensics
+Company:  Corebridge Financial
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4404241582
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (7)
+  • Python
+  • SQL
+  • reporting
+  • AWS CloudTrail
+  • Power BI
+  • data recovery
+  • Scripting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Azure Unified Audit Log
+  • Nuix
+  • Axiom
+  • EnCase
+  • FTK
+  • X-Ways Forensics
+  • Cellebrite UFED
+  • Volatility
+  • NTFS
+  • APFS
+  • Ext4
+  • cloud forensics
+  • imaging
+  • chain of custody
+  • file carving
+  • email forensics
+  • DLP
+  • memory forensics
+  • Autopsy
+  • GrayKey
+  • Nuix Workstation Forensic Practitioner
+  • EnCE
+  • GCFA
+  • GNFA
+  • CFE
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python scripting and automation
+  • SQL and data engineering
+  • Reporting and dashboards (Power BI)
+  • Quantified impact on business metrics
+  • Cross-functional stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit digital forensics tool experience (Nuix/Axiom)
+  • No forensic imaging or chain-of-custody experience listed
+  • Limited or no mobile forensics experience
+  • No certifications in forensics listed
+  • Primary background in analytics/engineering, not investigations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

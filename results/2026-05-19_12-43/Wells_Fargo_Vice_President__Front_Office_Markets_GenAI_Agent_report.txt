@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Vice President, Front Office Markets GenAI Agentic Engineer
+Company:  Wells Fargo
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416699240
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • SQL
+  • AWS
+  • BigQuery
+  • Snowflake
+  • ETL
+  • Data pipelines
+  • Git
+  • Documentation
+  • Agile
+  • Testing
+  • RESTful API
+  • CI/CD
+  • Docker
+  • Prompting
+  • GenAI
+  • LLM
+  • Integration
+  • Observability
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Agentic systems
+  • Agent evaluation
+  • State management
+  • Memory management
+  • Prompt engineering
+  • Tool Development & Integration
+  • Vibe coding
+  • Google Vertex AI
+  • Microsoft Copilot Studio
+  • Amazon Bedrock
+  • LangChain
+  • LlamaIndex
+  • AutoGen
+  • OpenShift
+  • Jenkins
+  • React
+  • Angular
+  • Java
+  • Capital markets
+  • Sales & Trading
+  • Production deployment
+  • Event-driven systems
+  • Anthropic
+  • Claude
+  • Copilot
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL hands-on experience
+  • Proven ETL and data pipeline development
+  • Cloud analytics experience (AWS, BigQuery, Snowflake)
+  • Documentation and Agile delivery experience
+  • Experience integrating APIs and cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit production agentic/GenAI platform experience
+  • No evidence of LangChain/LlamaIndex/AutoGen or major GenAI platforms
+  • No Java or modern Java framework experience
+  • No direct capital markets or sales & trading domain experience
+  • Limited container orchestration/CI-CD tooling details (OpenShift/Jenkins/Azure)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

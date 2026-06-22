@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Associate - Development Lead - Digital Experience Platform
+Company:  New York Life
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4386786388
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • AWS
+  • React
+  • HTML/CSS
+  • Git
+  • SQL
+  • APIs
+  • MLOps
+  • Tableau
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • Component libraries
+  • Design systems
+  • Cloud-native
+  • Prompt management
+  • LLM
+  • Agentic AI
+  • RAG
+  • CI/CD
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • AEM
+  • LangChain
+  • Microservices
+  • Accessibility
+  • Performance
+  • Security
+  • Flutter
+  • Angular
+  • CrewAI
+  • TensorFlow
+  • PyTorch
+  • Spring Boot
+  • Java
+  • MCP
+  • Retrieval-Augmented Generation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • AWS and cloud data experience
+  • Full-stack development exposure
+  • Demonstrated measurable impact (quantified outcomes)
+  • Data visualization and dashboarding expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Adobe Experience Manager (AEM) experience
+  • No clear production experience with LangChain/CrewAI or agent frameworks
+  • Lacks Java/Spring Boot and microservices depth
+  • Minimal frontend framework depth (React experience unclear)
+  • Limited ML framework (TensorFlow/PyTorch) experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

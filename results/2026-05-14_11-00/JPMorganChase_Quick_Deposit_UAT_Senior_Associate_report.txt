@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quick Deposit UAT Senior Associate
+Company:  JPMorganChase
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414621219
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 54/100
+[██████████░░░░░░░░░░] 54%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Agile
+  • SQL
+  • API
+  • JIRA
+  • test execution
+  • integration testing
+  • databases
+  • Python
+  • Git
+  • documentation
+  • communication
+  • stakeholder collaboration
+  • data modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (23)
+  • UAT
+  • User Acceptance Testing
+  • test cases
+  • test plan
+  • mobile testing
+  • SeeTest
+  • defect management
+  • manual test scripts
+  • Cucumber
+  • UDF
+  • regression testing
+  • time management
+  • test execution tracking
+  • functional test plans
+  • production releases
+  • fraud/risk screening
+  • Remote Check Deposit
+  • payment posting
+  • exception handling
+  • third-party vendor applications
+  • microsites
+  • Cucumber
+  • UDF
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database skills
+  • API and integration experience
+  • Python automation for reporting
+  • Experience with Agile teams
+  • Clear stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit UAT title or UAT ownership
+  • Missing JIRA-specific evidence
+  • No Cucumber/UDF automation experience listed
+  • No mobile/SeeTest testing experience
+  • No explicit defect lifecycle management examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

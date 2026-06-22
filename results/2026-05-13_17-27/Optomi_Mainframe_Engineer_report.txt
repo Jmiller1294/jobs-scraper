@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Mainframe Engineer
+Company:  Optomi
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4414178418
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • automation
+  • Python
+  • SQL
+  • automation tooling
+  • CI/CD
+  • Git
+  • ETL
+  • BigQuery
+  • Snowflake
+  • PostgreSQL
+  • data pipelines
+  • data storage
+  • site reliability engineering
+  • leadership
+  • financial services
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • z/OS
+  • DB2
+  • CICS
+  • REXX
+  • infrastructure scripting
+  • DBA
+  • monitoring
+  • testing/validation
+  • scripting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong automation experience (Python, ETL, CI/CD)
+  • Solid SQL and database optimization skills
+  • Experience building production data pipelines
+  • Familiarity with cloud data platforms (BigQuery, Snowflake, AWS S3)
+  • Quantified impact in prior roles (time and revenue improvements)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No mainframe (z/OS, DB2, CICS) experience listed
+  • No REXX or infrastructure-side scripting for mainframe
+  • Limited explicit SRE/monitoring tooling experience
+  • Job titles are data/engineering-focused, not mainframe infrastructure
+  • Relatively short tenure in senior infrastructure roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

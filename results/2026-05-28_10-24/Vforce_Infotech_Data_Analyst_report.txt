@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst
+Company:  Vforce Infotech
+Location: Edison, NJ, US
+URL:      https://www.indeed.com/viewjob?jk=b0e05f95a7697115
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • R
+  • Power BI
+  • Tableau
+  • ETL
+  • PostgreSQL
+  • Dashboards
+  • Automation
+  • Data cleaning
+  • Exploratory Data Analysis
+  • Documentation
+  • Data modeling
+  • BigQuery
+  • Visualization
+  • Git
+  • APIs
+  • Snowflake
+  • S3
+  • Advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Oracle
+  • Microsoft SQL Server
+  • Talend
+  • VBA
+  • Bash
+  • Looker
+  • Predictive analytics
+  • Agile
+  • SDLC
+  • Business analysis
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise with ETL experience
+  • Proven dashboard development (Power BI, Tableau) with quantified impact
+  • Experience building data models and pipelines (PostgreSQL, Python)
+  • Demonstrated data cleaning, EDA, and automation skills
+  • Clear documentation and cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Oracle or Microsoft SQL Server experience listed
+  • No Talend or other ETL tool certification mentioned
+  • Limited evidence of VBA or Bash scripting
+  • Agile and SDLC experience not strongly highlighted
+  • Looker and predictive analytics tools/frameworks not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized database queries and stored procedures across Microsoft SQL Server and Oracle environments, ensuring data integrity and query performance for high-volume insurance testing.
+  Integrated ETL workflows using Python scripts and SQL logic, effectively bridging data from diverse sources to support complex predictive analytics and trend forecasting.
+  Managed project lifecycles using Agile methodologies and JIRA, ensuring all analytics solutions followed standard SDLC documentation and quality control practices.
+  Performed comprehensive business analysis to translate complex stakeholder requirements into actionable dashboards, utilizing advanced visualization platforms.
+  Automated recurring data ingestion and reporting tasks using Bash scripting and Python, reducing manual effort and improving workflow efficiency.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst opportunity with Vforce Infotech. I am interested in this opportunity because of your commitment to leveraging data to drive strategic business outcomes, which mirrors my own passion for transforming raw data into clear, actionable insights. What interests me about working for Vforce Infotech is its innovative approach to utilizing advanced analytics to solve complex problems, which intrigues me because I thrive in environments that prioritize technical precision and continuous improvement. I believe my expertise in SQL, Python, and ETL pipeline design, and my experience in cross-functional business analysis, would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on the intersection of technical architecture and business needs. In fact, while at Shine Masters, I identified a bottleneck in client onboarding and utilized Python and Zapier to automate the workflow, while simultaneously building Power BI dashboards to track the resulting KPIs. This resulted in saving 8 hours per week and a 300% increase in customer acquisition over 12 months, showcasing how I connect technical solutions to bottom-line results. Ultimately, I know that the Data Analyst role at Vforce Infotech would allow me to bring my data modeling skills to your database optimization initiatives. Additionally, my role as a Software Developer at Haven Technologies (MassMutual) enabled me to develop my SDLC and Agile project management skills. I collaborated with product and underwriting teams to align features with business objectives, using JIRA for documentation and Git for version control, which reduced project delivery delays by 25%. I’m excited by the opportunity to use my background in predictive analytics and data cleaning in working on large-scale data projects at Vforce Infotech. I know that my technical proficiency and analytical mindset align with what it takes to succeed at the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

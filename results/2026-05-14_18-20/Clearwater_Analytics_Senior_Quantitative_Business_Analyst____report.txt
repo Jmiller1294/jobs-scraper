@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Quantitative Business Analyst – Risk & Performance
+Company:  Clearwater Analytics
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414751624
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • ETL
+  • Data pipelines
+  • Automation
+  • CI/CD
+  • Git
+  • PostgreSQL
+  • Data quality
+  • Statistical modeling
+  • Visualization
+  • Reporting
+  • Stakeholder communication
+  • Cross-functional collaboration
+  • Technical writing
+  • Cloud (AWS S3)
+  • A/B testing
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Value-at-Risk
+  • Stress Testing
+  • Monte-Carlo
+  • Market data
+  • Quantitative analysis
+  • Product specifications
+  • Customer-facing
+  • C++
+  • C#
+  • Java
+  • Market data vendors
+  • Market trends
+  • Risk management
+  • Market risk
+  • Financial services
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Built production ELT pipelines (Snowflake/BigQuery)
+  • Data quality and CI/CD implementation
+  • Cross-functional collaboration and stakeholder communication
+  • Quantitative/statistical modeling and automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No VaR or stress-testing experience
+  • Limited explicit market risk or financial services background
+  • No Monte-Carlo simulation mention
+  • Lacks object-oriented languages like C++/C#/Java
+  • No explicit customer-facing risk product experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

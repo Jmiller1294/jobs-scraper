@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     API Designer : Jersey City, NJ / Tampa, FL (Hybrid) : Onsite : Full Time Permanent
+Company:  AceStack
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4414112222
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • API
+  • Postman
+  • Git
+  • AWS
+  • CI/CD
+  • Agile
+  • documentation
+  • automation
+  • SQL
+  • Python
+  • ETL
+  • APIs
+  • database
+  • Snowflake
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (19)
+  • REST
+  • OpenAPI
+  • Swagger
+  • gRPC
+  • AsyncAPI
+  • API gateway
+  • OAuth2
+  • JWT
+  • API keys
+  • API design
+  • developer portals
+  • event-driven
+  • microservices
+  • EKS
+  • automated testing
+  • versioning
+  • mock servers
+  • Postman
+  • security
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Practical API consumption/integration experience
+  • CI/CD pipeline implementation
+  • Data pipeline and automation with cloud tools
+  • Agile team collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit API design/specification experience (OpenAPI/AsyncAPI)
+  • No demonstrated gRPC or event-driven API work
+  • Limited API security (OAuth2/JWT) evidence
+  • No explicit API gateway or developer portal experience
+  • Less than required senior API designer title/years
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

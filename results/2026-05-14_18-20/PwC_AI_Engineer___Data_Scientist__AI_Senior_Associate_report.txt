@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Engineer / Data Scientist, AI Senior Associate
+Company:  PwC
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404462083
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 80/100
+[████████████████░░░░] 80%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • data governance
+  • automation
+  • reporting
+  • Power BI
+  • CI/CD
+  • Great Expectations
+  • stakeholder communication
+  • ETL
+  • data quality
+  • Git
+  • A/B testing
+  • statistics
+  • Tableau
+  • AWS (S3)
+  • data wrangling
+  • model testing and validation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • AI/ML
+  • model evaluation
+  • controls testing
+  • risk management
+  • data lifecycle
+  • testing and validation
+  • governance standards
+  • model deployment
+  • leading AI/ML controls
+  • thought leadership
+  • compliance
+  • regulatory compliance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Proven reporting & BI (Power BI, Tableau)
+  • Experience with cloud warehouses (BigQuery, Snowflake)
+  • Implemented data quality & CI/CD (Great Expectations, GitHub Actions)
+  • Quantified impact (e.g., 300% segment revenue, 40% efficiency)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit AI/ML model development experience
+  • Limited demonstrated controls/testing or audit background
+  • No direct experience with model evaluation frameworks
+  • Minimal explicit risk/compliance credentials
+  • Under 2 years relevant AI/governance experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and implemented robust data governance frameworks to ensure data quality and compliance, establishing a single source of truth for all business stakeholders.
+  Led model testing and validation efforts for automated Python reporting pipelines, incorporating rigorous data quality checks via Great Expectations to mitigate operational risk.
+  Analyzed complex datasets to identify high-value customer segments, providing the statistical rigor and model evaluation necessary to inform executive risk management and strategic marketing decisions.
+  Collaborated with cross-functional stakeholders to translate technical AI/ML output into actionable business recommendations, enhancing transparency in reporting and model deployment lifecycle.
+  Documented and refined internal controls for data pipelines to ensure alignment with organizational governance standards and regulatory compliance requirements.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the AI Senior Associate opportunity with PwC. I am interested in this opportunity because of PwC’s reputation for driving trust and innovation through data-driven assurance. What interests me about working for PwC is its commitment to shaping the future of AI governance and ethical technology, which intrigues me because of my own passion for building reliable, scalable, and transparent data architectures. I believe my proficiency in data governance and my analytical approach to model validation would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and stakeholder alignment. In fact, while at Shine Masters, I implemented a new data governance framework to standardize KPIs and reporting, which bridged the gap between raw data and growth strategy. By replacing manual reporting with automated Python workflows and rigorous validation, I reduced data discrepancies and improved reporting accuracy, directly impacting the company's ability to make informed decisions. Ultimately, I know that the AI Senior Associate role at PwC would allow me to bring my experience in data governance to evaluate and assess AI solutions for compliance and transparency. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my model evaluation skills. I designed and executed A/B tests to measure campaign response, which required building statistical models to assess performance and inform resource allocation. This work ensured that every marketing initiative was backed by sound statistical evidence, resulting in a 300% increase in revenue for targeted segments. I’m excited by the opportunity to use my background in automation and data lifecycle management in working on AI/ML control efforts at PwC. I know that my technical expertise in Python/SQL and my focus on governance align with what it takes to succeed at the AI Senior Associate role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

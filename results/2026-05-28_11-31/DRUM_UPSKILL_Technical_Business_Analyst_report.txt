@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technical Business Analyst
+Company:  DRUM UPSKILL
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4420430711
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • APIs
+  • data mapping
+  • Jira
+  • PostgreSQL
+  • SQL
+  • Python
+  • ETL
+  • data integrations
+  • JSON
+  • Stakeholder management
+  • system integrations
+  • data flow
+  • requirements
+  • user stories
+  • Git
+  • Confluence
+  • cloud (AWS S3)
+  • data structures
+  • documentation
+  • cross-functional collaboration
+  • automation
+  • testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • XML
+  • Postman
+  • SOAP UI
+  • call system vendor onboarding
+  • system-to-system communication
+  • hosting considerations
+  • performance recommendations
+  • SOAP
+  • API endpoints
+  • integration endpoints
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • Hands-on ETL and Python data pipelines
+  • Experience with Jira and Confluence
+  • Documented workflows and cross-functional collaboration
+  • Quantified impact on performance and efficiency
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit XML experience listed
+  • No explicit Postman or SOAP UI testing experience
+  • No direct mention of API endpoint analysis
+  • Limited direct experience with telephony/call system onboarding
+  • Title not explicitly 'Technical Analyst'
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with developers to document API endpoints and data structures (JSON/XML), ensuring seamless system-to-system communication and integration reliability.
+  Performed functional system testing using Postman to validate API responses and data flow, proactively identifying bugs before production deployment.
+  Executed data mapping and schema validation tasks during system migrations, ensuring data integrity across integrated platforms and endpoints.
+  Analyzed technical requirements for system integrations, contributing performance recommendations that optimized data handling and processing speeds.
+  Led documentation efforts for complex system interactions, providing clear guidelines for integration endpoints and hosting considerations.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Technical Business Analyst opportunity with DRUM UPSKILL. I am interested in this opportunity because of the program's unique commitment to building the next generation of leaders through hands-on exposure to enterprise systems and modern engineering practices. What interests me about working for DRUM UPSKILL is its focus on continuous upskilling; the prospect of contributing to high-impact projects at a Fortune 100 partner while refining my technical toolkit in a collaborative environment truly inspires me. I believe my proficiency in data integration and mapping and my experience in cross-functional stakeholder management would make me a strong candidate for this role. During my professional career, I have approached complex data problems with a focus on system reliability and scalability. In fact, at Haven Technologies, I integrated data from multiple sources including APIs and PostgreSQL databases to build unified schemas, which streamlined development for engineering teams. This project resulted in a 30% improvement in data accuracy and provided the team with clean, well-documented structures essential for stable deployments—skills directly applicable to supporting the TIPS system. Ultimately, I know that the Technical Business Analyst role at DRUM UPSKILL would allow me to bring my expertise in SQL and Python data pipelines to enhance the stability and performance of core processing systems. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my requirements gathering and process optimization skills. I identified bottlenecks in client onboarding and utilized tools like Zapier to automate workflows, saving 8 hours per week and allowing the team to focus on high-value lead generation. I’m excited by the opportunity to use my ability to translate business needs into technical user stories in working on the call system vendor onboarding project at DRUM UPSKILL. I know that my technical versatility and commitment to documentation align with what it takes to succeed in the Technical Business Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

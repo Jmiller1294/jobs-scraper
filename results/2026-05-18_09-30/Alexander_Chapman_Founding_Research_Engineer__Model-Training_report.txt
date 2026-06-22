@@ -1,0 +1,59 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Founding Research Engineer, Model-Training
+Company:  Alexander Chapman
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4416210949
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (9)
+  • Python
+  • SQL
+  • Git
+  • ETL
+  • data pipelines
+  • AWS
+  • BigQuery
+  • version control
+  • end-to-end ownership
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • PyTorch
+  • JAX
+  • LLM training
+  • generative ML
+  • RL
+  • distributed training
+  • GPU performance
+  • ML infrastructure
+  • evaluation systems
+  • post-training
+  • model performance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python data engineering
+  • SQL and database modeling
+  • ETL and pipeline development
+  • Dashboarding and metrics quantification
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated PyTorch/JAX experience
+  • No LLM/generative model training experience
+  • No RL or post-training evaluation experience
+  • No distributed training or GPU optimization experience
+  • Limited ML research/modeling publications or quantified model results
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

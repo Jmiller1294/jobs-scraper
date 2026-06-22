@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Forward Deployed Engineer (FDE) - NYC
+Company:  OpenAI
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4334774578
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • production deployment
+  • full-stack
+  • ETL
+  • APIs
+  • SQL
+  • PostgreSQL
+  • Cloud
+  • AWS
+  • version control
+  • Git
+  • data modeling
+  • data pipelines
+  • customer-facing
+  • JIRA
+  • Confluence
+  • Tableau
+  • Power BI
+  • automation
+  • product collaboration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • JavaScript
+  • LLMs
+  • monitoring
+  • system design
+  • technical scoping
+  • security
+  • GRC
+  • frontend
+  • backend
+  • production-grade code
+  • deployment
+  • scoping
+  • travel
+  • stakeholder communication
+  • playbooks
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL fluency
+  • Experience building ETL and data pipelines
+  • Proven production impact with quantified metrics
+  • Full-stack development experience and Git usage
+  • Customer-facing operational improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit JavaScript/frontend experience
+  • No documented LLM/generative model deployments
+  • Sparse system design and technical scoping evidence
+  • No mention of monitoring/production ops tooling
+  • Limited years in engineering-focused roles (≈3 years)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

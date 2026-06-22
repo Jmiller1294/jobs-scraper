@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Software Engineer - Payments Data Platform
+Company:  JPMorganChase
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4367456363
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • AWS
+  • CI/CD
+  • Python
+  • SQL
+  • Docker
+  • GitHub Actions
+  • Automation
+  • Testing
+  • Operational Stability
+  • Cloud
+  • BigQuery
+  • dbt
+  • Airflow
+  • System Design
+  • Security
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Java
+  • Spring Boot
+  • EKS
+  • Lambda
+  • DynamoDB
+  • Opensearch
+  • Application Resiliency
+  • Spark
+  • Databricks
+  • Solutions Architect
+  • Financial Services
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and data engineering experience
+  • CI/CD and automation with GitHub Actions
+  • Cloud experience (GCP, AWS listed)
+  • Proven measurable impact (efficiency and lead improvements)
+  • Experience with ELT, dbt, Airflow, data quality
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated Java / Spring Boot experience
+  • Limited explicit AWS native services (EKS, Lambda, DynamoDB)
+  • No Spark or Databricks experience
+  • Less than required 5+ years in software engineering roles
+  • No explicit financial services domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

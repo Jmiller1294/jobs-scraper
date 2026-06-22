@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst
+Company:  Spark Foundry
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4397276973
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 55/100
+[███████████░░░░░░░░░] 55%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Excel
+  • PowerPoint
+  • reporting
+  • campaign analytics
+  • forecasting
+  • automation
+  • Power BI
+  • SQL
+  • data visualization
+  • client-facing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • paid social
+  • Facebook
+  • Instagram
+  • TikTok
+  • X
+  • campaign optimization
+  • bid strategy
+  • budget management
+  • benchmarking
+  • Pinterest
+  • Snapchat
+  • Reddit
+  • Yelp
+  • Uber Eats
+  • Doordash
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data analysis and SQL skills
+  • advanced Excel and reporting expertise
+  • Power BI dashboard development with measurable impact
+  • automation experience reducing manual work
+  • client-facing and cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited/no paid social platform buying experience
+  • insufficient direct campaign bidding/optimization evidence
+  • no explicit budget management or rate-tracking experience
+  • lack of quantified paid media campaign results
+  • titles reflect data roles rather than paid social specialist
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

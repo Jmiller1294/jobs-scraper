@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Innisfree M&A Incorporated
+
+Dear Hiring Manager,
+
+I am excited to apply for the Stock Surveillance Analytical Researcher position at Innisfree M&A Incorporated. With my background in data analytics, automation, and quantitative analysis, I am confident I would be a strong addition to your team.
+
+Innisfree M&A Incorporated's reputation as the premier high-stakes shareholder engagement firm, driven by its proprietary ActiveIQ™ methodology, is incredibly compelling. I am eager to contribute my analytical skills to such a respected leader in the financial industry.
+
+In my previous roles, I have developed sophisticated data pipelines and reporting mechanisms that have significantly improved efficiency and driven revenue growth. Additionally, I have a proven track record of translating complex data into actionable insights for stakeholders, which directly aligns with your need for an Analytical Researcher who can support the Stock Market Analyst team and provide in-depth reports explaining stock ownership changes and trading volumes.
+
+Specifically, I have experience in analyzing large, complex datasets to identify patterns and drive strategic decisions. For example, I created statistical models to identify high-value customer segments, which contributed to a 300% increase in revenue in the targeted segment. I also built Python automation for weekly reports, saving 8 hours per week and improving accuracy. While my direct experience with financial data platforms like Bloomberg and FactSet is developing, my foundational skills in SQL, Python, and data analysis, coupled with my aptitude for quickly learning new tools and financial concepts, make me a strong candidate to bridge this gap. My projects have involved time-series data analysis and building robust data models, skills directly applicable to understanding stock market trading data.
+
+I am particularly drawn to Innisfree M&A Incorporated's mission of providing critical information, best-in-class analytics, and actionable recommendations to clients. I believe my experience in data analysis, automation, and translating technical findings into business recommendations would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

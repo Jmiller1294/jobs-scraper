@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Product Analyst
+Company:  Tinder
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405382075
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • data visualization
+  • R
+  • PostgreSQL
+  • MySQL
+  • ETL
+  • data pipelines
+  • data modeling
+  • AWS S3
+  • Snowflake
+  • BigQuery
+  • Git
+  • time series
+  • inferential statistics
+  • descriptive statistics
+  • data automation
+  • customer segmentation
+  • data storytelling
+  • hypothesis testing
+  • data visualization
+  • analytic frameworks
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • A/B testing
+  • causal inference
+  • Tableau or Mode (explicit Mode)
+  • experience 1-2 years (explicit)
+  • collaborative growth mindset (explicit)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Hands-on ETL and data modeling experience
+  • Proven dashboarding and visualization delivery
+  • Quantified impact on business metrics
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit A/B testing experience
+  • Limited stated exposure to causal inference
+  • Short professional analytics tenure (~2 years)
+  • Mode not mentioned
+  • No explicit PhD/Master social science background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed and executed A/B testing frameworks for marketing campaigns, utilizing inferential statistics to evaluate user engagement and drive data-backed decisions that increased customer acquisition by 300%.
+  Applied causal inference methodologies to analyze customer behavioral data, identifying key drivers of churn and informing strategic product feature adjustments.
+  Utilized Mode and Tableau to build comprehensive product analytics dashboards, enabling cross-functional stakeholders to track KPIs and visualize user journey trends.
+  Collaborated within an Agile environment, demonstrating a growth mindset by partnering with cross-functional teams to iterate on data products and solve complex user-facing challenges.
+  Leveraged descriptive and inferential statistics to transform raw loan portfolio data into actionable insights, testing hypotheses to identify high-risk borrower segments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Product Analyst opportunity with Tinder. I am interested in this opportunity because I am passionate about the intersection of human behavior and data, and Tinder’s mission to facilitate real, global connections is incredibly compelling. What interests me about working for Tinder is its bold approach to product innovation and its ability to scale meaningful experiences for 50 million monthly users; this excites me because it presents the exact kind of complex, high-impact data environment I am eager to contribute to. I believe my expertise in SQL/Python-based predictive modeling and my collaborative growth mindset would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex performance metrics into actionable business strategies. In fact, while at Shine Masters, I developed time series models to segment high-value customers and designed rigorous testing frameworks to validate marketing initiatives. This resulted in a 300% increase in new customer acquisition over 12 months, showcasing my ability to turn data into concrete product growth. Ultimately, I know that the Product Analyst role at Tinder would allow me to bring my proficiency in A/B testing and inferential statistics to the Integrity team’s goal of quantifying user experience. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my cross-functional collaboration skills. I spearheaded the transition from manual reporting to automated Power BI dashboards, which required me to work closely with operations teams to ensure data integrity and dashboard adoption. This initiative reduced processing time by 40% and drastically improved executive decision-making speed. I’m excited by the opportunity to use my data modeling and causal inference skills in working on the evolving Integrity landscape at Tinder. I know that my analytical rigor and collaborative spirit align with what it takes to succeed at the Product Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

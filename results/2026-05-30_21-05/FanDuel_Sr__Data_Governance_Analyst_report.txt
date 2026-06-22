@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr. Data Governance Analyst
+Company:  FanDuel
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4412157148
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Snowflake
+  • S3
+  • SQL
+  • Python
+  • Tableau
+  • ETL
+  • Documentation
+  • Data Platforms
+  • Data Modeling
+  • Automation
+  • Communication
+  • Stakeholder Management
+  • Data Quality
+  • Data Standards
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Data Governance
+  • Metadata Management
+  • Data Classification
+  • Databricks
+  • Pyspark
+  • Looker
+  • Collibra
+  • Alation
+  • Informatica
+  • Audits
+  • Data Stewardship
+  • Data Owners
+  • Performance Standards
+  • Clickstream
+  • Redshift
+  • Airflow
+  • Microstrategy
+  • Conflict Resolution
+  • C-level Communication
+  • Regulated Industry
+  • Product Interface
+  • Quality Assurance
+  • Data Governance Tools
+  • Data Governance Roadmap
+  • Facilitation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on with Snowflake and AWS S3
+  • Proven ETL and data modeling skills
+  • Visualization expertise (Tableau, Power BI)
+  • Documented SOPs and stakeholder collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit data governance tool experience
+  • Limited/absent Databricks and Pyspark
+  • No mention of metadata management
+  • Short formal tenure in data governance roles
+  • No explicit experience with audits or data classification
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

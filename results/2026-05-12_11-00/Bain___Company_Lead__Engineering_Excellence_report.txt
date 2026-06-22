@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead, Engineering Excellence
+Company:  Bain & Company
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4403505100
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Python
+  • SQL
+  • PostgreSQL
+  • Git
+  • Cloud (AWS)
+  • BigQuery
+  • Snowflake
+  • ETL
+  • Data pipelines
+  • CI/CD
+  • Automated testing
+  • Full-stack development
+  • API integration
+  • Performance optimization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • LLMs
+  • Prompt engineering
+  • Retrieval-augmented generation
+  • RAG
+  • Microservices
+  • GraphQL
+  • FastAPI
+  • Model inference
+  • Embedding
+  • Unit tests
+  • Scaling
+  • Tokenization
+  • Context window limits
+  • Claude Code
+  • Cursor
+  • gRPC
+  • PostgreSQL (advanced)
+  • MongoDB
+  • AWS high-availability
+  • Consulting experience
+  • Multi-agent architectures
+  • Planner-executor-verifier patterns
+  • Reasoning control techniques
+  • Hallucination evaluation
+  • Cost optimization strategies
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL and data pipeline development
+  • Practical cloud experience (AWS, BigQuery, Snowflake)
+  • Proven impact with quantified outcomes
+  • Experience with CI/CD and Git workflows
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LLM/AI model development experience
+  • No prompt engineering or RAG implementations noted
+  • Limited microservices/API framework experience (FastAPI/GraphQL/gRPC)
+  • Few software engineering best-practice artifacts (unit tests, multi-agent design)
+  • Limited consulting or enterprise transformation experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

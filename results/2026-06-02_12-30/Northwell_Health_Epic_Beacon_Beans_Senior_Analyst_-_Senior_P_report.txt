@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Epic Beacon/Beans Senior Analyst - Senior Product Services & Management Analyst
+Company:  Northwell Health
+Location: Lake Success, NY
+URL:      https://www.linkedin.com/jobs/view/4421344861
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • SQL
+  • Python
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • ETL
+  • JIRA
+  • Confluence
+  • AWS
+  • data integrity
+  • testing
+  • project management
+  • financial reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Epic
+  • Beacon
+  • Epic configuration
+  • cancer care
+  • dialysis
+  • Epic implementation
+  • change management
+  • incident management
+  • budgeting
+  • data warehousing
+  • on-call
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • ETL and data pipeline experience
+  • Visualization with Power BI
+  • Experience with cloud data platforms
+  • Documentation and ticketing (JIRA/Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Epic / Beacon certification or experience
+  • Limited healthcare finance / billing domain experience
+  • No explicit on-call or incident management history
+  • Less than required 3-5 years in relevant financial systems role
+  • No direct experience with budgeting or data warehousing for finance
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

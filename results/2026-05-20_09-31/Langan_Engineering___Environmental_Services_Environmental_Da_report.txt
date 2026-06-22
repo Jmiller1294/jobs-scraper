@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Environmental Data Analyst
+Company:  Langan Engineering & Environmental Services
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406536842
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Excel
+  • Power BI
+  • SQL
+  • data validation
+  • data management
+  • ETL
+  • Python
+  • data visualization
+  • databases
+  • PostgreSQL
+  • data workflows
+  • data cleaning
+  • reporting
+  • data integration
+  • data pipelines
+  • automation
+  • tableau
+  • advanced Excel
+  • AWS S3
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • EQuIS
+  • data QA/QC
+  • environmental sampling
+  • regulatory reporting
+  • GIS
+  • Power BI dashboards
+  • QA/QC checks
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Excel and Power BI proficiency
+  • Practical SQL and PostgreSQL experience
+  • ETL and Python data pipeline development
+  • Proven dashboarding and reporting impact
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit EQuIS experience
+  • Limited environmental sampling/regulatory background
+  • QA/QC in environmental context not demonstrated
+  • GIS experience not shown
+  • Only 0–3 years targeted environmental experience (mostly general data analytics)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

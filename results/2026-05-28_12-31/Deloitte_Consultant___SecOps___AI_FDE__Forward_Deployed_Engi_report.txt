@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Consultant — SecOps / AI FDE (Forward Deployed Engineer)
+Company:  Deloitte
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4409913585
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 31/100
+[██████░░░░░░░░░░░░░░] 31%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • APIs
+  • ETL
+  • data pipelines
+  • cloud (AWS)
+  • Git
+  • SQL
+  • integration
+  • automation
+  • data normalization
+  • testing
+  • workflow orchestration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • SIEM
+  • SOAR
+  • detection engineering
+  • security telemetry
+  • log ingestion
+  • alerting
+  • case management
+  • MITRE ATT&CK
+  • threat hunting
+  • incident response
+  • AI/LLM
+  • event streaming
+  • consulting
+  • XDR
+  • EDR
+  • TIP
+  • cloud-native security
+  • agentic orchestration
+  • model gateways
+  • observability
+  • security frameworks
+  • security operations
+  • SOC
+  • mentor
+  • regulatory compliance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL and data pipelines
+  • Cloud experience (AWS S3) and Snowflake/BigQuery
+  • Automation and workflow improvements (Zapier, scripts)
+  • Demonstrated measurable impact (quantified outcomes)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SIEM/SOAR platform experience
+  • Lacks detection engineering and threat hunting evidence
+  • No MITRE ATT&CK or security frameworks listed
+  • Limited security operations / incident response experience
+  • No AI/LLM applied to security workflows shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

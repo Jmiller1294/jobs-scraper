@@ -1,0 +1,90 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Application Support Engineer - Associate
+Company:  iCapital
+Location: Greenwich, CT
+URL:      https://www.linkedin.com/jobs/view/4393216170
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • root cause analysis
+  • production support
+  • Python
+  • ETL
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • PostgreSQL
+  • MySQL
+  • Git
+  • data governance
+  • dashboards
+  • automation
+  • data pipelines
+  • UAT
+  • stakeholder communication
+  • data validation
+  • data quality
+  • requirements documentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • financial services
+  • private equity
+  • fund administrators
+  • business analyst
+  • site administration
+  • relationship management
+  • fund data
+  • customer support
+  • business workflows
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database optimization experience
+  • Proven ETL and pipeline development
+  • Dashboarding and reporting (Power BI, Tableau)
+  • Automation and testing (Python, CI/CD, Great Expectations)
+  • Quantified impact on efficiency and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit financial services experience
+  • No mention of site administration
+  • No explicit private equity/hedge fund domain work
+  • Customer/fund administrator liaison experience not shown
+  • Only ~3 years relevant experience borderline
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Served as the primary liaison to work cross-functionally with clients and fund administrators to manage and rectify data exceptions, leveraging strong relationship management abilities and deep SQL troubleshooting for data quality control.
+  Developed exception management tools and dashboards to strengthen data quality control, producing metrics to inform stakeholders on prioritizing resolutions, aligning with business analyst responsibilities for existing and new features.
+  Performed root cause analysis of production issues by utilizing SQL to analyze complex datasets and coordinated with Production Support and Engineering teams to resolve issues, demonstrating a proven track record in production support.
+  Defined business and technology requirements documents for Engineering teams to develop new features or address issues, drawing on experience in site administration principles and data flow analysis.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend, a transferable skill to understanding business workflows and their impact.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager at iCapital,
+
+I am excited to submit my application for the Application Support Engineer - Associate opportunity with iCapital. I am interested in this opportunity because my proven track record in data analysis, production support, and cross-functional collaboration aligns perfectly with the demands of this role.
+
+What interests me about working for iCapital is your innovative approach to private markets technology. This commitment to advancing the industry excites me because I am passionate about leveraging technology to solve complex data challenges and drive business growth.
+
+I believe my strong SQL and data analysis skills, coupled with my experience in automation and reporting, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on detailed root cause analysis and efficient resolution. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports (ingesting POS and CRM data), eliminating repetitive data entry, saving 8 hours per week, and significantly improving reporting accuracy for faster strategic decisions. This resulted in a reduction in data mismatches and improved work efficiency by 40%.
+
+Ultimately, I know that the Application Support Engineer - Associate role at iCapital would allow me to bring my expertise in SQL analysis to resolving production issues and rectifying data exceptions. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my stakeholder communication skills. I translated complex technical findings into business recommendations during stakeholder meetings to close the gap between raw data and growth strategy. This experience has honed my ability to effectively communicate technical issues and solutions to both technical and non-technical audiences.
+
+I’m excited by the opportunity to use my data quality control skills in working on exception management and data projects at iCapital. I know that my ability to perform root cause analysis and my experience with data governance align with what it takes to succeed in the Application Support Engineer - Associate role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

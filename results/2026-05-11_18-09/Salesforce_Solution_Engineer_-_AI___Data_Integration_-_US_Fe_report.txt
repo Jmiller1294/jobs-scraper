@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Solution Engineer - AI & Data Integration - US Federal
+Company:  Salesforce
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405408137
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Tableau
+  • APIs
+  • AWS
+  • Snowflake
+  • BigQuery
+  • SQL
+  • Python
+  • ETL/ELT
+  • data pipelines
+  • CI/CD
+  • data governance
+  • analytics
+  • data integration
+  • Tableau dashboard
+  • reporting
+  • Git
+  • Power BI
+  • enterprise data
+  • data quality
+  • data modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • agentic AI
+  • MuleSoft
+  • Data 360
+  • RAG
+  • LLM integration
+  • prompt engineering
+  • FedRAMP
+  • Impact Level 4/5/6
+  • solution engineering
+  • sales support
+  • technical workshops
+  • trusted context foundations
+  • unified data management
+  • MuleSoft Certified Architect
+  • Salesforce Data 360 Consultant
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on cloud data platforms (Snowflake, BigQuery, AWS S3)
+  • Proven ETL/ELT and pipeline automation
+  • Tableau and Power BI visualization skills
+  • Quantified impact (revenue lift, efficiency gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit agentic AI or LLM experience
+  • No MuleSoft or Data 360 exposure
+  • Limited solution engineering/sales engagement evidence
+  • No FedRAMP or government compliance experience
+  • Under 5 years relevant SE/architecture experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  CBL Solutions
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4413467819
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • JavaScript
+  • HTML5
+  • CSS
+  • Git
+  • CI/CD
+  • REST APIs
+  • SQL
+  • Linux/UNIX
+  • JSON
+  • Agile
+  • Unit Testing
+  • UI programming
+  • System Design
+  • Docker
+  • Postgres
+  • Communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Angular
+  • Web Sockets
+  • XML
+  • MongoDB
+  • NoSQL
+  • SCMs like GIT
+  • JIRA
+  • Angular (8 or above)
+  • Web portals
+  • Intranet/internet applications
+  • CSS Ajax
+  • Sequence diagram
+  • Class diagrams
+  • Java
+  • J2EE
+  • JavaScript DOM
+  • HTML5 Web Sockets
+  • MongoDB/NoSQL databases
+  • Large-scale applications
+  • Design reviews
+  • Engineering standards
+  • Server-side Java
+  • Middleware
+  • 6-8 yrs experience
+  • Strong hands-on experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Frontend skills (JavaScript, HTML5, CSS)
+  • API integration and ETL experience
+  • CI/CD and Git workflow experience
+  • Data engineering and SQL expertise
+  • Effective communication with stakeholders
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java/J2EE or middleware experience
+  • No Angular (8+) or WebSockets demonstrated
+  • Lacks MongoDB/NoSQL experience
+  • Insufficient years in Apps Development (6-8 yrs)
+  • Limited evidence of large-scale web portal development
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

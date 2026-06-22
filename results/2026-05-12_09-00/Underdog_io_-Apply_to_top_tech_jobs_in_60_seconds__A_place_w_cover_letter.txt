@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineer opportunity with Underdog.io -Apply to top tech jobs in 60 seconds. A place where companies apply to you. I am interested in this opportunity because the company's agentic AI platform directly addresses the fragmented and outdated tools in the multi-unit franchise market, a problem I find compelling to solve. What interests me about working for Underdog.io is its approach to leveraging AI to empower both franchisees and brands excites, inspires, and intrigues me because I believe AI is the key to unlocking significant efficiency and growth in this massive market.
+
+I believe my experience in building robust data pipelines and my strong data modeling instincts would make me a strong candidate for this role. During my professional career, I have approached problems with a high ownership mindset, treating data infrastructure as a core product pillar. In fact, in my FRED Economic Batch Pipeline project, I took end-to-end ownership of ingesting Federal Reserve economic data from the FRED API into Google BigQuery using Python, Airflow, dbt, and GCS. I modeled raw API data into a dbt star schema, reduced analyst query time via BigQuery partitioning and clustering, automated data quality validation with Great Expectations, and deployed a CI/CD pipeline via GitHub Actions.
+
+Ultimately, I know that the Data Engineer role at Underdog.io would allow me to bring my expertise in designing and building scalable data pipelines to the critical task of powering the platform and its AI agents. Additionally, my role as an Analytics & Operations Lead at Shine Masters Cleaning Services enabled me to develop my business intelligence and reporting skills. I built a business intelligence reporting system in Excel that identified inefficiencies driving a 40% improvement in operational efficiency and automated recurring workflows, reducing manual tasks by 30%.
+
+I'm excited by the opportunity to use my experience with modern data warehousing technologies and my bias for action in working on building the infrastructure that makes industry data AI-ready at Underdog.io. I know that my strong data engineering foundation and my curious and ambitious nature align with what it takes to succeed in the Data Engineer role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

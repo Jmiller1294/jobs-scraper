@@ -1,0 +1,82 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analytics Senior Analyst
+Company:  Salesforce
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4410210283
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • Python
+  • SQL
+  • Tableau
+  • Pandas
+  • ETL pipelines
+  • Automation
+  • APIs
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • CTEs
+  • Joins
+  • Data modeling
+  • Dashboards
+  • Reporting
+  • Data governance
+  • Stakeholder communication
+  • A/B testing
+  • Data pipelines
+  • CI/CD
+  • Data quality
+  • Salesforce CRM
+  • Project management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Aggregations
+  • Data validation
+  • Data ingestion
+  • Scheduling jobs
+  • Admin certification
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python + Pandas experience
+  • Proven SQL optimization (CTEs, joins)
+  • Tableau/Power BI dashboard build
+  • Built automated ETL pipelines and CI/CD
+  • Quantified business impact (revenue, time saved)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Only 2+ years role-aligned experience (fits reqs but limited)
+  • No explicit Salesforce Admin certification
+  • Limited explicit experience scheduling jobs
+  • Few examples of executive-level presentations
+  • No mention of Google Sheets expertise
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Ensured data accuracy and integrity through validation, QA processes, and ongoing monitoring using tools like Great Expectations for pipeline reliability.
+  Automated data processes and workflows, including data ingestion from APIs and SQL sources, scheduling jobs, and building reliable, repeatable pipelines for data transformation.
+  Modeled raw API data into a dbt star schema to optimize query performance, greatly lowering load times through BigQuery partitioning and clustering, demonstrating advanced data modeling and aggregations.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend and inform strategic initiatives.
+  Standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment, resulting in a consistent "single source of truth" for all business stakeholders and a reduction in report discrepancies.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analytics Senior Analyst opportunity with Salesforce. I am interested in this opportunity because of Salesforce's commitment to leveraging AI and data to drive customer success and workforce transformation. What interests me about working for Salesforce is its approach to innovation and its core values; this excites and inspires me because I am passionate about using data to solve complex business problems and drive tangible results.
+
+I believe my strong Python and SQL skills, combined with my experience in building automated data pipelines, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency and impact. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting POS and CRM data. This eliminated repetitive data entry, saving 8 hours per week and improving reporting accuracy for faster strategic decisions. Ultimately, I know that the Data Analytics Senior Analyst role at Salesforce would allow me to bring my proficiency in Python and SQL to optimizing technology usage within Salesforce to support outbound BDR motions and deliver data-driven solutions.
+
+Additionally, my experience in developing Tableau dashboards at Shine Masters enabled me to develop my visualization and stakeholder communication skills. I designed an interactive Tableau dashboard for the NYPD Arrests Analysis project to provide self-service access for stakeholders, visualizing arrests by location, time, and offense type. I’m excited by the opportunity to use my dashboarding and data storytelling skills in working on building and maintaining Tableau dashboards to visualize key performance metrics and operational insights at Salesforce. I know that my ability to translate complex technical findings into business recommendations and my proven experience with data automation align with what it takes to succeed at the Data Analytics Senior Analyst role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

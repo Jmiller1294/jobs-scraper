@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Envision Technology Solutions
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4416590733
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • Snowflake
+  • Databricks
+  • ETL/ELT
+  • Airflow
+  • dbt
+  • BigQuery
+  • GCS
+  • SQL
+  • CI/CD
+  • Docker
+  • data modeling
+  • data quality
+  • partitioning
+  • GitHub Actions
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Spark
+  • PySpark
+  • Scala
+  • Delta tables
+  • Apache Iceberg
+  • data formats
+  • performance tuning
+  • cost optimization
+  • scaling strategies
+  • schema evolution
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Hands-on ELT pipeline experience
+  • Cloud data platform experience (BigQuery, Snowflake, GCS)
+  • Experience with Airflow and dbt
+  • Quantified impact in prior roles/projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Spark/PySpark experience listed
+  • No Scala experience
+  • No mention of Delta tables or Apache Iceberg
+  • Limited explicit Databricks implementation details
+  • No demonstrated performance tuning or cost optimization examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,81 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Research Engineer, Universes
+Company:  Anthropic
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4332254414
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • AWS S3
+  • Git
+  • APIs
+  • ETL
+  • automation
+  • debugging
+  • software engineering
+  • data modeling
+  • research
+  • production ML
+  • version control
+  • Tableau
+  • Power BI
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • reinforcement learning
+  • simulation
+  • large language models
+  • RL environments
+  • distributed systems
+  • containerization
+  • sandboxing
+  • evaluation metrics
+  • training
+  • fine-tuning
+  • VM infrastructure
+  • scaling
+  • pair programming
+  • safety
+  • interpretability
+  • steerability
+  • sandboxes
+  • multimodal
+  • experiments
+  • scalable infra
+  • trial design
+  • policy
+  • published work
+  • research taste
+  • agentic environments
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL pipelines and data models
+  • Cloud experience (AWS S3, BigQuery, Snowflake)
+  • Proven production debugging and automation
+  • Quantified impact on KPIs and efficiencies
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit reinforcement learning experience
+  • No simulation or RL environment engineering
+  • Lacks containerization/VM/distributed systems evidence
+  • Limited LLM training/fine-tuning or evaluation experience
+  • Senior research engineering titles/years not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

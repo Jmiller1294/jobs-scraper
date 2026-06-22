@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Governance- Manager
+Company:  PwC
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406575421
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data analytics
+  • Snowflake
+  • BigQuery
+  • SQL
+  • Python
+  • ETL
+  • data modelling
+  • data visualization
+  • Power BI
+  • Tableau
+  • cloud
+  • automation
+  • documentation
+  • data quality
+  • project management
+  • team leadership
+  • mentoring
+  • stakeholder engagement
+  • certification
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • data governance
+  • data catalog
+  • data management
+  • statistical modelling
+  • CI/CD
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proven Power BI/Tableau visualization impact
+  • ETL and data modelling experience
+  • Demonstrated automation and operational improvements
+  • Leadership in small-team contexts and mentoring
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit data governance experience
+  • No enterprise data catalog certifications listed
+  • Few cloud certifications (only AWS S3 mentioned)
+  • Under 5 years of formal industry experience for managerial role
+  • No explicit DAMA/CDMP or advanced cloud certs
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

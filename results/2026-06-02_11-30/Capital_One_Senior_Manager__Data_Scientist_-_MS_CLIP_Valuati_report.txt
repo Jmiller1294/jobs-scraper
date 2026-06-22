@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Manager, Data Scientist - MS CLIP Valuations
+Company:  Capital One
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4422424090
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • Python
+  • SQL
+  • relational databases
+  • PostgreSQL
+  • BigQuery
+  • AWS
+  • ETL
+  • Pandas
+  • Power BI
+  • Tableau
+  • Git
+  • data modeling
+  • data pipelines
+  • time series
+  • EDA
+  • data visualization
+  • automation
+  • data analysis
+  • risk analysis
+  • credit risk
+  • R
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • machine learning
+  • feature engineering
+  • Cloud
+  • Scala
+  • management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python & SQL proficiency
+  • Hands-on ETL and data pipeline development
+  • Experience with relational DBs and Postgres modeling
+  • Quantified business impact (percent improvements, acquisition lift)
+  • Visualization and dashboard delivery (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit machine learning experience
+  • No clear production ML deployments
+  • Under 5 years in Python for large-scale analytics
+  • Minimal documented people management
+  • Sparse AWS (only S3) / cloud engineering depth
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

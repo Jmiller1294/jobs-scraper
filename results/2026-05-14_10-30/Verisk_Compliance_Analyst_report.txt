@@ -1,0 +1,91 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Compliance Analyst
+Company:  Verisk
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4405288728
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • data governance
+  • Power BI
+  • SQL
+  • Python
+  • documentation
+  • reporting
+  • data analysis
+  • data quality
+  • stakeholder collaboration
+  • Excel
+  • Snowflake
+  • BigQuery
+  • data pipelines
+  • automation
+  • communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Data Use Reviews
+  • compliance
+  • audit
+  • risk assessments
+  • structured testing
+  • contracts
+  • privacy
+  • workpapers
+  • remediation
+  • investigations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack (SQL, Python, Snowflake, BigQuery)
+  • Power BI reporting and dashboard development
+  • Proven automation and pipeline building
+  • Quantified impacts (efficiency, revenue uplift, time savings)
+  • Stakeholder communication and translation of findings
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit compliance/audit role experience
+  • No direct mention of contract review or privacy frameworks
+  • Less than typical tenure in formal compliance positions
+  • No certifications in compliance/privacy (e.g., CIPP, CIS)
+  • No explicit evidence of structured testing or workpapers
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Documented compliance findings and supported remediation efforts for data usage policies by performing structured reviews and identifying deviations, escalating issues to senior compliance staff.
+  Executed data use reviews, evaluating how data is accessed, used, and shared across the organization, by analyzing system evidence and documentation.
+  Assisted with risk assessments to identify, evaluate, and document risks related to data usage, utilizing analytical skills to identify inconsistencies and apply requirements to real-life scenarios.
+  Performed structured testing against established policies, procedures, and control requirements, ensuring adherence to data governance standards.
+  Maintained organized workpapers and contributed to audit readiness and reporting efforts by documenting review activities and findings clearly and accurately.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+i am excited to submit my application for the Compliance Analyst opportunity with Verisk. I am interested in this opportunity because Verisk's position as a leading data analytics and technology partner to the global insurance industry, coupled with its commitment to empowering better decision-making on risk, deeply resonates with my analytical and data-driven approach.
+
+What interests me about working for Verisk is its approach to leveraging big data into big ideas, which excites and inspires me because I am passionate about translating complex data into actionable insights that drive positive outcomes and ensure adherence to critical standards.
+
+i believe my proficiency in data analysis and reporting, along with my strong attention to detail, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a focus on accuracy and efficiency. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual written reporting, reducing data mismatches and improving work efficiency by 40%. This resulted in a consistent "single source of truth" for all business stakeholders and a reduction in report discrepancies.
+
+Ultimately, I know that the Compliance Analyst role at Verisk would allow me to bring my data analysis and reporting skills to supporting oversight and monitoring of compliance and data use programs.
+
+Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my documentation and stakeholder collaboration skills. I translated complex technical findings into business recommendations during stakeholder meetings to close the gap between raw data and growth strategy. This experience honed my ability to communicate clearly and concisely across different departments.
+
+I'm excited by the opportunity to use my attention to detail in working on data use reviews and risk assessments at Verisk.
+
+I know that my data analysis and reporting skills and my attention to detail align with what it takes to succeed at the Compliance Analyst role.
+
+i would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

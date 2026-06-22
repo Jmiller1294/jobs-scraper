@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Amazon.com
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Intelligence Engineer, North America Network Sales and Operations planning position at Amazon.com. With my background in data analysis, automation, and building scalable data solutions, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to Amazon.com's mission of being Earth's most customer-centric company and its commitment to innovation within supply chain operations. The opportunity to contribute to a pioneering team building from the ground up within the Network S&OP team is incredibly compelling.
+
+In my previous roles, I have developed advanced data visualization workflows that replaced manual reporting, reducing data mismatches and improving work efficiency by 40%. Additionally, I have built Python automation for critical reports, saving 8 hours per week and improving reporting accuracy, which directly aligns with your need for developing automated reporting and advanced visualization solutions.
+
+I have experience developing statistical models that identify key customer segments, leading to significant revenue increases, and have designed and executed A/B tests to optimize marketing spend. My experience with ETL pipelines using Python, coupled with advanced SQL skills for data manipulation and analysis from various sources like PostgreSQL, and my familiarity with cloud platforms such as AWS (S3), Snowflake, and BigQuery, make me well-equipped to handle the large, multi-dimensional datasets mentioned in the job description. While my resume may not explicitly list Redshift or NoSQL, I have a strong foundation in database query optimization and data warehousing principles that will allow for rapid adaptation.
+
+I am particularly drawn to {{COMPANY}}'s mission of [COMPANY MISSION] and believe my experience in building robust data solutions and communicating complex findings to senior stakeholders would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

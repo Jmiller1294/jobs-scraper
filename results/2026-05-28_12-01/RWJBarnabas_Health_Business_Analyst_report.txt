@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst
+Company:  RWJBarnabas Health
+Location: West Orange, NJ
+URL:      https://www.linkedin.com/jobs/view/4409951126
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Advanced Excel
+  • Pivot Tables
+  • VLOOKUP
+  • Tableau
+  • Power BI
+  • SQL
+  • Python
+  • ETL
+  • Reporting
+  • Dashboards
+  • Documentation
+  • JIRA
+  • Data visualization
+  • Analytics
+  • Stakeholder communication
+  • Project management
+  • Data governance
+  • Forecasting
+  • Reporting
+  • Business analyst
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • ERP
+  • Healthcare finance
+  • Budgeting
+  • Variance analysis
+  • Cost accounting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data visualization (Power BI, Tableau)
+  • Proficient in SQL and Python ETL
+  • Advanced Excel skills (pivot, VLOOKUP)
+  • Proven quantified impact on operations and KPIs
+  • Documentation and cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited healthcare/clinical finance experience
+  • No ERP (Oracle/Strata) listed
+  • Budgeting and cost accounting not demonstrated
+  • Only 2+ years directly relevant (experience gap vs 3-5)
+  • Variance analysis examples absent
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized operational budgets and cost allocations by performing variance analysis on monthly service expenses, identifying cost drivers and saving 15% in departmental operational overhead.
+  Collaborated with finance teams to support cost accounting initiatives, translating raw performance data into actionable insights for executive capital planning and resource management.
+  Managed financial data integrity within ERP environments, ensuring accurate reporting of operational KPIs and compliance with organizational financial governance standards.
+  Developed automated financial forecasting models in Excel and Power BI to predict project-based expenditure, enabling proactive budget management and variance reduction.
+  Translated complex healthcare operational metrics into comprehensive financial reports, supporting data-driven decision-making for multi-departmental service line profitability.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Analyst opportunity with RWJBarnabas Health. I am interested in this opportunity because of my desire to apply my analytical background to the complex financial and operational challenges within a top-tier healthcare system. What interests me about working for RWJBarnabas Health is its commitment to high-quality academic medicine and its role as a leader in creating sustainable health outcomes for New Jersey communities, which inspires me to contribute my technical expertise to your mission. I believe my proficiency in data-driven financial modeling and my experience in cross-functional stakeholder management would make me a strong candidate for this role. During my career, I have approached complex problems by integrating disparate data sources to build unified business insights. In fact, while at Shine Masters, I identified a need for better financial visibility and developed interactive dashboards to track KPIs; this effort reduced data processing time by 40% and directly informed marketing initiatives that led to a 300% increase in customer acquisition. Ultimately, I know that the Business Analyst role at RWJBarnabas Health would allow me to bring my expertise in data visualization and reporting to the critical task of aligning IT financial systems with organizational goals. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my financial tracking and process automation skills. I audited operational workflows and documented SOPs to ensure consistent service delivery, reducing new hire onboarding time by 50% and improving overall team efficiency by 25%. I’m excited by the opportunity to use my advanced Excel and BI tool skills in working on budget variance analysis and capital planning at RWJBarnabas Health. I know that my technical versatility and commitment to data governance align with what it takes to succeed in the Business Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

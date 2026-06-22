@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Business Support Analyst opportunity with Intuvia Technologies. I am interested in this opportunity because of its critical role in supporting Investment & Corporate Banking operations and the chance to leverage my analytical and data management skills within a leading global financial institution.
+
+What interests me about working for Intuvia Technologies is its reputation for innovation and its commitment to providing essential support to its banking division. This dedication to data accuracy and user enablement excites me because it directly aligns with my passion for providing business stakeholders with the data and support they need to drive success.
+
+I believe my strong analytical and problem-solving skills, combined with my proficiency in data management tools like SQL and Excel, would make me a strong candidate for this role. During my professional career, I have approached problems with a meticulous attention to detail and a commitment to data accuracy. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting data from POS and CRM systems. This initiative eliminated repetitive data entry, saved 8 hours per week, and significantly improved reporting accuracy, allowing for faster strategic decisions. Ultimately, I know that the Business Support Analyst role at Intuvia Technologies would allow me to bring my data accuracy and automation skills to managing data and providing essential support to bankers and users of the CRM platform.
+
+Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my database query optimization skills. I optimized relational database queries, including CTEs and window functions, to clean and reconcile testing data, improving data accuracy by 60%. This experience, coupled with my work on the FRED Economic Batch Pipeline project where I modeled raw API data into a dbt star schema, showcases my ability to quickly learn, understand, and master processes and data management.
+
+I'm excited by the opportunity to use my advanced Excel skills, including nested formulas, macros, and pivot tables, in working on the monthly reconciliation of financial data and providing user support within the CRM platform at Intuvia Technologies. I know that my strong technical stack and commitment to data accuracy align with what it takes to succeed in the Business Support Analyst role.
+
+I would love the opportunity to discuss the role in more detail and how my experience with Salesforce CRM and Snowflake, as demonstrated in my resume, can benefit your team. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

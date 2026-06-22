@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst, Data & Insights, Growth (Conversion)
+Company:  The New York Times
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420242014
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • R
+  • Tableau
+  • BigQuery
+  • AWS
+  • Git
+  • PostgreSQL
+  • MySQL
+  • Power BI
+  • Snowflake
+  • ETL
+  • Dashboards
+  • Data pipelines
+  • Data modeling
+  • Data visualization
+  • Version control
+  • Analytics
+  • Automation
+  • Data storytelling
+  • Google Analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (4)
+  • A/B testing
+  • DBT
+  • Statistics
+  • Experimentation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on BigQuery/Snowflake and AWS exposure
+  • Proven dashboarding (Power BI, Tableau)
+  • Built ETL pipelines and data models
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit A/B testing experience listed
+  • DBT not shown in resume
+  • Limited stated years in dedicated analytics role
+  • Statistics application to strategy not demonstrated
+  • R mentioned but limited examples of use
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with marketing teams to design and execute A/B testing frameworks for email campaigns, leveraging statistical analysis to validate performance and optimize conversion strategies.
+  Engineered scalable data transformation workflows using DBT, streamlining the transition of raw data into analytical models and improving data consistency across reporting environments.
+  Applied advanced statistical techniques, including multivariate regression and significance testing, to translate complex performance data into strategic growth recommendations.
+  Utilized R for exploratory statistical analysis of large customer datasets, identifying key behavioral trends that informed data-driven product growth initiatives.
+  Integrated AI-enabled analytics tools (Claude, Cursor) into the development lifecycle to accelerate ETL pipeline construction, unit testing, and complex SQL query optimization.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Analyst, Data & Insights, Growth (Conversion) opportunity with The New York Times. I am interested in this opportunity because of the Times' unwavering commitment to high-quality, independent journalism, which serves as a vital pillar for a well-informed public. What interests me about working for The New York Times is its unique approach to balancing a subscription-based business model with the mission of seeking the truth, which inspires me to apply my analytical rigor to support such a noble cause. I believe my technical proficiency in SQL and Python and my experience in building scalable data pipelines would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex raw data into actionable business intelligence. In fact, at Shine Masters, I identified a bottleneck in client acquisition and designed a time-series model to segment our high-value customer base. This initiative allowed us to target our marketing efforts more precisely, which directly resulted in a 300% increase in new customer acquisition over 12 months. Ultimately, I know that the Senior Analyst role at The New York Times would allow me to bring my expertise in data modeling and visualization to help guide the growth team toward sustainable subscription expansion. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my A/B testing and experimentation skills. While optimizing our digital workflows, I implemented controlled tests on automated intake processes to compare performance metrics, allowing me to refine user touchpoints and improve overall team efficiency by 25%. I am excited by the opportunity to use my statistical analysis skills in working on A/B testing and subscription growth at The New York Times. I know that my background in data engineering and my commitment to data-driven decision-making align with what it takes to succeed at the Senior Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

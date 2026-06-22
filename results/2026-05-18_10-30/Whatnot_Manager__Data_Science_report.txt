@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Manager, Data Science
+Company:  Whatnot
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405931818
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • analytics
+  • SQL
+  • Python
+  • ETL
+  • Power BI
+  • dashboards
+  • data modeling
+  • BigQuery
+  • Snowflake
+  • AI tools
+  • stakeholder communication
+  • KPI frameworks
+  • team management
+  • statistical methodology
+  • causal reasoning
+  • product analytics
+  • growth
+  • ETL pipelines
+  • visualization & reporting
+  • data storytelling
+  • Git
+  • PostgreSQL
+  • database optimization
+  • measurement systems
+  • KPI visibility
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • experimentation
+  • A/B testing
+  • marketplace
+  • two-sided platforms
+  • monetization
+  • ads
+  • incentives
+  • LTV
+  • marketplace health
+  • recommendations
+  • personalization (advanced)
+  • hiring
+  • coaching data scientists
+  • 7+ years experience
+  • 2+ years managing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong SQL and Python hands-on experience
+  • built ETL pipelines and data models
+  • dashboarding and KPI tracking with Power BI
+  • experience optimizing databases and queries
+  • experience with AI tools and modern cloud warehouses
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited explicit experimentation/A-B testing experience
+  • no clear marketplace or two-sided platform background
+  • insufficient senior-level tenure (7+ years) evidence
+  • limited documented people-management of data scientists
+  • few quantified examples tied to product monetization or ads
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

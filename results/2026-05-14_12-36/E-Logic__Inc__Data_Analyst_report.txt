@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst
+Company:  E-Logic, Inc.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4411188524
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 87/100
+[█████████████████░░░] 87%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • SQL
+  • data visualization
+  • KPIs
+  • operational metrics
+  • data governance
+  • data quality
+  • forecasting
+  • trend analysis
+  • Python
+  • ETL/ELT
+  • Snowflake
+  • BigQuery
+  • reporting automation
+  • dashboard development
+  • stakeholder communication
+  • variance analysis
+  • data modeling
+  • A/B testing
+  • data pipelines
+  • CI/CD
+  • data storytelling
+  • reporting solutions
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • financial analysis
+  • forecasting support
+  • operational performance
+  • government experience
+  • public sector
+  • education sector
+  • proposal-based engagements
+  • contract-driven engagements
+  • presenting to executives
+  • large datasets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong visualization skills (Power BI, Tableau, Excel)
+  • Robust SQL and Python ETL experience
+  • Proven dashboard and reporting automation impact
+  • Demonstrated KPI and data governance implementation
+  • Quantified business outcomes (revenue, efficiency gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit finance-specific analysis experience
+  • No stated government/public sector projects
+  • Shorter total industry tenure (~3+ years listed)
+  • No explicit executive-level presentation examples
+  • Proposal/contract engagement experience not documented
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed executive-level Power BI dashboards to track financial performance and operational metrics, conducting variance analysis to support strategic decision-making for leadership stakeholders.
+  Led operational performance reporting initiatives, including forecasting support and trend analysis, to align cross-functional goals with large-scale organizational objectives.
+  Translated complex datasets into clear, actionable financial and operational insights, presenting key findings to senior executives to drive high-impact decision-making.
+  Standardized data governance frameworks and reporting templates for large datasets, ensuring data integrity and consistency for government-facing project proposals.
+  Collaborated in fast-paced, high-stakes environments, contributing technical reporting solutions to cross-functional teams focused on winning and executing contract-driven engagements.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst opportunity with E-Logic, Inc. I am interested in this opportunity because of your commitment to supporting the NYC Department of Education through high-level performance reporting and IT financial analysis. What interests me about working for E-Logic, Inc. is its approach to data-driven operational excellence, which inspires me because of my own passion for transforming raw data into meaningful public-sector impact. I believe my expertise in executive-level dashboard development and my proficiency in financial and operational trend analysis would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on building a 'single source of truth' for organizational stakeholders. In fact, while at Shine Masters, I identified a need to move away from manual reporting and built an automated Power BI suite that replaced written reports. This resulted in a 40% improvement in efficiency and a 300% increase in revenue within targeted high-value segments due to clearer, data-backed insights. Ultimately, I know that the Data Analyst role at E-Logic, Inc. would allow me to bring my data visualization and dashboarding expertise to the NYC DOE’s IT Finance initiative. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my financial and operational analytical skills. I led the standardization of KPIs and conducted rigorous data governance, which helped eliminate reporting discrepancies. This experience in maintaining data integrity across large, complex datasets ensures I can provide the accuracy required for contract-driven engagements. I’m excited by the opportunity to use my background in automated reporting and stakeholder communication in working on critical education sector projects at E-Logic, Inc. I know that my technical versatility and analytical rigor align with what it takes to succeed at the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

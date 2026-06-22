@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Marketing Data and Analytics Engineer
+Company:  Fortune
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414703632
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 75/100
+[███████████████░░░░░] 75%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • SQL
+  • Python
+  • ETL/ELT pipelines
+  • data pipelines
+  • data governance
+  • data quality
+  • APIs
+  • Snowflake
+  • BigQuery
+  • reporting
+  • segmentation
+  • A/B testing
+  • documentation
+  • CI/CD
+  • stakeholder partnership
+  • data modeling
+  • Salesforce CRM
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Salesforce Sales Cloud
+  • Marketing Cloud
+  • Marketing Cloud Connect
+  • CDP
+  • ESP
+  • data dictionary
+  • deduplication
+  • email deliverability
+  • Synchronized Data Extensions
+  • GDPR
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Hands-on ETL/ELT and pipeline experience
+  • Experience with Snowflake and BigQuery
+  • Quantified impact on revenue and efficiency
+  • Reporting and visualization expertise (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Marketing Cloud experience
+  • No Marketing Cloud Connect or synchronized data mention
+  • Limited Salesforce Sales Cloud depth (only CRM listed)
+  • No CDP/ESP platform experience noted
+  • Under 2 years relevant martech-specific tenure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Integrated Salesforce Sales Cloud and Marketing Cloud data streams to automate reporting workflows, ensuring consistent contact records and reducing manual data entry by 8 hours per week.
+  Engineered ETL pipelines using Python and SQL to facilitate data movement between Salesforce ecosystems, utilizing Marketing Cloud Connect logic to improve segment targeting and audience health.
+  Established a formal data dictionary and governance framework for customer CRM data, enforcing strict deduplication rules and consent flags (GDPR/CAN-SPAM) to maintain a single source of truth.
+  Modeled customer journey data into unified structures, bridging the gap between raw Salesforce Sales Cloud entries and downstream analytics to support marketing attribution and ESP migration planning.
+  Optimized Synchronized Data Extensions and API integrations to automate marketing suppression lists and field mapping, ensuring high-accuracy data flows for multi-channel email campaigns.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Marketing Data and Analytics Engineer opportunity with Fortune. I am interested in this opportunity because I am passionate about the intersection of data engineering and marketing technology, and I admire Fortune’s commitment to building a world-class, data-driven foundation for its media ecosystem. What interests me about working for Fortune is its reputation for business excellence and its current, well-resourced push to modernize its technical infrastructure, which offers the rare chance to build systems from the ground up.
+
+I believe my expertise in architecting scalable data pipelines and my deep proficiency in Python and SQL would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and stakeholder alignment. In fact, while at Shine Masters, I identified that manual reporting was creating significant data mismatches. I architected a new automated workflow in Power BI and Looker, which ingested data directly from CRM and POS systems. This initiative not only eliminated repetitive entry but also created a reliable 'single source of truth' that reduced reporting discrepancies by 40% and enabled faster, data-backed strategic decisions.
+
+Ultimately, I know that the Marketing Data and Analytics Engineer role at Fortune would allow me to bring my experience in building robust data architecture to your emerging Martech practice. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my data governance and cross-functional communication skills. I was responsible for standardizing KPIs and ensuring that marketing initiatives were informed by rigorous statistical segmentation models, which led to a 300% increase in revenue for targeted segments. I am excited by the opportunity to use my background in API integration and data pipeline design to help Fortune scale its CDP and ESP capabilities. I know that my technical versatility and commitment to data quality align with what it takes to succeed at the Marketing Data and Analytics Engineer role. I would love the opportunity to discuss how my hands-on experience with Salesforce CRM and Python-driven automation can support your team. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

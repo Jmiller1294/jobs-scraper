@@ -1,0 +1,12 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineer II opportunity with RWJBarnabas Health. I am interested in this opportunity because of its focus on leveraging data science within a leading healthcare system to drive research and improve patient outcomes. What interests me about working for RWJBarnabas Health is its commitment to creating healthier communities through innovative strategies in patient care, education, and research, which deeply resonates with my own passion for using data to make a tangible impact.
+
+I believe my expertise in SQL, advanced data modeling, and ETL pipeline development, combined with my experience in data acquisition through APIs, would make me a strong candidate for this role. Throughout my professional career, I have approached problems with a critical and analytical mindset, always striving to ensure data integrity and drive efficiency. In fact, at Haven Technologies (MassMutual), I collaborated with stakeholders to align software features with business processes and objectives, reducing product delivery delays by 25%. I extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs. This process involved utilizing SQL queries to validate and synchronize data across systems, improving data accuracy by 60%.
+
+Ultimately, I know that the Data Engineer II role at RWJBarnabas Health would allow me to bring my strong analytical and data integration skills to the creation of data assets within Epic Cosmos for approved research. Additionally, my experience building robust data pipelines at Shine Masters Cleaning Services enabled me to develop my data quality and automation skills. I built a business intelligence reporting system in Excel that identified inefficiencies, driving a 40% improvement in operational efficiency, and automated recurring business operations and reporting workflows, reducing manual tasks by 30%. I’m excited by the opportunity to use my expertise in data modeling and ETL to work on the Epic Cosmos data science initiatives at RWJBarnabas Health.
+
+I know that my advanced SQL skills and my proven experience in building and maintaining ETL pipelines align with what it takes to succeed in the Data Engineer II role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

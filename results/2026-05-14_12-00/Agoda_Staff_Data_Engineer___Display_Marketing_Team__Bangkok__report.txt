@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Data Engineer – Display Marketing Team (Bangkok based, relocation provided)
+Company:  Agoda
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4394344445
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 70/100
+[██████████████░░░░░░] 70%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • SQL
+  • BigQuery
+  • dbt
+  • Airflow
+  • CI/CD
+  • data pipelines
+  • ETL/ELT
+  • data quality
+  • Docker
+  • Postgres
+  • Snowflake
+  • Python
+  • workflow orchestration
+  • operational efficiency
+  • cross-functional teams
+  • monitoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Scala
+  • Spark
+  • Kafka
+  • Google Ads
+  • Meta
+  • messaging
+  • distributed pipelines
+  • architectural decisions
+  • incident response
+  • Spark-based tuning
+  • Grafana
+  • Prometheus
+  • mentor/coach
+  • JVM
+  • performance tuning
+  • advertising integrations
+  • third-party APIs
+  • experiment data
+  • backend services
+  • operating at scale
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL expertise
+  • Hands-on BigQuery and GCP
+  • Experience with dbt and ELT design
+  • Airflow-based pipeline automation
+  • Proven impact via quantified improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Scala or JVM language experience listed
+  • No Spark or Kafka distributed systems experience
+  • Lacks explicit advertising platform integrations
+  • Limited senior/backend engineering titles (years <8)
+  • Minimal mention of monitoring tools and incident leadership
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

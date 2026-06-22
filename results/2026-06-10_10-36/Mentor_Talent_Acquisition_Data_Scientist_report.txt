@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist
+Company:  Mentor Talent Acquisition
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4421945930
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • Pandas
+  • Power BI
+  • Tableau
+  • ETL
+  • PostgreSQL
+  • MySQL
+  • Snowflake
+  • BigQuery
+  • CRM
+  • Salesforce CRM
+  • Data pipelines
+  • Data visualization
+  • AI tools
+  • Automation
+  • Customer segmentation
+  • Data modelling
+  • Quantitative metrics
+  • BI/dashboarding
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Product analytics
+  • Funnel analysis
+  • Event-level data
+  • Account health
+  • Retention analysis
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python with ETL experience
+  • Proven dashboarding (Power BI, Tableau)
+  • Experience with cloud data platforms (Snowflake, BigQuery)
+  • Hands-on CRM integration (Salesforce) and automation
+  • Quantified impact on business metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit product analytics platform (Amplitude/Mixpanel) listed
+  • Limited documented experience with event-level analytics
+  • No prior role titled as 'Data' lead in B2B SaaS/fintech
+  • Account health/retention modelling not explicitly shown
+  • Relatively short tenure in senior data-focused roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Analyzed product usage patterns and user retention metrics to identify churn risks, utilizing Python to perform cohort analysis and map feature adoption to customer lifecycle stages.
+  Engineered event-level data tracking workflows to monitor user behavior, translating raw interaction logs into actionable insights regarding feature engagement and account health.
+  Developed comprehensive funnel analysis models to track the conversion journey from initial CRM contact to closed deal, identifying and mitigating key friction points in the commercial pipeline.
+  Built automated retention analysis dashboards to monitor account health signals—such as login frequency and search activity—enabling data-driven interventions for customer success teams.
+  Designed and implemented complex customer health scoring systems within the CRM, integrating product usage data to enable Sales and Success teams to prioritize high-value accounts.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager at Mentor Talent Acquisition, I am excited to submit my application for the Data Scientist opportunity with Mentor Talent Acquisition. I am interested in this opportunity because of your company’s position as a leader in AI-driven investment research and your commitment to scaling data-backed decisions within the private markets sector. What interests me about working for Mentor Talent Acquisition is your focus on creating foundational, high-impact data infrastructure, which perfectly aligns with my desire to bridge the gap between technical data modeling and commercial strategy. I believe my proficiency in building automated ETL pipelines and my hands-on experience with CRM-integrated analytics would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex technical datasets into clear, actionable business strategies. In fact, while at Shine Masters, I implemented a new data-driven workflow that integrated CRM data with performance metrics, resulting in a 300% increase in new customer acquisition over 12 months. This experience in driving business growth through data is a result I aim to replicate as your first dedicated data hire. Ultimately, I know that the Data Scientist role at Mentor Talent Acquisition would allow me to bring my expertise in SQL and Python-driven automation to build the analytical infrastructure necessary for your next phase of growth. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my skills in cross-functional collaboration and operational intelligence. I conducted deep-dive analyses on client engagement patterns, which reduced operational bottlenecks by 25% and directly improved team efficiency. I’m excited by the opportunity to use my background in product usage analysis and retention modeling in working on the account health and risk modeling projects at Mentor Talent Acquisition. I know that my technical versatility and business-first mindset align with what it takes to succeed at the Data Scientist role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

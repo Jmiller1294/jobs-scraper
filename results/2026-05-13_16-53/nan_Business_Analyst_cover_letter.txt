@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Business Analyst opportunity with nan. I am interested in this opportunity because the role's focus on bridging business needs with technical solutions aligns perfectly with my passion for translating complex data into actionable insights. What interests me about working for nan is its innovative approach to leveraging data for strategic initiatives, which excites and inspires me because I am eager to contribute to a forward-thinking company dedicated to excellence.
+
+I believe my proficiency in data visualization tools such as Tableau, Power BI, and Looker, and my strong SQL and Python ETL experience would make me a strong candidate for this role. During my professional career, I have approached problems with an energetic and detail-oriented mindset. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, reducing data mismatches and improving work efficiency by 40%. This resulted in a 300% increase in revenue for targeted segments and saved 8 hours per week through Python automation of reports, ultimately leading to faster strategic decisions.
+
+Ultimately, I know that the Business Analyst role at nan would allow me to bring my data analysis and reporting skills to visualizing key metrics and trends. Additionally, my experience as a Data Analyst & Operations Lead enabled me to develop my project management skills. I led initiatives to standardize organizational KPIs and data governance frameworks, resulting in a consistent 'single source of truth' for all business stakeholders. This experience honed my ability to manage cross-functional alignment and ensure data accuracy for strategic decision-making.
+
+I’m excited by the opportunity to use my data modeling and dashboarding skills in working on translating complex data into actionable insights at nan. I know that my SQL and Python ETL expertise and my ability to create compelling data visualizations align with what it takes to succeed at the Business Analyst role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

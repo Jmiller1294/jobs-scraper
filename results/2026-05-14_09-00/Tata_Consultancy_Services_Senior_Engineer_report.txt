@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Engineer
+Company:  Tata Consultancy Services
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4385284109
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • ETL
+  • AWS
+  • Data pipelines
+  • BigQuery
+  • Snowflake
+  • CI/CD
+  • Git
+  • Data visualization
+  • Tableau
+  • Power BI
+  • Data governance
+  • Partitioning
+  • Clustering
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • PySpark
+  • Databricks
+  • GenAI
+  • LLM
+  • RAG
+  • SageMaker
+  • Bedrock
+  • Spark
+  • Caching
+  • MLOps
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL usage
+  • Proven ETL and pipeline development
+  • Experience with cloud data platforms (BigQuery, Snowflake, AWS S3)
+  • Data visualization with Tableau and Power BI
+  • Quantified impact in prior roles (revenue, efficiency gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Databricks or PySpark experience listed
+  • No explicit GenAI or LLM deployment experience
+  • Limited Spark performance/cost-optimization details
+  • No SageMaker/Bedrock or AWS model deployment experience
+  • MLOps and model monitoring not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

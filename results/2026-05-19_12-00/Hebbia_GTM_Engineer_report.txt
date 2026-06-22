@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     GTM Engineer
+Company:  Hebbia
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416689873
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Claude
+  • APIs
+  • automation
+  • SQL
+  • Python
+  • ETL
+  • Power BI
+  • data pipeline
+  • reporting
+  • Zapier
+  • Git
+  • Snowflake
+  • BigQuery
+  • data integrations
+  • cross-functional
+  • SOPs
+  • data quality
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • Salesforce
+  • webhooks
+  • GTM
+  • prompt engineering
+  • Outreach
+  • Apollo
+  • Clay
+  • Gong
+  • vendor relationships
+  • prompt libraries
+  • role-specific AI assistants
+  • sequence enrollment
+  • signal monitoring
+  • renewals
+  • contract negotiations
+  • Claude (advanced)
+  • field updates
+  • lead enrichment
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Built automations reducing manual work (Zapier)
+  • Power BI dashboards and reporting
+  • Cross-functional collaboration experience
+  • Data integration and pipeline design
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Salesforce GTM admin experience
+  • No listed Outreach/Gong/Apollo/Clay hands-on work
+  • Prompt engineering depth not demonstrated
+  • Vendor management and contract negotiation not shown
+  • Under 4 years in specified GTM/RevOps roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

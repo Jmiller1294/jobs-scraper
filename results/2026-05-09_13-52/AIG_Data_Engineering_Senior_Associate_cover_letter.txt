@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineering Senior Associate opportunity with AIG. I am interested in this opportunity because AIG's commitment to reimagining risk management through technology deeply resonates with my passion for building robust data solutions that drive impactful business outcomes.
+
+What interests me about working for AIG is its forward-thinking approach to leveraging technology for customer benefit and operational excellence. This proactive stance on innovation and its dedication to empowering its employees through continuous learning and development excites and inspires me because it aligns with my own professional growth philosophy.
+
+I believe my proficiency in Python, advanced SQL, and experience with data pipelines and Snowflake would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency and data-driven insights. In fact, at Shine Masters Cleaning Services, I built a business intelligence reporting system in Excel that identified inefficiencies, driving a 40% improvement in operational efficiency and automating recurring workflows, reducing manual tasks by 30% and freeing team capacity for higher-value work.
+
+Ultimately, I know that the Data Engineering Senior Associate role at AIG would allow me to bring my advanced SQL and data pipeline development skills to support data needs and drive data-driven decision making. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my data extraction and transformation skills. I collaborated with stakeholders to align software features with business processes, reducing product delivery delays by 25%, and extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs.
+
+I’m excited by the opportunity to use my Python-based data processing skills in working on developing and maintaining data pipelines across diverse environments at AIG. I know that my experience with Snowflake, Python, and SQL align with what it takes to succeed in the Data Engineering Senior Associate role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

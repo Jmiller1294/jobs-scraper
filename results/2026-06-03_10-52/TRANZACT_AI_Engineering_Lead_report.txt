@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Engineering Lead
+Company:  TRANZACT
+Location: Fort Lee, NJ
+URL:      https://www.linkedin.com/jobs/view/4403480357
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • cloud
+  • ETL
+  • data curation
+  • observability
+  • monitoring
+  • BigQuery
+  • Snowflake
+  • mentoring
+  • Git
+  • PostgreSQL
+  • APIs
+  • streaming
+  • telephony
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • PyTorch
+  • conversational AI
+  • voice AI
+  • ASR
+  • TTS
+  • RAG
+  • retrieval
+  • fine-tuning
+  • SFT
+  • evals
+  • WebRTC
+  • model registry
+  • vector search
+  • SIP/IVR
+  • agentic
+  • preference/reward optimization
+  • safety tuning
+  • governance
+  • lineage
+  • dataset versioning
+  • re_rankers
+  • incremental retrieval
+  • telephony/contact-center
+  • role-based access
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Practical ETL and data pipeline delivery
+  • Experience with cloud analytics (BigQuery/Snowflake)
+  • Quantified impact in analytics and operations
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PyTorch or deep learning framework experience listed
+  • Lacks demonstrated production conversational/voice AI
+  • No fine-tuning or SFT hands-on experience
+  • Limited telephony/WebRTC production evidence
+  • Insufficient governance/model-registry background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

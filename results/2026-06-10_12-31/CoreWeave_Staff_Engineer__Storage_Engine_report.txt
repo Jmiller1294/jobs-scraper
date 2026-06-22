@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Engineer, Storage Engine
+Company:  CoreWeave
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4384082379
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • S3
+  • AWS S3
+  • object storage
+  • distributed storage
+  • Python
+  • SQL
+  • telemetry
+  • observability
+  • Git
+  • Kubernetes
+  • cloud-native
+  • systems programming
+  • AI tools
+  • Prometheus
+  • Grafana
+  • PostgreSQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • distributed filesystems
+  • RDMA
+  • GPU Direct Storage
+  • NFS
+  • FUSE
+  • Ceph
+  • DAOS
+  • Go
+  • C
+  • Rust
+  • ClickHouse
+  • exabyte-scale
+  • storage protocols
+  • storage clusters
+  • high-performance data transfer
+  • durability
+  • security
+  • metrics and dashboards
+  • resilience
+  • mentorship
+  • 8-10+ years
+  • Bachelor's in CS (presented)
+  • storage observability
+  • file systems
+  • scalable system architectures
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Hands-on SQL and Python for data pipelines
+  • Experience with AWS S3
+  • Observability tooling exposure (Prometheus/Grafana)
+  • Quantified operational impact (percent improvements)
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Insufficient storage systems engineering experience (years <8)
+  • No systems languages (Go/C/Rust) listed
+  • No explicit distributed filesystem or Ceph/DAOS experience
+  • No RDMA or GPU Direct Storage experience
+  • Limited infrastructure/Kubernetes depth for storage role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

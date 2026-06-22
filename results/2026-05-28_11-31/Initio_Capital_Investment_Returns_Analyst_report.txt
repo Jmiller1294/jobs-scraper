@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Investment Returns Analyst
+Company:  Initio Capital
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420269646
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • cash flows
+  • financial modeling
+  • sensitivity analysis
+  • portfolio analysis
+  • Excel
+  • PowerPoint
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • ETL
+  • data visualization
+  • reporting
+  • quantitative analysis
+  • risk analysis
+  • data accuracy
+  • presentation
+  • modeling
+  • credit risk
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • IRR
+  • MOIC
+  • time-weighted returns
+  • performance attribution
+  • benchmarking
+  • scenario analysis
+  • investment performance
+  • investment outcomes
+  • realized and unrealized
+  • CAGR
+  • volatility
+  • portfolio reviews
+  • investment committee
+  • funds
+  • indices
+  • peer groups
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Power BI/Tableau reporting and dashboards
+  • Quantitative/ETL project experience
+  • Proven process automation and efficiency gains
+  • Experience communicating insights to stakeholders
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit IRR/MOIC/time-weighted returns experience
+  • Limited direct investment banking/asset management experience
+  • No CFA or finance-specific certifications listed
+  • Few finance-specific benchmarking/attribution examples
+  • PowerPoint usage not demonstrated in accomplishments
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

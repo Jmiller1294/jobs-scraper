@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Encounter Data Engineer (EDI, Managed Care)
+Company:  MetroPlusHealth
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4350223430
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • SQL
+  • stored procedures
+  • ETL
+  • data quality
+  • Power BI
+  • Tableau
+  • Python
+  • BigQuery
+  • automation
+  • documentation
+  • data modeling
+  • KPI reporting
+  • CI/CD
+  • GCS
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • SSIS
+  • EDI
+  • X12
+  • SSRS
+  • healthcare claims
+  • enrollment
+  • XML
+  • BizTalk
+  • Visual Studio
+  • membership
+  • NYSDOH
+  • CMS
+  • EDI mapping
+  • EDI error troubleshooting
+  • MMCOR reporting
+  • Compliance and Regulatory
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Advanced SQL skills
+  • ETL pipeline design & automation
+  • Data quality validation
+  • BI reporting (Power BI/Tableau)
+  • CI/CD and cloud data infra
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit EDI/X12 experience
+  • No SSIS/SSRS listed
+  • Limited or no healthcare claims/enrollment experience
+  • No BizTalk/XML/Visual Studio experience
+  • No direct NYSDOH/CMS submission experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

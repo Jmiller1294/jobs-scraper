@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+SageSure
+
+Dear Hiring Manager,
+
+I am excited to apply for the Product Management Analyst position at SageSure. With my background in data analytics and operations, coupled with a strong foundation in technical skills, I am confident I would be a strong addition to your team.
+
+SageSure's reputation as a leader in catastrophe-exposed property insurance, combined with its entrepreneurial spirit, is particularly appealing to me. The opportunity to contribute to a profitable, growing company while gaining broad perspective across the insurance business is an exciting prospect.
+
+In my previous roles, I have developed advanced reporting workflows and statistical models to identify high-value customer segments, which directly contributed to a 300% increase in revenue in a targeted segment. Additionally, I built Python automation for weekly sales and operations reports, saving 8 hours per week and improving reporting accuracy, which directly aligns with your need for analyzing key performance measures and understanding drivers of performance.
+
+I have experience compiling, cleaning, and analyzing complex data to understand business results, exemplified by my work in developing Power BI and Looker workflows that reduced data mismatches by 40%. I have also successfully translated complex technical findings into actionable business recommendations during stakeholder meetings. While my direct insurance experience is developing, my analytical and problem-solving abilities, honed through roles at Shine Masters Cleaning Services and Haven Technologies, have prepared me to tackle complex business problems and contribute to sustained profitable growth.
+
+I am particularly drawn to SageSure's mission of engineering better outcomes by investing in technology and talent, and I believe my experience in data analysis, automation, and stakeholder communication would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

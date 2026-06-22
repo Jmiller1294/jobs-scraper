@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Amazon.com
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Analyst , Worldwide Grocery Stores (WWGS) position at Amazon.com. With my background in data analytics, operations leadership, and software development, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to Amazon's commitment to leveraging cutting-edge AI technologies to enhance business operations and its reputation for data-driven innovation, which deeply resonates with my professional aspirations.
+
+In my previous roles, I have developed and implemented data-driven strategies that significantly impacted revenue and operational efficiency. Additionally, I have a proven track record of building robust data pipelines and translating complex findings into actionable business recommendations, which directly aligns with your need for transforming raw data into strategic insights.
+
+My experience includes designing and implementing comprehensive data migration strategies, transitioning core datasets to advanced AI platforms like Snowflake and BigQuery, and developing sophisticated SQL queries and data models to extract meaningful business intelligence. I have also consistently created clear, compelling data visualizations and reports using Tableau to communicate complex insights to both technical and business stakeholders.
+
+I am particularly drawn to Amazon.com's mission of being Earth's most customer-centric company and believe my experience in data analysis, automation, and stakeholder collaboration would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

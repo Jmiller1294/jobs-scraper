@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director of Workflow Engineering
+Company:  Thomson Reuters
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414462985
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • automation
+  • integrations
+  • APIs
+  • CI/CD
+  • cloud
+  • monitoring
+  • SQL
+  • Python
+  • Git
+  • platform governance
+  • release management
+  • data governance
+  • telemetry
+  • orchestration
+  • stakeholder management
+  • leadership
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • ServiceNow
+  • workflow
+  • Predictive Intelligence
+  • NowAssist
+  • CMDB
+  • event-driven
+  • auditability
+  • risk management
+  • agentic automations
+  • operational safety
+  • ITSM
+  • ServiceNow certifications
+  • ITIL
+  • cloud platforms (AWS, Azure)
+  • platform roadmap
+  • real-time execution
+  • global operations
+  • operational runbooks
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python and SQL proficiency
+  • CI/CD and Git experience
+  • Data governance and reporting
+  • Automation reducing manual toil
+  • Stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No ServiceNow experience listed
+  • Limited ITSM/Service management background
+  • No ServiceNow or ITIL certifications
+  • Lacks explicit CMDB/integration with monitoring tools
+  • Limited senior leadership/platform roadmap evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

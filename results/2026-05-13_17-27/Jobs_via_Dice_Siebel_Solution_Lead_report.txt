@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Siebel Solution Lead
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414168556
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • SQL
+  • Python
+  • Git
+  • APIs
+  • PostgreSQL
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • testing
+  • technical documentation
+  • integration
+  • data modeling
+  • ETL
+  • CRM
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (22)
+  • Siebel CRM
+  • Siebel Tools
+  • Siebel eScript
+  • Siebel Workflow
+  • EAI
+  • Open UI
+  • Java
+  • Oracle
+  • environment upgrades
+  • performance tuning
+  • debugging
+  • UI customization
+  • installations
+  • migrations
+  • Siebel Configuration
+  • responsive design
+  • business rules
+  • workflows
+  • Siebel administration
+  • Siebel developer
+  • Siebel Open UI
+  • Siebel integrations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with APIs and data integration
+  • Cloud and data warehouse experience (BigQuery, Snowflake, AWS)
+  • Reporting and visualization (Power BI, Tableau)
+  • Quantified impact in analytics roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Siebel-specific experience
+  • No Java or Oracle hands-on experience noted
+  • No EAI/Siebel Tools or eScript skills
+  • Limited explicit CRM (Siebel) admin tasks
+  • No Siebel environment upgrade/migration experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

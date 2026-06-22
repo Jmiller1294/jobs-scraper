@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Front Desk Reception/Check out - Oral Surgery Practice
+Company:  Mercer County Works
+Location: Princeton, NJ
+URL:      https://www.linkedin.com/jobs/view/4431345686
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • Customer service
+  • Customer support
+  • CRM
+  • Phone communication
+  • Verbal communication
+  • Multi-tasking
+  • Time management
+  • Microsoft Office/Google Suite
+  • High school diploma
+  • Commuting
+  • Adaptability
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Dental receptionist
+  • Dental office
+  • Front desk
+  • Answers phone
+  • Schedules patients
+  • HIPAA
+  • Patient check-in
+  • Patient check-out
+  • Appointment scheduling
+  • Active listening
+  • Day shift
+  • Monday to Friday
+  • Paid time off
+  • Health insurance
+  • Patient focus
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Customer service experience
+  • Strong communication skills
+  • CRM familiarity
+  • Time management and multi-tasking
+  • Reliable commuting ability
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No dental/medical front desk experience
+  • No explicit dental receptionist title
+  • HIPAA compliance not mentioned
+  • No scheduling/phone-answering metrics
+  • No patient check-in/check-out experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Product Analyst
+Company:  Soho Square Solutions
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413641675
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • requirements documentation
+  • process flows
+  • data mapping
+  • validation and testing
+  • Confluence
+  • epics
+  • user stories
+  • backlog grooming
+  • SQL
+  • Python
+  • ETL
+  • AWS S3
+  • Snowflake
+  • data modeling
+  • JIRA
+  • documentation
+  • integration
+  • API
+  • data pipelines
+  • workflow diagrams
+  • test plans
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • use cases
+  • interface specifications
+  • migration runbooks
+  • Agile SCRUM
+  • consumer impact analysis
+  • error handling documentation
+  • user guides and training materials
+  • technical specifications
+  • prioritization and sequencing
+  • business coordination of demos
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Proven documentation and Confluence usage
+  • Experience with data modeling and pipelines
+  • Project tooling: JIRA, Git, version control
+  • Quantified impacts in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit cloud migration runbook experience
+  • No explicit Agile SCRUM certification or role
+  • Missing explicit interface/specs for integrations
+  • Limited direct product owner title alignment
+  • No explicit error-handling or consumer impact artifacts
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

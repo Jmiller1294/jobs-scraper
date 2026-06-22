@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     RPG Programmer
+Company:  Rainbow Apparel Co
+Location: Brooklyn, NY
+URL:      https://www.linkedin.com/jobs/view/4415670125
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (5)
+  • SQL
+  • Git
+  • documentation
+  • project management
+  • troubleshooting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • RPG
+  • IBM iSeries
+  • AS/400
+  • RPG Free
+  • ILE
+  • embedded SQL
+  • CL
+  • Island Pacific
+  • Lawson ERP
+  • i5/OS
+  • RPG IV
+  • RLU
+  • SDA
+  • subfile programming
+  • FTP/SFTP
+  • PGP encryption
+  • Avery label/barcode
+  • retail ERP
+  • eCommerce integration
+  • change control
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database skills
+  • Experience with Git/version control
+  • Documentation and SOP creation
+  • Project and ticket management
+  • Data analysis with measurable impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No RPG or IBM iSeries experience listed
+  • No Island Pacific or Lawson ERP experience
+  • Lacks retail ERP and multi-outlet retail support experience
+  • No IBM i/OS, CL, or iSeries networking skills
+  • No mention of FTP/PGP or label/barcode tooling
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

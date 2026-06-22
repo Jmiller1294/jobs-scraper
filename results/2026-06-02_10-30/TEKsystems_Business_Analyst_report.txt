@@ -1,0 +1,93 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst
+Company:  TEKsystems
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4422385210
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • data validation
+  • data reconciliation
+  • reporting
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • AI tools
+  • PostgreSQL
+  • APIs
+  • ETL
+  • documentation
+  • JIRA
+  • Confluence
+  • issue triage
+  • stakeholder collaboration
+  • reporting
+  • data uploads
+  • bulk updates
+  • testing
+  • UAT
+  • BRD
+  • audit
+  • Snowflake
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (23)
+  • GRC
+  • Connected Risk
+  • vendor management
+  • backend data uploads
+  • Copilot
+  • templates
+  • supervisory interactions
+  • Connected Risk platform
+  • BRDs (explicit experience)
+  • production rollout
+  • BAU support
+  • regulatory exams
+  • control datasets
+  • ConnectedRisk
+  • third-party GRC vendors
+  • ConnectedRisk platform
+  • bulk fixes
+  • Connected Risk integration
+  • ConnectedRisk experience
+  • regulatory compliance workflows
+  • enterprise GRC
+  • compliance partnership
+  • ConnectedRisk implementations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL skills
+  • Power BI and Tableau reporting
+  • Experience with data validation and reconciliation
+  • Cross-functional collaboration and documentation
+  • Applied AI tools for analytics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Connected Risk or GRC platform experience
+  • Limited evidence of vendor-led implementations
+  • Regulatory exam/audit exposure not demonstrated
+  • Production rollout/BAU GRC support not shown
+  • Few explicit BRD authoring examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional teams to author BRDs and execute UAT for software features, ensuring project delivery alignment with business and regulatory compliance standards.
+  Performed detailed data validation and reconciliation of complex datasets using SQL, providing actionable reporting for audit readiness and supervisory oversight.
+  Provided BAU support and issue triage for internal data platforms, managing backend data uploads and bulk updates to maintain system integrity.
+  Leveraged AI tools, including Copilot and ChatGPT, to streamline data parsing, automate recurring reporting tasks, and generate insights for risk and control initiatives.
+  Coordinated with third-party vendors and internal stakeholders to drive project implementations, focusing on efficient workflow documentation and production rollouts.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Analyst opportunity with TEKsystems. I am interested in this opportunity because of TEKsystems' reputation as a leader in full-stack technology services and its commitment to driving complex digital transformation projects for Fortune 500 clients. What interests me about working for TEKsystems is its approach to scaling technical solutions, which inspires me because I am passionate about bridging the gap between raw data and actionable business strategy. I believe my expertise in data reconciliation and my proficiency in crafting technical documentation would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex regulatory and operational requirements into functional workflows. In fact, while at Haven Technologies, I collaborated with Underwriting and Product teams to align software features with business objectives, utilizing JIRA and Confluence for rigorous documentation. This resulted in a 25% reduction in project delivery delays and ensured that all data schemas met stringent insurance testing standards. Ultimately, I know that the Business Analyst role at TEKsystems would allow me to bring my analytical rigor to the delivery of critical GRC initiatives. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my system optimization skills. At Shine Masters, I identified process bottlenecks and implemented automated workflows that replaced manual reporting, which improved team efficiency by 25% and provided executive stakeholders with clear, data-driven insights. I’m excited by the opportunity to use my background in data validation and issue triage in working on the Connected Risk platform at TEKsystems. I know that my technical versatility and commitment to documentation align with what it takes to succeed in the Business Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

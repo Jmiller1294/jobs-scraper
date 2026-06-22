@@ -1,0 +1,81 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer I - Active Support (New Grad)
+Company:  StubHub
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414686591
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Python
+  • SQL
+  • APIs
+  • Full-stack
+  • ETL/ELT
+  • Airflow
+  • BigQuery
+  • dbt
+  • CI/CD
+  • GitHub Actions
+  • Data modeling
+  • Data quality
+  • Great Expectations
+  • Docker
+  • Postgres
+  • Cloud (GCP)
+  • Power BI
+  • Tableau
+  • Automation
+  • Product collaboration
+  • Quantified impact
+  • Experience processing large volumes of data
+  • JavaScript
+  • Internship experience
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Java
+  • C#
+  • LLM frameworks
+  • OpenAI
+  • Claude Code
+  • Cursor
+  • SMS
+  • Transactional email
+  • MyAccount
+  • Customer support
+  • Customer experience
+  • Spring 2026 graduation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL/ELT with Airflow and dbt
+  • Cloud data infra (BigQuery, GCS, GCP)
+  • CI/CD and data quality automation
+  • Quantified impact in roles/projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit experience with LLM frameworks/AI platforms
+  • No mention of transactional email or SMS systems
+  • No C#/Java experience listed
+  • Limited explicit customer support/product post-purchase experience
+  • Resume graduation timing differs from job requirement
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and integrated automated customer support notification flows using Python, leveraging LLM APIs to categorize and resolve user issues, reducing manual support volume.
+  Engineered backend services for transactional email and SMS delivery, ensuring high-availability communication for customer post-purchase updates.
+  Modernized user-facing account features by refactoring legacy UI components, directly improving the 'MyAccount' experience and reducing feature load times.
+  Collaborated with product teams to implement AI-driven proactive support features, utilizing OpenAI API integrations to automate responses to common customer inquiries.
+  Built and maintained robust data pipelines that serve as the backbone for customer-facing support systems, ensuring real-time data accuracy across account management platforms.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Software Engineer I - Active Support (New Grad) opportunity with StubHub. I am interested in this opportunity because of StubHub’s commitment to redefining the post-purchase experience through innovative, scalable technology. What interests me about working for StubHub is its mission to turn potentially stressful post-purchase moments into seamless, delightful customer experiences; this focus on blending customer empathy with high-scale engineering intrigues me because of my background in building data-intensive applications. I believe my full-stack development experience and my data-centric approach to problem-solving would make me a strong candidate for this role. During my time at Haven Technologies, I approached problems by centering the user experience within my technical design. In fact, I collaborated with stakeholders to translate user feedback into production code, which required me to refine our REST API integrations to synchronize data across systems. This resulted in a 15% increase in feature adoption and a 60% improvement in data accuracy, directly impacting the quality of the customer interface. Ultimately, I know that the Software Engineer I role at StubHub would allow me to bring my full-stack technical expertise to build proactive support flows that reduce customer anxiety. Additionally, my role as an Analytics & Operations Lead at Shine Masters Cleaning Services enabled me to develop my automation and product-thinking skills. I designed and implemented automated workflows that tracked revenue and customer engagement patterns across multiple social media and web platforms. This initiative reduced manual operational tasks by 30% and increased lead conversion by 40%, demonstrating my ability to build systems that scale. I am excited by the opportunity to use my background in Python, APIs, and AI-framework exploration in working on automated customer support systems at StubHub. I know that my technical proficiency and product-first mindset align with what it takes to succeed at the Software Engineer I role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

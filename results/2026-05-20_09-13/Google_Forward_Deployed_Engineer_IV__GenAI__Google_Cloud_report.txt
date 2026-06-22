@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Forward Deployed Engineer IV, GenAI, Google Cloud
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4375745404
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • Full-stack
+  • APIs
+  • ETL
+  • PostgreSQL
+  • Git
+  • BigQuery
+  • Snowflake
+  • Cloud
+  • SQL
+  • Deployment
+  • Quantified impact
+  • Data pipelines
+  • Optimization
+  • Stakeholder engagement
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • AI
+  • Production
+  • Observability
+  • Multi-agent
+  • LLM
+  • Agentic
+  • Security
+  • OAuth
+  • MCP
+  • Leadership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Experience building ETL and data pipelines
+  • Cloud data tools (BigQuery, Snowflake, AWS S3)
+  • Quantified impact with measurable outcomes
+  • Full-stack development and API integration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Insufficient demonstrated production-grade AI delivery
+  • No explicit experience with multi-agent or agentic systems
+  • Limited observability/monitoring and latency engineering evidence
+  • No demonstrated OAuth/MCP/tool-calling security implementations
+  • Less seniority vs required 8 years of AI production experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

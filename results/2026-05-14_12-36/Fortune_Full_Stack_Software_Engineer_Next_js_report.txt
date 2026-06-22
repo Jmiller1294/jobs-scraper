@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Full Stack Software Engineer Next.js
+Company:  Fortune
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414497704
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • JavaScript
+  • RESTful API
+  • DevOps
+  • CI/CD
+  • Docker
+  • GCP
+  • BigQuery
+  • Postgres
+  • SQL
+  • Python
+  • GitHub Actions
+  • data-driven
+  • automation
+  • ETL
+  • data quality
+  • dbt
+  • airflow
+  • analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Next.js
+  • TypeScript
+  • CMS
+  • serverless
+  • headless CMS
+  • performance optimization
+  • A/B testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data engineering skills
+  • Experience with BigQuery and GCP
+  • CI/CD and GitHub Actions automation
+  • ETL/airflow and dbt pipeline development
+  • Proven analytics-driven impact (quantified)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Next.js or frontend framework experience
+  • TypeScript not demonstrated
+  • Limited CMS or headless CMS experience
+  • Serverless architecture experience not shown
+  • A/B testing and ads tech not evidenced
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

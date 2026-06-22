@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Business Analyst
+Company:  Soho Square Solutions
+Location: Iselin, NJ
+URL:      https://www.linkedin.com/jobs/view/4412836392
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • SQL
+  • data analysis
+  • troubleshooting
+  • communication
+  • Python
+  • ETL
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • reporting
+  • dashboarding
+  • Jira
+  • Confluence
+  • Bachelor's degree
+  • querying
+  • analytics
+  • project management
+  • stakeholder engagement
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • IBOR
+  • investment performance
+  • asset management
+  • FactSet
+  • Eagle Performance
+  • Leveraged Loans
+  • CFA
+  • CIPM
+  • 8-10 years asset management experience
+  • 3-5 years investment performance experience
+  • 3-5 years IBOR projects
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database skills
+  • ETL and Python automation experience
+  • Reporting and dashboard development
+  • Experience with Jira/Confluence
+  • Bachelor's in Computer Science
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit asset management experience
+  • No IBOR or investment performance projects
+  • Missing FactSet/Eagle Performance knowledge
+  • Less than required years in relevant domain
+  • Located in New York (outside preferred locations)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

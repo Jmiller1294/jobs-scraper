@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal Engineer - Capital Markets Regulatory Technology
+Company:  Wells Fargo
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416151044
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • Git
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • ETL
+  • Data pipelines
+  • Power BI
+  • Tableau
+  • Pandas
+  • Automation
+  • JIRA
+  • Confluence
+  • AWS (S3)
+  • Data modeling
+  • PostgreSQL data model
+  • Version control
+  • Data visualization
+  • Machine learning tools (ChatGPT, Claude, Gemini)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • Java
+  • gRPC
+  • Service Mesh
+  • Microservices
+  • FastAPI
+  • Micro Front-End
+  • Low-latency
+  • FICC
+  • Derivatives
+  • Complex derivatives
+  • High-performance messaging
+  • JVM tuning
+  • Reactive architectures
+  • Cloud-native (Azure/GCP)
+  • Agentic Development (GitHub Copilot)
+  • Principal/Lead Architect
+  • 7+ years Engineering
+  • Capital Markets experience
+  • Trade lifecycle
+  • Real-time valuations
+  • Latency optimization
+  • Resilience and auditability
+  • Mentorship at senior level
+  • Hybrid cloud deployment
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL and data pipelines
+  • Cloud data platform exposure (AWS, BigQuery, Snowflake)
+  • Visualization and analytics (Power BI, Tableau)
+  • Collaboration tools and CI practices (Git, JIRA, Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java or JVM/concurrency expertise shown
+  • No microservices, gRPC, or service-mesh experience
+  • Lacks FICC/derivatives and trade lifecycle domain experience
+  • Insufficient senior/principal engineering tenure
+  • No evidence of low-latency or mission-critical systems work
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

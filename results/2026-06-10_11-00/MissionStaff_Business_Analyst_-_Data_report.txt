@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst - Data
+Company:  MissionStaff
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4426091318
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • SQL
+  • Power BI
+  • Python
+  • ETL
+  • Data profiling
+  • Data validation
+  • Data quality
+  • JIRA
+  • Confluence
+  • Tableau
+  • Snowflake
+  • BigQuery
+  • Stakeholder management
+  • Agile
+  • User Stories
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Azure
+  • Azure Data Factory
+  • Synapse Analytics
+  • Source-to-target mapping
+  • Data dictionary
+  • Data governance
+  • BRD
+  • FRD
+  • SAP Analytics Cloud
+  • PMP
+  • CBAP
+  • SAP
+  • Insurance industry
+  • Synapse
+  • Onsite NY
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and complex query optimization
+  • Power BI dashboard development with measurable impact
+  • Hands-on ETL and data pipeline experience (Python)
+  • Experience with data modeling and large datasets
+  • Proven delivery using JIRA/Confluence in cross-functional teams
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Azure/Azure Data Factory or Synapse experience listed
+  • No explicit BRD/FRD or formal data dictionary/source-to-target mapping
+  • Limited insurance-industry tenure
+  • No data governance framework or certifications (PMP/CBAP) shown
+  • Cloud experience is AWS/GCP/Snowflake, not Azure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

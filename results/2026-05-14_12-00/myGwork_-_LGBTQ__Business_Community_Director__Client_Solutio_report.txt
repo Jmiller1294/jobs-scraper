@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director, Client Solutions Engineer – Fiserv for Platforms
+Company:  myGwork - LGBTQ+ Business Community
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4411161634
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • APIs
+  • platforms
+  • integrations
+  • SaaS
+  • SQL
+  • Python
+  • Snowflake
+  • BigQuery
+  • data pipelines
+  • CI/CD
+  • Git
+  • automation
+  • ETL
+  • architecture
+  • presentations
+  • data governance
+  • dashboarding
+  • analytics
+  • product partnership
+  • sales collaboration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • payments
+  • fund flows
+  • KYC/KYB
+  • settlements
+  • payouts
+  • PayFac
+  • marketplaces
+  • embedded finance
+  • pricing
+  • regulatory
+  • card network
+  • enterprise deals
+  • quota
+  • revenue
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Experience with Snowflake and BigQuery
+  • Built production ELT pipelines and CI/CD
+  • Data-driven presentations and dashboards
+  • Proven automation reducing manual work
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit payments/PayFac experience
+  • Lacks fund flow, settlements, payouts background
+  • Limited client-facing presales or quota-bearing sales history
+  • No KYC/KYB or regulatory experience listed
+  • No senior director/title alignment or multi-stakeholder $1M+ deal ownership
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

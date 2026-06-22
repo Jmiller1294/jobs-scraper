@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Modeler
+Company:  Hallmark Global Solutions Ltd
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4416688581
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • data modeling
+  • logical data model
+  • physical data model
+  • SQL
+  • PostgreSQL
+  • Snowflake
+  • ETL
+  • data warehouse
+  • query optimization
+  • data quality
+  • metadata
+  • data flows
+  • documentation
+  • version control
+  • Python
+  • Tableau
+  • Power BI
+  • stakeholder collaboration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • ERwin
+  • dimensional modeling
+  • ER modeling
+  • data dictionary
+  • data governance
+  • big data
+  • Spark
+  • banking experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • ETL pipeline design and implementation
+  • Data modeling for analytics (PostgreSQL design)
+  • Visualization and reporting (Power BI, Tableau)
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit ERwin experience listed
+  • Limited or no banking-specific experience
+  • Dimensional/ER modeling not explicitly stated
+  • Big data platform (Spark/Hadoop) experience not shown
+  • Senior Data Modeler/Architect titles absent
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

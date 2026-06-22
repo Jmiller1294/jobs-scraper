@@ -1,0 +1,62 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Workplace Manager
+Company:  Chalk
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416324158
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • scheduling
+  • onboarding
+  • documentation
+  • operations
+  • team coordination
+  • communication
+  • problem solving
+  • Microsoft Office
+  • Google Suite
+  • time management
+  • stakeholder communication
+  • SOPs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • office management
+  • vendor negotiation
+  • event planning
+  • customer reception
+  • supplies management
+  • contract negotiation
+  • onsite availability
+  • workplace team
+  • engineering collaboration
+  • hospitality
+  • inventory management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Operational process improvement (SOPs)
+  • Scheduling and onboarding automation
+  • Strong written and stakeholder communication
+  • Cross-functional collaboration experience
+  • Quantified impact on efficiency and onboarding
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit office manager or workplace role title
+  • Limited evidence of vendor selection/negotiation
+  • No direct event/offsite planning examples
+  • No explicit experience greeting visitors/interview coordination
+  • Unclear long-term onsite availability for full-time hours
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

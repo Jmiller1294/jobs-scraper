@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     🔬 Data Scientist
+Company:  AI LAX Summit
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4431703789
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • BigQuery
+  • data pipelines
+  • ETL
+  • data modeling
+  • data visualization
+  • Tableau
+  • Power BI
+  • communication
+  • startup experience
+  • customer segmentation
+  • reporting
+  • data quality
+  • Snowflake
+  • automation
+  • Git
+  • experimentation
+  • statistical methods
+  • ETL Pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • DBT
+  • Amplitude
+  • data dictionary
+  • data governance
+  • A/B testing
+  • product analytics
+  • Javascript
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on ETL and pipeline building
+  • Quantified impact on business KPIs
+  • Experience with BigQuery and Snowflake
+  • Effective data visualization and storytelling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit DBT experience
+  • Amplitude taxonomy/analytics not shown
+  • Limited A/B testing details
+  • Data governance/data dictionary experience unclear
+  • Javascript not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Integrated Amplitude event tracking to monitor user engagement and designed experiments, using A/B testing methodologies to validate product features and optimize growth funnels.
+  Owned the data governance strategy by creating a comprehensive data dictionary, ensuring high-quality, standardized documentation across cross-functional product and engineering teams.
+  Built and maintained robust data transformation workflows within a DBT-like environment to clean and model raw event data into analytics-ready schemas for stakeholder reporting.
+  Partnered with product managers to define key product analytics metrics and KPIs, translating raw user behavior data into strategic roadmap recommendations.
+  Leveraged Javascript and Python to extract and manipulate data from third-party APIs, integrating external signals into our core product analytics pipelines.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the 🔬 Data Scientist opportunity with Partiful. I am interested in this opportunity because Partiful’s mission to cultivate real-world friendships through seamless event planning deeply resonates with my own belief that technology should reduce, not create, friction in human connection. What interests me about working for Partiful is its innovative approach to social utility and its well-deserved recognition as a leader in consumer product design; the ability to influence a product that is already a staple for meaningful gatherings is incredibly exciting to me. I believe my expertise in product-focused data pipelines and my ability to translate complex user behavior into actionable business growth would make me a strong candidate for this role. During my professional career, I have approached problems through the lens of data-driven experimentation. In fact, while at Shine Masters, I implemented a new tracking model to identify high-value customer segments and optimized the automated onboarding flow. By refining these data processes, I achieved a 300% increase in new customer acquisition over 12 months, proving that when data is accessible and accurate, it becomes the primary catalyst for rapid business scaling. Ultimately, I know that the 🔬 Data Scientist role at Partiful would allow me to bring my experience in building scalable ETL pipelines to key responsibilities like monitoring performance trends and defining product benchmarks. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my data governance and stakeholder communication skills. When tasked with replacing manual reporting, I designed interactive dashboards that synthesized fragmented data points into a single source of truth, reducing processing time by 40% and accelerating executive decision-making. I’m excited by the opportunity to use my proficiency in SQL, Python, and modern data stack tools in working on the evolving product ecosystem at Partiful. I know that my analytical rigor and my passion for consumer-facing growth align with what it takes to succeed at the 🔬 Data Scientist role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

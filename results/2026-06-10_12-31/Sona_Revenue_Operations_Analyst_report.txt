@@ -1,0 +1,94 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Revenue Operations Analyst
+Company:  Sona
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413610404
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • CRM
+  • integrations
+  • APIs
+  • Zapier
+  • n8n
+  • Python
+  • SQL
+  • ETL
+  • data modeling
+  • schema design
+  • reporting
+  • dashboards
+  • Power BI
+  • data quality
+  • enrichment
+  • deduplication
+  • workflow automation
+  • documentation
+  • PostgreSQL
+  • BigQuery
+  • AI tools
+  • Salesforce
+  • GTM
+  • analytics
+  • PostgreSQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • HubSpot
+  • data architecture
+  • Gong
+  • Lemlist
+  • Sales Navigator
+  • Cognism
+  • Planhat
+  • Make
+  • JavaScript
+  • validation rules
+  • data hygiene
+  • programmatic access
+  • Growth AI Engineer
+  • vendor relationships
+  • B2B SaaS sales cycles
+  • marketing funnels
+  • deduplication automation
+  • relational data structures
+  • object modelling
+  • lifecycle stages
+  • associations
+  • bi-directional sync
+  • Clarity to non-technical stakeholders
+  • root cause diagnosis
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Built integrations and API data pipelines
+  • Power BI dashboards with measurable impact
+  • Experience with Zapier automation and workflow improvements
+  • Good documentation and data model design
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit HubSpot administration experience
+  • Limited exposure to listed GTM tools (Gong, Lemlist, Sales Navigator)
+  • Unclear experience with n8n or Make
+  • No JavaScript examples for scripting
+  • Less demonstrated direct RevOps or B2B SaaS sales ops background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Administered CRM data architecture by designing custom objects, associations, and lifecycle stages in Salesforce and HubSpot, ensuring a single source of truth for GTM teams.
+  Built and maintained bi-directional integrations between CRM platforms and marketing tools (e.g., Salesforce, LinkedIn Sales Navigator, and Zapier) to ensure seamless data flow across the GTM stack.
+  Enforced strict data hygiene standards through automated deduplication, enrichment, and validation rules, transforming raw inputs into structured, reliable data sets for B2B sales cycles.
+  Developed robust reporting infrastructure and data models that allowed non-technical stakeholders to track marketing funnels and sales pipeline performance through custom dashboards.
+  Optimized workflow automations using Python and middleware (Zapier/n8n) to reduce manual data entry, ensuring our systems are structured for programmatic access by AI-driven revenue tools.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Revenue Operations Analyst opportunity with Sona. I am interested in this opportunity because of Sona’s mission to modernize frontline workforce management through AI-native solutions, which uniquely addresses a critical gap for billions of workers globally. What interests me about working for Sona is its rapid growth and the high-impact nature of the GTM data foundation; your focus on scaling AI capabilities inspires me because I am passionate about how clean, structured data serves as the backbone for effective machine learning. I believe my technical background in data architecture and my experience in building automated GTM workflows would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex data needs into clean, scalable systems. In fact, at Shine Masters, I replaced manual reporting with automated Power BI dashboards and Zapier-based workflows, reducing data processing time by 40% and saving 8 hours of manual work per week. This experience directly translates to the need for managing Sona's GTM data model and ensuring that systems like HubSpot and Gong communicate reliably to support the commercial team. Ultimately, I know that the Revenue Operations Analyst role at Sona would allow me to bring my expertise in data modeling to maintain and scale your GTM data foundation. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my stakeholder management skills. I managed the full lifecycle of reporting projects, identifying key bottlenecks and presenting actionable insights to executive leadership, ensuring that data-driven recommendations were clearly understood by non-technical team members. I am excited by the opportunity to use my background in Python and SQL to build the programmatic foundations required for Sona’s growth. I know that my data architecture expertise and commitment to data hygiene align with what it takes to succeed at the Revenue Operations Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Test Lead
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414174162
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 25/100
+[█████░░░░░░░░░░░░░░░] 25%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (8)
+  • Python
+  • Git
+  • SQL
+  • Automation
+  • CI/CD
+  • API Testing
+  • Debugging
+  • Agile Methodologies
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Selenium WebDriver
+  • XPath
+  • CSS Selectors
+  • TestNG
+  • JUnit
+  • Jenkins
+  • GitLab CI
+  • Azure DevOps
+  • Postman
+  • RestAssured
+  • BrowserStack
+  • Selenium Grid
+  • JIRA
+  • TestRail
+  • Mabl
+  • TestRigor
+  • Testim
+  • POM
+  • Cross-browser testing
+  • Test Automation
+  • Low-code automation
+  • Automation frameworks
+  • API test tools
+  • CI/CD Integration
+  • Automated test scripts
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python automation experience
+  • SQL and data engineering skills
+  • CI/CD exposure via GitHub Actions project
+  • Quantified impact (time savings, revenue lift)
+  • Experience in Agile teams
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Selenium/WebDriver experience
+  • Lacks TestNG/JUnit and POM framework experience
+  • No mention of Selenium Grid or BrowserStack
+  • No explicit test management tools (JIRA/TestRail)
+  • Limited explicit API testing tools (Postman/RestAssured)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

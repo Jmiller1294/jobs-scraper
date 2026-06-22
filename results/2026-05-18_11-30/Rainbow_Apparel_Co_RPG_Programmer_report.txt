@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     RPG Programmer
+Company:  Rainbow Apparel Co
+Location: Brooklyn, NY
+URL:      https://www.linkedin.com/jobs/view/4415670125
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (6)
+  • embedded SQL
+  • SQL
+  • MS Office
+  • troubleshooting
+  • version management
+  • customer service
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • RPG
+  • IBM iSeries
+  • AS/400
+  • RPG IV
+  • RPG Free
+  • ILE
+  • CL
+  • Island Pacific
+  • Lawson ERP
+  • i5/OS
+  • RLU
+  • SDA
+  • subfile programming
+  • FTP/SFTP
+  • PGP encryption
+  • Avery barcode printers
+  • retail ERP
+  • eCommerce integration
+  • Windows
+  • customer service
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • SQL proficiency
+  • data analysis and reporting
+  • documentation and change tracking
+  • problem solving and troubleshooting
+  • cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No RPG/AS400 experience listed
+  • No Island Pacific or Lawson ERP experience
+  • No IBM iSeries/i5OS platform skills
+  • No retail ERP or multi-outlet retail support experience
+  • No listed expertise with RPG toolset (RLU/SDA/subfiles) or FTP/PGP
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Charles River Developer Newark - NJ - New Jersey
+Company:  Jobs via Dice
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4413815539
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • SQL
+  • Python
+  • Snowflake
+  • APIs
+  • ETL
+  • Automation
+  • BigQuery
+  • Git
+  • PostgreSQL
+  • Data pipelines
+  • CI/CD
+  • Query tuning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • Java
+  • C#
+  • Charles River
+  • CRIMS
+  • Workbench/ManagerCentral
+  • Portfolio management
+  • Trading workflows
+  • Compliance rules
+  • IBOR
+  • FIX
+  • Kafka
+  • Azure
+  • Investment management
+  • Risk models
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and query optimization
+  • Proficient in Python for ETL/automation
+  • Hands-on Snowflake and BigQuery
+  • CI/CD and pipeline automation experience
+  • Clear quantified project impacts
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Charles River (CRIMS) experience
+  • No Java or C# listed
+  • No FIX or trading-specific integrations
+  • Limited financial domain/portfolio management evidence
+  • No Azure or Kafka experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

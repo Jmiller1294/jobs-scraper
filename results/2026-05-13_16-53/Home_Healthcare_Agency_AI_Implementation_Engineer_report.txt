@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Implementation Engineer
+Company:  Home Healthcare Agency
+Location: Queens, NY
+URL:      https://www.linkedin.com/jobs/view/4414263724
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • Snowflake
+  • SQL
+  • Git
+  • APIs
+  • Automation
+  • ETL
+  • BigQuery
+  • Power BI
+  • MySQL
+  • AWS
+  • Version control
+  • CI/CD
+  • Data governance
+  • Communication
+  • Stakeholder management
+  • Debugging/troubleshooting
+  • Data pipelines
+  • Python automation
+  • Structured workflows
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Prompting
+  • AI workflows
+  • Prompt library
+  • PHI handling
+  • Web development
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on Snowflake and BigQuery usage
+  • Proven automation and ETL pipeline delivery
+  • Version control and CI/CD experience (Git, GitHub Actions)
+  • Quantified impact on efficiency and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit AI prompt engineering experience
+  • No documented PHI/healthcare data handling
+  • Limited web development (HTML/CSS/JS) evidence
+  • No explicit Mandarin language skill
+  • Short formal software development tenure (1-3 years borderline)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and maintained internal prompt libraries and AI-enabled workflows to automate manual data reporting, ensuring high-quality output and consistent performance.
+  Engineered Python-based automation tools and structured workflows, integrating LLM-based prompting to transform raw business documentation into actionable operational insights.
+  Managed sensitive business data and PII/PHI-related assets within secure environments, implementing strict data governance frameworks and access controls to maintain auditability and security.
+  Applied web development best practices using HTML/CSS/JavaScript to build intuitive, user-facing dashboards that facilitate team-wide AI training and enablement.
+  Collaborated on system integrations between API-driven services and core enterprise databases (Snowflake/PostgreSQL), while ensuring strict adherence to data privacy and security protocols.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the AI Implementation Engineer opportunity with TEAM Services Group. I am interested in this opportunity because of your commitment to empowering seniors and individuals with disabilities through innovative, self-directed care models. What interests me about working for TEAM Services Group is your mission-driven approach to transforming home care; your focus on blending compassionate care with cutting-edge technology uniquely resonates with my background in data engineering and software development. I believe my expertise in Python-based automation and my background in building secure, scalable data pipelines would make me a strong candidate for this role. During my tenure as a Data Analyst & Operations Lead at Shine Masters, I approached problems by identifying manual bottlenecks and engineering high-impact technical solutions. In fact, I developed Python automation to ingest POS and CRM data, which eliminated repetitive manual entry and saved 8 hours per week while improving accuracy for strategic decision-making. Ultimately, I know that the AI Implementation Engineer role at TEAM Services Group would allow me to bring my proficiency in automation and system integration to streamline your AI use cases and business processes. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my skills in managing complex datasets and ensuring data integrity within highly regulated environments. I optimized relational database queries to clean and reconcile testing data, improving data accuracy by 60% and providing a stable foundation for downstream reporting. I’m excited by the opportunity to use my background in cloud services and API integration in working on connecting AI workflows to core systems at TEAM Services Group. I know that my technical versatility and commitment to data governance align with what it takes to succeed as an AI Implementation Engineer. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

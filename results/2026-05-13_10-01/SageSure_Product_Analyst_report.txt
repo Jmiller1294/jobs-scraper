@@ -1,0 +1,104 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Product Analyst
+Company:  SageSure
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413982737
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • data analytics
+  • SQL
+  • Python
+  • project management
+  • reporting
+  • Tableau
+  • Power BI
+  • automation
+  • data quality
+  • stakeholder communication
+  • ETL
+  • Snowflake
+  • BigQuery
+  • data governance
+  • data validation
+  • CI/CD
+  • Excel
+  • statistical modeling
+  • API integration
+  • Git
+  • PostgreSQL
+  • MySQL
+  • visualization
+  • advanced Excel
+  • vendor systems
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • protection class
+  • geo-location
+  • agency management
+  • underwriting
+  • public protection class
+  • insurance
+  • policy structures
+  • inspection outcomes
+  • agency performance
+  • rescind/cancellations
+  • Sales collaboration
+  • vendor-provided information
+  • proprietary software
+  • risk monitoring
+  • rating elements
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong technical analytics stack (Python, SQL, Snowflake, BigQuery)
+  • proven reporting and dashboard delivery (Power BI, Tableau)
+  • automation and ETL pipeline development
+  • data quality and validation practices
+  • quantified impact on efficiency and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited insurance/underwriting domain experience
+  • no explicit protection class or geo-location work
+  • no documented agency management or policy lifecycle experience
+  • short tenure in industry-specific roles
+  • no explicit proprietary insurance systems experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Monitored and assessed individual risk factors, including public protection class data and geo-location of properties, to inform underwriting decisions and identify potential risks.
+  Served as a subject matter expert on public protection class data and vendor-provided information systems, ensuring accuracy and guiding corrective actions for underwriting data quality.
+  Analyzed agency policy outcomes, such as cancellations and coverage changes, to identify improvement opportunities and drive system enhancements for agency performance management.
+  Translated complex technical findings on risk and rating elements into actionable business recommendations during stakeholder meetings, contributing to improved underwriting accuracy and strategic decisions.
+  Led the implementation and rollout of proprietary Fire Protection programming, ensuring project completion on time, within scope, and aligned with company goals.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Product Analyst opportunity with SageSure. I am interested in this opportunity because SageSure's position as a leader in catastrophe-exposed property insurance, coupled with its entrepreneurial spirit, deeply resonates with my professional aspirations.
+
+What interests me about working for SageSure is its approach to tackling the industry's toughest challenges through innovation and data-driven solutions. This excites, inspires, and intrigues me because it aligns perfectly with my passion for leveraging data to solve complex problems and drive business growth.
+
+I believe my strong technical analytics stack, including Python and SQL, and my proven ability in project management would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a focus on efficiency, accuracy, and quantifiable impact. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, which reduced data mismatches and improved work efficiency by 40%. This resulted in significantly faster strategic decisions and a consistent 'single source of truth' for all business stakeholders.
+
+Ultimately, I know that the Product Analyst role at SageSure would allow me to bring my data analytics and problem-solving skills to critical responsibilities such as risk monitoring, quality review, and agency performance management.
+
+Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my stakeholder communication and cross-functional collaboration skills. I translated complex technical findings into business recommendations during stakeholder meetings, effectively closing the gap between raw data and growth strategy. This led to the successful implementation of data-driven marketing initiatives that contributed to a 300% increase in revenue in targeted segments.
+
+I'm excited by the opportunity to use my project management and data analytics skills in working on program rollouts and risk analysis at SageSure. I know that my proficiency in data analytics and my project management experience align with what it takes to succeed in the Product Analyst role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

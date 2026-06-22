@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Change BA - Market Risk/CCR
+Company:  Crisil
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4430555879
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • SQL
+  • Python
+  • data analysis
+  • data validation
+  • ETL
+  • data modelling
+  • documentation
+  • APIs
+  • reporting
+  • stakeholder management
+  • reconciliation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Market Risk
+  • Counterparty Credit Risk
+  • FRTB
+  • risk transformation
+  • requirements gathering
+  • UAT
+  • trade lifecycle
+  • derivatives
+  • exposure calculation
+  • risk systems
+  • quant teams
+  • regulatory changes
+  • data lineage
+  • Agile
+  • stress testing
+  • VaR
+  • sensitivities
+  • controls
+  • front office
+  • capital markets
+  • investment banking
+  • CCR
+  • large-scale tech change
+  • model teams
+  • financial products
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on ETL and data modelling
+  • Documented deliverables and SOPs
+  • Built dashboards and reporting (Power BI, Tableau)
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Market Risk or CCR experience
+  • No FRTB or regulatory risk program experience
+  • Limited capital markets/investment banking background
+  • No demonstrated trade lifecycle or derivatives work
+  • No explicit UAT or risk system implementation experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AVP, QA Automation Engineer
+Company:  OTC Markets Group
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405708092
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 35/100
+[███████░░░░░░░░░░░░░] 35%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • SQL
+  • Postgres
+  • Git
+  • AWS
+  • Agile
+  • Jira
+  • UI
+  • Database
+  • End-to-end
+  • Debugging
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • JavaScript
+  • Playwright
+  • UI test automation
+  • Integration testing
+  • Regression testing
+  • Data validation
+  • API testing
+  • WebDriver IO
+  • Informix
+  • Jasmine
+  • ES6
+  • Automation framework
+  • Test cases
+  • Linux
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Postgres experience
+  • AWS (S3) cloud exposure
+  • Git and Jira usage
+  • Quantified impact in prior roles
+  • Bachelor in Computer Science
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No JavaScript test automation experience listed
+  • No Playwright/WebDriver IO or Jasmine experience
+  • Limited Linux/CI environment details
+  • No Informix or explicit API testing experience
+  • Only 0-3 years QA/test automation experience indicated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

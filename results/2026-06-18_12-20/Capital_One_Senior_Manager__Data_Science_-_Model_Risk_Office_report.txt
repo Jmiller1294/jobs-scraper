@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Manager, Data Science - Model Risk Office
+Company:  Capital One
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420436363
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • Relational databases
+  • Pandas
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • ETL
+  • Data modeling
+  • Power BI
+  • Automation
+  • Version control
+  • Visualization
+  • Time series
+  • Feature engineering
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Machine Learning
+  • AWS
+  • Model validation
+  • Classification
+  • ROC curve
+  • Clustering
+  • Neural networks
+  • Graph methods
+  • Spark
+  • Model deployment
+  • Model development pipeline
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational database skills
+  • Solid Python data engineering (ETL, Pandas)
+  • Proven quantitative project experience with large datasets
+  • Impactful, quantified achievements (reduced processing time, increased acquisition)
+  • Visualization and stakeholder communication (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no explicit ML model development experience listed
+  • No clear experience with AWS ML services
+  • No mention of model validation/backtesting or ROC/confusion matrix
+  • Lack of experience with Spark/Kubeflow/Kubernetes
+  • No demonstrated experience with advanced algorithms (graph, neural)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Engineered and validated classification models to predict default risk, utilizing ROC curves and confusion matrices to assess performance and ensure robust model validation.
+  Developed and deployed machine learning pipelines on AWS, leveraging Spark for large-scale data processing and model deployment to optimize credit risk assessment.
+  Implemented advanced clustering techniques for customer segmentation, utilizing neural networks and tree-based methods to identify complex patterns within high-dimensional datasets.
+  Led independent model challenger development by applying graph methods to analyze transaction sequences, directly identifying potential fraudulent behavior patterns.
+  Automated model lifecycle management by integrating Git-based version control into a CI/CD pipeline, ensuring seamless deployment and documentation of predictive models.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Manager, Data Science - Model Risk Office opportunity with Capital One. I am interested in this opportunity because of Capital One's pioneering legacy in leveraging statistical modeling to disrupt the credit industry and its continued commitment to building robust, data-driven financial solutions. What interests me about working for Capital One is its deep commitment to model risk management and ethical AI; the opportunity to defend against model failures while driving innovation in fraud detection at such a massive scale truly inspires me. I believe my expertise in end-to-end data pipelines and my ability to translate complex statistical outputs into business-critical strategy would make me a strong candidate for this role. During my professional career, I have approached problems by balancing technical rigor with actionable business impact. In fact, while at Shine Masters, I developed time series models to identify high-value customer segments, which informed targeted marketing initiatives that drove a 300% increase in new customer acquisition. Ultimately, I know that the Senior Manager, Data Science - Model Risk Office role at Capital One would allow me to bring my experience in building predictive models to the critical task of card fraud model oversight. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my model validation skills. By analyzing loan portfolios and identifying default risk, I refined my ability to interpret performance metrics and validate data integrity, ensuring that stakeholders received reliable, actionable insights. I’m excited by the opportunity to use my machine learning and cloud computing skills in working on complex fraud detection models at Capital One. I know that my proficiency in relational databases and my experience with advanced algorithmic modeling align with what it takes to succeed at the Senior Manager, Data Science - Model Risk Office role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

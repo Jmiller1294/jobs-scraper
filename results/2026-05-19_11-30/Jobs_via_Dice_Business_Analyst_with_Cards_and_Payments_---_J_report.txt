@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst with Cards and Payments --- Jersey City, NJ-Hybrid
+Company:  Jobs via Dice
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4415793892
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Business Analyst
+  • SQL
+  • Python
+  • ETL
+  • Data aggregation
+  • Stakeholder communication
+  • Project leadership
+  • Process documentation
+  • Tableau
+  • Power BI
+  • PostgreSQL
+  • MySQL
+  • Automation
+  • Reporting
+  • KPI monitoring
+  • Client onboarding
+  • AWS S3
+  • Snowflake
+  • BigQuery
+  • JIRA
+  • Confluence
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Payments
+  • GPP
+  • PAYplus
+  • GFX
+  • GPP or Payments exp is mandatory
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Proven reporting and dashboard delivery (Power BI, Tableau)
+  • Process documentation and SOP creation
+  • Cross-functional collaboration and project tracking (JIRA/Confluence)
+  • Cloud and data warehouse familiarity (Snowflake, BigQuery, AWS S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit payments or GPP experience
+  • No mention of PAYplus or GFX
+  • Limited explicit card domain knowledge
+  • Titles are data analyst/developer, not payments BA
+  • Less than seasoned years in relevant roles for senior BA
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

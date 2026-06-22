@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Administrative Support Coordinator
+Company:  Northwell Health
+Location: Tarrytown, NY
+URL:      https://www.linkedin.com/jobs/view/4430702340
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Microsoft Office
+  • Google Suite
+  • Advanced Excel
+  • Power BI
+  • Scheduling
+  • Record keeping
+  • Meeting minutes
+  • Training
+  • Customer service
+  • Data documentation
+  • SOPs
+  • JIRA
+  • Confluence
+  • SQL
+  • Automation
+  • Onboarding
+  • Reporting
+  • File maintenance
+  • Clerical typing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • EPIC
+  • Healthcare
+  • Patient record filing
+  • Answering telephones
+  • Inventory ordering
+  • Payments collection
+  • Appointment scheduling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong documentation and SOP creation
+  • Advanced Excel and reporting skills
+  • Experience automating scheduling and workflows
+  • Training and onboarding new hires
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit EPIC experience
+  • Limited direct healthcare role
+  • No stated patient record filing
+  • Telephony/phone handling not mentioned
+  • Inventory/payment handling not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

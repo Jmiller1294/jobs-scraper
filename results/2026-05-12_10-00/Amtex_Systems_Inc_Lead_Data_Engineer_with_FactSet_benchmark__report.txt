@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Data Engineer with FactSet benchmark/ State Street benchmark data Experience
+Company:  Amtex Systems Inc
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4412969419
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • SQL
+  • Snowflake
+  • Python
+  • dbt
+  • ELT
+  • ETL
+  • Airflow
+  • GitHub Actions
+  • BigQuery
+  • REST
+  • Postgres
+  • Docker
+  • data modeling
+  • data quality
+  • Great Expectations
+  • CI/CD
+  • backend
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • AKS
+  • Azure
+  • Master Data Management
+  • GraphQL
+  • DevOps
+  • microservices
+  • Linux
+  • shell scripting
+  • State Street benchmark
+  • FactSet benchmark
+  • Snowflake MDM
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Snowflake experience
+  • Proficient Python backend & ETL/ELT
+  • dbt and data modeling expertise
+  • CI/CD and automation (GitHub Actions)
+  • Data quality practices (Great Expectations)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit MDM implementation experience
+  • No FactSet or State Street benchmark experience
+  • Limited Azure/AKS experience
+  • Microservices support experience not shown
+  • Under 10 years development experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

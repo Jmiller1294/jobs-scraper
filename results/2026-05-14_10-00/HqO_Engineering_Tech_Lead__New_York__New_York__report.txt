@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Engineering Tech Lead (New York, New York)
+Company:  HqO
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4392478098
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • PostgreSQL
+  • MySQL
+  • Relational databases
+  • API design
+  • SQL
+  • Git
+  • CI/CD
+  • Python
+  • ETL
+  • Snowflake
+  • BigQuery
+  • Testing strategies
+  • Performance optimization
+  • Backend development
+  • Full stack
+  • Agile
+  • Mentorship
+  • AWS
+  • Data modeling
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • NodeJS
+  • Terraform
+  • Kubernetes
+  • React
+  • Redux
+  • Nest
+  • Schema migrations
+  • SaaS
+  • Cloud infrastructure
+  • Application performance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB skills
+  • Python ETL and automation expertise
+  • Experience with Snowflake and BigQuery
+  • CI/CD and Git-based workflows
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit NodeJS/Nest experience
+  • Limited Kubernetes/Terraform/cloud infra exposure
+  • Frontend React/Redux experience minimal
+  • Less than required backend engineering tenure (5+ yrs)
+  • SaaS platform engineering experience unclear
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

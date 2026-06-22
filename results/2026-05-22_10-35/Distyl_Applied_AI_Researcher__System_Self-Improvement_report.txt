@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Applied AI Researcher, System Self-Improvement
+Company:  Distyl
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4315269537
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • ETL
+  • Power BI
+  • Tableau
+  • Git
+  • APIs
+  • time series
+  • data pipelines
+  • data analysis
+  • Cloud (AWS S3)
+  • prototyping
+  • ChatGPT
+  • experimental evaluation
+  • data visualization
+  • advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • feedback-driven systems
+  • agentic collaboration
+  • ensemble methods
+  • ReAct
+  • graph-of-thoughts
+  • self-evaluation
+  • reward modeling
+  • reinforcement learning
+  • interpretability
+  • meta-optimization
+  • system self-improvement
+  • reflective reasoning
+  • compound AI systems
+  • model orchestration
+  • retraining
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data pipeline experience
+  • Visualization and dashboard building (Power BI, Tableau)
+  • Practical prototyping and experimental analysis
+  • Daily use of AI tools (ChatGPT, Claude, Gemini)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no RL and reward modeling experience
+  • No explicit work on self-improving or agentic systems
+  • Lacks publications or documented research track record
+  • Limited advanced ML/ensemble technique mentions
+  • Titles lean data analyst/developer rather than AI researcher
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

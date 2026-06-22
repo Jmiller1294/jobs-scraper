@@ -1,0 +1,59 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Siebel Solution Lead
+Company:  Lorven Technologies Inc.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414478901
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 24/100
+[████░░░░░░░░░░░░░░░░] 24%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • CRM
+  • SQL
+  • Python
+  • APIs
+  • Git
+  • PostgreSQL
+  • ETL
+  • Cloud
+  • Data model
+  • Web services
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Siebel
+  • Siebel Tools
+  • Siebel eScript
+  • Siebel Workflow
+  • EAI
+  • Open UI
+  • Siebel administration
+  • Siebel integration
+  • Siebel upgrades
+  • Siebel migrations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database skills
+  • Python automation and ETL experience
+  • API integration experience
+  • Reporting and visualization (Power BI, Tableau)
+  • Demonstrated quantified impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Siebel-specific experience
+  • No eScript or Siebel workflow skills
+  • No EAI or Open UI experience
+  • Limited explicit Siebel administration/upgrade experience
+  • Title not aligned to Siebel Solution Lead
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

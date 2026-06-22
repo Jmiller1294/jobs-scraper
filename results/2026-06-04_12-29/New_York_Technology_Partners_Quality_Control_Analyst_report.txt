@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quality Control Analyst
+Company:  New York Technology Partners
+Location: New Brunswick, NJ
+URL:      https://www.linkedin.com/jobs/view/4423061215
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • MS Excel
+  • PowerPoint
+  • database
+  • SQL
+  • documentation
+  • attention to detail
+  • reporting
+  • data reconciliation
+  • Excel Pivot Tables
+  • VLOOKUP
+  • Power BI
+  • communication
+  • problem-solving
+  • SOPs
+  • ETL
+  • data cleaning
+  • presentation
+  • team collaboration
+  • trend analysis
+  • quality control
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (4)
+  • invoice review
+  • accounts payable
+  • bookkeeping
+  • audit
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Excel and Power BI reporting experience
+  • SQL and database data reconciliation skills
+  • Experience creating presentations and reporting trends
+  • Documented SOPs and process optimization
+  • Cross-functional collaboration and communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit bookkeeping/accounts payable history
+  • Resume location New York (not New Jersey resident)
+  • Limited explicit invoice-to-cost matching examples
+  • No stated 5+ years QA/QC-specific experience
+  • No mention of formal QA methodologies or audit certifications
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

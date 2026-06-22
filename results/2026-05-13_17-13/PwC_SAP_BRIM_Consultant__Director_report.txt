@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     SAP BRIM Consultant, Director
+Company:  PwC
+Location: Florham Park, NJ
+URL:      https://www.linkedin.com/jobs/view/4414163092
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • CRM
+  • training
+  • team mentoring
+  • stakeholder management
+  • project oversight
+  • data governance
+  • Python
+  • SQL
+  • AWS
+  • Snowflake
+  • Power BI
+  • ETL
+  • CI/CD
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • SAP
+  • SAP BRIM
+  • S/4HANA
+  • BRIM implementation
+  • program delivery
+  • C-suite engagement
+  • business development
+  • billing
+  • revenue management
+  • SAP certification
+  • quality assurance
+  • Big 4
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with ETL and data pipelines
+  • Analytics and reporting (Power BI, Tableau)
+  • Data governance experience
+  • CI/CD and automation familiarity
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SAP or BRIM experience
+  • Less than required SAP years (resume shows no SAP tenure)
+  • No SAP/S4HANA certifications
+  • Limited enterprise program delivery evidence
+  • No Big 4 or Tier 1 SI experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

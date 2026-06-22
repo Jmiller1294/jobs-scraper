@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Commercial Analyst
+Company:  Catalent
+Location: Bridgewater, NJ
+URL:      https://www.linkedin.com/jobs/view/4421672095
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • SQL
+  • Python
+  • reporting
+  • dashboards
+  • data visualization
+  • ETL
+  • data modeling
+  • cross-functional collaboration
+  • stakeholder communication
+  • performance analytics
+  • pipeline
+  • pipeline visibility
+  • forecasting
+  • revenue planning
+  • CRM
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • sales funnel
+  • conversion metrics
+  • financial acumen
+  • business insights
+  • revenue trends
+  • backlog pacing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI and Tableau experience
+  • Solid SQL and Python technical skills
+  • Proven dashboarding with measurable impact
+  • Cross-functional collaboration and communication
+  • ETL and data modeling experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit commercial/FP&A experience
+  • No explicit senior title or 5+ years in commercial analytics
+  • Few quantified revenue/forecasting outcomes
+  • Conversion metrics and sales-funnel analysis not explicit
+  • Financial planning or FP&A tools not detailed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized sales funnel performance by developing Power BI dashboards to track conversion metrics, resulting in improved lead-to-customer visibility and a 300% increase in acquisition.
+  Built and maintained predictive forecasting models using historical sales data to identify revenue trends and risks, directly informing quarterly operational planning and backlog pacing.
+  Applied strong financial acumen to synthesize complex operational data into executive-ready business insights, influencing strategic decisions that improved overall team efficiency by 25%.
+  Partnered with cross-functional leadership to refine revenue planning processes, utilizing CRM-based data to reconcile performance against targets and improve forecast accuracy.
+  Analyzed full-cycle commercial performance, including pipeline progression and conversion trends, to provide stakeholders with actionable recommendations for optimizing resource allocation.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Commercial Analyst opportunity with Catalent. I am interested in this opportunity because of Catalent's reputation as a global leader in drug development and its commitment to delivering life-saving therapies. What interests me about working for Catalent is its mission-driven culture and the complexity of its global Clinical Supply Services business, which inspires me to apply my expertise in high-impact data analytics to support your strategic goals. I believe my advanced data modeling and forecasting skills, combined with my ability to synthesize complex performance data into actionable business insights, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on operational efficiency and data-driven strategy. In fact, while at Shine Masters, I identified a need for better performance tracking and built end-to-end Power BI dashboards to monitor KPIs and sales funnel conversion. By automating these workflows and refining our data models, I contributed to a 300% increase in new customer acquisition over 12 months. Ultimately, I know that the Senior Commercial Analyst role at Catalent would allow me to bring my proficiency in forecasting and pipeline analytics to improve reporting accuracy and decision-making for your global commercial teams. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my financial and operational acumen. By translating raw performance data into clear executive reports, I reduced process bottlenecks and improved team efficiency by 25%. I am excited by the opportunity to use my background in Python and SQL to work on the complex commercial data challenges at Catalent. I know that my analytical toolkit and my track record of improving decision-making through visualization align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

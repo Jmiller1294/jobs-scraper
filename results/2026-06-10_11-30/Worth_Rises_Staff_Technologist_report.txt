@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Technologist
+Company:  Worth Rises
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4426082712
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 67/100
+[█████████████░░░░░░░] 67%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • pandas
+  • ETL
+  • data pipeline
+  • APIs
+  • Git
+  • PostgreSQL
+  • SQL
+  • AWS (S3)
+  • data transformation
+  • data cleaning
+  • documentation
+  • project management
+  • data visualization
+  • automation
+  • data publishing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • scraping
+  • Docker
+  • GitHub Actions
+  • data validation
+  • Airtable
+  • containerized deployment
+  • pdf parsing
+  • record linkage
+  • LLM APIs
+  • usability
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Solid Python and pandas experience
+  • ETL and pipeline development
+  • SQL and PostgreSQL expertise
+  • Automation and integration with APIs
+  • Data visualization and dashboard building
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit web scraping experience listed
+  • No containerization (Docker) or CI/CD details
+  • Airtable and no-code platform experience absent
+  • Limited evidence of publishing public-facing tools/maps
+  • Record linkage/entity resolution and pdf parsing not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

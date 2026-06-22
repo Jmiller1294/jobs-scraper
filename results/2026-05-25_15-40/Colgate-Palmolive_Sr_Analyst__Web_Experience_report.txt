@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr Analyst, Web Experience
+Company:  Colgate-Palmolive
+Location: Piscataway, NJ, US
+URL:      https://www.indeed.com/viewjob?jk=61f5a3129763e45c
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Google Analytics
+  • JIRA
+  • reporting
+  • KPIs
+  • Power BI
+  • SQL
+  • Python
+  • Git
+  • project tracking
+  • stakeholder communication
+  • attention to detail
+  • time management
+  • analytics
+  • metadata
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • Adobe Experience Manager
+  • WordPress
+  • Drupal
+  • HTML
+  • web publishing
+  • SEO
+  • ticketing
+  • accessibility
+  • usability
+  • navigation
+  • content management systems
+  • content audit
+  • campaign measurement
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong analytics and reporting (Power BI, SQL)
+  • Experience with Google Analytics
+  • Project tracking experience (JIRA, Confluence)
+  • Quantified impact on KPIs and efficiency
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit CMS hands-on experience (AEM/WordPress/Drupal)
+  • Limited web publishing/HTML experience stated
+  • SEO and metadata skills not clearly demonstrated
+  • Accessibility and usability audits not shown
+  • Shorter relevant web experience timeline
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

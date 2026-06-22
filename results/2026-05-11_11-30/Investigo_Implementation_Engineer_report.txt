@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Implementation Engineer
+Company:  Investigo
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4412907254
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • APIs
+  • REST API
+  • JSON
+  • SQL
+  • Python
+  • data validation
+  • troubleshooting
+  • stakeholder management
+  • implementations
+  • systems integration
+  • integration performance
+  • go-live support
+  • healthcare SaaS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • HL7
+  • FHIR
+  • Epic
+  • EHR
+  • FHIR integrations
+  • XML
+  • Mirth Connect
+  • Cloverleaf
+  • Rhapsody
+  • Epic App Orchard
+  • hospital deployments
+  • provider integrations
+  • clinical systems
+  • patient data workflows
+  • scripting (other than Python)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL skills
+  • Python scripting and ETL experience
+  • API integration experience
+  • Data validation and QA
+  • Stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit EHR/Epic experience
+  • No HL7/FHIR exposure listed
+  • Limited hospital or clinical environment experience
+  • No interface engine experience (Mirth/Cloverleaf/Rhapsody)
+  • Less than required 5+ years in healthcare implementations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Security Governance Analyst (1211)
+Company:  Sharp Decisions
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4411206244
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • data governance
+  • data lifecycle
+  • documentation
+  • stakeholder communication
+  • reporting
+  • cloud
+  • Snowflake
+  • BigQuery
+  • SQL
+  • Python
+  • ETL
+  • CI/CD
+  • data quality
+  • policy
+  • data protection
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • data classification
+  • information protection
+  • data security
+  • data loss prevention
+  • encryption
+  • risk assessments
+  • audit
+  • regulatory reporting
+  • identity and access management
+  • controls
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Cloud data platform experience (Snowflake, BigQuery)
+  • Proven data governance implementation
+  • Quantified impact on reporting and revenue
+  • Experience building ETL/ELT pipelines and CI/CD
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit data security/DLP or encryption experience
+  • Limited demonstrated governance in regulated environments
+  • No IAM or security architecture examples
+  • No audit/regulatory reporting experience shown
+  • Title misalignment (Data Analyst/Developer vs Data Security Governance Analyst)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

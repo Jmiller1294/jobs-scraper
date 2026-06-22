@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Applied ML and Generative AI Leader - Executive Director
+Company:  JPMorganChase
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4417054648
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Python
+  • SQL
+  • AWS
+  • Git
+  • ETL
+  • data pipelines
+  • production deployment
+  • model monitoring
+  • statistics
+  • NLP
+  • prompt engineering
+  • Generative AI
+  • LLM
+  • model lifecycle
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • MLOps
+  • OpenAI API
+  • PyTorch
+  • TensorFlow
+  • Kubernetes
+  • Docker
+  • model fine-tuning
+  • RAG
+  • deep learning
+  • cloud
+  • mentoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data pipeline development
+  • Cloud experience (AWS S3) and BigQuery/Snowflake
+  • Quantified operational impacts and metrics
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/Deep Learning framework usage
+  • No demonstrated production MLOps or Kubernetes/Docker
+  • Lacks OpenAI API and explicit LLM fine-tuning evidence
+  • Under 10 years engineering experience
+  • No clear mentoring/leadership at scale shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

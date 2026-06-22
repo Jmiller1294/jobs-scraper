@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst, Transactions
+Company:  Link Logistics
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413053936
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • coordination
+  • third-party vendors
+  • Microsoft Office
+  • communication
+  • multitasking
+  • stakeholder management
+  • data analysis
+  • SQL
+  • Excel
+  • Power BI
+  • Python
+  • documentation
+  • process automation
+  • reporting
+  • project management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • due diligence
+  • title
+  • environmental
+  • property documentation
+  • closings
+  • acquisitions
+  • dispositions
+  • financings
+  • closing checklist
+  • real estate
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data and reporting skills (SQL, Excel, Power BI)
+  • process automation with Python
+  • cross-functional coordination experience
+  • quantified impact on efficiency and revenue
+  • clear stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no explicit real estate transaction experience
+  • no mention of property title/environmental diligence
+  • limited years in relevant real estate roles (≈2 years total)
+  • no experience interfacing with outside counsel
+  • no explicit closings or financings handling
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

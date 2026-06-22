@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Business Analyst - Deposit Products
+Company:  Teachers Federal Credit Union
+Location: Hauppauge, NY
+URL:      https://www.linkedin.com/jobs/view/4412781213
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Tableau
+  • SQL
+  • Excel
+  • ETL
+  • data visualization
+  • dashboard
+  • data storytelling
+  • data modeling
+  • Python
+  • Power BI
+  • data validation
+  • data cleansing
+  • KPI
+  • cross-functional
+  • automation
+  • PostgreSQL
+  • reporting
+  • communication
+  • Git
+  • S3
+  • analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (4)
+  • Snowflake
+  • BigQuery
+  • data extraction
+  • problem-solving
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Tableau and dashboard experience
+  • Advanced SQL and relational DB skills
+  • Proven ETL and data pipeline development
+  • Quantified impact in prior roles
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Less than required BA tenure (resume shows ~3 yrs relevant)
+  • Limited explicit Snowflake/BigQuery project details
+  • Title mismatch (Data Analyst/Developer vs Senior Business Analyst)
+  • No explicit Tableau professional certification
+  • Unclear experience with formal product owners/stakeholder requirement docs
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed robust data extraction and transformation pipelines using Snowflake and Python, ensuring high-fidelity data integrity for downstream analytics.
+  Engineered complex data models within BigQuery, optimizing query performance for large-scale financial datasets to support strategic decision-making.
+  Led cross-functional requirement-gathering sessions with product owners to translate complex business needs into precise analytical specifications and technical documentation.
+  Applied structured problem-solving methodologies to identify operational bottlenecks, resulting in a 25% increase in team efficiency at Shine Masters.
+  Standardized data extraction processes for the lending risk portfolio, utilizing SQL and Python to integrate multi-source data into a unified, audit-ready schema.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Business Analyst - Deposit Products opportunity with Teachers Federal Credit Union. I am interested in this opportunity because of Teachers' reputation as a leader in financial stability and member-focused service. What interests me about working for Teachers is its commitment to both community-based banking and innovative digital transformation, which inspires me because I am passionate about using data to improve the financial foundation of credit union members. I believe my advanced proficiency in SQL and Tableau and my background in automated ETL processes would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data-driven efficiency. In fact, while at Shine Masters, I identified significant bottlenecks in our client onboarding and reporting workflows, which required translating manual operations into a scalable data model. By designing interactive Power BI and SQL-based dashboards, I reduced data processing time by 40% and enabled executive leadership to make faster, more accurate decisions regarding customer acquisition. Ultimately, I know that the Senior Business Analyst - Deposit Products role at Teachers Federal Credit Union would allow me to bring my data storytelling skills to the Deposit Products & Analytics team to highlight deposit portfolio trends and member behaviors. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my cross-functional collaboration and requirement-gathering skills. I frequently partnered with Underwriting and Product teams to align software features with business objectives, successfully reducing project delivery delays by 25%. I’m excited by the opportunity to use my SQL and data modeling expertise in working on complex data integration initiatives at Teachers. I know that my analytical rigor and technical adaptability align with what it takes to succeed at the Senior Business Analyst - Deposit Products role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

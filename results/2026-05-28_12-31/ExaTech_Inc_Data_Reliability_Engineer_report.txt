@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Reliability Engineer
+Company:  ExaTech Inc
+Location: Basking Ridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4419911161
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • PostgreSQL
+  • SQL
+  • ETL
+  • Python
+  • AWS S3
+  • Data pipelines
+  • Query optimization
+  • Database schemas
+  • Performance tuning
+  • Automation
+  • Monitoring
+  • Data modeling
+  • Data warehouses
+  • Snowflake
+  • BigQuery
+  • Tableau
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (17)
+  • Airflow
+  • Debezium
+  • Kafka Connect
+  • Backup and recovery
+  • Infrastructure as Code
+  • CloudWatch
+  • Prometheus
+  • Redshift
+  • Spark
+  • Database security
+  • AWS Certified Database - Specialty
+  • On-call rotations
+  • Encryption
+  • Compliance (GDPR/HIPAA)
+  • Crossplane
+  • Terraform
+  • RDS
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong PostgreSQL and SQL skills
+  • Hands-on ETL and pipeline experience
+  • Python scripting for ETL/automation
+  • Quantified impact in projects and roles
+  • Experience with cloud data platforms (S3, Snowflake, BigQuery)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Apache Airflow experience
+  • No Debezium/Kafka Connect exposure
+  • Limited IaC and Terraform/Crossplane evidence
+  • No RDS-specific administration experience mentioned
+  • No database security/compliance or backup/recovery details
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     C# .Net / Python Developer
+Company:  Matlen Silver
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4419697756
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • PostgreSQL
+  • MySQL
+  • GenAI
+  • Claude
+  • CoPilot
+  • ETL
+  • Data pipelines
+  • AWS
+  • Large datasets
+  • Excel
+  • BI/Reporting
+  • Automation
+  • Version control (Git)
+  • Communication
+  • Agile
+  • Database design
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • C#
+  • .Net
+  • SFTP
+  • FTP
+  • VBA
+  • VB
+  • Visual Studio
+  • Data automation (industry standard pipelines)
+  • Fixed Income
+  • Market data feeds
+  • Automated release procedures
+  • Security standards compliance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL ETL experience
+  • Experience with large datasets and PostgreSQL
+  • Proven BI/reporting and automation impact
+  • Familiarity with GenAI tools (Claude, ChatGPT, Gemini)
+  • Version control and agile collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit C#/.NET development experience
+  • No VBA/VB or Excel macro development listed
+  • No Visual Studio or .NET tooling mentioned
+  • No direct experience with SFTP/FTP integrations
+  • No domain experience in Fixed Income or market data feeds
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

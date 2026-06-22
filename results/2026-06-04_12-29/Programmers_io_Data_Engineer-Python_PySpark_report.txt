@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer-Python/PySpark
+Company:  Programmers.io
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4424402900
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 67/100
+[█████████████░░░░░░░] 67%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • SQL
+  • ETL/ELT pipelines
+  • Airflow
+  • BigQuery
+  • dbt
+  • Cloud platforms
+  • Spark
+  • Data modeling
+  • Data quality
+  • CI/CD
+  • Docker
+  • GCS
+  • Snowflake
+  • Postgres
+  • Pandas
+  • Automation
+  • Great Expectations
+  • Dimensional modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • PySpark
+  • Kafka
+  • Hadoop
+  • NoSQL
+  • Schema drift
+  • KYC/AML
+  • Performance optimization
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Proven ELT pipeline development (Airflow, dbt, BigQuery)
+  • Data quality automation (Great Expectations)
+  • Cloud data platform experience (GCP/BigQuery, GCS, Snowflake)
+  • Quantified impact in prior roles and projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit PySpark/Spark production experience
+  • No Kafka or Hadoop experience noted
+  • No mention of NoSQL databases
+  • No KYC/AML or client onboarding domain experience
+  • Schema drift handling not documented
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

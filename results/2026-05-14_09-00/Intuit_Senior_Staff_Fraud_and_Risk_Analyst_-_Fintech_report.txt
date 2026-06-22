@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Staff Fraud and Risk Analyst - Fintech
+Company:  Intuit
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4384312916
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • SQL
+  • Excel
+  • Looker
+  • Python
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • dashboarding
+  • data pipelines
+  • ETL
+  • automation
+  • data analytics
+  • reporting
+  • documentation
+  • stakeholder communication
+  • data governance
+  • KPIs
+  • BI tools
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • fraud detection
+  • KYC
+  • ACH
+  • machine learning
+  • investigation
+  • risk
+  • customer support
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data pipeline experience
+  • Proficient with BI tools and dashboards
+  • Python automation and ETL expertise
+  • Quantified impact on reporting and revenue
+  • Clear stakeholder communication and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit fraud operations experience
+  • Limited or no fintech/neoBanking background
+  • No mention of fraud platforms (Alloy, Sift, Ekata)
+  • Lacks experience with ACH return codes and dispute handling
+  • Under 7 years of fraud-related experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

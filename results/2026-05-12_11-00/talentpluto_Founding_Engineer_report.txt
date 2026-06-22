@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Founding Engineer
+Company:  talentpluto
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413459318
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • PostgreSQL
+  • SQL
+  • APIs
+  • Full-stack
+  • Python
+  • Git
+  • Data pipelines
+  • Snowflake
+  • BigQuery
+  • Automation
+  • ETL
+  • A/B testing
+  • Analytics
+  • Cloud
+  • Testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • TypeScript
+  • React
+  • Next.js
+  • Node
+  • AI
+  • LLM
+  • Drizzle ORM
+  • CI/CD
+  • Observability
+  • System design
+  • Retell
+  • Trigger.dev
+  • Twilio
+  • Telnyx
+  • Upstash
+  • Vercel
+  • AWS
+  • Voice/audio
+  • Jest
+  • Playwright
+  • Server Components
+  • App Router
+  • Embeddings
+  • RAG
+  • Multi-tenant
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • Python-based ETL and automation expertise
+  • Experience building data pipelines and analytics
+  • Full-stack development exposure
+  • Proven quantified impact on business metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No TypeScript/React/Next.js frontend expertise listed
+  • No explicit AI/LLM integration experience
+  • Limited infrastructure/CI/CD and observability detail
+  • No voice/audio or telephony (Twilio) experience
+  • Unclear years in relevant engineering roles for founding hire
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

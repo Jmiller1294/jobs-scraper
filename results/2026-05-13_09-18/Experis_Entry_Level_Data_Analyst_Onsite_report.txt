@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Entry Level Data Analyst Onsite
+Company:  Experis
+Location: Fair Lawn, NJ
+URL:      https://www.linkedin.com/jobs/view/4413866963
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Power BI
+  • Advanced Excel
+  • SQL
+  • Python
+  • data validation
+  • data governance
+  • data visualization
+  • dashboards
+  • ETL/ELT
+  • BigQuery
+  • Snowflake
+  • data accuracy
+  • statistical analysis
+  • A/B testing
+  • data modeling
+  • data pipelines
+  • reporting
+  • PostgreSQL
+  • MySQL
+  • Google Data Analytics Certificate
+  • data storytelling
+  • automation
+  • Git
+  • stakeholder collaboration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (1)
+  • Microsoft Access
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI and dashboard experience
+  • Proficient in SQL and relational databases
+  • Robust Python ETL and automation skills
+  • Quantified impact on revenue and efficiency
+  • Experience ensuring data quality and governance
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Microsoft Access experience
+  • Relatively limited tenure in formal data roles (2+ years)
+  • No explicit mention of Excel Access integration
+  • No manufacturing industry experience stated
+  • No mention of Bachelor's in Business/Engineering (CS listed)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and maintained database workflows across SQL and Microsoft Access, ensuring data integrity and seamless integration with Excel for comprehensive business reporting.
+  Engineered robust ETL pipelines to ingest operational data into centralized systems, facilitating data validation and accuracy checks that mirror requirements for manufacturing reporting standards.
+  Leveraged a strong Computer Science background to bridge the gap between technical data infrastructure and business requirements, effectively translating complex datasets into actionable strategic insights.
+  Managed cross-functional data needs by bridging gaps between technical architecture and operational stakeholders, ensuring all reporting metrics remain aligned with evolving business objectives.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Hiring Manager Experis, New York, NY. Dear Hiring Manager, I am excited to submit my application for the Entry Level Data Analyst Onsite opportunity with Experis. I am interested in this opportunity because of my passion for utilizing technical data skills to solve complex operational challenges. What interests me about working for Experis is its reputation as a leading global workforce solutions company, which intrigues me because of your commitment to professional development and high-impact placement. I believe my proficiency in Power BI and Advanced Excel and my analytical mindset would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data-driven efficiency. In fact, while at Shine Masters, I identified a need to move away from manual reporting; I developed Power BI and Looker workflows to replace these systems, which immediately reduced data mismatches. This transition improved work efficiency by 40% and provided stakeholders with a reliable 'single source of truth' for strategic decisions. Ultimately, I know that the Entry Level Data Analyst Onsite role at Experis would allow me to bring my data visualization expertise to support the Data Support Department's key reporting responsibilities. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my database management skills. When faced with disparate POS and CRM data, I built Python automation to ingest and clean this information, ensuring the highest standards of data accuracy and integrity. This initiative saved the team 8 hours per week and eliminated the risks associated with manual data entry. I’m excited by the opportunity to use my background in SQL, Python, and Power BI to help Experis optimize manufacturing-related datasets and contribute to your team's operational goals. I know that my technical versatility and commitment to data accuracy align with what it takes to succeed at the Entry Level Data Analyst Onsite role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

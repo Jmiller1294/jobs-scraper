@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer / AI Product Builder
+Company:  Monty
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4416652965
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Postgres
+  • APIs
+  • authentication
+  • permissions
+  • SQL
+  • CI/CD
+  • Docker
+  • GitHub Actions
+  • Git
+  • Python
+  • Debugging
+  • Data modeling
+  • BigQuery
+  • Performance
+  • Security
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • TypeScript
+  • React
+  • React Native
+  • Next.js
+  • Supabase
+  • Mobile app
+  • AI-assisted development
+  • Payments
+  • Sentry
+  • Playwright
+  • Expo
+  • Lovable
+  • Rork
+  • Claude Code
+  • Cursor
+  • Replit
+  • Bolt
+  • Firebase
+  • Row level security
+  • Auth
+  • Mobile
+  • Expo
+  • Fintech
+  • Property management
+  • Supabase
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Postgres familiarity
+  • Experience with APIs and data synchronization
+  • CI/CD and Docker workflow experience
+  • Quantified impact in prior roles
+  • Data modeling and ELT pipeline expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit TypeScript or React experience
+  • No Supabase or Firebase experience
+  • Limited mobile/React Native evidence
+  • No AI-assisted tooling experience listed
+  • No direct payments or property-management domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff
+Company:  Deeptune
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413737117
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • APIs
+  • Git
+  • Data modeling
+  • Data pipelines
+  • AWS S3
+  • BigQuery
+  • Snowflake
+  • Full-stack
+  • Power BI
+  • Tableau
+  • Automation
+  • JIRA
+  • Confluence
+  • Pandas
+  • Version control
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • TypeScript
+  • Go
+  • Backend development
+  • Machine learning
+  • Agentic AI
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL and data pipelines
+  • Full-stack development exposure
+  • Quantified impact on operations and acquisition
+  • Experience with data modeling and analytics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no Go/TypeScript backend experience
+  • No explicit RL or agentic AI experience
+  • Cloud infra experience is narrow (AWS S3 only)
+  • Short duration at some roles (~<2 years)
+  • No demonstrated production Go/TS services
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

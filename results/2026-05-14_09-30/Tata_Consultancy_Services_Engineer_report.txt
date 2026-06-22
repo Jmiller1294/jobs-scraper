@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Engineer
+Company:  Tata Consultancy Services
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4403663965
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 20/100
+[████░░░░░░░░░░░░░░░░] 20%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Git
+  • SQL
+  • Python
+  • RDBMS
+  • Cloud
+  • Automated testing
+  • CI/CD
+  • GitHub Actions
+  • Refactor
+  • Persistence
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Java
+  • Spring Boot
+  • Microservices
+  • REST APIs
+  • Kubernetes
+  • Claude Code
+  • Reverse engineering
+  • Policy administration
+  • Agentic execution
+  • PRD
+  • Jira
+  • NoSQL
+  • Docker
+  • Persistence
+  • Scalable service design
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and RDBMS experience
+  • Python automation and ETL pipelines
+  • CI/CD exposure (GitHub Actions) and Git usage
+  • Data modeling and pipeline testing (Great Expectations)
+  • Quantified impact on business metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java or Spring Boot experience listed
+  • No explicit Kubernetes or containerization skills
+  • No Claude Code or agentic code navigation experience
+  • No reverse engineering or PRD/Jira modernization artifacts
+  • Limited policy administration domain knowledge
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

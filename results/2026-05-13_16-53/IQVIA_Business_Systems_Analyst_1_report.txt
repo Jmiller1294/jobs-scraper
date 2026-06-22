@@ -1,0 +1,85 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Systems Analyst 1
+Company:  IQVIA
+Location: Wayne, NJ, US
+URL:      https://www.indeed.com/viewjob?jk=248aa66185b7ac97
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 85/100
+[█████████████████░░░] 85%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • SQL
+  • Excel
+  • Technical documentation
+  • Root cause analysis
+  • Data analysis
+  • Stakeholder communication
+  • Power BI
+  • Python
+  • ETL
+  • Data governance
+  • Reporting
+  • Cross-functional collaboration
+  • Problem-solving
+  • Data quality
+  • Git
+  • BigQuery
+  • Snowflake
+  • PostgreSQL
+  • Tableau
+  • Automation
+  • Advanced Excel
+  • CI/CD
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Business systems analysis
+  • Help desk / client support
+  • A/B testing
+  • Client support
+  • Resourceful and proactive
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis and reporting skills
+  • Proficient in SQL and Excel
+  • Experience with BI tools (Power BI, Tableau)
+  • Automation and ETL pipeline experience
+  • Clear stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit help-desk/client support experience
+  • Business systems analyst title alignment not exact
+  • Only basic stated SQL preference (no certifications)
+  • No explicit international client collaboration examples
+  • Short total years in BA-like roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Investigated reported issues and performed root cause analysis to propose data-driven solutions before escalating to development, ensuring efficient issue resolution.
+  Collaborated with international clients and cross-functional teams to ensure timely and accurate issue resolution for complex data-related challenges.
+  Standardized organizational KPIs and data governance frameworks, creating a 'single source of truth' for business stakeholders and reducing report discrepancies, demonstrating strong organizational skills and attention to detail.
+  Translated complex technical findings into business recommendations during stakeholder meetings, demonstrating clear, concise, and professional communication skills adaptable for diverse audiences.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend and demonstrating a resourceful and proactive approach to problem-solving.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Business Systems Analyst 1 opportunity with IQVIA. I am interested in this opportunity because IQVIA's commitment to leveraging data and technology to improve patient outcomes and population health aligns with my passion for driving impactful business solutions through robust analysis. What interests me about working for IQVIA is its leading role in clinical research services and healthcare intelligence; this mission excites and inspires me because it directly contributes to advancements in healthcare.
+
+I believe my strong data analysis and problem-solving skills, coupled with my proficiency in SQL and Excel, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on rigorous analysis and clear communication. In fact, at Shine Masters Cleaning Services, I developed statistical models to identify high-value customer segments; targeted marketing initiatives informed by these models contributed to a 300% increase in revenue in the targeted segment over 12 months. This demonstrated my ability to translate complex data insights into actionable strategies that yield significant business growth.
+
+Ultimately, I know that the Business Systems Analyst 1 role at IQVIA would allow me to bring my analytical rigor to the development and enhancement of business systems, ensuring effective planning, reporting, and analysis tools. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my stakeholder communication skills. I translated complex technical findings into business recommendations during stakeholder meetings, ensuring buy-in and driving strategic decisions.
+
+I’m excited by the opportunity to use my problem-solving abilities in working on a high-revenue, white-labeled application that supports critical business operations at IQVIA. I know that my data analysis expertise and my collaborative approach align with what it takes to succeed at the Business Systems Analyst 1 role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

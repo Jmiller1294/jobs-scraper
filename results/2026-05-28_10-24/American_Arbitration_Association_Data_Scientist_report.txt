@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist
+Company:  American Arbitration Association
+Location: Piscataway, NJ
+URL:      https://www.linkedin.com/jobs/view/4420232422
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • R
+  • Tableau
+  • ETL
+  • Data visualization
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Power BI
+  • Git
+  • Data modeling
+  • Time series
+  • EDA
+  • Automation
+  • Statistical analysis
+  • Regression
+  • Data quality
+  • Predictive modeling
+  • Text mining
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Machine learning
+  • NLP
+  • LLMs
+  • Random forests
+  • Decision trees
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL hands-on experience
+  • Experience building ETL pipelines and data models
+  • Proven visualization skills (Tableau, Power BI)
+  • Quantified impact on business metrics
+  • Cloud and data warehouse familiarity (Snowflake, BigQuery, AWS S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML model implementation details
+  • No documented experience with LLM/advanced NLP models
+  • Less than required 7+ years relevant experience
+  • Few mentions of Java/JavaScript/C/C++
+  • No formal graduate degree listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

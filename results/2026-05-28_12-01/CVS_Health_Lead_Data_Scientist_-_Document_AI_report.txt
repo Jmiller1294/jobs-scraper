@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Data Scientist - Document AI
+Company:  CVS Health
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420207112
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • ETL
+  • data pipelines
+  • data modeling
+  • AWS
+  • Snowflake
+  • BigQuery
+  • Tableau
+  • Power BI
+  • statistical analysis
+  • predictive modeling
+  • leadership
+  • cross-functional collaboration
+  • data quality
+  • automation
+  • Git
+  • PostgreSQL
+  • MySQL
+  • data storytelling
+  • visualization
+  • data completeness
+  • exception handling
+  • confidence scoring
+  • explainability
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (4)
+  • document extraction
+  • data lineage
+  • accuracy thresholds
+  • healthcare domain
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Proven ETL and data pipeline development
+  • Demonstrated analytics with measurable impact
+  • Experience with BI tools (Tableau, Power BI)
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit document AI/extraction experience
+  • No clear healthcare industry experience
+  • Under 7 years data science experience
+  • No advanced degree listed
+  • Lacks demonstrated regulatory traceability/lineage examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

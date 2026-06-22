@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Founding Engineer
+Company:  QuickSecure
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4422383154
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Postgres
+  • AWS
+  • Python
+  • SQL
+  • Git
+  • APIs
+  • full-stack
+  • frontend
+  • backend
+  • ETL
+  • JIRA
+  • reliability
+  • customer deployments
+  • data model
+  • Power BI
+  • Tableau
+  • CI/CD
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • TypeScript
+  • JavaScript
+  • React
+  • React Native
+  • Swift
+  • Node
+  • Express
+  • Anthropic
+  • Gemini
+  • vision models
+  • mobile
+  • edge computing
+  • Postgres (explicit role experience)
+  • office-based
+  • K-12 domain
+  • hardware
+  • edge systems
+  • founding engineer
+  • graduating 2025/2026
+  • realtime systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Postgres modeling
+  • Python ETL and data pipelines
+  • Experience with APIs and data integration
+  • Proven impact with quantified results
+  • Git and cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No TypeScript/JavaScript React experience listed
+  • No mobile (React Native/Swift) or edge systems experience
+  • Limited explicit AWS service usage
+  • No K-12 or safety-domain experience
+  • Not explicitly a 2025/2026 CS graduate
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,62 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quality Assurance Automation Lead
+Company:  Envision Technology Solutions
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4414498297
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • JavaScript
+  • Playwright
+  • Automation
+  • Automated testing
+  • Debugging
+  • Jenkins
+  • Jira
+  • Agile
+  • Git
+  • CI/CD
+  • SQL
+  • Python
+  • Collaboration
+  • Reporting
+  • Stakeholder communication
+  • Version control
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Java
+  • BDD
+  • Cucumber
+  • Exception handling
+  • Test scripts
+  • Framework maintenance
+  • Coding standards
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong automation and scripting (Python, CI/CD)
+  • Experience with Playwright and automated test execution
+  • Familiar with Agile workflows and Jira
+  • Proven collaboration and stakeholder communication
+  • Version control (Git) and Jenkins exposure
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated Java experience
+  • No explicit BDD/Cucumber experience
+  • No mention of exception handling practices
+  • Limited explicit QA/QA lead title alignment
+  • No quantified QA-specific metrics
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

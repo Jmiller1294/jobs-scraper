@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Engineer I - Govt
+Company:  Linde
+Location: New Providence, NJ
+URL:      https://www.linkedin.com/jobs/view/4404323464
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • SQL
+  • Windows
+  • Linux
+  • Relational databases
+  • Git
+  • Automation
+  • Data pipelines
+  • Testing
+  • Documentation
+  • Debugging
+  • ETL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • C/C++
+  • Assembly
+  • PLC programming
+  • Data acquisition
+  • Instrumentation
+  • Signal processing
+  • Embedded systems
+  • Vacuum systems
+  • Radiation detection
+  • Calibration
+  • TCP/IP
+  • Serial communication
+  • Modbus
+  • Safety standards
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Relational DB and query optimization
+  • ETL/data pipeline development
+  • Automation and CI/CD familiarity
+  • Data visualization and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit C/C++ or low-level language experience
+  • No embedded systems or DAQ experience listed
+  • No instrumentation or signal processing background
+  • No domain experience with gas/vacuum or radiation systems
+  • No mention of PLCs or industrial communication protocols
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

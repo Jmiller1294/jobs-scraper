@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Systems Analyst
+Company:  Bristol Myers Squibb
+Location: Summit, NJ
+URL:      https://www.linkedin.com/jobs/view/4410601537
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 24/100
+[████░░░░░░░░░░░░░░░░] 24%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • testing
+  • SOP
+  • work instructions
+  • training
+  • system implementation
+  • SDLC
+  • project management
+  • data modeling
+  • analytics
+  • SQL
+  • Python
+  • Power BI
+  • documentation
+  • stakeholder communication
+  • Microsoft Windows
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • SAP S4/Hana
+  • eWM
+  • manufacturing
+  • quality (QM)
+  • procurement (MM)
+  • inventory management (IM)
+  • customer service
+  • troubleshooting
+  • vendor management
+  • change management
+  • life science
+  • FDA
+  • SAP S4/Hana EBS
+  • non-SAP system support
+  • facilitation
+  • leadership
+  • facilitate end user acceptance testing
+  • third party support
+  • warehouse
+  • MDG
+  • interfaces
+  • training internal and external end users
+  • write test scripts
+  • support SCM
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong analytics and data modeling skills
+  • Proficient in SQL and Python
+  • Experience building automation and reporting (Power BI)
+  • Documenting and standardizing processes
+  • SDLC and project teamwork experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SAP S4/Hana experience listed
+  • No eWM/warehouse/manufacturing domain experience
+  • No regulated life‑science/FDA experience
+  • Limited vendor/third‑party SAP support exposure
+  • No explicit SAP module troubleshooting (MM/IM/QM/MDG)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

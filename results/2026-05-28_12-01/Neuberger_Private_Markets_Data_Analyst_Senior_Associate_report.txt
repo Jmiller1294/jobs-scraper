@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Private Markets Data Analyst/Senior Associate
+Company:  Neuberger
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420452102
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • SQL
+  • Python
+  • Snowflake
+  • ETL
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • Data aggregation
+  • Data quality
+  • Data pipelines
+  • Reporting
+  • Automation
+  • Data visualization
+  • PostgreSQL
+  • BigQuery
+  • AWS S3
+  • Pandas
+  • Investor reporting
+  • KPI calculation
+  • Data ownership
+  • Quantified results
+  • Data governance
+  • VBA
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Private Equity
+  • Private Credit
+  • Secondaries
+  • Co-investments
+  • Fundraising
+  • Fund accounting
+  • Chronograph
+  • iLevel
+  • Burgiss
+  • eFront
+  • Cobalt
+  • Bloomberg
+  • CapIQ
+  • Preqin
+  • PySpark
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on ETL and pipeline development
+  • Proven reporting and dashboard automation (Power BI, Tableau)
+  • Quantified impact metrics across roles/projects
+  • Cloud and data warehouse exposure (Snowflake, BigQuery, AWS)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited private markets / alternative investments domain experience
+  • No explicit exposure to fund accounting or investor reporting cycles
+  • Missing experience with private markets platforms (iLevel, eFront, Burgiss)
+  • No PySpark or explicit big-data Spark experience listed
+  • VBA and advanced Excel macros not demonstrated in detail
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized data workflows for investment tracking and reporting, gaining proficiency in financial reporting cycles and data aggregation similar to Private Equity and Private Credit lifecycle management.
+  Engineered Python and SQL-based ETL pipelines to reconcile complex datasets, incorporating data governance rules to ensure the auditability and accuracy required for institutional-grade investor reporting.
+  Leveraged Advanced Excel (including Power Query and VBA) to build financial models and automate the calculation of performance KPIs for client-facing analysis and portfolio monitoring.
+  Collaborated with cross-functional stakeholders to translate complex portfolio metrics into actionable insights, mirroring the requirements for supporting fundraising and marketing initiatives in alternative investment environments.
+  Applied data validation techniques to large-scale datasets, ensuring high-quality data ingestion consistent with the standards expected for managing alternative investment strategies like secondaries and co-investments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager at Neuberger, I am excited to submit my application for the Private Markets Data Analyst/Senior Associate opportunity with Neuberger. I am interested in this opportunity because of Neuberger’s reputation for providing institutional-grade, data-driven oversight across a complex landscape of private equity and private credit. What interests me about working for Neuberger is its pioneering approach to integrating technology with investment strategy, which inspires me as a data professional dedicated to building rigorous analytical frameworks. I believe my technical proficiency in SQL and Python and my experience in automating complex reporting pipelines would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and operational efficiency. In fact, while at Shine Masters, I developed interactive Power BI dashboards that replaced manual reporting, reducing data processing time by 40% and accelerating executive decision-making. By automating client intake and scheduling, I saved 8 hours of administrative work per week, allowing the team to focus on high-value lead generation—a skill set I am eager to apply to Neuberger’s portfolio monitoring and investor reporting needs. Ultimately, I know that the Private Markets Data Analyst/Senior Associate role at Neuberger would allow me to bring my expertise in ETL pipeline development to the stewardship of investment and portfolio company metrics. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my data governance and quality assurance skills. When tasked with streamlining reporting, I implemented strict documentation and SOPs that reduced new hire onboarding time by 50% and ensured consistent, audit-ready data delivery. This focus on standardizing data lineage and quality is directly applicable to Neuberger’s need for accurate performance KPIs. I’m excited by the opportunity to use my background in Python and financial data analysis in working on data innovation and automation at Neuberger. I know that my technical versatility and commitment to data accuracy align with what it takes to succeed in the Private Markets Data Analyst/Senior Associate role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

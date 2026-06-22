@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst – Banking, Payments & Cards
+Company:  Sonata Software
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4426089764
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • MS SQL
+  • SQL
+  • API
+  • JIRA
+  • Confluence
+  • Excel
+  • PowerPoint
+  • Data Analysis
+  • ETL
+  • PostgreSQL
+  • Snowflake
+  • AWS
+  • Power BI
+  • Automation
+  • Documentation
+  • Process re-engineering
+  • REST
+  • Agile
+  • Reporting
+  • Git
+  • Tableau
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Regulatory compliance
+  • Cards lifecycle
+  • Payments
+  • Billing
+  • Product impact assessment
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and ETL experience
+  • Power BI and reporting automation
+  • JIRA/Confluence documentation experience
+  • Cross-functional collaboration
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/ no banking/cards domain experience
+  • No demonstrated regulatory compliance work
+  • No explicit card lifecycle knowledge
+  • Lacks payments/billing project examples
+  • Title not aligned to Business Analyst in banking
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

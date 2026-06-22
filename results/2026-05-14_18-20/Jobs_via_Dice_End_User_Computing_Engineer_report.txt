@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     End User Computing Engineer
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414733729
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (5)
+  • scripting
+  • automation
+  • troubleshooting
+  • on-site support
+  • security
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • MDM
+  • end user devices
+  • Mac
+  • desktop deployment
+  • Anthropic
+  • Claude
+  • Co-Pilot
+  • AI implementation
+  • device configuration
+  • Windows
+  • laptop rollout
+  • endpoint management
+  • Intune
+  • Jamf
+  • helpdesk
+  • policy enforcement
+  • imaging
+  • patch management
+  • user training
+  • access provisioning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • automation and scripting experience
+  • data and systems troubleshooting
+  • on-site support experience
+  • security awareness
+  • strong analytical background
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no explicit MDM experience
+  • no Mac/Apple device management listed
+  • no Anthropic/Claude or AI deployment experience
+  • no endpoint management tools (Intune/Jamf) cited
+  • limited explicit end-user computing titles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

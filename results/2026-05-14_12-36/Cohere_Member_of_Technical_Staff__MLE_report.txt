@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff, MLE
+Company:  Cohere
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4330386570
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • Git
+  • CI/CD
+  • ETL
+  • data pipelines
+  • data quality
+  • A/B testing
+  • modeling
+  • production-ready
+  • customer-facing
+  • cloud
+  • data governance
+  • analytics
+  • visualization
+  • experimentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • distributed training
+  • LLM
+  • CPT
+  • post-training
+  • model evaluation
+  • foundation models
+  • RLVR
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Practical ETL and pipeline implementation
+  • Quantified impact (e.g., 300% revenue uplift)
+  • CI/CD and data quality automation experience
+  • Customer-facing analytics and storytelling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No LLM or foundation-model experience
+  • No distributed training or large-scale training pipelines
+  • Limited ML research or advanced modeling for LLMs
+  • No explicit RLVR or post-training tuning experience
+  • Title not aligned to Applied ML / MTS role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

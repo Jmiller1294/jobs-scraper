@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     English (Canada) Data Labeling Associate - NYC based
+Company:  Welo Data
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413606675
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • data quality
+  • model evaluation
+  • AI
+  • critical thinking
+  • attention to detail
+  • writing
+  • communication
+  • QA
+  • annotation
+  • Python
+  • SQL
+  • ETL
+  • documentation
+  • stakeholder communication
+  • data analysis
+  • SOPs
+  • Power BI
+  • Tableau
+  • Git
+  • Snowflake
+  • BigQuery
+  • ChatGPT
+  • reporting
+  • Python (Pandas, ETL Pipelines, Automation)
+  • SQL (PostgreSQL, MySQL)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Native-level Canadian English
+  • Bachelor's or higher (explicit requirement met)
+  • 1-2 years professional writing
+  • 2+ years safety in GenAI
+  • onsite NYC
+  • audit-based reviews
+  • edge cases
+  • calibrations
+  • W2 Full-Time
+  • paid vacation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis and ETL skills
+  • Experience documenting SOPs and reports
+  • Proficient with AI tools (ChatGPT, Claude, Gemini)
+  • Quantified impact on operations and KPIs
+  • Stakeholder collaboration and communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Canadian-native English statement
+  • Unclear 2+ years safety/GenAI experience
+  • Professional writing years not specified
+  • Resume indicates partly remote/project roles vs. 100% onsite requirement
+  • No explicit audit-based labeling/annotation role experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

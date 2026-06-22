@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate Director, Analysis Oversight Lead RWE Safety: Inflammation
+Company:  Gilead Sciences
+Location: Parsippany, NJ
+URL:      https://www.linkedin.com/jobs/view/4414486697
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • R
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • ETL
+  • data quality
+  • data governance
+  • analysis deliverables
+  • reporting
+  • communication
+  • cross-functional collaboration
+  • statistical models
+  • CI/CD
+  • data validation
+  • cohorts
+  • real world data
+  • vendor management
+  • Power BI
+  • Tableau
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • RWE
+  • safety programming
+  • observational research
+  • SAS
+  • GxP
+  • Common Data Models
+  • OMOP
+  • pharmacoepidemiology
+  • feasibility results
+  • locking or archiving
+  • GxP compliant systems
+  • patient safety
+  • safety epidemiology
+  • vendor oversight plans
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL ETL experience
+  • Cloud warehouse expertise (Snowflake, BigQuery)
+  • Data quality and validation practices
+  • Reporting and visualization (Power BI, Tableau)
+  • Quantified impact on business metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SAS experience listed
+  • No explicit GxP or regulatory compliance experience
+  • Limited demonstrated pharmacoepidemiology/RWE domain experience
+  • No OMOP/Common Data Model experience stated
+  • No explicit vendor oversight in clinical RWE context
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

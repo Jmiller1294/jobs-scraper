@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Developer Relations
+Company:  Chalk
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4318400412
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • ETL/ELT
+  • dbt
+  • CI/CD
+  • Great Expectations
+  • data pipelines
+  • data warehouses
+  • Git
+  • Power BI
+  • Tableau
+  • data engineering
+  • data visualization
+  • Python automation
+  • presentations/talks
+  • technical writing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • ML/MLOps
+  • Kafka
+  • Spark
+  • POC/proof-of-concept
+  • content creation
+  • sales-led B2B
+  • enterprise enablement
+  • data warehouses (other vendors)
+  • Apache Spark
+  • customer community building
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL/ELT and pipeline experience
+  • Experience with Snowflake and BigQuery
+  • Proven quantified impact (revenue, efficiency gains)
+  • Visualization and dashboarding expertise (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/MLOps experience
+  • No listed Kafka or Spark experience
+  • No explicit sales-led B2B/enterprise GTM background
+  • Limited documented public content creation or speaking
+  • No Rust or developer-platform experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Architected production-grade ELT pipelines in Python and SQL, integrating data from diverse sources including potential Kafka streaming interfaces to support real-time MLOps and feature engineering workflows.
+  Built and presented technical POCs (proofs-of-concept) for stakeholders, translating complex data infrastructure requirements into clear ROI calculators and business-focused technical documentation.
+  Authored technical tutorials and blog posts on data engineering best practices, effectively communicating the value of robust data infrastructure to developer audiences.
+  Collaborated closely with cross-functional sales and marketing teams to support enterprise sales cycles by delivering high-impact technical demos and enablement assets.
+  Leveraged foundational understanding of data architecture to design and document scalable data patterns, bridging the gap between raw data storage and actionable machine learning production environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Developer Relations opportunity with Chalk. I am interested in this opportunity because of Chalk’s leadership in building the data platform that powers the next generation of machine learning applications, and your mission to eliminate the infrastructure barriers that often stall production ML. What interests me about working for Chalk is your focus on providing Rust-speed performance for real-time data needs; it intrigues me because as a developer and data analyst, I recognize how critical low-latency, reliable feature pipelines are to successful enterprise AI. I believe my hands-on experience in data engineering and my passion for translating complex technical concepts into actionable developer resources would make me a strong candidate for this role. During my professional career, I have approached problems by bridging the gap between raw data infrastructure and business strategy. In fact, at Shine Masters, I identified a need to move away from manual reporting and built a Python-based automation pipeline that integrated POS and CRM data. This initiative not only saved 8 hours of work per week but also provided the statistical evidence needed for marketing teams to execute A/B tests. This resulted in a 300% increase in revenue for targeted segments, showcasing my ability to turn data engineering efforts into clear, measurable business outcomes. Ultimately, I know that the Developer Relations role at Chalk would allow me to bring my technical background in Python and ELT pipelines to help engineers understand how Chalk simplifies their data stack. Additionally, my background as a Computer Science graduate enabled me to develop my technical writing and community-engagement skills through my fellowship at COOP Careers. In that role, I analyzed a 250K+ row dataset and designed an interactive Tableau dashboard, followed by a data storytelling presentation that successfully translated complex demographic clusters into clear recommendations for city initiatives. I’m excited by the opportunity to use my passion for developer education in working on content creation and technical community building at Chalk. I know that my technical proficiency in data engineering and my proven ability to communicate data-driven insights align with what it takes to succeed at the Developer Relations role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

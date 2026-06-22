@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Machine Learning Scientist (All Levels)
+Company:  Abridge
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4339199445
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • ETL
+  • data pipelines
+  • cloud (AWS S3)
+  • Git
+  • statistical analysis
+  • production deployment
+  • deep learning
+  • model evaluation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • natural language processing
+  • machine learning
+  • PyTorch
+  • TensorFlow
+  • JAX
+  • foundation models
+  • multi-GPU training
+  • research publications
+  • medical NLP
+  • conversation summarization
+  • evidence extraction
+  • outcome prediction
+  • experimentational design
+  • open source contributions
+  • graduate degree
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • ETL and data pipeline experience
+  • Applied production data work
+  • Quantified impact (e.g., 40% time reduction)
+  • Cloud experience (AWS S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit ML/NLP research publications
+  • No deep learning framework experience listed
+  • No foundation model or multi-GPU training evidence
+  • Limited medical domain experience
+  • No graduate degree in ML/CS/math
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

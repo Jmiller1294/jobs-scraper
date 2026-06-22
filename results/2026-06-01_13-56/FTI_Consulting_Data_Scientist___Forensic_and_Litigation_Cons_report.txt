@@ -1,0 +1,84 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist | Forensic and Litigation Consulting
+Company:  FTI Consulting
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4421657914
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • Data Visualization
+  • Power BI
+  • Git
+  • AWS
+  • Pandas
+  • APIs
+  • Automation
+  • Dashboards
+  • Time Series
+  • Data Modeling
+  • EDA
+  • Data Quality
+  • Version Control
+  • Performance Optimization
+  • Postgres
+  • Productionization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • T/SQL
+  • PL/SQL
+  • PL/pgSQL
+  • Databricks
+  • Apache Spark
+  • MSSQL
+  • Oracle
+  • Huggingface
+  • Torch
+  • Tensorflow
+  • Scikit-Learn
+  • Spacy
+  • MLFlow
+  • Docker
+  • GCP
+  • Azure
+  • NLP
+  • Forecasting
+  • Clustering
+  • Recommendation Engines
+  • Network Analysis
+  • Cross Validation
+  • Ensemble Methods
+  • ModelOps
+  • FastAPI
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • End-to-end ETL and data modeling experience
+  • Proven dashboarding and visualization impact
+  • Experience optimizing queries and automation
+  • Demonstrated quantified outcomes
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML framework usage (e.g., Scikit-Learn, TensorFlow)
+  • No stated experience with Spark/Databricks or other big data platforms
+  • MLOps tooling (MLFlow, Docker) not shown
+  • Limited cloud breadth (AWS S3 only; GCP/Azure absent)
+  • No explicit leadership/mentoring examples at scale
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

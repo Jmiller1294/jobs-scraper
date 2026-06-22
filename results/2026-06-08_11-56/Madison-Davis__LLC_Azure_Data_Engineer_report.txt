@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Azure Data Engineer
+Company:  Madison-Davis, LLC
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4384195912
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • REST API
+  • API ingestion
+  • ETL/ELT pipelines
+  • dbt
+  • Airflow
+  • Data quality
+  • Great Expectations
+  • CI/CD
+  • GitHub Actions
+  • Dimensional modeling
+  • Power BI
+  • Stakeholder collaboration
+  • Docker
+  • Postgres
+  • Snowflake
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • PySpark
+  • Azure Databricks
+  • Data Lake Gen2
+  • Azure Data Factory
+  • Performance tuning
+  • NoSQL
+  • Azure Synapse
+  • Microsoft Fabric
+  • Azure certifications
+  • Cybersecurity
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Proven API-based data ingestion
+  • Experience with production ELT pipelines
+  • Data quality and CI/CD implementation
+  • Dimensional modeling and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PySpark or Databricks experience listed
+  • Limited Azure cloud experience (primarily GCP/AWS)
+  • No explicit performance tuning examples
+  • No cybersecurity or security-data background
+  • No Azure Data Factory or Lake Gen2 implementation
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

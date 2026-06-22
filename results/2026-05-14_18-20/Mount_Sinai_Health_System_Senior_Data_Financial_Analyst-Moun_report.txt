@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Financial Analyst-Mount Sinai Health System- Pharmacy Finance Department- FT
+Company:  Mount Sinai Health System
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=cdc65d2948ee422e
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • data cleansing
+  • data quality
+  • data modeling
+  • ETL
+  • data pipeline
+  • data governance
+  • data validation
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • PostgreSQL
+  • MySQL
+  • data warehouse
+  • automation
+  • reporting
+  • stakeholder communication
+  • database
+  • CI/CD
+  • Great Expectations
+  • statistical analysis
+  • A/B testing
+  • data migration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • data security
+  • data standardization
+  • data enrichment
+  • data exception handling
+  • modeling techniques
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Proven ETL and pipeline implementation
+  • Quantified impact on revenue and efficiency
+  • Experience with cloud warehouses (BigQuery, Snowflake)
+  • Visualization and reporting (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit healthcare/medical center experience
+  • No explicit mention of data security practices
+  • No advanced degree listed (Masters preferred)
+  • Few explicit references to formal data standardization processes
+  • Limited tenure in senior/5+ years database role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Standardized organizational KPIs, data enrichment operations, and governance frameworks to ensure cross-functional alignment and a consistent 'single source of truth' across business units.
+  Designed and documented comprehensive data security requirements and exception handling processes to protect sensitive customer information while maintaining data integrity.
+  Utilized advanced modeling techniques to map complex relational data into logical and physical data models, facilitating reliable analysis for stakeholder decision-making.
+  Developed robust data standardization procedures and validation rules to ensure high-quality data ingestion across multi-system environments.
+  Led data cleansing and consolidation efforts for large datasets, implementing industry-standard validation processes to eliminate recurring data quality issues.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Data Financial Analyst-Mount Sinai Health System- Pharmacy Finance Department- FT opportunity with Mount Sinai Health System. I am interested in this opportunity because I am passionate about applying rigorous data governance and technical architecture to improve outcomes within large-scale healthcare environments. What interests me about working for Mount Sinai is its status as a world leader in clinical innovation and its commitment to transforming healthcare through research-driven, patient-centered care. I believe my expertise in building scalable ETL pipelines and my proficiency in data quality management would make me a strong candidate for this role. During my career, I have approached complex data problems by building repeatable, automated systems to drive organizational accuracy. In fact, while at Shine Masters, I identified that manual reporting was causing significant data mismatches, so I developed automated Power BI and Looker workflows. This project resulted in a 40% improvement in work efficiency and established a unified data standard that enabled leadership to make faster, more confident strategic decisions. Ultimately, I know that the Senior Data Financial Analyst role at Mount Sinai would allow me to bring my data modeling and standardization skills to improve the integrity of pharmacy finance data. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my data security and infrastructure skills. I collaborated on a large, high-stakes team to optimize complex SQL queries and integrate disparate API datasets, which improved data accuracy by 60% and directly supported downstream analytics. I’m excited by the opportunity to use my background in Python, SQL, and database management to support the Pharmacy Finance department at Mount Sinai in optimizing data flow and enhancing the value of critical clinical and financial information. I know that my technical rigor and my commitment to data quality align with what it takes to succeed at the Senior Data Financial Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

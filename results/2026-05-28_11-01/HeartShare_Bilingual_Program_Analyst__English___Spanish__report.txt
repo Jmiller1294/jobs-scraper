@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Bilingual Program Analyst (English / Spanish)
+Company:  HeartShare
+Location: Brooklyn, NY, US
+URL:      https://www.indeed.com/viewjob?jk=00c08460bf26295b
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Power BI
+  • Excel
+  • SQL
+  • Python
+  • data analysis
+  • reporting
+  • data visualization
+  • data mining
+  • ETL
+  • data sets
+  • trend analysis
+  • quantitative analysis
+  • presentation
+  • Microsoft Office
+  • communication
+  • stakeholder collaboration
+  • Dashboard
+  • data accuracy
+  • data modeling
+  • PostgreSQL
+  • tableau
+  • Git
+  • automation
+  • attention to detail
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Spanish
+  • UAC Portal
+  • qualitative analysis
+  • incident database
+  • policy drafting
+  • children services
+  • immigrant services
+  • Bachelor's Degree (presented as BS)
+  • Master’s Degree
+  • Access
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack (SQL, Python, Power BI, Tableau)
+  • Proven reporting/dashboard impact (40% time reduction)
+  • ETL and data modeling experience
+  • Cross-functional collaboration and communication
+  • Quantified operational improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No stated Spanish bilingual proficiency
+  • No UAC Portal experience
+  • Limited nonprofit/children or immigrant services experience
+  • No explicit incident database or policy drafting experience
+  • Access (MS Access) not mentioned
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and maintained standardized incident databases and reporting protocols to track performance metrics, ensuring data accuracy and compliance with organizational policies.
+  Drafted and reviewed internal operational policies and SOPs, collaborating with leadership to align data-driven recommendations with organizational quality assurance standards.
+  Conducted integrated quantitative and qualitative analysis on program performance data, leveraging Microsoft Access and Excel to extract actionable insights for service improvement.
+  Collaborated with program staff to monitor trends in service delivery for children and immigrant populations, translating complex data into reports that drive mission-critical decision making.
+  Leverage professional proficiency in Spanish to facilitate communication and data reporting, ensuring inclusive data collection and service evaluation for diverse community stakeholders.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Bilingual Program Analyst (English / Spanish) opportunity with HeartShare. I am interested in this opportunity because of HeartShare’s century-long commitment to empowering individuals and families in New York City, and my deep desire to transition my analytical expertise into the non-profit sector where it can directly improve the lives of children and immigrant communities. What interests me about working for HeartShare is its holistic approach to fostering development for people with special needs; it inspires me because I believe that data, when used effectively, is the most powerful tool for ensuring the quality and accessibility of these vital human services. I believe my technical proficiency in data management and my experience in program evaluation would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex raw data into clear, actionable policy and operational improvements. In fact, while at Shine Masters, I identified that manual reporting was creating significant bottlenecks in client services; I developed and implemented automated Power BI dashboards and standardized data intake procedures to streamline our operations. This resulted in a 40% reduction in data processing time and a 300% increase in customer acquisition, proving that data-driven rigor directly leads to better service outcomes. Ultimately, I know that the Bilingual Program Analyst role at HeartShare would allow me to bring my skills in quantitative analysis and reporting to improve program quality and predictive capabilities. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my policy drafting and documentation skills. I spearheaded the creation of new SOPs for our operational workflows, which reduced new hire onboarding time by 50% and ensured consistent, high-quality service delivery—a framework I am eager to apply to the documentation of incident databases and program policies at HeartShare. I am excited by the opportunity to use my bilingual communication and analytical skills in working on program improvement at HeartShare. I know that my technical background and commitment to social impact align with what it takes to succeed in this role. I would love the opportunity to discuss how my data expertise can support your team. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

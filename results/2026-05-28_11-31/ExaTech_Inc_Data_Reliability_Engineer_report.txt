@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Reliability Engineer
+Company:  ExaTech Inc
+Location: Basking Ridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4419911161
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • PostgreSQL
+  • SQL
+  • ETL
+  • Python
+  • S3
+  • Schema design
+  • Data pipelines
+  • Query optimization
+  • Automation
+  • Data modeling
+  • Performance tuning
+  • Monitoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • Airflow
+  • Debezium
+  • Kafka Connect
+  • Redshift
+  • Spark
+  • Terraform
+  • Crossplane
+  • CloudWatch
+  • Prometheus
+  • RDS
+  • Backup and recovery
+  • Security
+  • On-call
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL modeling experience
+  • Hands-on ETL and pipeline development (Python)
+  • Quantified impact in prior roles (time/process improvements)
+  • Experience designing schemas and large-table models
+  • Data visualization and stakeholder reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no explicit Airflow or orchestration experience
+  • No mention of Debezium or Kafka Connect experience
+  • Lacks RDS-specific administration and on-call background
+  • Infrastructure as Code (Terraform/Crossplane) not shown
+  • Cloud database security and backup experience not detailed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

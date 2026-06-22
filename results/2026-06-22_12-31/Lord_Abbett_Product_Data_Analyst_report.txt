@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Product Data Analyst
+Company:  Lord Abbett
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4430576116
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • Advanced Excel
+  • Power BI
+  • data validation
+  • ETL
+  • large datasets
+  • data quality
+  • root-cause analysis
+  • automation
+  • reporting
+  • data modeling
+  • PostgreSQL
+  • Snowflake
+  • BigQuery
+  • Tableau
+  • pivot tables
+  • data pipelines
+  • Git
+  • S3
+  • communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • portfolio analytics
+  • fixed income
+  • securitized products
+  • structured credit
+  • mortgage-backed securities
+  • Bloomberg
+  • FactSet
+  • Aladdin
+  • Yield Book
+  • CFA
+  • FRM
+  • CIPM
+  • CAIA
+  • performance measurement
+  • investment management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Advanced Excel and Power BI reporting
+  • ETL and data pipeline development
+  • Demonstrated automation and process improvement
+  • Experience with large datasets and data modeling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit fixed income or portfolio analytics experience
+  • Limited industry-specific tools (Bloomberg/Aladdin) listed
+  • No financial certifications (CFA/FRM) noted
+  • Shorter tenure in investment management roles
+  • No explicit securitized products or MBS experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

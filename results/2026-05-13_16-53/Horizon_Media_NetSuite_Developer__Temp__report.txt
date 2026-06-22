@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     NetSuite Developer (Temp)
+Company:  Horizon Media
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4410633297
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • SQL
+  • APIs
+  • integrations
+  • ETL
+  • Python
+  • Snowflake
+  • BigQuery
+  • CI/CD
+  • Git
+  • database
+  • reports
+  • workflows
+  • data governance
+  • CRM
+  • user training
+  • documentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • SuiteScript
+  • SuiteFlow
+  • SuiteTalk
+  • SuiteBuilder
+  • NetSuite
+  • JavaScript
+  • HTML
+  • saved searches
+  • data audits
+  • financials
+  • order management
+  • inventory
+  • NetSuite Developer Certification
+  • SuiteSript
+  • Boomi
+  • Freewheel Bridge
+  • roles and permissions
+  • NetSuite Support
+  • advanced HTML/PDF templates
+  • SuiteSript
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database optimization
+  • ETL and data pipeline development
+  • Reporting and visualization (Power BI, Tableau)
+  • Python automation and CI/CD experience
+  • Data governance and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No NetSuite-specific development experience
+  • No SuiteScript/SuiteFlow/SuiteTalk evidence
+  • Lacks JavaScript/HTML applied to NetSuite
+  • Limited ERP/financials and order management exposure
+  • No NetSuite certification
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

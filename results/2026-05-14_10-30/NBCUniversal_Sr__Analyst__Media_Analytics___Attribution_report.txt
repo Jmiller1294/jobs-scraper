@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr. Analyst, Media Analytics & Attribution
+Company:  NBCUniversal
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4395335702
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • R
+  • Tableau
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • ETL
+  • Data pipeline
+  • Data governance
+  • Data visualization
+  • Customer segmentation
+  • Campaign measurement
+  • A/B testing
+  • Reporting
+  • Stakeholder communication
+  • CI/CD
+  • Experimentation
+  • PostgreSQL
+  • MySQL
+  • Git
+  • Automation
+  • Advanced Excel
+  • Google Analytics
+  • Salesforce CRM
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Machine Learning
+  • Attribution
+  • MTA
+  • Media analytics
+  • Regression
+  • Clustering
+  • Dimensionality reduction
+  • Marketing Mix Modeling
+  • Lifetime value
+  • Media ROI
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proven reporting and dashboard delivery (Tableau/Power BI)
+  • Practical experimentation and A/B testing experience
+  • Built production ELT pipelines and CI/CD
+  • Quantified business impact (revenue lift, efficiency gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Machine Learning model implementations listed
+  • No direct multi-touch attribution (MTA) or MMM experience stated
+  • Under two years in dedicated media analytics roles
+  • Senior-level title alignment limited (Data Analyst/Full-Stack)
+  • No explicit experience with TV/streaming media platforms/vendors
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Leveraged Machine Learning techniques, including regression and clustering, to perform customer segmentation and model customer lifetime value, driving a 300% revenue increase in targeted segments.
+  Architected and maintained data pipelines to support multi-touch attribution (MTA) reporting, utilizing SQL and Python to track media ROI across fragmented marketing channels.
+  Conducted exploratory data analysis and statistical modeling to provide actionable insights into media performance, utilizing dimensionality reduction to identify key drivers of viewer engagement.
+  Integrated Marketing Mix Modeling (MMM) principles with A/B testing data to triangulate campaign effectiveness and optimize media spend allocations.
+  Developed predictive models to analyze user engagement and subscription trends, applying statistical rigor to support strategic decision-making for high-value audience growth.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Sr. Analyst, Media Analytics & Attribution opportunity with NBCUniversal. I am interested in this opportunity because of NBCUniversal’s unparalleled scale in streaming and broadcast media, particularly the innovative growth of Peacock. What interests me about working for NBCUniversal is its commitment to data-driven content distribution and audience experience, which excites me because of the opportunity to apply advanced analytics to high-impact media challenges. I believe my expertise in building automated data pipelines and my strong foundation in statistical modeling would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex technical datasets into clear business strategies. In fact, at Shine Masters, I developed statistical customer segmentation models and Python-based reporting workflows that directly resulted in a 300% revenue increase in targeted segments by identifying high-value behavioral patterns. Ultimately, I know that the Sr. Analyst, Media Analytics & Attribution role at NBCUniversal would allow me to bring my technical proficiency in SQL, Python, and machine learning to support your industry-leading media attribution methodologies. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my cross-functional collaboration skills. I led the standardization of organizational KPIs and data governance frameworks, which created a 'single source of truth' for stakeholders and reduced reporting discrepancies by 40%. I’m excited by the opportunity to use my experience with experimental design and attribution tracking in working on media optimization and audience growth at NBCUniversal. I know that my background in data science and my passion for media analytics align with what it takes to succeed at the Sr. Analyst, Media Analytics & Attribution role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

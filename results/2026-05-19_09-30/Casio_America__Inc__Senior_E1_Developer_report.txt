@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior E1 Developer
+Company:  Casio America, Inc.
+Location: Rockaway, NJ
+URL:      https://www.linkedin.com/jobs/view/4416648851
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 24/100
+[████░░░░░░░░░░░░░░░░] 24%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (7)
+  • SQL
+  • Git
+  • Reporting
+  • Testing
+  • Debugging
+  • Database Scripting
+  • Project Planning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (26)
+  • Oracle EnterpriseOne
+  • E1
+  • Forms Design Aid
+  • UBE
+  • C
+  • BSFN
+  • Named Event Rule
+  • BI Publisher
+  • Embedded BI Publisher
+  • SOP
+  • Procurement
+  • Inventory
+  • GL
+  • AR
+  • AP
+  • Orchestration
+  • OMW
+  • UDO
+  • BSSV
+  • IBM Blue Stack
+  • Reporting
+  • Project Planning
+  • Testing
+  • Debugging
+  • Database Scripting
+  • BI Publisher
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL expertise
+  • Reporting/dashboard experience
+  • Version control with Git
+  • Data modeling and ETL
+  • Quantified impact metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Oracle E1 experience
+  • No Forms Design Aid/UBE/C development
+  • No E1 modules (SOP/Proc/Inventory/Financials)
+  • No BI Publisher / BSSV experience
+  • Limited years in relevant ERP development
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

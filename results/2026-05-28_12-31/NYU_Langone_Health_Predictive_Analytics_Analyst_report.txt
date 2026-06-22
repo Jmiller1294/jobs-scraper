@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Predictive Analytics Analyst
+Company:  NYU Langone Health
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4401493881
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • Power BI
+  • Tableau
+  • PostgreSQL
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Git
+  • ETL
+  • data pipelines
+  • data integration
+  • automation
+  • data visualization
+  • dashboarding
+  • time series
+  • EDA
+  • relational databases
+  • feature engineering
+  • stakeholder communication
+  • advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • R
+  • predictive modeling
+  • machine learning
+  • statistical analysis
+  • feature creation and validation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL hands-on experience
+  • Built end-to-end ETL and data pipelines
+  • Dashboarding with Power BI and Tableau
+  • Quantified impact (e.g., 40% time reduction, 300% acquisition)
+  • Experience with cloud data platforms (Snowflake, BigQuery, AWS S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit R or ML model implementations listed
+  • Limited years in dedicated predictive modeling role (≈2+ yrs)
+  • No explicit mention of GLM/logistic regression or decision trees
+  • People/HR analytics experience not demonstrated
+  • No academic credentials in statistics/data science
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive models for customer segmentation using Python (Scikit-Learn) and R, applying logistic regression and decision trees to identify high-value behaviors and optimize marketing initiatives.
+  Performed rigorous statistical analysis on lending portfolio data, utilizing multivariate analysis and hypothesis testing to validate credit risk metrics and feature importance.
+  Engineered and validated predictive features for loan default models, conducting comprehensive EDA and feature selection to improve model accuracy and interpretability.
+  Applied advanced machine learning techniques, including GLM and cluster analysis, to transform raw historical performance data into actionable insights for resource allocation and workforce optimization.
+  Conducted complex statistical modeling to assess performance trends and identify operational bottlenecks, translating non-parametric test results into clear, evidence-based recommendations for executive stakeholders.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Predictive Analytics Analyst opportunity with NYU Langone Health. I am interested in this opportunity because of NYU Langone’s reputation for achieving the best patient outcomes through a rigorous, data-driven focus on quality. What interests me about working for NYU Langone is its commitment to integrating advanced research into clinical practice, which inspires me because I am eager to apply quantitative rigor to support the workforce that powers such a world-class health system. I believe my expertise in predictive modeling and my ability to translate complex statistical analyses into actionable business recommendations would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on the intersection of technical automation and strategic insight. In fact, at Shine Masters, I developed time-series models to identify high-value customer segments and optimized operational workflows. This initiative contributed to a 300% increase in new customer acquisition over 12 months by enabling the marketing team to target specific high-propensity audiences based on data-driven patterns. Ultimately, I know that the Predictive Analytics Analyst role at NYU Langone Health would allow me to bring my Python and R modeling skills to the challenge of optimizing workforce planning and talent strategy. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my stakeholder communication skills. I spearheaded the transition from manual reporting to interactive Power BI dashboards, which required me to synthesize complex performance data into clear, non-technical narratives for executive leadership. This shift reduced data processing time by 40% and directly accelerated the decision-making process for our management team. I am excited by the opportunity to use my background in machine learning and statistical analysis in working on critical HR and business problems at NYU Langone Health. I know that my technical proficiency in predictive modeling and my passion for data storytelling align with what it takes to succeed as a Predictive Analytics Analyst. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

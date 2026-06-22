@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Corporate Banking Analyst - Digital Infrastructure - Global Relationship Management
+Company:  MUFG
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414736349
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 41/100
+[████████░░░░░░░░░░░░] 41%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (8)
+  • Excel
+  • PowerPoint
+  • SQL
+  • Python
+  • Reporting
+  • Tableau
+  • Stakeholder communication
+  • Data automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Financial modeling
+  • DCF
+  • Trading comps
+  • Transaction comps
+  • Credit analysis
+  • Corporate and Investment Banking
+  • Deal execution
+  • Due diligence
+  • Portfolio profitability
+  • Structured finance
+  • Capital markets
+  • M&A finance
+  • Loan documentation
+  • Covenant checking
+  • Customer research
+  • Market trends
+  • Valuation analyses
+  • Covenant checking
+  • Credit training
+  • Sponsor coverage
+  • Global Exposure Reports
+  • Liaison with Overseas Branches
+  • Economic capital analysis
+  • Marketing experience
+  • Word
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical/data skills (SQL, Python, ETL)
+  • Advanced reporting & visualization (Power BI, Tableau)
+  • Process automation reducing manual work
+  • Quantified impact (revenue lift, efficiency gains)
+  • Cross-functional stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited investment banking/credit experience
+  • No explicit valuation (DCF/comps) examples
+  • No corporate lending or loan documentation experience
+  • Titles not finance-focused (Data Analyst/Developer)
+  • No credit training or banking certifications
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

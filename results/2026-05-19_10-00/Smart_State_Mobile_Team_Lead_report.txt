@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Mobile Team Lead
+Company:  Smart State
+Location: Fort Lee, NJ
+URL:      https://www.linkedin.com/jobs/view/4413331069
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Git
+  • REST APIs
+  • Technical leadership
+  • Mentorship
+  • Testing automation
+  • Debugging
+  • Performance optimization
+  • App stability
+  • Mobile development
+  • Team lead
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Flutter
+  • Dart
+  • Mobile app architectures
+  • BLoC
+  • Provider
+  • MVVM
+  • WebSockets
+  • CI/CD
+  • SOLID principles
+  • Android
+  • iOS
+  • Kotlin
+  • Swift
+  • Published app
+  • Release pipelines
+  • Release processes
+  • Build pipelines
+  • Fastlane
+  • GitHub Actions
+  • Bitrise
+  • In-app experimentation
+  • A/B testing
+  • Gaming
+  • iGaming
+  • Sockets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Git proficiency
+  • Cross-functional collaboration
+  • Quantified impact on operations
+  • Data-driven problem solving
+  • Experience with APIs and SQL
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Flutter/Dart experience listed
+  • No mobile architecture patterns cited
+  • No native Android/iOS skills
+  • No published/production mobile app evidence
+  • Limited CI/CD mobile pipeline experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

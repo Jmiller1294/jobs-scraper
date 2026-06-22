@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Head of Information Architecture
+Company:  S&P Global
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4403904129
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • PostgreSQL
+  • Snowflake
+  • BigQuery
+  • AWS
+  • Python
+  • ETL/ELT
+  • data governance
+  • data quality
+  • dbt
+  • CI/CD
+  • Power BI
+  • Tableau
+  • data visualization
+  • automation
+  • data pipelines
+  • stakeholder communication
+  • data modeling
+  • database technologies
+  • quantified impact
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Oracle
+  • SQL Server
+  • Azure
+  • Google Cloud
+  • Hadoop
+  • Spark
+  • Collibra
+  • Informatica
+  • Alation
+  • TOGAF
+  • AWS Solutions Architect
+  • DAMA-DMBOK
+  • 12+ years experience
+  • master's degree
+  • leadership/mentor senior team
+  • enterprise-wide strategy
+  • vendor relationships
+  • financial services experience
+  • regulatory compliance
+  • large-scale data architecture
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Hands-on ELT/ETL pipeline development
+  • Strong SQL and PostgreSQL expertise
+  • Cloud data platform experience (Snowflake, BigQuery, AWS S3)
+  • Quantified business impact and automation savings
+  • Data quality and governance implementation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Insufficient seniority/years (resume shows ~3+ years)
+  • No master’s degree or 12+ years experience
+  • Limited enterprise architecture/TOGAF certifications
+  • Missing big data frameworks (Hadoop/Spark)
+  • No explicit experience with enterprise data governance tools (Collibra/Informatica/Alation)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Bring Your Own Engineering Team
+Company:  Fractional AI
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4408944003
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Python
+  • SQL
+  • ETL
+  • PostgreSQL
+  • MySQL
+  • AWS S3
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • Git
+  • APIs
+  • JIRA
+  • Confluence
+  • Automation
+  • Time series
+  • Data modeling
+  • Data pipelines
+  • Data validation
+  • EDA
+  • Customer segmentation
+  • Zapier
+  • ChatGPT
+  • Quantified impact
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (1)
+  • Machine learning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python + SQL + ETL experience
+  • Production data pipeline and modeling
+  • Visualization and dashboard delivery
+  • Quantified impact on business metrics
+  • Cross-functional collaboration and tooling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/LLM model building experience
+  • No senior/staff-level title on resume
+  • Relatively short total industry experience
+  • Few references to deploying AI products in production
+  • No explicit experience with LLM evaluation frameworks
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Remote Data Collection Freelance role (English Speakers)
+Company:  Firstsource
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4416110398
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 73/100
+[██████████████░░░░░░] 73%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • remote
+  • clear instructions
+  • flexible participation
+  • communication
+  • reliable
+  • documentation
+  • Python
+  • SQL
+  • ETL
+  • data cleaning
+  • Git
+  • APIs
+  • Power BI
+  • Tableau
+  • Excel
+  • AWS
+  • BigQuery
+  • Snowflake
+  • recording
+  • English fluency
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • audio-based tasks
+  • spoken English
+  • follow instructions
+  • data collection
+  • recording
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data skills (Python, SQL, ETL)
+  • Proven documentation and SOP creation
+  • Remote work experience and tools
+  • Clear communication and reporting (Power BI, Tableau)
+  • Quantified impact on operations and metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit audio/task recording experience
+  • No mention of voice/speech tools or audio annotation
+  • Limited explicit role title alignment to 'participant'
+  • No stated experience with guided spoken-English tasks
+  • Unclear years of audio-specific experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

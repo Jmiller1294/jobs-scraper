@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Manager, Data Science/ML
+Company:  CookUnity
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4385959120
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • Snowflake
+  • AWS
+  • BigQuery
+  • ETL
+  • Feature engineering
+  • Git
+  • Tableau
+  • Power BI
+  • Model monitoring
+  • Experimentation
+  • Product analytics
+  • Leadership
+  • A/B testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Personalization
+  • Recommendation systems
+  • Causal inference
+  • ML deployment
+  • PyTorch
+  • TensorFlow
+  • MLflow
+  • Airflow
+  • Kubeflow
+  • Real-time ML
+  • Feature stores
+  • Two-tower embeddings
+  • Generative AI
+  • LLM applications
+  • Amplitude
+  • MixPanel
+  • Looker
+  • Snowflake (advanced MLOps)
+  • MLOps
+  • Production ML models
+  • Scaling data science team
+  • Subscription retention
+  • Statistical rigor
+  • Incrementality measurement
+  • Monitoring systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Cloud experience (AWS, Snowflake, BigQuery)
+  • Hands-on ETL and data modeling
+  • Visualization and dashboarding (Tableau, Power BI)
+  • Demonstrated impact with quantified operational improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited production ML model and MLOps evidence
+  • No explicit recommendation/personalization experience
+  • Minimal causal inference and rigorous experimentation detail
+  • Leadership/managerial seniority under stated requirement (>=3 yrs)
+  • Missing advanced ML frameworks (PyTorch/TensorFlow) experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

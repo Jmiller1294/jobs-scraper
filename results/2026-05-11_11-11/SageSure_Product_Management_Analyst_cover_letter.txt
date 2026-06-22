@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+SageSure
+
+Dear Hiring Manager,
+
+I am excited to apply for the Product Management Analyst position at SageSure. With my background in data analytics, automation, and cross-functional collaboration, I am confident I would be a strong addition to your team.
+
+SageSure's reputation as a leader in catastrophe-exposed property insurance, coupled with its entrepreneurial spirit and commitment to sustained profitable growth, deeply resonates with my professional aspirations. The opportunity to contribute to a company that consistently ranks among the Best Places to Work in Insurance is particularly appealing.
+
+In my previous roles, I have developed robust data pipelines and reporting solutions that drive efficiency and revenue growth. Additionally, I have experience translating complex technical findings into actionable business recommendations for stakeholders, which directly aligns with your need for analyzing complex business problems and developing proposals to address concerns.
+
+I have a proven ability to compile, clean, and analyze complex data to understand and communicate business results. For instance, I built Python automation for weekly sales and operations reports, saving 8 hours per week and improving reporting accuracy. Furthermore, I created statistical models that identified high-value customer segments, contributing to a 300% increase in revenue within those segments. I am proficient in SQL, Python, Power BI, and Excel (including VLOOKUP and Pivot Tables), and I have a strong aptitude for R, which I have used extensively in my personal projects and am eager to apply in an insurance context.
+
+I am particularly drawn to SageSure's mission of engineering better outcomes by investing in technology and talent to succeed in demanding markets, and believe my experience in data-driven decision-making and process improvement would allow me to contribute meaningfully from day one. I am a self-driven, analytical thinker with a strong desire to learn and possess the intellectual curiosity to ask insightful questions, making me well-suited to thrive in your collaborative environment.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

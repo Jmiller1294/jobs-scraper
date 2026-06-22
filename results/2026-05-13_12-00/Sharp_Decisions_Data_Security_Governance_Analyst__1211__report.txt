@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Security Governance Analyst (1211)
+Company:  Sharp Decisions
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4411206244
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data governance
+  • data classification
+  • data handling
+  • documentation
+  • reporting
+  • stakeholder communication
+  • Python
+  • SQL
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • AWS (S3)
+  • encryption
+  • risk assessments
+  • audit
+  • regulatory
+  • IAM
+  • security architecture
+  • data protection
+  • policy
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • information protection
+  • data loss prevention
+  • key management
+  • control validation
+  • policy lifecycle management
+  • third-party risk
+  • secure data handling
+  • regulatory reporting
+  • enterprise information security governance
+  • translate policy to controls
+  • control enforcement
+  • data classification initiatives
+  • privacy alignment
+  • governance frameworks
+  • executive-ready materials
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with Snowflake and BigQuery
+  • Reporting and visualization (Power BI, Tableau)
+  • Implemented governance frameworks and standardization
+  • Quantified impact in roles (efficiency and revenue gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit info-security program experience
+  • No DLP or key management details
+  • Lacks security certifications (CISSP, CIPP, CISM)
+  • Minimal explicit policy lifecycle management experience
+  • Unclear experience with control validation and regulatory reporting
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

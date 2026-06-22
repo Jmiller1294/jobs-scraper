@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Business Analyst (contract)
+Company:  BNY
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4396243027
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 40/100
+[████████░░░░░░░░░░░░] 40%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • SQL
+  • Python
+  • Snowflake
+  • BigQuery
+  • Automation
+  • Testing
+  • Stakeholder management
+  • Project management
+  • Data validation
+  • Requirements gathering
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • OMS
+  • Order Management System
+  • Equities
+  • Fixed Income
+  • FIX protocol
+  • Trading lifecycle
+  • JIRA
+  • Scrum
+  • Vendor coordination
+  • System integration
+  • Trade workflow
+  • Aladdin
+  • Charles River
+  • Fidessa
+  • FlexTrade
+  • Tradeweb
+  • MarketAxess
+  • Bloomberg
+  • Team leadership
+  • Buy-side
+  • Sell-side
+  • SQL/database exposure (trade/market data)
+  • Front office trading
+  • 15+ years experience
+  • OMS implementations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Cloud data platform experience (Snowflake, BigQuery)
+  • Proven automation and ELT pipeline delivery
+  • Quantified impact in analytics roles
+  • Testing and data validation experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit OMS/EMS experience
+  • No FIX protocol or trading connectivity exposure
+  • Limited or no front-office trading background
+  • Insufficient years of financial services experience
+  • No JIRA/Scrum or vendor coordination evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

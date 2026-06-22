@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate, Business Analyst (Analytics) – Global Supplier Services
+Company:  JPMorganChase
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415874370
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • data structuring
+  • SQL
+  • Power BI
+  • dashboard reporting
+  • KPI
+  • ETL
+  • Python
+  • data modeling
+  • reporting
+  • data visualization
+  • stakeholder presentation
+  • cross-functional collaboration
+  • automation
+  • data pipelines
+  • analysis
+  • Excel
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • risk analysis
+  • project leadership
+  • process improvement
+  • documentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • financial analysis
+  • data governance
+  • stakeholder influencing
+  • consensus-building
+  • senior-management reporting
+  • vendor management
+  • negotiation
+  • 5+ years experience
+  • Third-Party Oversight
+  • senior-leadership-ready
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Power BI dashboard and KPI delivery with quantified impact
+  • Cross-functional collaboration and documentation
+  • Experience building data models and pipelines
+  • Process automation and measurable efficiency gains
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit financial analysis experience
+  • Underrepresented senior-leadership reporting examples
+  • Less evidence of vendor/third-party oversight
+  • Consensus-building and negotiation not highlighted
+  • May not meet 5+ years required experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional partners to perform financial analysis on operational data, translating complex datasets into senior-leadership-ready reporting that influenced budgetary decisions.
+  Led data structuring initiatives to support Third-Party Oversight, defining data model requirements to ensure transparency and accurate risk rating reporting for external vendors.
+  Partnered with department leads to establish consensus on key performance indicators (KPIs), delivering visual analytics that enabled data-driven, executive-level decision-making.
+  Championed data governance best practices by documenting SOPs for data pipelines, ensuring consistent data integrity for financial and operational reporting.
+  Utilized stakeholder influencing skills to align cross-functional teams on project roadmaps, ensuring timely delivery of documentation and reporting requirements for senior management.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Associate, Business Analyst (Analytics) – Global Supplier Services opportunity with JPMorganChase. I am interested in this opportunity because of the firm’s reputation for excellence in managing global risk and its commitment to driving operational efficiency through data-driven innovation. What interests me about working for JPMorganChase is its fortress balance sheet strategy and the scale at which it integrates technology into corporate functions, which inspires me because I am passionate about building robust data structures to solve complex, real-world financial challenges. I believe my expertise in quantitative data modeling and my ability to synthesize complex information for stakeholders would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on translating raw data into actionable business intelligence. In fact, while at Shine Masters, I identified a need for improved visibility into operational performance, so I designed and deployed interactive Power BI dashboards that replaced manual, legacy reporting systems. The result was a 40% reduction in data processing time and a 300% increase in customer acquisition, showcasing my ability to deliver senior-ready insights that directly impact bottom-line growth. Ultimately, I know that the Associate, Business Analyst (Analytics) role at JPMorganChase would allow me to bring my data structuring and visualization skills to drive key initiatives in the Global Supplier Services team. Additionally, my experience as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my stakeholder influencing and consensus-building skills. In that role, I collaborated with Underwriting and Product teams to align software features with critical business objectives and reconciled complex insurance data sets. By integrating data from disparate APIs and databases, I streamlined development workflows and ensured project delivery timelines were met 25% faster. I’m excited by the opportunity to use my analytical precision in working on risk mitigation and third-party oversight at JPMorganChase. I know that my technical proficiency in SQL and Python and my commitment to data-driven operational excellence align with what it takes to succeed at the Associate level. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

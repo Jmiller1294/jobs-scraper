@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quality Control Analyst
+Company:  Cellares
+Location: Bridgewater, NJ
+URL:      https://www.linkedin.com/jobs/view/4343485793
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (3)
+  • SOPs
+  • documentation
+  • Bachelor's degree
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (22)
+  • flow cytometry
+  • qPCR
+  • dPCR
+  • ELISA
+  • cell-based potency assays
+  • stability testing
+  • raw material testing
+  • cGMP
+  • method validation
+  • COA/COT
+  • OOS/OOT
+  • deviations
+  • CAPA
+  • equipment calibration
+  • peer review
+  • cell therapy
+  • biochemical analysis
+  • analytical testing
+  • training records
+  • regulatory compliance
+  • lab maintenance
+  • 2+ years experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Bachelor's degree in science/computer science
+  • Strong documentation and SOP experience
+  • Quantified operational impact (time savings, efficiency)
+  • Data analysis and automation skills (Python, SQL, Power BI)
+  • Experience writing SOPs and process documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No laboratory wet‑lab or cell therapy assay experience
+  • No cGMP/cGxP operational experience
+  • No method validation or analytical testing experience
+  • No regulatory/COA/COT or OOS investigation evidence
+  • Insufficient years of relevant biotech QC experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

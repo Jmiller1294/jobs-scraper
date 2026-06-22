@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst/Senior Analyst, Brand Marketing (Marketing Analytics, Bangkok Based, Relocation provided)
+Company:  Agoda
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4365102024
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Tableau
+  • Excel (Pivot, VLOOKUP)
+  • Python
+  • Power BI
+  • ETL
+  • Data cleaning
+  • Data visualization
+  • Project management
+  • Reporting
+  • APIs
+  • Git
+  • AWS S3
+  • Snowflake
+  • BigQuery
+  • Customer segmentation
+  • Google Analytics
+  • Salesforce CRM
+  • Automation
+  • Data pipelines
+  • Regression
+  • Campaign measurement
+  • Data storytelling
+  • VLOOKUP
+  • Pivot Tables
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • A/B testing
+  • Meta
+  • Twitter
+  • YouTube
+  • TikTok
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Tableau experience
+  • Advanced Excel skills (Pivot/VLOOKUP)
+  • Proven reporting and dashboard delivery
+  • Campaign measurement & segmentation experience
+  • 2+ years analytically focused roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit A/B testing experience listed
+  • Limited direct platform (Meta/Twitter/YouTube/TikTok) ad experience
+  • No explicit p-value or formal statistical testing examples
+  • Brand research or agency collaboration not shown
+  • Role title not explicitly 'Brand/Marketing Analyst'
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Conducted A/B testing on marketing campaigns, utilizing statistical analysis (including p-values and regression) to measure the impact on conversion and brand awareness.
+  Managed performance of digital marketing campaigns across Meta and YouTube, optimizing media spend against KPIs and delivering reports to stakeholders.
+  Collaborated with cross-functional teams to integrate campaign data from platforms like Meta and YouTube to inform strategy and increase marketing ROI.
+  Leveraged statistical methods such as data normalization and regression modeling to refine customer segmentation and enhance brand research initiatives.
+  Managed end-to-end project measurement and planning, utilizing marketing data to drive actionable insights for brand optimization.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Analyst, Brand Marketing (Marketing Analytics, Bangkok Based, Relocation provided) opportunity with Agoda. I am interested in this opportunity because of Agoda’s industry-leading position in using data-driven technology to bridge the world through travel. What interests me about working for Agoda is its culture of curiosity and innovation, which inspires me because I am passionate about translating complex data into meaningful brand strategies. I believe my expertise in SQL and Tableau and my background in campaign measurement would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on how data architecture directly impacts business outcomes. In fact, at Shine Masters, I designed a 12-month marketing strategy fueled by time-series modeling and customer segmentation. This initiative resulted in a 300% increase in new customer acquisition. Ultimately, I know that the Analyst, Brand Marketing role at Agoda would allow me to bring my proficiency in A/B testing and statistical analysis to drive impactful brand research. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my project management skills. I led the transition to automated dashboards, reducing data processing time by 40% and freeing up resources for high-priority lead generation. I’m excited by the opportunity to use my data storytelling skills in working on digital and social media campaigns at Agoda. I know that my analytical rigor and campaign management experience align with what it takes to succeed at the Analyst, Brand Marketing role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

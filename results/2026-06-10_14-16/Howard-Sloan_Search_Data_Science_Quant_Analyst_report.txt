@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Science Quant Analyst
+Company:  Howard-Sloan Search
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4427053618
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 85/100
+[█████████████████░░░] 85%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • SQL
+  • time series
+  • feature engineering
+  • model development
+  • statistical analysis
+  • data pipelines
+  • ETL
+  • Power BI
+  • Tableau
+  • Git
+  • EDA
+  • visualization
+  • Snowflake
+  • BigQuery
+  • AI tools
+  • documentation/SOPs
+  • version control
+  • cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • machine learning
+  • NLP
+  • model evaluation
+  • prompting/LLMs
+  • client-facing
+  • financial services
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL hands-on experience
+  • Built end-to-end ETL and data pipelines
+  • Delivered measurable impact with dashboards and automation
+  • Experience with Power BI/Tableau and visualization
+  • Familiarity with cloud data platforms (Snowflake/BigQuery/AWS)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/NLP production model examples
+  • No clear client-facing financial services tenure
+  • Only 1–2 years relevant experience (junior level)
+  • Few documented model evaluation/governance practices
+  • No explicit exposure to prompt engineering or retrieval workflows
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Engineered predictive classification models for loan default risk using Scikit-Learn, performing feature engineering and model evaluation to ensure robust performance metrics.
+  Applied Natural Language Processing (NLP) techniques to categorize and analyze unstructured text data, improving information retrieval efficiency by 20% in internal project workflows.
+  Utilized Large Language Models (LLMs) and prompt engineering to automate the summarization of complex financial datasets, accelerating stakeholder decision-making cycles.
+  Partnered with cross-functional stakeholders to deliver client-facing analytical dashboards and actionable insights, ensuring alignment with high-stakes business objectives in a fast-paced environment.
+  Applied rigorous model governance and documentation standards, ensuring all analytical outputs are explainable, reproducible, and compliant with internal data security controls.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Science Quant Analyst opportunity with Howard-Sloan Search. I am interested in this opportunity because of the firm's commitment to bridging the gap between cutting-edge AI and high-impact financial advisory. What interests me about working for Howard-Sloan Search is its focus on building practical, scalable internal AI platforms that directly enhance banker productivity and client outcomes. I believe my rigorous quantitative background and my proficiency in building end-to-end data pipelines would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex, ambiguous business questions into actionable analytical workplans. In fact, while at Shine Masters, I identified a need for more precise customer targeting and developed time series models to identify high-value segments, which contributed to a 300% increase in new customer acquisition over 12 months. This experience directly translates to the firm's need for analysts who can structure data to drive commercial results. Ultimately, I know that the Data Science Quant Analyst role at Howard-Sloan Search would allow me to bring my modeling and statistical analysis skills to support client-facing work. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my model evaluation and documentation skills. I spearheaded the transition from manual reporting to automated Power BI dashboards, documenting methodologies in a clear and auditable manner that reduced processing time by 40%. This commitment to governance and repeatable processes ensures the accuracy required for high-stakes financial environments. I’m excited by the opportunity to use my Python, SQL, and machine learning skills in working on complex client mandates at Howard-Sloan Search. I know that my strong quantitative instincts and my experience with modern data stacks align with what it takes to succeed at the Data Science Quant Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

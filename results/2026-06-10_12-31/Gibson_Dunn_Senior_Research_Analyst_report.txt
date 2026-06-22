@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Research Analyst
+Company:  Gibson Dunn
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4426599288
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (8)
+  • AI tools
+  • SQL
+  • Python
+  • documentation
+  • data analysis
+  • client service
+  • attention to detail
+  • analytical judgment
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • legal research
+  • Westlaw Precision
+  • Lexis+
+  • Bloomberg Law
+  • GenAI
+  • research databases
+  • multijurisdictional research
+  • MLS/JD
+  • research strategy
+  • competitive intelligence
+  • training development
+  • ticketing system
+  • Quest
+  • CoCounsel
+  • VitalLaw
+  • Lex Machina
+  • Deal Point Data
+  • library science
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical skills (SQL, Python)
+  • Experience with AI tools (ChatGPT, Claude, Gemini)
+  • Documented SOPs and documentation experience
+  • Quantified impact in analytics roles
+  • Data visualization and reporting expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No legal research database experience listed
+  • Lacks MLS or JD credential
+  • Limited law firm research experience
+  • No mention of Quest or ticketing systems for research
+  • No explicit multijurisdictional or legal practice area support
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

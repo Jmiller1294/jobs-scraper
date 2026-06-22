@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst Relations Manager
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406970611
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • cross-functional
+  • communications
+  • executive partnership
+  • report reviews
+  • event programming
+  • campaign measurement
+  • SQL
+  • Python
+  • Power BI
+  • data analysis
+  • stakeholder presentations
+  • market insights
+  • stakeholder management
+  • positioning
+  • external communications
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • analyst relations
+  • product marketing
+  • thought leadership
+  • spokesperson training
+  • briefings
+  • analyst briefings
+  • market differentiation
+  • Google Cloud
+  • strategic narrative
+  • competitive analysis
+  • positioning
+  • report reviews
+  • event programming
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data analytics (SQL, Python, Power BI)
+  • quantified impact (e.g., 300% acquisition)
+  • cross-functional collaboration experience
+  • experience building dashboards and ETL pipelines
+  • presentation and reporting skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited product marketing experience
+  • no explicit analyst relations background
+  • no spokesperson or executive training experience
+  • lack of cloud marketing (Google Cloud) experience
+  • title misalignment with senior marketing role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

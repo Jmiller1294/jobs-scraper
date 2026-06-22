@@ -1,0 +1,88 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior ML Ops Engineer
+Company:  Franklin Fitch
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4413975305
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • ETL
+  • BigQuery
+  • Snowflake
+  • Git
+  • CI/CD
+  • data modeling
+  • database
+  • PostgreSQL
+  • MySQL
+  • Power BI
+  • data quality
+  • automation
+  • Pandas
+  • dbt
+  • Great Expectations
+  • reporting
+  • production-grade
+  • cloud
+  • version control
+  • data pipelines
+  • data governance
+  • A/B testing
+  • visualization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • MLOps
+  • SRE
+  • DevOps
+  • ML Platform
+  • MLflow
+  • LangChain
+  • LangFuse
+  • W&B
+  • CrewAI
+  • experiment tracking
+  • model versioning
+  • reproducibility
+  • OCR
+  • NLP
+  • multimodal
+  • observability
+  • reliability
+  • benchmarking
+  • annotation workflows
+  • scalable enterprise AI
+  • monitoring
+  • evaluation frameworks
+  • cross-functional communication
+  • startup AI deployment
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Hands-on ETL and pipeline experience
+  • Cloud data warehouse experience (BigQuery, Snowflake)
+  • CI/CD and Git-based deployment
+  • Quantified impact in analytics and automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit MLOps or ML platform experience
+  • Lacks NLP/OCR or multimodal model deployment
+  • No familiarity with MLflow/W&B/LangChain frameworks
+  • Limited years of total engineering experience (2+ years post-2024 roles)
+  • No explicit experiment tracking or model versioning practice
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

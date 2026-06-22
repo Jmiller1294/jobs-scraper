@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Data Scientist, Android, Platforms and Devices Marketing - New York, Mountain View, or San Francisco
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416179395
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • Python
+  • SQL
+  • R
+  • campaign measurement
+  • audience segmentation
+  • data pipelines
+  • ETL pipelines
+  • time series
+  • statistical analysis
+  • Power BI
+  • Tableau
+  • customer segmentation
+  • Google Analytics
+  • automated analytics
+  • BigQuery
+  • Snowflake
+  • AWS (S3)
+  • data modeling
+  • reporting
+  • cross-functional collaboration
+  • Git
+  • data storytelling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • A/B experiments
+  • causal experimentation
+  • automated analytics pipelines
+  • propensity modeling
+  • external client engagement
+  • evaluation frameworks
+  • AI tools for measurement
+  • campaign analysis through experiments
+  • marketing partnerships
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL and data models
+  • Quantified impacts (e.g., 40% processing time, 300% acquisition)
+  • Visualization and dashboarding (Power BI, Tableau)
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit A/B/geo-experiment experience
+  • No clear experience engaging external partners on measurement
+  • Less than preferred years in analytics (≈3 years)
+  • No master's degree listed
+  • No explicit propensity modeling or advanced causal methods
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

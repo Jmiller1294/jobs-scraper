@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technical Business Analyst
+Company:  Wise Equation Solutions Inc.
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4416177556
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Agile
+  • Kanban
+  • JIRA
+  • Confluence
+  • Python
+  • ETL
+  • SQL
+  • Reporting
+  • Metrics
+  • Power BI
+  • Excel
+  • AWS
+  • Snowflake
+  • Cross-functional collaboration
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Scrum
+  • Web Services
+  • Big Data
+  • Project Management
+  • Stakeholder communication
+  • Release management
+  • Risk management
+  • Leadership
+  • Architecture
+  • Continuous improvement
+  • Release management
+  • PMP Certification
+  • Banking domain
+  • TDD
+  • Atlassian suite
+  • Project Management tools
+  • Negotiation
+  • Program level facilitation
+  • Epic prioritization
+  • Value stream planning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • ETL and data modeling expertise
+  • Reporting and visualization (Power BI, Tableau)
+  • Experience with JIRA/Confluence
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Scrum Master/PM title experience
+  • Under 10 years PM/Scrum experience
+  • No PMP certification listed
+  • No explicit Big Data or Web Services experience
+  • No banking domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

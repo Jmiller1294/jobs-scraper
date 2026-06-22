@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Drug Discovery Software Engineer
+Company:  Excelsior Sciences
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4419076579
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Python
+  • JavaScript
+  • SQL
+  • REST API
+  • CI/CD
+  • Docker
+  • BigQuery
+  • Airflow
+  • dbt
+  • ETL
+  • Postgres
+  • Data modeling
+  • Automation
+  • GitHub Actions
+  • Data quality
+  • Power BI
+  • Tableau
+  • ELT pipeline
+  • GCS
+  • Snowflake
+  • Git
+  • Programming
+  • Software development
+  • Integration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • C#
+  • Claude Code
+  • Codex
+  • Oracle
+  • SQL Server
+  • Aurora
+  • LIMS
+  • ELNs
+  • digital orchestration
+  • MCP Servers
+  • laboratory automation
+  • lab instrumentation
+  • agentic AI/ML
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Cloud data engineering (BigQuery, GCS)
+  • ETL/ELT pipeline and Airflow experience
+  • CI/CD and automation (GitHub Actions, Docker)
+  • Data modeling and quality (dbt, Great Expectations)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LIMS/ELN experience
+  • No lab automation or instrumentation integration
+  • No experience with C# or specified coding agents
+  • No explicit pharmaceutical/biotech domain experience
+  • Limited stated years in lab-focused software (3-5 yrs requirement not clearly met)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

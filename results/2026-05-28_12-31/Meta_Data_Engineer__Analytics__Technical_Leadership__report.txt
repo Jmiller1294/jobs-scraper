@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer, Analytics (Technical Leadership)
+Company:  Meta
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4351649411
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 54/100
+[██████████░░░░░░░░░░] 54%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • SQL
+  • ETL
+  • Python
+  • data modeling
+  • data pipelines
+  • BigQuery
+  • Snowflake
+  • S3
+  • Tableau
+  • Power BI
+  • Git
+  • data integration
+  • query optimization
+  • dashboards
+  • project management
+  • cross-functional collaboration
+  • AI tools
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • data warehouse
+  • data architecture
+  • dimensional modeling
+  • data governance
+  • dimensional modeling
+  • SLA management
+  • privacy/security
+  • logging
+  • performance tuning
+  • schema design
+  • object-oriented programming
+  • MapReduce/MPP
+  • responsible AI practices
+  • AI-driven workflow integration
+  • 10+ years experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and ETL experience
+  • Practical Python data engineering
+  • Experience with cloud data platforms (BigQuery, Snowflake, S3)
+  • Built end-to-end ETL pipelines and dashboards
+  • Cross-functional collaboration and PM tooling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Insufficient seniority/10+ years experience
+  • Limited explicit data warehouse ownership
+  • Lacks demonstrated dimensional/schema design at scale
+  • No clear production SLA or governance leadership
+  • Limited evidence of security/privacy and MPP/MapReduce experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

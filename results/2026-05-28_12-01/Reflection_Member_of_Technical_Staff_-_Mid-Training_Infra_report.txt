@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff - Mid-Training Infra
+Company:  Reflection
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4389841642
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • Cloud
+  • AWS
+  • Git
+  • automation
+  • data pipelines
+  • ETL
+  • monitoring
+  • debugging
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • GPU
+  • distributed systems
+  • inference
+  • performance optimization
+  • model serving
+  • profiling
+  • kernel optimization
+  • model parallelism
+  • reinforcement learning
+  • throughput
+  • latency
+  • GPU utilization
+  • networking
+  • distributed execution
+  • containerization
+  • model evaluation
+  • rollout generation
+  • SGLang
+  • Megatron
+  • LLM runtimes
+  • GPU kernels
+  • high-performance inference
+  • synthetic data
+  • RL training workflows
+  • performance bottlenecks
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and data pipelines
+  • Cloud exposure (AWS, BigQuery, Snowflake)
+  • Proven automation and process improvement
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit GPU or CUDA experience
+  • No distributed systems or large-scale inference experience
+  • No RL or synthetic data pipeline experience
+  • Lacks low-level/kernel optimization background
+  • Limited relevant job titles (data analyst/developer)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

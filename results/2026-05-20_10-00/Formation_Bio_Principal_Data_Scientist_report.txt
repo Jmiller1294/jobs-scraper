@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal Data Scientist
+Company:  Formation Bio
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4398565091
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS
+  • ETL
+  • data pipelines
+  • time series
+  • data analysis
+  • Power BI
+  • Tableau
+  • Git
+  • cross-functional collaboration
+  • presentations to stakeholders
+  • visualization
+  • LLM
+  • AI tools
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • machine learning
+  • deep learning
+  • multi-modal bioinformatics
+  • cloud computing
+  • biomarker identification
+  • patient stratification
+  • AI agents
+  • production systems
+  • graph databases
+  • tabular databases
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Cloud tools: BigQuery, Snowflake, AWS S3
+  • Built ETL pipelines and data models
+  • Visualization and dashboard delivery
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PhD (required)
+  • Limited biotech/pharma domain experience
+  • No explicit machine/deep learning projects
+  • No multi-modal bioinformatics experience
+  • No production ML system or graph DB evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

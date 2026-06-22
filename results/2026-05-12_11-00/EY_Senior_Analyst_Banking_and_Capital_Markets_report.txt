@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst Banking and Capital Markets
+Company:  EY
+Location: Hoboken, NJ
+URL:      https://www.linkedin.com/jobs/view/4389580490
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 71/100
+[██████████████░░░░░░] 71%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • data analytics
+  • SQL
+  • Python
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • data visualization
+  • ETL
+  • CI/CD
+  • data quality
+  • Git
+  • reporting
+  • A/B testing
+  • data governance
+  • presentation
+  • communication
+  • customer segmentation
+  • CRM
+  • stakeholder engagement
+  • project management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • banking
+  • industry research
+  • strategy
+  • quantitative research
+  • presentation to executives
+  • senior client influence
+  • cross-sector collaboration
+  • sector insights
+  • trade finance
+  • investment banking
+  • sustainability
+  • global collaboration
+  • coaching
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical analytics stack (SQL, Python, Snowflake, BigQuery)
+  • Proven quantitative impact with measured outcomes (revenue, efficiency gains)
+  • Visualization and reporting expertise (Power BI, Tableau, Excel)
+  • Experience building production ELT pipelines and CI/CD
+  • Stakeholder communication and translating insights to business action
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit banking / BCM sector experience
+  • Underrepresented strategy / industry research credentials
+  • No clear executive-level presentations or senior client advisory examples
+  • Limited years in relevant senior role (experience ~2-3 years post-grad analytics roles)
+  • No mention of coaching/leading junior analysts in a formal capacity
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Analyzed complex financial datasets to provide strategic insights for business stakeholders, mirroring the analytical rigor required for Banking and Capital Markets (BCM) sector research.
+  Collaborated with product managers and cross-functional teams to align technical deliverables with strategic business goals, demonstrating a high-level aptitude for cross-sector collaboration.
+  Translated technical data findings into executive-level presentations for leadership, effectively influencing strategic decision-making and project prioritization.
+  Coached team members on data visualization best practices and SQL query optimization, fostering a culture of continuous learning and improved analytical competency.
+  Conducted quantitative and qualitative research on economic trends to support strategic forecasting, delivering actionable intelligence aligned with industry-standard performance metrics.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Analyst Banking and Capital Markets opportunity with EY. I am interested in this opportunity because of EY’s reputation for providing world-class strategic insights that shape the future of global financial institutions. What interests me about working for EY is its commitment to building a better working world through data-driven innovation and diverse, expert teams; this forward-thinking approach to addressing complex banking sector challenges deeply inspires me. I believe my advanced data analytics expertise and my strategic communication skills would make me a strong candidate for this role. During my professional career, I have approached problems by synthesizing raw data into clear, actionable business strategies. In fact, at Shine Masters, I developed statistical models to identify high-value segments, which directly guided our marketing strategy and contributed to a 300% increase in revenue for those segments within one year. This transition from complex data analysis to high-impact strategic business growth aligns perfectly with the commercial objectives of the BCM team. Ultimately, I know that the Senior Analyst Banking and Capital Markets role at EY would allow me to bring my quantitative research skills to support the development of EY’s distinctive market perspectives. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my collaborative and technical leadership skills. During this time, I worked within a 14-person team to align features with core business objectives, optimizing relational databases to improve data accuracy by 60%, which significantly enhanced our team's ability to drive feature adoption and project success. I’m excited by the opportunity to use my analytical proficiency in working on high-impact insights and client deliverables at EY. I know that my data-driven mindset and my experience translating complex trends into strategic advice align with what it takes to succeed at the Senior Analyst Banking and Capital Markets role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

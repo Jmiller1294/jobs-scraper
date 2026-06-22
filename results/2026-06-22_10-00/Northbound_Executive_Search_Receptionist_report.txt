@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Receptionist
+Company:  Northbound Executive Search
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4428949821
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Microsoft Office
+  • Google Suite
+  • Communication skills
+  • Positive attitude
+  • Organization
+  • Scheduling
+  • Documentation
+  • SOPs
+  • Time management
+  • Team player
+  • Data entry
+  • Office support
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Receptionist
+  • Answer and direct phone calls
+  • Greet visitors
+  • Distribute mail
+  • Clerical
+  • Customer service
+  • Front desk
+  • Mail handling
+  • Phone etiquette
+  • Visitor management
+  • Calendar management
+  • Record keeping
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Microsoft Office/Google Suite skills
+  • Clear documentation and SOP creation
+  • Organizational and time-management experience
+  • Positive teamwork and cross-functional collaboration
+  • Relevant administrative scheduling experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit receptionist or front-desk title
+  • Phone handling and call-routing not documented
+  • No explicit visitor greeting/management experience
+  • Mail distribution/clerk tasks not mentioned
+  • Customer-facing service experience limited
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

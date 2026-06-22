@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Systems Design Engineer (Remote)
+Company:  Weedmaps
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4401986763
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • front-end
+  • CI/CD
+  • Git
+  • Python
+  • SQL
+  • automation
+  • version control
+  • architecture
+  • scalability
+  • mentoring
+  • analytics
+  • data governance
+  • visualization
+  • reporting
+  • integration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • design systems
+  • React
+  • React Native
+  • design-to-code
+  • Figma
+  • tokens
+  • visual regression
+  • accessibility
+  • component library
+  • motion
+  • interaction design
+  • mobile (iOS/Android)
+  • Storybook
+  • AI-assisted workflows
+  • token management
+  • governance
+  • migration
+  • checkout/CTAs
+  • system adoption
+  • performance
+  • composition patterns
+  • variant APIs
+  • Builder
+  • Claude
+  • linting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • automation and CI/CD experience
+  • data-driven measurable impact
+  • strong analytics and reporting skills
+  • version control and collaborative development
+  • experience building production pipelines
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no explicit React/React Native experience
+  • no design system/component library history
+  • limited mobile (iOS/Android) evidence
+  • no Figma or design-to-code tooling listed
+  • accessibility and visual regression experience not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

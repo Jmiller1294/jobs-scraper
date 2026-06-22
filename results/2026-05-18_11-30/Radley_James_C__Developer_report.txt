@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     C# Developer
+Company:  Radley James
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4413279764
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • Snowflake
+  • PostgreSQL
+  • ETL
+  • Git
+  • API integration
+  • Power BI
+  • Tableau
+  • cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • C#
+  • .NET
+  • Azure
+  • Docker
+  • Kubernetes
+  • high-performance
+  • performance optimisation
+  • distributed systems
+  • analytics pipelines
+  • big data
+  • concurrency
+  • memory-efficient
+  • trading systems
+  • quantitative analytics
+  • data-intensive
+  • quant developer
+  • prime brokerage
+  • securities lending
+  • swaps
+  • front-office
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • ETL and data modeling expertise
+  • Experience with Snowflake and cloud storage
+  • Quantified impact in roles (percent/time savings)
+  • Dashboarding and visualization (Power BI/Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C#/.NET experience listed
+  • Limited trading/finance-specific roles
+  • No Kubernetes or Docker experience listed
+  • No explicit high-performance or concurrency work
+  • Years of relevant quant/trading experience under 2
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

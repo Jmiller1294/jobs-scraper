@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Founding Engineer, Roivant Health
+Company:  Roivant
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4340165971
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • ETL pipelines
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • data engineering
+  • version control (Git)
+  • APIs
+  • Power BI
+  • Tableau
+  • automation
+  • JIRA
+  • Confluence
+  • cross-functional collaboration
+  • data pipelines
+  • data visualization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • ML/AI systems
+  • model training
+  • model inference
+  • multimodal data
+  • production deployment
+  • testable codebases
+  • scalable systems
+  • Python engineering
+  • omics
+  • imaging
+  • sensor data
+  • clinical text
+  • healthcare data
+  • clinical/domain expertise
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL and data pipeline development
+  • Experience with cloud data platforms (BigQuery, Snowflake, S3)
+  • Delivered quantified operational impact (time savings, acquisition gains)
+  • Cross-functional collaboration and documentation skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited demonstrated ML/AI production deployment
+  • No explicit multimodal health data experience
+  • No quantified model training or inference work
+  • Lacks explicit clinical or biomedical domain experience
+  • Limited years in senior engineering roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

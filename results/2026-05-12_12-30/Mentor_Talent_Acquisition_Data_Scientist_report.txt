@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist
+Company:  Mentor Talent Acquisition
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4402469557
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • SQL
+  • Python
+  • Tableau
+  • Looker
+  • CRM
+  • Salesforce
+  • BI/dashboarding
+  • ELT/ETL
+  • data governance
+  • BigQuery
+  • Snowflake
+  • A/B testing
+  • data validation
+  • data storytelling
+  • customer segmentation
+  • automation
+  • CI/CD
+  • Pandas
+  • visualization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • product analytics
+  • Metabase
+  • event-level data
+  • funnel analysis
+  • data pipelines
+  • customer health scoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Hands-on BI and dashboard experience (Tableau, Looker, Power BI)
+  • Proven automation and ETL implementation
+  • Quantified business impact (revenue lift, efficiency gains)
+  • Experience translating analytics to stakeholder action
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit product analytics / event-level tool experience (Amplitude/Mixpanel)
+  • No explicit Metabase experience
+  • No documented funnel methodology projects
+  • CRM depth beyond Salesforce not detailed
+  • Relatively short tenure in dedicated data roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Architected event-level data tracking and product analytics workflows using Python and SQL to monitor user behavior, driving a 15% increase in feature adoption through data-informed UI iterations.
+  Engineered a comprehensive customer health scoring system utilizing behavioral signals—including login frequency and feature utilization—to enable proactive account intervention and risk management.
+  Performed end-to-end commercial funnel analysis, identifying key drop-off points in the client journey and implementing data-backed strategies to optimize conversion rates.
+  Managed CRM data integrity by building automated ETL pipelines to reconcile product usage data with Salesforce, ensuring a unified source of truth for the sales team.
+  Developed self-service BI dashboards in Looker and Metabase to visualize critical product usage metrics, empowering non-technical stakeholders to make real-time, data-driven decisions.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst opportunity with Mentor Talent Acquisition. I am interested in this opportunity because your focus on AI-driven private market solutions requires a data foundation that goes beyond simple reporting, and I am eager to build that infrastructure from the ground up as your first dedicated data hire. What interests me about working for Mentor Talent Acquisition is your status as a self-funded, profitable company with significant commercial momentum, which excites me because it mirrors my own approach to building high-impact, scalable data systems. I believe my expertise in building automated data pipelines and my ability to translate complex usage data into actionable commercial strategy would make me a strong candidate for this role. During my professional career at Shine Masters, I approached problems by centralizing disparate data streams to create a 'single source of truth.' In fact, I developed Python-based ETL pipelines to ingest POS and CRM data, which eliminated manual reporting errors and saved 8 hours of administrative work per week. This initiative provided the organization with reliable KPIs that directly supported a 300% increase in revenue within targeted high-value customer segments. Ultimately, I know that the Data Analyst role at Mentor Talent Acquisition would allow me to bring my experience in customer segmentation and behavioral modeling to build the company’s foundational product analytics strategy. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my data engineering and API integration skills. I collaborated with product teams to optimize complex SQL queries that reconciled testing data, resulting in a 60% improvement in data accuracy. By transforming raw, event-level feedback into production-ready code, I directly influenced UI design choices that boosted feature adoption by 15%. I am excited by the opportunity to use my background in both software development and data science to focus on account health modeling and funnel analysis at Mentor Talent Acquisition. I know that my proficiency in Python and SQL and my experience in cross-functional stakeholder communication align with what it takes to succeed at the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

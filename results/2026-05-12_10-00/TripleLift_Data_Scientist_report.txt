@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist
+Company:  TripleLift
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404396662
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • MySQL
+  • Snowflake
+  • AWS
+  • Looker
+  • Power BI
+  • ETL/ELT
+  • BigQuery
+  • version control
+  • testing
+  • A/B testing
+  • dashboards
+  • statistical modeling
+  • data pipelines
+  • feature engineering
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • Spark
+  • Airflow
+  • DataBricks
+  • ONNX
+  • Docker
+  • scikit-learn
+  • model monitoring
+  • Prometheus
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL/ELT and pipeline development
+  • Proven quantified impact (revenue +300%, efficiency gains)
+  • Dashboarding and reporting (Looker, Power BI)
+  • Experience deploying data solutions (Snowflake, BigQuery)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/model production experience
+  • No Spark/DataBricks experience listed
+  • No scikit-learn or ONNX mentions
+  • No Airflow or Docker for orchestration/containerization
+  • Model monitoring tools (Prometheus/Grafana) absent
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Architected production-grade data pipelines using Python and Airflow, ensuring robust task orchestration and automated data quality validation for high-volume datasets.
+  Developed predictive models using scikit-learn and Python, evaluating performance metrics to optimize customer segmentation and traffic shaping strategies.
+  Containerized analytical applications and deployment scripts using Docker to ensure consistent execution environments across development and production stages.
+  Optimized big data processing workflows by leveraging Spark principles to handle large-scale time-series datasets, improving query efficiency and model training latency.
+  Implemented automated monitoring for model performance and data drift using custom alerting scripts, ensuring high reliability in production reporting environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Scientist opportunity with TripleLift. I am interested in this opportunity because of TripleLift's leadership in the programmatic advertising space and its commitment to driving real-time optimization for publishers and brands. What interests me about working for TripleLift is its sophisticated approach to traffic shaping and its focus on using data to maximize outcomes for the entire ecosystem; this inspires me because I am passionate about turning complex, high-velocity datasets into actionable algorithmic improvements. I believe my background in full-stack data pipeline architecture and my proficiency in statistical modeling would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on the 'single source of truth' principle. In fact, at Shine Masters, I identified a need for better data governance and built automated Python workflows to ingest POS and CRM data. This replaced manual reporting, saved 8 hours per week, and eliminated data discrepancies. Ultimately, I know that the Data Scientist role at TripleLift would allow me to bring my experience in building reliable data structures to support your traffic shaping optimization strategies. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my production-grade engineering skills. I collaborated with a 14-person team to optimize relational database queries and integrate API datasets, which improved data accuracy by 60% and directly supported downstream analytics. This experience in maintaining stable, clean codebases ensures I can contribute effectively to your production ML environments. I’m excited by the opportunity to use my experience with Python and SQL in working on real-time ad marketplace challenges at TripleLift. I know that my technical versatility and commitment to data-driven growth align with what it takes to succeed in the Data Scientist role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Vice President, Data Science & Strategy
+Company:  Accordion
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4395483877
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • R
+  • statistics
+  • data visualization
+  • Power BI
+  • Tableau
+  • ETL
+  • data modeling
+  • time series
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • customer segmentation
+  • quantitative analysis
+  • communication
+  • stakeholder presentation
+  • data storytelling
+  • optimization
+  • Git
+  • business strategy
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (4)
+  • machine learning
+  • predictive modeling
+  • experimental design
+  • P&L
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Proven impact with quantified outcomes
+  • Experience building end-to-end ETL and data models
+  • Visualization and dashboard delivery (Power BI, Tableau)
+  • Cross-functional communication and stakeholder delivery
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/modeling project examples
+  • No clear experience with experimental design/A-B testing
+  • Sparse evidence of deep finance/P&L ownership
+  • Shorter overall seniority (<=5 yrs in analytics roles)
+  • No mention of influencing executive strategy at large orgs
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive modeling and machine learning frameworks to analyze customer lifetime value, translating output into actionable growth strategies that improved retention.
+  Designed and executed experimental design protocols, including A/B testing for marketing campaigns, to isolate performance drivers and optimize resource allocation.
+  Integrated P&L impact analysis into operational reporting, enabling leadership to make data-driven decisions regarding unit economics and bottom-line growth.
+  Applied advanced quantitative analysis to evaluate risk-reward trade-offs in lending portfolios, providing strategic recommendations that informed senior management’s financial planning.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Vice President, Data Science & Strategy opportunity with Accordion. I am interested in this opportunity because of Accordion's unique position as a value-creation partner at the intersection of private equity, finance, and advanced analytics. What interests me about working for Accordion is its reputation for solving complex, high-stakes problems for CFOs, which inspires me because it mirrors my commitment to transforming raw data into fundamental business shifts. I believe my expertise in predictive modeling and my acumen for translating technical insights into P&L-focused strategies would make me a strong candidate for this role. During my professional career, I have approached problems as a strategist who speaks the language of data. In fact, at Shine Masters, I developed time-series models to identify high-value customer segments and optimized operations to increase new customer acquisition by 300% over 12 months. This shift in operational strategy directly improved our bottom line and allowed the team to allocate resources toward high-growth opportunities. Ultimately, I know that the Vice President, Data Science & Strategy role at Accordion would allow me to bring my quantitative modeling skills to drive end-to-end value creation. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my experimental design skills. I moved beyond static reporting to design iterative performance tests that allowed us to move quickly in response to market signals, resulting in a 25% increase in team efficiency. I am excited by the opportunity to use my background in Python, SQL, and predictive analytics in working on complex strategic engagements at Accordion. I know that my strategic mindset and technical depth align with what it takes to succeed at the Vice President, Data Science & Strategy role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

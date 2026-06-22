@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Research Engineer, Knowledge Team
+Company:  Anthropic
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4409984163
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 55/100
+[███████████░░░░░░░░░] 55%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • PostgreSQL
+  • APIs
+  • ETL
+  • data pipelines
+  • Git
+  • Cloud (AWS S3)
+  • data modeling
+  • evaluation
+  • documentation
+  • data visualization
+  • Claude
+  • RAG
+  • indexing
+  • knowledge graphs
+  • fine-tuning
+  • Large Language Models
+  • agentic systems
+  • reinforcement learning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • distributed data processing
+  • search engines
+  • ranking
+  • query understanding
+  • scalable distributed information retrieval
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL pipelines and data models
+  • Hands-on with Claude and LLM tools
+  • Proven impact with quantified results
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML research publications/experience
+  • No clear production-scale distributed retrieval systems
+  • Sparse evidence of RL fine-tuning workflows
+  • Limited experience with search/ranking systems
+  • Senior research engineer title/years alignment unclear
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

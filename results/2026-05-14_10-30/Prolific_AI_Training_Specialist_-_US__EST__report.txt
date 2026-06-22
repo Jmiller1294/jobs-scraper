@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Training Specialist - US (EST)
+Company:  Prolific
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405264406
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • BigQuery
+  • Automation
+  • Git
+  • Power BI
+  • Tableau
+  • Data Validation
+  • Reporting
+  • Attention to detail
+  • A/B testing
+  • Statistical modeling
+  • Quality assurance
+  • Data pipelines
+  • Data Governance
+  • Stakeholder communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • AI Training
+  • Annotation
+  • Image Annotation
+  • Video Annotation
+  • Evals
+  • Red Teaming
+  • Quality Analytics
+  • Trust and Safety
+  • Paypal
+  • Reliable and fast internet
+  • Self-declare earnings
+  • General AI Training
+  • Paid task experience
+  • Image and Video Annotation
+  • Trust and Safety
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building data pipelines
+  • Proven automation reducing manual work
+  • Quantified impact (revenue and efficiency gains)
+  • Visualization and reporting expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit AI training/annotation experience
+  • No mention of image/video annotation tools
+  • No red teaming or evals experience
+  • No Trust & Safety background
+  • No Paypal or self-employment/payment details
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Leveraged Python and SQL to conduct Quality Analytics on dataset integrity, ensuring high-quality model inputs and consistent data output standards.
+  Performed rigorous data validation and Red Teaming on automated pipelines, stress-testing workflows to identify edge-case failures and improve system robustness.
+  Applied Evals techniques to benchmark model performance, comparing outputs against standardized KPIs to ensure high-accuracy results.
+  Utilized Python-based image processing libraries to standardize and annotate visual datasets, ensuring high-quality training inputs for downstream machine learning applications.
+  Maintained Trust and Safety protocols by auditing data outputs for policy compliance, ensuring all processed information met organizational guidelines.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the AI Training Specialist - US (EST) opportunity with Prolific. I am interested in this opportunity because of Prolific’s commitment to building the world’s largest pool of ethically sourced, high-quality human data. What interests me about working for Prolific is its focus on integrating diverse human perspectives into AI development; this vision of an AI future that reflects the breadth of humanity truly inspires me. I believe my advanced data pipeline architecture skills and my expertise in rigorous data validation and quality analytics would make me a strong candidate for this role. During my professional career, I have approached complex data problems with a focus on precision and reliability. In fact, while architecting a production-grade ELT pipeline, I implemented automated validation checks using Great Expectations to ensure 100% data integrity before processing. This focus on data quality resulted in the successful deployment of a high-performance, error-free forecasting model that stakeholders rely on for strategic decision-making. Ultimately, I know that the AI Training Specialist role at Prolific would allow me to bring my deep technical experience to the improvement of cutting-edge AI models. Additionally, my role as a Data Analyst at Shine Masters Cleaning Services enabled me to develop my Quality Analytics skills. In that capacity, I standardized organizational KPIs and data governance frameworks, which reduced report discrepancies and established a single source of truth for business decision-makers. This experience in identifying and correcting data inconsistencies directly translates to the evaluation and editing tasks required for high-quality model training. I’m excited by the opportunity to use my analytical mindset in working on complex model evaluation and annotation tasks at Prolific. I know that my technical proficiency in data manipulation and my obsession with data quality align with what it takes to succeed in the AI Training Specialist role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

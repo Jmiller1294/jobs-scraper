@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Marketing Data Analyst
+Company:  PRI Technology
+Location: Holmdel, NJ
+URL:      https://www.linkedin.com/jobs/view/4374131081
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • data QA
+  • data cleaning
+  • ETL
+  • data visualization
+  • audience segmentation
+  • campaign measurement
+  • marketing analytics
+  • data documentation
+  • PostgreSQL
+  • MySQL
+  • customer segmentation
+  • exploratory analysis
+  • automation
+  • SOPs
+  • Google Analytics
+  • Salesforce CRM
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (4)
+  • BigQuery
+  • Snowflake
+  • data governance
+  • match back
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proven Power BI/Tableau dashboarding
+  • Marketing analytics & segmentation experience
+  • ETL and data cleaning skills
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Snowflake/BigQuery usage in experience
+  • No explicit match-back or marketing attribution project listed
+  • Under 4 years role-aligned experience (just meets range)
+  • Resume shows mixed software dev role vs pure marketing analytics
+  • No explicit citizenship/green card confirmation
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional teams to implement data governance best practices, ensuring strict adherence to compliance rules and data quality standards during audience list management.
+  Engineered ETL pipelines in Python to integrate disparate data sources, enabling high-accuracy 'match-back' exercises to quantify marketing campaign impact and lift.
+  Utilized Snowflake and BigQuery to warehouse and query large-scale marketing datasets, supporting real-time performance analytics and audience segmentation.
+  Applied data quality and validation checks across all marketing databases, ensuring consistent audience delivery and alignment with campaign requirements.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Bill Stevens, I am excited to submit my application for the Marketing Data Analyst opportunity with PRI Technology. I am interested in this opportunity because of the firm's focus on data-driven insurance marketing, which aligns perfectly with my background in combining software development rigor with data analytics. What interests me about working for PRI Technology is its focus on high-impact, scalable marketing solutions, which inspires me because I am passionate about turning complex data sets into actionable audience strategies. I believe my proficiency in SQL and Python and my experience in audience segmentation and campaign measurement would make me a strong candidate for this role. During my professional career, I have approached problems by automating manual workflows to increase efficiency. In fact, while at Shine Masters, I identified a need for better customer insights and built time-series models to segment high-value customers. This initiative informed targeted marketing campaigns that contributed to a 300% increase in new customer acquisition over 12 months. Ultimately, I know that the Marketing Data Analyst role at PRI Technology would allow me to bring my expertise in SQL and data modeling to the team's core list management and performance reporting responsibilities. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my data governance and quality assurance skills. I collaborated with underwriting and product teams to integrate API and PostgreSQL data, creating unified schemas that reduced project delivery delays by 25% while ensuring high data accuracy. I’m excited by the opportunity to use my background in data QA and visualization in working on campaign measurement and audience management at PRI Technology. I know that my technical versatility and analytical mindset align with what it takes to succeed at the Marketing Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

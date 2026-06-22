@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Salesforce Business Analyst
+Company:  Mazuma Software
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=51f44574baa4f17c
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • SQL
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • Pivot Tables
+  • VLOOKUP
+  • APIs
+  • Joins
+  • ETL
+  • Dashboards
+  • Automation
+  • Documentation
+  • JIRA
+  • Python
+  • Reports
+  • Data modeling
+  • Data quality
+  • Ticketing
+  • Communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Salesforce
+  • Financial Services Cloud
+  • Pardot
+  • SSRS
+  • Fundraising
+  • Investor accounts
+  • Tax
+  • Compliance reporting
+  • Workflows
+  • Azure Boards
+  • QA
+  • DEV
+  • UAT testing (role-specific)
+  • Prospect outreach
+  • Hedge Fund experience
+  • Private Equity
+  • Deal Pipeline Management
+  • 6 years Salesforce
+  • 6 years Business Analysis
+  • SSoC/Prod validation
+  • Visio/Lucidcharts
+  • Power users collaboration
+  • Commitment to data quality (explicit experience)
+  • Fundraising marketing experience
+  • Sales territories
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and joins experience
+  • Power BI/Tableau dashboard development
+  • Advanced Excel skills (pivot, VLOOKUP)
+  • ETL and data modeling experience
+  • Automation and documentation experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Salesforce Financial Services Cloud admin experience
+  • No hedge fund/private equity industry background
+  • Limited stated experience with Azure Boards or Pardot
+  • No explicit QA/test-case or UAT ownership detailed
+  • No fundraising/pipeline management or investor-account specifics
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

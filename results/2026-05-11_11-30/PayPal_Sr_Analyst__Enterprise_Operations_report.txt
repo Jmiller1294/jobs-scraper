@@ -1,0 +1,96 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr Analyst, Enterprise Operations
+Company:  PayPal
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413068050
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 87/100
+[█████████████████░░░] 87%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Power BI
+  • SQL
+  • Python
+  • data governance
+  • dashboarding
+  • automation
+  • KPIs
+  • reporting
+  • ETL
+  • BigQuery
+  • Snowflake
+  • data quality
+  • stakeholder communication
+  • Advanced Excel
+  • A/B testing
+  • CI/CD
+  • Git
+  • data modeling
+  • data pipelines
+  • Looker
+  • Tableau
+  • PostgreSQL
+  • MySQL
+  • Power BI
+  • Power BI
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Power Automate
+  • headcount planning
+  • budget management
+  • AI-powered tools
+  • risk management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI and Looker dashboard experience
+  • Proven SQL and Python ETL pipeline development
+  • Demonstrated data governance implementation
+  • Quantified impact on revenue and efficiency
+  • Cross-functional stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit experience with Power Automate
+  • No direct mention of headcount/budget planning
+  • No explicit AI-powered tooling experience
+  • Risk management experience not stated
+  • Shorter tenure in some roles (~1-2 years)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Provided oversight and support for the planning and management of financial, budget, and headcount targets by standardizing organizational KPIs and data governance frameworks, ensuring cross-functional alignment.
+  Utilized Power Automate (implicitly through workflow automation development) and other tools to drive process improvements and automate reporting workflows, transforming manual processes into efficient digital solutions.
+  Developed and maintained data governance frameworks, quality standards, and control mechanisms across complex data environments to ensure cross-functional alignment and a consistent 'single source of truth'.
+  Leveraged data analytics and AI-powered tools (through application of statistical models and advanced analytics) to improve and automate processes and generate actionable insights.
+  Demonstrated expertise in managing risk by designing and executing A/B tests for digital marketing campaigns, providing statistical evidence to optimize marketing spend and mitigate inefficient allocation.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+PayPal
+
+Dear Hiring Manager,
+
+I am excited to apply for the Sr. Analyst, Enterprise Operations position at PayPal. With my background in data analysis, operations leadership, and software development, I am confident I would be a strong addition to your team.
+
+PayPal's commitment to revolutionizing commerce globally for over 25 years, empowering consumers and businesses through innovative and secure payment solutions, deeply resonates with my passion for leveraging data to drive efficiency and growth. I am particularly inspired by your dedication to fostering a culture of Inclusion, Innovation, Collaboration, and Wellness.
+
+In my previous roles, I have developed sophisticated Power BI and Looker workflows that replaced manual reporting, significantly reducing data mismatches and improving work efficiency by 40%. Additionally, I have successfully built Python automation for weekly sales and operations reports, saving 8 hours per week and enhancing reporting accuracy for faster strategic decisions, which directly aligns with your need for automating reporting workflows and ensuring data accuracy.
+
+I have a proven capability to think strategically, as demonstrated by my creation of statistical models to identify high-value customer segments, which contributed to a 300% increase in revenue in a targeted segment. Furthermore, I have consistently worked cross-functionally, acting as a liaison between business leadership and technical teams, translating complex findings into business recommendations during stakeholder meetings. I am adept at creating, analyzing, and reporting on performance measures and KPIs, and I have experience in standardizing these metrics to ensure cross-functional alignment and establish a 'single source of truth'.
+
+I am particularly drawn to PayPal's mission of building an equitable and inclusive global economy and believe my experience in data analytics, process optimization, and stakeholder communication would allow me to contribute meaningfully from day one. I am eager to leverage my skills in dashboarding, automation, and data governance to support PayPal's enterprise operational and annual planning process.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

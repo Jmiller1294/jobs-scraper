@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer - Cryptography
+Company:  Alexander Chapman
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4413422972
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • BigQuery
+  • Airflow
+  • dbt
+  • ETL
+  • Docker
+  • Postgres
+  • Git
+  • GitHub Actions
+  • CI/CD
+  • GCS
+  • Snowflake
+  • Data modeling
+  • Dimensional modeling
+  • Power BI
+  • Tableau
+  • REST APIs
+  • Automation
+  • Data quality
+  • Great Expectations
+  • pytest
+  • Partitioning
+  • Clustering
+  • Postgres
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Distributed Cryptographic Protocols
+  • Cryptography
+  • Zero-knowledge
+  • E2EE
+  • Privacy-preserving systems
+  • High-throughput systems
+  • Multi-tenant isolation
+  • Systems architecture
+  • Reliability
+  • Security clearance
+  • C/C++
+  • Go
+  • Rust
+  • Formal verification
+  • Key management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Cloud data infra (BigQuery, GCS, Snowflake)
+  • ETL/ELT pipeline and Airflow experience
+  • CI/CD and automation (GitHub Actions, pytest)
+  • Data modeling and quality practices (dbt, Great Expectations)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No cryptography or privacy-preserving systems experience
+  • No distributed systems or high-throughput backend engineering shown
+  • Lacks security/clearance information
+  • Limited systems languages (no Go/Rust/C++)
+  • Titles align more with data analytics than cryptography engineering
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

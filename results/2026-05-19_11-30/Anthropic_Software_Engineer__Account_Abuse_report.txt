@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer, Account Abuse
+Company:  Anthropic
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4385651216
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • data analysis
+  • BigQuery
+  • GCS
+  • dbt
+  • Airflow
+  • CI/CD
+  • GitHub Actions
+  • data pipelines
+  • ELT/ETL
+  • Great Expectations
+  • Power BI
+  • Tableau
+  • Postgres
+  • Docker
+  • automation
+  • data modeling
+  • stakeholder collaboration
+  • cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • fraud detection
+  • integrity
+  • monitoring
+  • dashboards
+  • root cause analysis
+  • operational tooling
+  • trust and safety
+  • third-party data enrichment
+  • abuse detection
+  • spam
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Cloud data infra experience (BigQuery, GCS)
+  • Production ELT pipelines with Airflow and dbt
+  • Data quality & CI/CD (Great Expectations, GitHub Actions)
+  • Visualization & stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit fraud/abuse detection experience
+  • Limited monitoring/alerting tooling mentioned
+  • No explicit experience with third-party data enrichment
+  • Titles are not safety/integrity-focused
+  • Less than preferred years in targeted role domain
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

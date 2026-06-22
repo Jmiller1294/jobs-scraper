@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Whatnot
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Scientist, Product Analytics position at Whatnot. With my background in data analytics, operations, and software development, I am confident I would be a strong addition to your team.
+
+Whatnot's innovative approach to live commerce and its rapid growth are incredibly inspiring. I'm particularly drawn to your mission of enabling anyone to turn their passion into a business and bringing people together through commerce, which resonates deeply with my own passion for leveraging data to drive impactful user experiences.
+
+In my previous roles, I have developed robust data pipelines and implemented A/B testing frameworks to directly influence product strategy and drive significant revenue growth. Additionally, I have experience building self-serve dashboards and translating complex data into actionable insights for leadership, which directly aligns with your need for generating insights, shaping product direction, and leading cross-functional collaboration.
+
+At Shine Masters Cleaning Services, I developed statistical models to identify high-value customer segments, contributing to a 300% increase in revenue within a targeted segment. I also designed and executed A/B tests for digital marketing campaigns, providing the statistical evidence needed to optimize marketing spend. Furthermore, my project involving the FRED Economic Batch Pipeline demonstrates my ability to architect production-grade ELT pipelines using Python, SQL, and modern data warehouses like BigQuery, coupled with data quality validation and CI/CD deployment.
+
+I am particularly drawn to Whatnot's mission of enabling anyone to turn their passion into a business and believe my experience in data analysis, experimentation, and cross-functional collaboration would allow me to contribute meaningfully from day one. I am eager to apply my skills in advanced SQL, Python, Snowflake, BigQuery, and A/B testing to help Whatnot continue its impressive growth.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

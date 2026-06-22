@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Data Scientist - Finance & Accounting
+Company:  Headway
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4418889406
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • data modeling
+  • ETL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Tableau
+  • Power BI
+  • time series
+  • forecasting
+  • predictive modeling
+  • AI tools
+  • stakeholder communication
+  • data engineering
+  • data pipelines
+  • financial reporting
+  • revenue
+  • data visualization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • R
+  • dbt
+  • RCM
+  • accounting
+  • P&L
+  • audit
+  • balance sheet
+  • cash flow statement
+  • GAAP
+  • collections loss
+  • FP&A
+  • strategic finance
+  • revenue sub-ledger
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python hands-on skills
+  • Experience building ETL pipelines and data models
+  • Visualization and dashboard delivery (Power BI, Tableau)
+  • Cross-functional collaboration experience
+  • Applied time-series and predictive modeling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Underqualified years of experience (resume ~2+ years vs 10+ required)
+  • Limited explicit finance/accounting credentials and terminology
+  • No explicit dbt experience
+  • No stated Revenue Cycle Management (RCM) experience
+  • No demonstrated GAAP/audit readiness work
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

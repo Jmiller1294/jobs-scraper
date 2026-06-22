@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Policy and Compliance Analyst
+Company:  City of New York
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4418347303
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • data analysis
+  • Tableau
+  • Power BI
+  • Advanced Excel
+  • SQL
+  • Python
+  • data visualization
+  • reporting
+  • ETL
+  • data modeling
+  • data cleaning
+  • stakeholder communication
+  • documentation
+  • metrics
+  • trend analysis
+  • report preparation
+  • presentations
+  • quantitative analysis
+  • project management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • workforce analytics
+  • compliance monitoring
+  • statistical analysis
+  • interagency coordination
+  • policy research
+  • SharePoint
+  • policy
+  • EEO
+  • municipal government
+  • legal mandates
+  • training compliance
+  • equal employment opportunity
+  • demographic analysis
+  • workforce reporting
+  • PowerPoint
+  • Teams
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data visualization (Power BI, Tableau)
+  • solid SQL and Python ETL skills
+  • proven measurable impact (quantified outcomes)
+  • experience building dashboards and reports
+  • cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited explicit workforce equity/compliance experience
+  • no mention of EEO or equal employment initiatives
+  • unclear municipal government exposure
+  • no SharePoint/Teams/PowerPoint proficiency listed
+  • limited years in relevant public-sector analytics roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Spearheaded workforce analytics and demographic trends reporting for high-value segments, applying statistical analysis to drive data-informed decision-making and project policy recommendations.
+  Collaborated on cross-agency coordination for operational workflows, ensuring compliance monitoring and consistent documentation of performance metrics across diverse stakeholders.
+  Translated complex legal mandates and internal policies into actionable, data-driven procedures to ensure organizational adherence and improve workforce training compliance.
+  Utilized PowerPoint, Teams, and SharePoint to present technical findings and policy research to non-technical executive leadership, fostering clear communication and interagency alignment.
+  Applied quantitative analysis and statistical methods to refine workforce reporting methodologies, ensuring high accuracy in reporting for equal employment opportunity (EEO) and policy-related initiatives.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Policy and Compliance Analyst opportunity with the City of New York. I am interested in this opportunity because of the Department of Citywide Administrative Services' commitment to equity and the critical role the Citywide Equity and Inclusion team plays in shaping a fair workplace for 350,000+ employees. What interests me about working for the City of New York is its focus on operationalizing policies that ensure inclusivity and sustainable growth for the entire City workforce, which inspires me because of the tangible, systemic impact such work has on my fellow New Yorkers. I believe my advanced workforce analytics and data storytelling skills, combined with my proficiency in policy-informed research, would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex data into actionable operational guidance. In fact, at Shine Masters, I identified high-value customer segments through time-series modeling and translated these findings into strategic marketing initiatives. This project resulted in a 300% increase in new customer acquisition over 12 months, showcasing my ability to synthesize large datasets to inform organizational strategy—a skill directly transferable to interpreting demographic and training compliance data for the City. Ultimately, I know that the Policy and Compliance Analyst role at the City of New York would allow me to bring my technical expertise in Power BI and Python to the key responsibility of monitoring agency submissions and preparing mandated reports. Additionally, my role as a Data Analyst enabled me to develop my compliance monitoring and documentation skills. I spearheaded the creation of SOPs that reduced onboarding time by 50% by aligning workflows with efficiency standards. This experience ensures I am well-prepared to support the City in operationalizing new legal mandates and maintaining accurate records for compliance outcomes. I am excited by the opportunity to use my quantitative analysis skills in working on workforce equity and inclusion initiatives at the City of New York. I know that my data modeling expertise and commitment to equity align with what it takes to succeed in the Policy and Compliance Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

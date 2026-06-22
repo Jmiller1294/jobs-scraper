@@ -1,0 +1,87 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technology Analyst Program - Data Engineer (Berkeley Heights, NJ)
+Company:  Fiserv
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4412980276
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • SQL
+  • Python
+  • ETL
+  • data pipelines
+  • data quality
+  • BigQuery
+  • Snowflake
+  • CI/CD
+  • Git
+  • automation
+  • data governance
+  • relational databases
+  • schema design
+  • data modeling
+  • data warehousing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Spark
+  • Databricks
+  • Azure
+  • workflow orchestration
+  • Hadoop
+  • Databricks workflows
+  • Azure Data Factory
+  • GCP Dataflow
+  • Java
+  • CI/CD pipelines (specific tools)
+  • large datasets handling
+  • monitoring pipeline performance
+  • troubleshooting pipelines
+  • Databricks exposure
+  • pipeline reliability practices
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB skills
+  • Practical Python ETL and automation experience
+  • Hands-on BigQuery and Snowflake experience
+  • CI/CD via GitHub Actions and Git proficiency
+  • Quantified impact on reporting and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no Databricks or Spark experience
+  • No explicit Azure or Azure Data Factory exposure
+  • Minimal Big Data framework (Hadoop) evidence
+  • Short professional experience window (early career)
+  • Limited explicit pipeline monitoring/troubleshooting examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Monitored, troubleshot, and improved data pipeline performance, reliability, and data quality through robust validation frameworks and proactive analysis.
+  Designed and implemented data modeling and schema design for analytics and operational use cases, including optimizing relational database queries for enhanced accuracy.
+  Leveraged Python and SQL to build and maintain data pipelines for efficient data ingestion, transformation, and storage, ensuring timely and scalable data movement.
+  Supported the development and maintenance of pipeline workflows, drawing on experience with workflow orchestration tools to enable efficient data processing.
+  Gained exposure to cloud platforms like AWS (S3), Snowflake, and BigQuery, contributing to data warehousing initiatives and supporting robust downstream analytics.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Technology Analyst Program - Data Engineer (Berkeley Heights, NJ) opportunity with Fiserv. I am interested in this opportunity because Fiserv's position as a global leader in Fintech and payments, moving money and information in a way that moves the world, deeply resonates with my aspirations to contribute to impactful, large-scale technological solutions. What interests me about working for Fiserv is its commitment to developing emerging talent through its Technology Analyst Program, which excites and inspires me because it offers a structured environment for accelerated growth and hands-on experience in the fintech industry.
+
+I believe my proficiency in SQL and Python, coupled with my experience in building ETL pipelines, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data accuracy, efficiency, and actionable insights. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting POS and CRM data to eliminate repetitive data entry, saving 8 hours per week and improving reporting accuracy for faster strategic decisions. This resulted in improved data accuracy and enabled faster strategic decisions.
+
+Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data pipeline and data quality skills. I standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment, resulting in a consistent 'single source of truth' for all business stakeholders and a reduction in report discrepancies. I’m excited by the opportunity to use my problem-solving skills in working on designing, building, and supporting reliable data pipelines at Fiserv. I know that my SQL and Python skills, combined with my practical experience in data engineering principles, align with what it takes to succeed at the Technology Analyst Program - Data Engineer role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Executive Business Partner to CMOs
+Company:  Lume Deodorant
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4419955757
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • cross-functional coordination
+  • project coordination
+  • stakeholder management
+  • Microsoft Office/Google Suite
+  • AI tools
+  • communication
+  • note-taking
+  • SOP documentation
+  • time management
+  • prioritization
+  • multitasking
+  • confidentiality
+  • follow-ups tracking
+  • meeting logistics
+  • agenda development
+  • event planning
+  • calendar management
+  • travel coordination
+  • expense reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • executive support
+  • trusted advisor
+  • leadership forums
+  • All Hands
+  • employee engagement
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong cross-functional collaboration
+  • advanced AI tool familiarity
+  • process documentation and SOPs
+  • data-driven problem solving
+  • technical proficiency with productivity suites
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited explicit executive EA title/experience
+  • no quantified experience managing executive calendars
+  • no direct experience with All Hands/leadership forums
+  • unclear exposure to international travel coordination
+  • primary background in data/tech rather than EA
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

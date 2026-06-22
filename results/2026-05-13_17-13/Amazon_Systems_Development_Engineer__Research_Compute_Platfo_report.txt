@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Systems Development Engineer, Research Compute Platform, Fauna
+Company:  Amazon
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414232437
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • AWS
+  • Git
+  • SQL
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • CI/CD
+  • automation
+  • monitoring
+  • hardware troubleshooting
+  • Docker
+  • version control
+  • data pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • NVIDIA GPU
+  • CUDA
+  • Linux systems administration
+  • GPU diagnostics
+  • GPU hardware RMA
+  • Slurm
+  • Ray
+  • job scheduler
+  • Kubernetes
+  • Bash
+  • Go
+  • Ansible
+  • configuration management
+  • fleet automation
+  • imaging
+  • driver management
+  • cloud hybrid
+  • capacity planning
+  • profiling workloads
+  • performance bottlenecks
+  • DCGM
+  • NVLink
+  • IOMMU
+  • GPU cloud providers
+  • hardware RMA
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python automation and ETL pipelines
+  • Cloud and data platform experience (AWS, BigQuery, Snowflake)
+  • CI/CD and Git-based deployments
+  • Database optimization and SQL proficiency
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Linux sysadmin experience
+  • No listed NVIDIA/CUDA or GPU-specific skills
+  • No job scheduler (Slurm/Ray) experience
+  • No configuration management (Ansible/Chef) listed
+  • Limited systems engineering / hardware RMA evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Video Content Tagger - Part Time
+Company:  val's services
+Location: New Rochelle, NY
+URL:      https://www.linkedin.com/jobs/view/4421372800
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • attention to detail
+  • Python
+  • SQL
+  • Excel
+  • Tableau
+  • Power BI
+  • ETL
+  • data cleaning
+  • automation
+  • documentation
+  • SOPs
+  • APIs
+  • JIRA
+  • communication
+  • project collaboration
+  • time series analysis
+  • customer segmentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • content tagging
+  • metadata
+  • genre classification
+  • media analysis
+  • quality assurance
+  • data annotation
+  • taxonomy
+  • content labeling
+  • video review
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data skills (Python, SQL, ETL)
+  • experience with dashboards (Tableau, Power BI)
+  • process documentation and SOP creation
+  • automation reducing manual work
+  • cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no explicit media/content tagging experience
+  • no mention of genre or thematic classification
+  • limited direct video/media review skills
+  • no stated experience with content taxonomies
+  • no quantified tagging or recommendation impact
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

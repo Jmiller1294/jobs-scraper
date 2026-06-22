@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Trade Finance & Working Capital Sales Senior Analyst
+Company:  BBVA
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4402459871
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Excel
+  • PowerPoint
+  • Google Suite
+  • ChatGPT
+  • SQL
+  • Python
+  • Reporting
+  • P&L reporting
+  • KPI calculation
+  • Documentation
+  • Pipeline
+  • Automation
+  • ETL
+  • Presentation
+  • Data analysis
+  • Client relationships
+  • Market research
+  • Profitability metrics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • Letters of Credit
+  • Supply Chain Finance
+  • Receivables Finance
+  • Factoring
+  • Trade Finance
+  • Working Capital
+  • Internal memos
+  • Forfaiting
+  • Stand-By LCs
+  • Documentary Collections
+  • Advising of Letters of Credit
+  • Confirming
+  • Pricing
+  • Credit risk
+  • Line management
+  • Legal approvals
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis and ETL skills
+  • Advanced Excel and reporting tools
+  • Experience with SQL and Python
+  • Automation and process improvement
+  • Presentation/dashboard development
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No direct trade finance product experience
+  • Limited banking/corporate finance background
+  • No explicit credit or pricing approvals experience
+  • No documented years in trade finance roles
+  • No LC/forfaiting/confirming specifics
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

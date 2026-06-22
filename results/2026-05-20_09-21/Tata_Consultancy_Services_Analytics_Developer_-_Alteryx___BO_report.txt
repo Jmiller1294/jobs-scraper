@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analytics Developer - Alteryx & BO
+Company:  Tata Consultancy Services
+Location: Mountain Lakes, NJ
+URL:      https://www.linkedin.com/jobs/view/4406906535
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Snowflake
+  • Tableau
+  • Power BI
+  • Python
+  • R
+  • ETL
+  • data pipelines
+  • visualization
+  • automation
+  • version control
+  • cloud
+  • AWS S3
+  • BigQuery
+  • PostgreSQL
+  • PostgreSQL
+  • Git
+  • performance tuning
+  • data modeling
+  • BI development
+  • certification
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Alteryx
+  • SAP HANA
+  • stored procedures
+  • manufacturing
+  • supply chain
+  • AS9100
+  • ITAR
+  • MES
+  • ERP
+  • SAP ECC/S4
+  • PLM
+  • predictive analytics
+  • machine learning
+  • advanced Alteryx certification
+  • leadership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database experience
+  • Proven Tableau and Power BI dashboard delivery
+  • Hands-on Python ETL and pipeline building
+  • Snowflake and cloud exposure
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Alteryx experience listed
+  • No SAP HANA or ERP/MES background
+  • Under 12 years of experience
+  • Limited aerospace/manufacturing domain evidence
+  • No Alteryx certifications
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

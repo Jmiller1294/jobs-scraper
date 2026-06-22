@@ -1,0 +1,92 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  AirOps
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4413058438
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 75/100
+[███████████████░░░░░] 75%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • BigQuery
+  • dbt
+  • ETL
+  • Airflow
+  • data pipelines
+  • data quality
+  • Great Expectations
+  • CI/CD
+  • GitHub Actions
+  • Cloud (GCP)
+  • Snowflake
+  • data modeling
+  • dimensional modeling
+  • automation
+  • Docker
+  • Postgres
+  • Power BI
+  • Tableau
+  • enrichment pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Redshift
+  • OLAP
+  • serving layer
+  • product-facing analytics
+  • ClickHouse
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Hands-on ELT/ETL with Airflow and dbt
+  • Data quality practices (Great Expectations)
+  • Cloud data infra experience (BigQuery, GCS, Snowflake)
+  • CI/CD and automation (GitHub Actions)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit product-facing analytics delivery
+  • No ClickHouse or Redshift hands-on cited
+  • LLM integration experience not shown
+  • Relatively short senior data engineering tenure (experience concentrated 2023-2026)
+  • No explicit serving-layer/OLAP tuning examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Modeled raw API data into a dbt star schema for the FRED Economic Batch Pipeline, utilizing BigQuery partitioning and clustering to optimize query performance and deliver data to a serving layer for downstream applications, reducing analyst query time.
+  Designed and implemented data pipelines using Python and Airflow, ingesting data from the FRED API into Google BigQuery and GCP, focusing on building robust ETL/ELT processes that support product-facing analytics.
+  Owned the end-to-end development of a production-grade ELT pipeline for Federal Reserve economic data, including automated data quality validation with Great Expectations and deployment of a CI/CD pipeline via GitHub Actions, ensuring accuracy and reliability for customer-facing insights.
+  Extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development for Haven Technologies, demonstrating experience in delivering data for product integration.
+  Built a Power BI dashboard correlating Fed rate decisions, inflation, and S&P 500 performance across 5 years of FRED data, demonstrating the ability to translate complex data into user-friendly insights.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+AirOps
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Engineer position at AirOps. With my background in building robust data pipelines, automating workflows, and ensuring data quality, I am confident I would be a strong addition to your team.
+
+AirOps' mission to empower marketing teams in the AI era by providing accurate, on-brand content that earns citations and trust is incredibly compelling. I am particularly drawn to your focus on data as the core product and your hyper-growth phase, which aligns perfectly with my passion for foundational data engineering.
+
+In my previous roles, I have designed and implemented production-grade ELT pipelines using Python, Airflow, and dbt, ingesting data into cloud platforms like Google BigQuery. Additionally, I have owned the end-to-end development of data solutions, including automated data quality validation with Great Expectations and CI/CD pipelines via GitHub Actions, which directly aligns with your need for an individual who can own the data layer end-to-end with strong guarantees on accuracy and freshness.
+
+My project experience with the FRED Economic Batch Pipeline demonstrates my ability to model raw API data into a dbt star schema, leveraging BigQuery partitioning and clustering for optimized query performance, and to build serving layers that enable self-service analysis. I also have experience transforming data from REST APIs and relational databases to directly support front-end feature development, showcasing my capability to deliver data for product integration rather than just internal reporting.
+
+I am particularly drawn to AirOps' mission of helping brands get found and stay found in the new discovery landscape and believe my experience in building data-intensive systems and ensuring their accuracy and reliability would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

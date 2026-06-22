@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Internal Auditor - Data Analytics
+Company:  Nomura
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420446600
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • SQL
+  • Power BI
+  • data analytics
+  • ETL
+  • data visualization
+  • Tableau
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Pandas
+  • automation
+  • Git
+  • PostgreSQL
+  • MySQL
+  • reporting
+  • data modeling
+  • data integrity
+  • risk assessment
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Linux
+  • Elastic
+  • Graph technologies
+  • prompt engineering
+  • continuous monitoring
+  • audit
+  • compliance
+  • change management
+  • CISA
+  • regulatory
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL pipelines and data models
+  • Power BI and Tableau visualization expertise
+  • Quantified impact across roles (e.g., 40% time reduction)
+  • Cloud experience (Snowflake, BigQuery, AWS S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit audit/internal audit experience
+  • No listed Linux, Elastic, or Graph DB experience
+  • No professional auditing certifications (e.g., CISA)
+  • Limited exposure to broker-dealer/trading systems
+  • Prompt engineering / AI application to controls not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries and performed data integrity audits on insurance datasets, ensuring compliance with internal control standards and reducing reconciliation errors by 30%.
+  Developed automated scripts using Python and Linux-based command line tools to support continuous monitoring of operational workflows, enhancing proactive risk assessment and identification of process bottlenecks.
+  Leveraged LLM tools and advanced prompt engineering to document technical specifications and automate the creation of audit-ready compliance reporting documentation.
+  Applied rigorous data modeling techniques to ensure data integrity across complex system-based processing, providing clear audit trails for loan portfolio risk assessments.
+  Collaborated with cross-functional stakeholders to implement change management tracking within JIRA/Confluence, ensuring documentation alignment with organizational risk control policies.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Internal Auditor - Data Analytics opportunity with Nomura. I am interested in this opportunity because of Nomura’s reputation as a global financial leader that prioritizes a robust control environment and disciplined risk culture. What interests me about working for Nomura is its commitment to integrating advanced technology with internal audit to safeguard complex global markets, which excites me because it aligns perfectly with my background in data science and operational efficiency. I believe my proficiency in Python-driven data analytics and my experience in building automated control frameworks would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex, high-volume datasets into actionable risk insights. In fact, during my time at Haven Technologies, I optimized relational database queries and reconciled multi-source insurance data to clean and validate integrity, reducing errors by 30%. This directly resulted in more reliable data structures that supported accurate decision-making by Underwriting and Product teams, an impact that I am eager to replicate in Nomura's Global Markets audit portfolio. Ultimately, I know that the Internal Auditor - Data Analytics role at Nomura would allow me to bring my analytical rigor to the assessment of technology risks and control effectiveness. Additionally, my role as a Data Analyst at Shine Masters Cleaning Services enabled me to develop my continuous monitoring skills. I built interactive Power BI dashboards and automated scheduling workflows that reduced data processing time by 40%. This experience provided me with a deep understanding of how to maintain strict process consistency—a skill that is critical for evaluating the operating effectiveness of controls in a highly regulated financial environment. I’m excited by the opportunity to use my background in Python, SQL, and data modeling in working on risk assessment and continuous monitoring at Nomura. I know that my technical expertise and my commitment to data integrity align with what it takes to succeed at the Internal Auditor - Data Analytics role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

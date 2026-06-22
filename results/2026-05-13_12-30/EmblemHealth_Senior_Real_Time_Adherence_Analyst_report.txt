@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Real Time Adherence Analyst
+Company:  EmblemHealth
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414126883
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Advanced Excel
+  • VLOOKUP
+  • Power BI
+  • Reporting
+  • Dashboard creation
+  • SQL
+  • Python
+  • SharePoint
+  • Data automation
+  • Attendance reporting
+  • Forecasting
+  • Reporting
+  • Onboarding/offboarding
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • Workforce management
+  • Intraday reporting
+  • Real-time monitoring
+  • ACD/IVR reporting
+  • Verint
+  • Genesys WFO
+  • Agent adherence
+  • Staffing levels
+  • Queue monitoring
+  • PTO approval
+  • Escalation management
+  • Help desk
+  • Agent scorecards
+  • Agent adherence
+  • Staffing levels
+  • PTO approval
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Advanced Excel and VLOOKUP skills
+  • Power BI dashboard and reporting experience
+  • SQL and Python for automation
+  • Data-driven process improvements
+  • Experience creating KPIs and governance
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Verint/Genesys WFO experience
+  • No ACD/IVR reporting experience listed
+  • Limited call center/WFM domain experience
+  • No explicit real-time queue monitoring
+  • No documented PTO/adherence or scheduling duties
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

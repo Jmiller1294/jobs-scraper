@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Founding Engineer (Senior/Tech Lead)
+Company:  Cassidy
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4431727163
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 44/100
+[████████░░░░░░░░░░░░] 44%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Postgres
+  • APIs
+  • Git
+  • SQL
+  • Python
+  • ETL
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • data modeling
+  • JIRA
+  • Confluence
+  • production systems
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • TypeScript
+  • Node
+  • React
+  • LLM orchestration
+  • agent systems
+  • workflow orchestration
+  • platform reliability
+  • scalability
+  • CI/CD
+  • enterprise permissioning
+  • applied AI
+  • founder experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data modeling
+  • Production ETL and Python experience
+  • Cloud experience (Snowflake/BigQuery/AWS S3)
+  • Dashboarding and analytics impact
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No TypeScript/Node/React full-stack evidence
+  • Limited explicit platform reliability/scale experience
+  • No documented LLM/agent engineering
+  • No CI/CD or deployment tooling listed
+  • No startup founder or senior architecture signals
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

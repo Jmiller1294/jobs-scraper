@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     MI and Analytics Analyst
+Company:  Starr
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4402540763
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • Power BI
+  • SQL
+  • Advanced Excel
+  • Dashboarding
+  • Data analysis
+  • KPI
+  • ETL
+  • Python
+  • Data visualization
+  • Data quality
+  • Reporting automation
+  • Relational databases
+  • Snowflake
+  • BigQuery
+  • S3
+  • Tableau
+  • Documentation
+  • Presentation
+  • Process automation
+  • Time series
+  • Stakeholder communication
+  • Underwriting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Predictive modeling
+  • Data governance
+  • Business partnering
+  • Reinsurance
+  • Claims
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI dashboard development with measurable impact
+  • Proficient SQL and relational DB experience (PostgreSQL, MySQL)
+  • Advanced Excel and data automation skills
+  • Python-based ETL and time-series modeling experience
+  • Proven cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit experience in predictive modeling tools (R/SAS production models)
+  • No direct insurance P&C domain depth beyond testing data
+  • Unclear exposure to formal data governance/lineage processes
+  • Short total industry MI/reporting tenure (2+ years but varied roles)
+  • No explicit experience with reinsurance or claims analytics
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with Underwriting and Product teams to perform predictive modeling on insurance data, identifying key risk drivers and informing strategic portfolio adjustments.
+  Established data governance protocols by documenting data lineage and source-to-target mapping for relational databases, ensuring 100% data integrity for financial reporting.
+  Partnered with business stakeholders to translate complex insurance requirements into actionable BI dashboards, facilitating data-driven decision-making for budget and strategic reviews.
+  Led analysis on historical claims and underwriting data to identify loss trends, providing actionable insights for management to optimize capital allocation.
+  Evaluated reinsurance efficacy by performing scenario analysis on large-scale datasets, delivering executive presentations that influenced underwriting strategy.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the MI and Analytics Analyst opportunity with Starr. I am interested in this opportunity because of Starr's century-long reputation for innovation and its entrepreneurial culture, which values the intersection of complex problem-solving and financial stability. What interests me about working for Starr is your commitment to growing talent and your focus on data-driven decision-making in the commercial insurance sector, which aligns perfectly with my professional trajectory. I believe my expertise in advanced data visualization and my background in SQL and Python-driven analytics would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing both technical precision and business outcomes. In fact, at Shine Masters, I identified a bottleneck in our operational workflow and developed a series of automated Power BI dashboards and Python ETL scripts that replaced manual reporting. This initiative reduced processing time by 40% and directly supported senior leadership by providing real-time KPI visibility, ultimately enabling a 300% increase in customer acquisition. Ultimately, I know that the MI and Analytics Analyst role at Starr would allow me to bring my proficiency in reporting automation to your mission-critical strategic initiatives. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my data governance and insurance-sector skills. I collaborated with the Underwriting department to clean and reconcile complex insurance testing data, utilizing CTEs and window functions to improve data accuracy by 30%. This project required a deep understanding of data integrity, which directly translates to the data governance responsibilities required by this role. I’m excited by the opportunity to use my analytical mindset in working on financial and operational performance reporting at Starr. I know that my technical versatility and experience within the insurance ecosystem align with what it takes to succeed at the MI and Analytics Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

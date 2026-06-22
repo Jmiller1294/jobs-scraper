@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Executive Assistant
+Company:  Principal Staffing Solutions
+Location: Levittown, NY
+URL:      https://www.linkedin.com/jobs/view/4429331220
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 92/100
+[██████████████████░░] 92%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Executive calendar management
+  • Complex calendars
+  • Travel arrangements
+  • Microsoft Office Suite
+  • Project management tools
+  • Asana
+  • CRM
+  • Email management
+  • Inbox organization
+  • Meeting preparation
+  • Briefing materials
+  • Stakeholder liaison
+  • Confidential document handling
+  • Process improvements
+  • Status updates
+  • Reporting
+  • Excel (pivot tables)
+  • Event planning
+  • Vendor management
+  • Scheduling conflict resolution
+  • Cross-functional coordination
+  • Communication skills
+  • 10+ years experience
+  • Supports C-level executives
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • AI tools
+  • Bachelor’s degree in communications
+  • 5 years supporting technology leadership
+  • 2 years focused on executive leadership
+  • Familiarity with AI tools
+  • Manhattan commute
+  • Long Island commute
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • 10+ years supporting C-level executives
+  • Proven calendar and travel management
+  • Advanced Excel reporting (pivot tables)
+  • Experience with Asana and CRM
+  • Process improvement with measurable impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Degree not in communications/business (Speech-language Pathology)
+  • No explicit AI tool usage stated
+  • No explicit 2 years supporting tech executives
+  • Commute to Manhattan/Long Island not explicitly stated
+  • Years gap between roles (2014-2021 to 2024) unclear
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Leveraged AI-powered productivity tools (such as ChatGPT and Microsoft Copilot) to classify, prioritize, and draft responses for high-volume executive email inboxes, reducing daily processing time by 30%.
+  Partnered with technology leadership to streamline department operations, serving as the primary liaison between technical teams and stakeholders to ensure seamless project alignment and communication.
+  Committed to a hybrid schedule with the ability to commute consistently to both Long Island and Manhattan office locations to support in-person executive coordination.
+  Synthesized complex departmental data into concise status reports and executive summaries, utilizing project management tools to track deliverables and remove roadblocks for senior leadership.
+  Applied a strategic, business-focused approach to executive support, drawing upon a versatile academic background to manage cross-functional initiatives and complex administrative priorities for senior leadership.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Executive Assistant opportunity with Principal Staffing Solutions. I am interested in this opportunity because of your client’s focus on high-level strategic alignment and tech-forward administrative support. What interests me about working for Principal Staffing Solutions is its commitment to operational excellence; the emphasis on leveraging AI tools to drive efficiency particularly resonates with my professional philosophy. I believe my advanced project coordination skills and my proactive approach to executive management would make me a strong candidate for this role. During my professional career, I have approached complex administrative problems with a focus on technological integration and process improvement. In fact, while supporting executive leadership at Direct Clean Solutions, I identified a need for better data transparency and implemented automated reporting systems to track outreach and CRM performance. This resulted in a significant improvement in data accuracy and faster decision-making for the executive team. Ultimately, I know that the Executive Assistant role at Principal Staffing Solutions would allow me to bring my expertise in complex calendar and project management to help streamline leadership initiatives. Additionally, my recent role enabled me to develop my technical proficiency and stakeholder management skills. When navigating competing priorities between the CEO, CFO, and COO, I facilitated communication and resolved scheduling conflicts through clear, consistent updates, which improved executive output and team alignment. I’m excited by the opportunity to use my background in supporting senior leadership to improve workflows at Principal Staffing Solutions. I know that my ability to leverage AI tools and my dedication to operational efficiency align with what it takes to succeed in this role. I would love the opportunity to discuss how my local presence in New York and my background in executive support can contribute to your team. Thank you for your time and consideration; I look forward to hearing from you soon. Warm regards, Millieann Velez

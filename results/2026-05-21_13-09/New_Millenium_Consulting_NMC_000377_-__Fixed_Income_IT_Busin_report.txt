@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     NMC_000377 -  Fixed Income IT Business Analyst (Full-time Permanent)
+Company:  New Millenium Consulting
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416581667
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • SQL
+  • Agile
+  • Product Owner
+  • JIRA
+  • Confluence
+  • Python
+  • ETL
+  • Data modeling
+  • Tableau
+  • UAT
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Fixed Income
+  • Post-Trade
+  • Booking
+  • Settlement
+  • Clearing
+  • Accounting
+  • Requirements gathering
+  • Functional specifications
+  • Vendor systems
+  • Calypso
+  • Murex
+  • Summit
+  • Back Office
+  • Trade reporting
+  • Risk management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL proficiency
+  • Experience with Agile tooling (JIRA, Confluence)
+  • Data modeling and ETL expertise
+  • Dashboarding and reporting (Tableau, Power BI)
+  • Quantified operational improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no Fixed Income/post-trade domain experience
+  • No explicit vendor system (Calypso/Murex/Summit) experience
+  • Title misalignment (Data Analyst/Developer vs BA/Product Owner)
+  • Short industry finance BA tenure (<5 years)
+  • Lacks documented functional specs or booking/back-office support
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+AARATECH
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Engineer position at AARATECH. With my background in building robust data pipelines, leveraging cloud infrastructure, and ensuring data quality, I am confident I would be a strong addition to your team.
+
+AARATECH's focus on delivering innovative solutions through data-driven insights and collaborative partnerships resonates strongly with my own professional ethos. I am particularly impressed by your commitment to improving operational efficiency across healthcare and enterprise domains.
+
+In my previous roles, I have built and maintained production-grade ELT pipelines using Python, Airflow, and dbt, successfully ingesting and transforming large-scale datasets into Google BigQuery. Additionally, I have developed expertise in data modeling, specifically dimensional modeling with star schemas, and implemented data quality validation using Great Expectations, which directly aligns with your need for ETL/ELT solutions and ensuring data accuracy.
+
+I am adept at working with SQL for complex queries and data validation, and have hands-on experience with cloud platforms like Google Cloud Platform (BigQuery, GCS) and AWS. While my resume highlights general industry experience, my project involving the FRED economic data pipeline demonstrates my ability to work with financial datasets and build solutions relevant to financial analytics and regulatory compliance.
+
+I am particularly drawn to AARATECH's mission of enabling better outcomes through data-driven insights and believe my experience in cloud data engineering and pipeline development would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

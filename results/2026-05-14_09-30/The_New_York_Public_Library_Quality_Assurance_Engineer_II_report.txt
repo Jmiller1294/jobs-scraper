@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quality Assurance Engineer II
+Company:  The New York Public Library
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414599232
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • CI/CD
+  • Git
+  • debugging tests
+  • test coverage
+  • code review
+  • automated testing
+  • automation frameworks
+  • SQL
+  • data pipelines
+  • Great Expectations
+  • communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • UI automation
+  • API testing
+  • pytest
+  • Playwright
+  • test strategy
+  • shift-left
+  • AI-assisted tools
+  • accessibility testing
+  • flaky tests
+  • postmortem
+  • mentoring
+  • quality metrics
+  • automation coverage
+  • CI pipeline diagnostics
+  • test reliability
+  • backend testing
+  • pytest fixtures
+  • test orchestration
+  • coverage gaps
+  • pull request review
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python automation experience
+  • CI/CD and Great Expectations usage
+  • SQL and data-pipeline skills
+  • Quantified impact in previous roles
+  • Effective communication with stakeholders
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit UI automation (Playwright) experience
+  • No explicit pytest or backend test frameworks listed
+  • Limited stated experience with shift-left practices
+  • No mention of accessibility testing
+  • No explicit experience with AI-assisted testing tools
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

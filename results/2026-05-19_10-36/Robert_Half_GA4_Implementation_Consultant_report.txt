@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     GA4 Implementation Consultant
+Company:  Robert Half
+Location: Piscataway, NJ
+URL:      https://www.linkedin.com/jobs/view/4416661105
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 60/100
+[████████████░░░░░░░░] 60%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Google Analytics 4
+  • event tracking
+  • data validation
+  • dashboard
+  • SQL
+  • Python
+  • BigQuery
+  • data visualization
+  • reporting
+  • ETL
+  • documentation
+  • audience segmentation
+  • KPI measurement
+  • analytics implementation
+  • troubleshooting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Firebase
+  • Flutter
+  • React
+  • custom dimensions
+  • user properties
+  • event taxonomy
+  • Looker Studio
+  • GA4 explorations
+  • session continuity
+  • configuration management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience building dashboards (Power BI, Tableau)
+  • ETL and data pipeline experience
+  • Documentation and SOP creation
+  • Quantified impact on KPIs and efficiencies
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Flutter/Firebase implementation experience
+  • No React-specific analytics integration shown
+  • Limited GA4 / Looker Studio hands-on detail
+  • Session continuity and platform-specific troubleshooting not demonstrated
+  • Configuration management practices not evidenced
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

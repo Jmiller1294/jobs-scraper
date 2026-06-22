@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead DevSecOps Engineer
+Company:  The Depository Trust & Clearing Corporation (DTCC)
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4416902396
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • AWS
+  • Python
+  • Git
+  • CI/CD
+  • SQL
+  • PostgreSQL
+  • Automation
+  • Documentation
+  • ETL
+  • Scripting
+  • Monitoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • DevSecOps
+  • Terraform
+  • Bash
+  • Jenkins
+  • CloudBees
+  • Nexus
+  • SonarQube
+  • Groovy DSL
+  • Infrastructure automation
+  • Security
+  • Docker
+  • Kubernetes
+  • Cloud monitoring
+  • Incident response
+  • Monitoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • AWS (S3) cloud exposure
+  • Proven automation and ETL pipeline delivery
+  • Quantified impact on operations and acquisition
+  • Documentation and cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited DevSecOps-specific tooling (Terraform, Jenkins)
+  • No Groovy DSL experience
+  • No explicit Bash/shell scripting examples
+  • Lacks container/orchestration (Docker/Kubernetes) evidence
+  • Under 6 years' related experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

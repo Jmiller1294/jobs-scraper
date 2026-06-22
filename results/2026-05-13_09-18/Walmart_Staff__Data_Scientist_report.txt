@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff, Data Scientist
+Company:  Walmart
+Location: Hoboken, NJ
+URL:      https://www.linkedin.com/jobs/view/4401982635
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • SQL
+  • BigQuery
+  • AWS (S3)
+  • Customer Segmentation
+  • ETL/ELT
+  • CI/CD (GitHub Actions)
+  • Data Quality (Great Expectations)
+  • A/B Testing
+  • Snowflake
+  • Pandas
+  • Automation
+  • Power BI
+  • Tableau
+  • Version control (Git)
+  • Statistical models
+  • Data Governance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Machine Learning
+  • Deep Learning
+  • LLMs
+  • TensorFlow
+  • PyTorch
+  • GenAI
+  • Production deployment
+  • Production-grade ML models
+  • GCP
+  • Azure
+  • Java
+  • Gradient Boosting
+  • Random Forest
+  • Support Vector Machine
+  • Logistic Regression
+  • Scikit-learn
+  • Spark
+  • Scala
+  • R (for ML)
+  • Model scaling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL/ELT and data pipeline builds
+  • Proven customer segmentation impact (quantified)
+  • Experience with BigQuery and Snowflake
+  • Reporting and visualization (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit ML/DL model development listed
+  • No LLM or GenAI project experience
+  • Missing TensorFlow/PyTorch and scikit-learn mentions
+  • Limited cloud breadth (GCP/Azure not shown)
+  • No Java proficiency for production services
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Analyst
+Company:  Gambit Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414019330
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • SQL
+  • Tableau
+  • data modeling
+  • Python
+  • Snowflake
+  • BigQuery
+  • PostgreSQL
+  • MySQL
+  • data visualization
+  • Power BI
+  • data pipelines
+  • ETL
+  • data quality
+  • large datasets
+  • CTEs
+  • window functions
+  • data storytelling
+  • stakeholder communication
+  • data validation
+  • relational databases
+  • S3
+  • automation
+  • time series models
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • data warehouse
+  • complex SQL
+  • data engineering
+  • ETL processes
+  • cloud data platforms
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and complex query experience
+  • Hands-on Tableau dashboard development
+  • Proven data modeling and ETL pipeline design
+  • Quantified impact (processing time, efficiency, acquisition)
+  • Experience with cloud tools (Snowflake, BigQuery, S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Primary reporting done in Power BI vs Tableau in production roles
+  • Limited explicit 'data warehouse' ownership statement
+  • Shorter tenure in formal analytics roles
+  • Less emphasis on production ETL tooling (e.g., Airflow)
+  • No explicit mention of communicating to executive leadership
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional teams to design and optimize scalable data warehouse schemas in Snowflake, ensuring data consistency for enterprise-level reporting.
+  Architected robust ETL processes using Python and SQL to integrate disparate data sources into a centralized cloud data platform, improving data availability for business stakeholders.
+  Engineered complex SQL queries involving window functions and nested CTEs to transform raw operational data into high-value insights, directly supporting executive-level decision-making.
+  Managed the end-to-end data lifecycle, from initial requirement gathering to deploying production-ready cloud data platform solutions, ensuring 100% data validation and quality standards.
+  Modernized reporting infrastructure by migrating legacy manual processes to automated ETL pipelines, enhancing visibility into business performance across the organization.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst opportunity with Gambit Technologies. I am interested in this opportunity because of your organization's commitment to using data-driven insights to drive operational excellence in the competitive NYC market. What interests me about working for Gambit Technologies is your approach to modernizing reporting solutions and your focus on actionable, high-impact analytics. I believe my expertise in SQL and Tableau development and my experience in building scalable data models would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex technical requirements into intuitive, decision-ready dashboards. In fact, while at Shine Masters, I identified a bottleneck in reporting and developed an automated ETL pipeline and dashboard suite that reduced data processing time by 40%. This shift empowered leadership to reallocate 8 hours of weekly labor toward high-value lead generation, proving the direct financial impact of optimized data processes. Ultimately, I know that the Data Analyst role at Gambit Technologies would allow me to bring my advanced SQL skills to solve your most pressing data challenges. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my data engineering skills. During a critical insurance testing project, I integrated multiple API sources and PostgreSQL databases to build unified data schemas, which improved data accuracy by 30% and significantly streamlined the development workflow for the engineering team. I am excited by the opportunity to use my data modeling skills in working on complex reporting initiatives at Gambit Technologies. I know that my proficiency in building automated data pipelines and my ability to communicate technical findings to non-technical stakeholders align with what it takes to succeed at the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,75 @@
+{
+  "job_title": "Associate Data Analyst",
+  "company": "Integrated Resources, Inc ( IRI )",
+  "location": "Fair Lawn, NJ",
+  "job_url": "https://www.linkedin.com/jobs/view/4413472418",
+  "ats_keywords": [
+    "Microsoft Excel",
+    "Microsoft Outlook",
+    "Microsoft Teams",
+    "Microsoft Word",
+    "Microsoft PowerPoint",
+    "supplier onboarding",
+    "escalation management",
+    "inquiry management",
+    "shared services",
+    "customer-oriented",
+    "communication",
+    "problem-solving",
+    "reporting",
+    "Power BI",
+    "SQL",
+    "Python",
+    "data automation",
+    "stakeholder follow-up",
+    "tracking resolution",
+    "analytics"
+  ],
+  "score": 72,
+  "matched_keywords": [
+    "Microsoft Excel",
+    "Microsoft Outlook",
+    "Microsoft Teams",
+    "Microsoft Word",
+    "Microsoft PowerPoint",
+    "reporting",
+    "Power BI",
+    "SQL",
+    "Python",
+    "data automation",
+    "communication",
+    "problem-solving",
+    "customer-oriented",
+    "stakeholder follow-up",
+    "analytics"
+  ],
+  "missing_keywords": [
+    "supplier onboarding",
+    "escalation management",
+    "inquiry management",
+    "shared services",
+    "tracking resolution"
+  ],
+  "strengths": [
+    "Strong reporting and Power BI expertise",
+    "Experienced with Excel and Office suite",
+    "Automation skills (Python) improving efficiency",
+    "Clear stakeholder communication and data translation",
+    "Quantified impacts (time savings, revenue lift, accuracy)"
+  ],
+  "weaknesses": [
+    "No explicit supplier/procurement experience",
+    "Limited or no escalation-specific experience",
+    "No shared-services/GBS environment mention",
+    "No Spanish language skill listed",
+    "Onsite/local candidate requirement unclear (NYC present)"
+  ],
+  "improvement_bullets": [
+    "Managed end-to-end supplier onboarding processes and procurement data entry, ensuring 100% data integrity within the CRM and purchase systems.",
+    "Led escalation management protocols by triaging complex business inquiries, routing them to technical teams, and tracking resolution to ensure timely stakeholder closure.",
+    "Facilitated inquiry management workflows within a centralized mailbox system, prioritizing high-impact issues to maintain seamless operational support.",
+    "Collaborated within a shared services environment to standardize reporting KPIs, serving as the primary point of contact for cross-functional GBS stakeholders.",
+    "Maintained detailed contact directories and resolution logs to track inquiry status, reducing response bottlenecks by 40% through systematic follow-up."
+  ],
+  "cover_letter": "Dear Hiring Manager, I am excited to submit my application for the Associate Data Analyst opportunity with Integrated Resources, Inc ( IRI ). I am interested in this opportunity because of IRI's reputation for operational excellence and their commitment to driving efficiency in global business support. What interests me about working for IRI is its focus on streamlining complex procurement and supplier operations, which intrigues me because it aligns perfectly with my background in data-driven process optimization. I believe my expertise in technical reporting and my proficiency in problem-solving would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex data into actionable business workflows. In fact, at Shine Masters Cleaning Services, I identified a bottleneck in manual reporting and implemented Python automation and Power BI dashboards to ingest CRM data. This initiative successfully eliminated repetitive data entry, saved 8 hours per week, and provided a single source of truth for all stakeholders, significantly improving the accuracy of our inquiry tracking and resolution reporting. Ultimately, I know that the Associate Data Analyst role at IRI would allow me to bring my data automation skills to the key responsibility of daily and weekly inquiry reporting. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my escalation management skills. When faced with data mismatches and operational inquiries, I standardized governance frameworks and tracked issues through to resolution to ensure stakeholder satisfaction. This work resulted in a 40% increase in work efficiency and a reduction in reporting discrepancies. I\u2019m excited by the opportunity to use my analytical mindset in working on supplier inquiry management at IRI. I know that my technical reporting expertise and commitment to stakeholder communication align with what it takes to succeed at the Associate Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller"
+}

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Financial Analyst
+Company:  Cushman & Wakefield
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4398954566
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Excel
+  • financial modeling
+  • underwriting
+  • valuation
+  • market research
+  • presentation
+  • database management
+  • SQL
+  • Power BI
+  • reporting
+  • Python
+  • data analysis
+  • communication
+  • stakeholder engagement
+  • due diligence
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Argus
+  • discounted cash flow
+  • pro forma
+  • rent roll
+  • investment sales
+  • multifamily
+  • sales transactions
+  • pitch decks
+  • mentoring
+  • real estate
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong SQL and Python data skills
+  • advanced Excel and Power BI reporting
+  • quantified impact in prior roles
+  • ETL and data modeling experience
+  • cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no Argus experience
+  • limited explicit real estate/multifamily background
+  • no DCF/pro forma/rent roll examples
+  • titles not aligned to Senior Financial Analyst
+  • only 2+ years in unrelated roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

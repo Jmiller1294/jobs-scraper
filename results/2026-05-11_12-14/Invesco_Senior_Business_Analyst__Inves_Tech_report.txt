@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Business Analyst, Inves Tech
+Company:  Invesco
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4337133744
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • SQL
+  • Python
+  • Agile
+  • Project Management
+  • Business Analysis
+  • Stakeholder Communication
+  • ETL
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • Automation
+  • CI/CD
+  • Git
+  • Database Optimization
+  • Data Modeling
+  • A/B Testing
+  • Requirements Gathering
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Order Management Systems
+  • Charles River
+  • Asset Management
+  • Fixed Income
+  • Derivatives
+  • Equity
+  • PL/SQL
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python technical skills
+  • Proven automation and ETL pipeline delivery
+  • Solid visualization and reporting (Power BI, Tableau)
+  • Experience translating analysis into business decisions
+  • CI/CD and data quality practices implemented
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No asset management or investment banking experience
+  • No explicit OMS / Charles River experience
+  • No PL/SQL / Oracle experience listed
+  • Limited years in finance-focused roles (~3 years)
+  • No explicit exposure to fixed income/derivatives/equities
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

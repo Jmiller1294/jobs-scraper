@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Private Capital Operations Associate
+Company:  Initio Capital
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420260901
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • KPI tracking
+  • Transaction coordination
+  • Data pipeline
+  • SQL
+  • Python
+  • ETL
+  • Reporting
+  • Tableau
+  • Power BI
+  • Documentation
+  • Process automation
+  • SOPs
+  • Data modeling
+  • Reconciliation
+  • Version control
+  • Stakeholder coordination
+  • Advanced Excel
+  • JIRA/Confluence
+  • Cloud (AWS/Snowflake/BigQuery)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Fund operations
+  • Deal operations
+  • Investor reporting
+  • Data room
+  • Subscription process
+  • Capital call
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL skills
+  • Experience building dashboards (Power BI, Tableau)
+  • Process automation and SOP documentation
+  • Quantified operational impact (time/process improvements)
+  • Cross-functional coordination experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit fund/transaction operations experience
+  • No investor reporting or capital call examples
+  • No deal data room or diligence checklist experience
+  • Limited private capital industry background
+  • Certifications (CFA/CPA/Series) not listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

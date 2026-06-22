@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Research Engineer
+Company:  Pathos
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4418676865
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • data pipelines
+  • ETL
+  • performance profiling
+  • GPU cluster
+  • multi-modal
+  • genomics
+  • medical notes
+  • C++
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • PyTorch
+  • CUDA
+  • distributed training
+  • transformers
+  • RLHF
+  • GPU cluster
+  • DeepSpeed
+  • Kubernetes
+  • JAX
+  • TensorFlow
+  • attention mechanisms
+  • publication record
+  • bioinformatics
+  • reinforcement learning
+  • sequence data
+  • clinical outcomes
+  • performance profiling
+  • C++
+  • medical notes
+  • multi-modal
+  • genomics
+  • DeepSpeed
+  • Transformers
+  • RLHF
+  • CUDA
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and data pipelines
+  • Demonstrated measurable impact (quantified results)
+  • Dashboarding and visualization proficiency
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No deep learning framework experience listed (PyTorch/JAX/TensorFlow)
+  • No CUDA or GPU programming evidence
+  • No distributed training or large-model experience
+  • No publications or research record
+  • Limited domain experience in oncology/genomics
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

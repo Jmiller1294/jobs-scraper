@@ -1,0 +1,81 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     BSA Data Scientist
+Company:  East West Bank
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405593380
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • R
+  • Tableau
+  • Power BI
+  • ETL
+  • Data Wrangling
+  • Data Visualization
+  • Time Series
+  • Data Preprocessing
+  • Data Validation
+  • Cloud (AWS, Snowflake, BigQuery)
+  • PostgreSQL
+  • MySQL
+  • Git
+  • Feature Selection
+  • Predictive Modeling
+  • Statistics
+  • Software Engineering
+  • Communication
+  • Problem Solving
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Machine Learning
+  • Data Mining
+  • Network/Link Analytics
+  • Hive
+  • Pig
+  • Scala
+  • Java
+  • C++
+  • Multivariable Calculus
+  • Linear Algebra
+  • Behavior Clustering
+  • Maximum Likelihood Estimators
+  • Sanctions/AML domain experience
+  • Presentation to non-technical audiences (explicit)
+  • Hands-on experience with data science tools
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Proven data engineering/ETL pipeline delivery
+  • Solid visualization skills (Tableau, Power BI)
+  • Quantified impacts (time savings, acquisition growth)
+  • Cloud and database knowledge (AWS, Snowflake, BigQuery, PostgreSQL)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit machine learning model deployment experience
+  • No mention of Hive/Pig or big data frameworks
+  • Sparse demonstration of advanced statistics/math foundations
+  • No explicit network/link analytics experience
+  • No AML/sanctions or fraud-specific domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive machine learning models to identify borrower default risk, utilizing feature selection techniques to optimize classifier performance and improve risk assessment accuracy.
+  Performed extensive data mining on a 2M+ row loan portfolio to extract usable insights, applying behavior clustering to segment high-risk populations for targeted risk mitigation.
+  Utilized advanced statistical methods, including regression analysis and probability distributions, to validate data integrity and identify anomalies for anti-money laundering and fraud detection workflows.
+  Conducted network/link analysis on transactional data to identify complex relationships between entities, supporting fraud risk management and identifying suspicious patterns.
+  Applied foundational knowledge of linear algebra and multivariable calculus to refine algorithmic optimization, ensuring high performance and accuracy in predictive modeling projects.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the BSA Data Scientist opportunity with East West Bank. I am interested in this opportunity because of East West Bank's reputation as a premier financial bridge between the East and West and its commitment to utilizing data-driven strategies to manage AML and fraud risks. What interests me about working for East West Bank is its approach to balancing rapid commercial growth with the highest standards of regulatory integrity; this focus on precision and reliability strongly resonates with my background in high-stakes financial data analysis. I believe my background in end-to-end data pipelines and my strong software engineering foundation would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on both technical rigor and actionable business insights. In fact, while working on my Lending Risk Portfolio Analysis project, I managed a 2M+ row dataset, building an ETL pipeline and performing exploratory data analysis to identify borrower default characteristics. These efforts allowed me to build a robust model for risk segmentation that directly correlates to the analytical precision required for AML and fraud risk management. Ultimately, I know that the BSA Data Scientist role at East West Bank would allow me to bring my experience in feature selection and predictive modeling to the complex task of identifying and mitigating financial risk. Additionally, my role as a Data Analyst at Shine Masters Cleaning Services enabled me to develop my communication skills. I was tasked with presenting complex performance data to executive stakeholders, translating technical metrics into clear business strategies that improved overall team efficiency by 25%. I am excited by the opportunity to use my background in Python, SQL, and statistical modeling in working on data-driven AML solutions at East West Bank. I know that my data wrangling expertise and analytical mindset align with what it takes to succeed at the BSA Data Scientist role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

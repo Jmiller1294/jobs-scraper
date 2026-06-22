@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Scientist, AI
+Company:  Posh
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4341533484
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • ETL
+  • data pipelines
+  • PostgreSQL
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • data modeling
+  • tableau
+  • Power BI
+  • dashboarding
+  • data documentation
+  • feature engineering
+  • data quality
+  • experiments
+  • metrics
+  • instrumentation
+  • observability
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • LLM tools
+  • AI evaluation
+  • testing
+  • data governance
+  • A/B testing
+  • semantic layer
+  • agent quality
+  • LangSmith
+  • Langfuse
+  • golden datasets
+  • user satisfaction
+  • production-ready modeling pipelines
+  • startup early-stage data team
+  • labeling
+  • behavioral signals
+  • pipeline reliability
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on ETL and pipeline building
+  • Dashboarding and reporting (Power BI, Tableau)
+  • Experience with cloud data platforms (Snowflake, BigQuery, AWS S3)
+  • Quantified impact in past roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit LLM/agent evaluation experience
+  • No mention of LangSmith/Langfuse or similar tools
+  • Sparse evidence of formal data governance practices
+  • Few documented experiments/A-B testing for models
+  • Limited multi-year senior data scientist title/role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

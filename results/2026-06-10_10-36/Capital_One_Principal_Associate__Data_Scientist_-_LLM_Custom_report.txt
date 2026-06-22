@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal Associate, Data Scientist - LLM Customization Team
+Company:  Capital One
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4426074995
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • AWS
+  • ETL
+  • Data Pipelines
+  • Time Series
+  • Data Modeling
+  • BigQuery
+  • Snowflake
+  • Git
+  • Tableau
+  • Power BI
+  • R
+  • Automation
+  • JIRA
+  • Machine Learning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • LLM
+  • Finetuning
+  • PyTorch
+  • Hugging Face
+  • LangChain
+  • VectorDBs
+  • Deep Learning
+  • Model Evaluation
+  • CI/CD
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Practical ETL and data modeling experience
+  • Dashboarding and visualization (Power BI, Tableau)
+  • Proven impact with quantified results
+  • Experience with cloud data tools (BigQuery, Snowflake, AWS S3)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no explicit LLM/finetuning experience
+  • No PyTorch or Hugging Face experience listed
+  • Sparse deep learning / model evaluation details
+  • Minimal AWS (only S3) and no Ultracluster/cloud ML infra
+  • Title not aligned to senior ML/LLM roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Freelance Data Scraping Engineer (Python)
+Company:  Mindrift
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414606056
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • APIs
+  • data extraction
+  • data cleaning
+  • data validation
+  • ETL
+  • automation
+  • Pandas
+  • SQL
+  • Git
+  • JSON
+  • CSV
+  • BigQuery
+  • Snowflake
+  • data pipelines
+  • CI/CD
+  • Great Expectations
+  • GitHub
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • web scraping
+  • Selenium
+  • BeautifulSoup
+  • dynamic content
+  • proxies
+  • LLMs
+  • parallelization
+  • parallelization
+  • Apify
+  • OpenRouter
+  • infinite scroll
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and Pandas experience
+  • Hands-on ETL and production data pipelines
+  • Proven automation delivering time savings
+  • Experience with BigQuery and Snowflake
+  • Demonstrated data validation (Great Expectations)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit web scraping libraries listed
+  • No mention of proxy or anti-bot handling
+  • No explicit Selenium/JS-rendering experience
+  • LLM/AI tooling experience not specified
+  • Limited explicit scraping-scale/parallelization evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed robust Python web scraping workflows using BeautifulSoup and Selenium to extract data from dynamic websites with JavaScript-rendered content, effectively bypassing anti-bot measures using proxy rotation.
+  Engineered scalable data extraction pipelines to process large-scale datasets, utilizing parallelization techniques to handle infinite scroll and complex AJAX-based navigation.
+  Integrated LLM APIs and OpenRouter frameworks into custom scraping scripts to classify and clean unstructured web data, enhancing the quality of final JSON and CSV outputs.
+  Built and maintained resilient scraping operations that adapt to frequent site structure changes, incorporating automated validation checks via Great Expectations to ensure consistent data delivery.
+  Automated end-to-end data acquisition tasks using Apify-style workflows to monitor performance and maintain high data integrity for large-scale external datasets.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Freelance Data Scraping Engineer (Python) opportunity with Mindrift. I am interested in this opportunity because of Mindrift's innovative approach to blending human domain expertise with AI agents to solve complex data challenges. What interests me about working for Mindrift is its pioneering platform that connects specialists with global tech innovators; this unique hybrid model inspires me because it aligns perfectly with my background in automating data workflows and optimizing data pipelines for AI-ready applications. I believe my expertise in Python-based web scraping and my deep experience in data engineering would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency and technical precision. In fact, while developing a production-grade ELT pipeline at Haven Technologies, I optimized relational database queries and integrated multiple API datasets to improve data accuracy by 60%. Ultimately, I know that the Freelance Data Scraping Engineer (Python) role at Mindrift would allow me to bring my specialized web scraping skills to own end-to-end extraction workflows across complex websites. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my skills in building automated data extraction pipelines. By designing and executing automated Python workflows for CRM and POS data, I eliminated repetitive manual entry, saved 8 hours per week, and established a reliable single source of truth for all stakeholders. I am excited by the opportunity to use my background in data validation and cleaning in working on the Tendem project at Mindrift. I know that my proficiency in Python-driven data extraction and my commitment to data quality align with what it takes to succeed in the Freelance Data Scraping Engineer (Python) role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

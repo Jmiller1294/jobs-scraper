@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Current
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Analyst, Data Analytics position at Current. With my background in data analysis and operational efficiency, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to Current's mission of transforming financial access for everyday Americans and empowering them to build better financial futures. Your commitment to leveraging data to drive strategic decisions and optimize user experience deeply resonates with my own professional goals.
+
+In my previous roles, I have consistently driven significant business impact through data-driven insights. At Shine Masters Cleaning Services, I developed Power BI and Looker workflows that reduced data mismatches and improved work efficiency by 40%. Additionally, I built statistical models that identified high-value customer segments, contributing to a 300% increase in revenue in the targeted segment over 12 months, which directly aligns with your need for identifying new and iterative high-impact opportunities.
+
+My experience extends to partnering effectively with cross-functional teams, translating complex technical findings into actionable business recommendations during stakeholder meetings. I have a proven track record of ensuring data integrity and governance, creating standardized KPIs and data governance frameworks to establish a consistent "single source of truth." My project work, including architecting a production-grade ELT pipeline using Python, SQL, dbt, Snowflake, and BigQuery for the FRED Economic Batch Pipeline, further demonstrates my ability to handle sophisticated data warehousing and transformation tasks.
+
+I am particularly drawn to Current's mission of [COMPANY MISSION] and believe my experience in data analysis, visualization, and stakeholder collaboration would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

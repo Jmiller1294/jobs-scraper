@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     W2 role - Business Analyst  must be English and Korean Bilingual - Englewood Cliffs, NJ, USA
+Company:  DigiTech Labs
+Location: Englewood Cliffs, NJ
+URL:      https://www.linkedin.com/jobs/view/4426109088
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Process Improvement
+  • Project Management
+  • PowerPoint
+  • Reporting
+  • Stakeholder Management
+  • Microsoft Excel
+  • Power BI
+  • Cross-Departmental Collaboration
+  • Documentation
+  • Automation
+  • Presentation Development
+  • Strategic Thinking
+  • Analytical Mindset
+  • Adaptability
+  • SQL
+  • Data Visualization
+  • SOPs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • Business Analysis
+  • Korean Bilingual
+  • Demand Planning
+  • Service Planning
+  • Administrative Support
+  • Smartsheet
+  • Program Management
+  • Reporting Preparation
+  • Presentation Development
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data visualization and reporting (Power BI, Advanced Excel)
+  • Proven process improvement with quantified impacts
+  • Cross-functional collaboration and documentation experience
+  • Technical skills: SQL, Python, automation
+  • Analytical mindset with measurable outcomes
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No mention of Korean bilingual proficiency
+  • Limited explicit Business Analyst title/experience
+  • No Demand Planning experience cited
+  • No Smartsheet or explicit program management tool experience
+  • Administrative/service planning experience not highlighted
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

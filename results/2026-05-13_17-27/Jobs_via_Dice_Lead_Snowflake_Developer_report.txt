@@ -1,0 +1,82 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Snowflake Developer
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414170326
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Snowflake
+  • Python
+  • SQL
+  • ETL/ELT
+  • API integrations
+  • data modeling
+  • star schema
+  • window functions
+  • CI/CD
+  • dbt
+  • Cloud (AWS)
+  • Git
+  • pandas
+  • data migration
+  • query optimization
+  • pipelines
+  • BigQuery
+  • data validation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Snowpark
+  • API development (REST) explicitly
+  • CDC
+  • Dynamic Tables
+  • Streams & Tasks
+  • Time Travel
+  • Materialized Views
+  • Zero-Copy Cloning
+  • clustering keys
+  • Cortex AI
+  • Cortex Analyst
+  • Cortex Search
+  • SnowPro Core Certification
+  • SnowPro Advanced: Data Engineer
+  • Snowpark Python UDFs
+  • stored procedures
+  • ML-powered features (classification, anomaly detection, forecasting)
+  • RBAC
+  • column-level security
+  • row-access policies
+  • data masking
+  • Flyway
+  • SchemaChange
+  • Airflow/Prefect (explicit hands-on)
+  • Kafka
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python & pandas experience
+  • Solid SQL and query optimization
+  • Hands-on ETL/ELT pipeline development
+  • Experience with Snowflake and BigQuery
+  • Demonstrated quantified impact in projects and roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SnowPro certifications listed
+  • Limited explicit Snowpark, UDFs, or stored proc experience
+  • No evidence of Cortex AI or LLM integration
+  • CDC and Snowflake-native features not demonstrated
+  • Limited orchestration (Airflow/Prefect) and streaming experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

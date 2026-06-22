@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Research Engineer, Security and Privacy, DeepMind
+Company:  Google DeepMind
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415795779
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • SQL
+  • ETL
+  • Git
+  • AWS S3
+  • BigQuery
+  • automation
+  • data pipelines
+  • experimental design
+  • software development
+  • testing
+  • performance analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • PyTorch
+  • JAX
+  • red-teaming
+  • adversarial robustness
+  • model evaluation
+  • benchmarks
+  • research publications
+  • model vulnerabilities
+  • privacy
+  • alignment
+  • machine learning
+  • software design
+  • security
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and data pipelines
+  • Proven automation improving efficiency
+  • Dashboarding and visualization expertise
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated PyTorch/JAX experience
+  • No explicit adversarial or red-teaming work
+  • Limited ML research or publications
+  • Only 2+ years software dev experience post-degree
+  • No explicit model evaluation/benchmarking artifacts
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

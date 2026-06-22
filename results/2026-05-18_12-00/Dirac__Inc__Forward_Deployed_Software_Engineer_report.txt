@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Forward Deployed Software Engineer
+Company:  Dirac, Inc.
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4415667808
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • full-stack
+  • production-quality code
+  • APIs
+  • integrations
+  • SQL
+  • Python
+  • Docker
+  • GCP
+  • BigQuery
+  • CI/CD
+  • GitHub Actions
+  • dbt
+  • Airflow
+  • data modeling
+  • Power BI
+  • debugging
+  • communication
+  • ownership
+  • distributed systems
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • React
+  • TypeScript
+  • Go
+  • PLM
+  • ERP
+  • CAD
+  • experience in high-growth startup environments
+  • AI-assisted development workflows
+  • customer-facing deployments
+  • shipping deployment-critical features
+  • code reviews
+  • complex systems and codebases
+  • travel to customer sites
+  • onsite NYC
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data engineering
+  • Python automation and ETL experience
+  • GCP/BigQuery and dbt pipeline skills
+  • CI/CD and GitHub Actions experience
+  • Quantified impact on operational efficiency
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit React/TypeScript/Go experience
+  • No PLM/ERP/CAD domain experience
+  • Limited explicit customer-facing deployment examples
+  • Short tenure in software dev role (9 months)
+  • No mention of AI-assisted workflows
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

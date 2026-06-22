@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Principal Engineer - Fanatics Markets
+Company:  Fanatics
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4398401741
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Postgres
+  • AWS
+  • Python
+  • SQL
+  • Git
+  • APIs
+  • database design
+  • ETL
+  • observability
+  • production triage
+  • technical writing
+  • mentoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Kubernetes
+  • Kafka
+  • Redis
+  • Kotlin
+  • Java
+  • distributed systems
+  • low latency
+  • high throughput
+  • event-driven architecture
+  • scalability
+  • fault-tolerant
+  • platform design
+  • startup
+  • fault-tolerant
+  • technical writing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • SQL and Postgres data modeling
+  • Python ETL pipelines
+  • Dashboarding & reporting (Power BI, Tableau)
+  • Cross-functional collaboration
+  • Process automation and efficiency gains
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated Kotlin/Java backend experience
+  • No Kafka/Redis or event-driven platform experience
+  • Limited cloud infra (AWS S3 only) and no Kubernetes
+  • Insufficient years in senior distributed-systems roles
+  • Lacks explicit high-throughput/low-latency system examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

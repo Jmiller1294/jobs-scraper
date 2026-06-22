@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Applied AI Researcher, Post-Training
+Company:  Distyl
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4315269534
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • Git
+  • AWS S3
+  • BigQuery
+  • Snowflake
+  • ChatGPT
+  • Claude
+  • Gemini
+  • data analysis
+  • ETL
+  • Power BI
+  • visualization
+  • prototyping
+  • experimentation
+  • data curation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • supervised fine-tuning
+  • RLHF
+  • DPO
+  • LoRA
+  • PEFT
+  • instruction-tuning
+  • LLMs
+  • model adaptation
+  • reward modeling
+  • continual pretraining
+  • agentic collaboration
+  • ensembling
+  • ReAct
+  • graph-of-thoughts
+  • preference optimization
+  • published research
+  • F500 stakeholder communication
+  • pretraining
+  • reward modeling
+  • bias toward showing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data modeling experience
+  • Dashboarding and visualization (Power BI, Tableau)
+  • Experience with AI tools (ChatGPT, Claude, Gemini)
+  • Proven impact with quantified outcomes
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LLM fine-tuning or RLHF experience
+  • Lacks mention of LoRA/PEFT or instruction-tuning
+  • Limited research publication or public research record
+  • No agentic systems or advanced model orchestration experience
+  • Relatively short domain experience in ML/AI roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

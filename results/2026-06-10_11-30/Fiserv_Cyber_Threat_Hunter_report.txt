@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Cyber Threat Hunter
+Company:  Fiserv
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4426099643
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • machine learning
+  • statistical modeling
+  • cloud
+  • BigQuery
+  • Snowflake
+  • AWS
+  • ETL
+  • SQL
+  • Git
+  • APIs
+  • feature engineering
+  • time-series analysis
+  • automation
+  • data pipelines
+  • AI tools
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • detection engineering
+  • threat hunting
+  • digital forensics
+  • incident response
+  • behavioral analytics
+  • telemetry
+  • MITRE ATT&CK
+  • CI/CD
+  • feature engineering
+  • graph analysis
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL and data pipeline development
+  • Cloud data platform familiarity (BigQuery, Snowflake, AWS)
+  • Quantified operational impact (time/process savings, growth)
+  • Experience with AI tools and automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit detection engineering or threat-hunting role
+  • No digital forensics or incident response experience listed
+  • Limited security-specific telemetry or MITRE ATT&CK experience
+  • Insufficient years in cybersecurity domains (below 8+ requirement)
+  • No security certifications (GIAC, CISSP, etc.)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

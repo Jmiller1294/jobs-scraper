@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  Thurn Partners
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4412814053
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • data pipelines
+  • ETL
+  • BigQuery
+  • dbt
+  • CI/CD
+  • GitHub Actions
+  • Docker
+  • Postgres
+  • GCS
+  • cloud
+  • data modeling
+  • data quality
+  • performance
+  • feature infrastructure
+  • storage systems
+  • data serialization
+  • high-throughput
+  • low-latency
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • C++
+  • FPGA
+  • petabyte-scale
+  • high-QPS
+  • memory layout
+  • cache behaviour
+  • sequence modelling
+  • foundation model serving
+  • concurrency (systems programming)
+  • order and execution management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and BigQuery experience
+  • Production ETL and dbt pipeline building
+  • CI/CD and automation with GitHub Actions
+  • Python data engineering and tooling
+  • Cloud experience (GCS, Docker, Postgres)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C++ systems development experience listed
+  • No FPGA or hardware acceleration experience
+  • No demonstrated petabyte-scale or high-QPS operations
+  • Limited systems-level performance engineering (memory/cache)
+  • No trading execution or OMS/EMS domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

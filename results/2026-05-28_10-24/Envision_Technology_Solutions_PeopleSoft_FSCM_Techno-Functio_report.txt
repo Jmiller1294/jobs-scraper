@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     PeopleSoft FSCM Techno-Functional Consultant
+Company:  Envision Technology Solutions
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4419072187
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (1)
+  • Oracle SQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • PeopleSoft
+  • FSCM
+  • PeopleCode
+  • Application Engine
+  • SQR
+  • BI Publisher
+  • Component Interface
+  • Integration Broker
+  • Accounts Payable
+  • Accounts Receivable
+  • General Ledger
+  • Project Costing
+  • Cash Management
+  • PeopleTools
+  • PeopleSoft upgrades
+  • PL/SQL
+  • REST APIs
+  • OCI
+  • Fluid UI
+  • Pivot Grids
+  • WorkCenters
+  • PTF
+  • SOX
+  • financial audit
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and query optimization
+  • Experience with ETL and data integration
+  • Proven analytics and dashboard delivery
+  • Cross-functional collaboration
+  • Documentation and SOP creation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PeopleSoft experience listed
+  • Lacks FSCM module expertise
+  • No PeopleTools/PeopleCode skills
+  • No PL/SQL or Oracle-specific development evidence
+  • No on-premises ERP or financial system integrations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

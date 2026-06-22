@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Research Analyst, Sanctions Monitoring
+Company:  Kharon
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4388213475
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • data validation
+  • data reconciliation
+  • data analysis
+  • data visualization
+  • Python
+  • ETL
+  • quality assurance
+  • JSON
+  • dataset curation
+  • automation
+  • cloud (AWS/Snowflake/BigQuery)
+  • reporting (Tableau/Power BI)
+  • research
+  • open-source research
+  • HTML
+  • JavaScript
+  • Microsoft Office/Google Suite
+  • Git
+  • PostgreSQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • sanctions monitoring
+  • Neo4J
+  • graph databases
+  • XPath
+  • export controls
+  • anti-money laundering
+  • countering financing of terrorism
+  • policy monitoring
+  • dataset maintenance
+  • curation publication
+  • subject matter expertise
+  • multilingual data collection
+  • in-office NYC/DC
+  • 1-3 years sanctions experience
+  • Bachelor’s in IR/Political Science/Security Studies
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB experience
+  • Proficient in Python for ETL and automation
+  • Experienced in data visualization (Tableau, Power BI)
+  • Demonstrated data validation and reconciliation
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit sanctions/AML/CFT experience
+  • No Neo4J or graph DB project evidence
+  • Limited demonstrated policy/regulatory research
+  • Unclear XPath or web-scraping skills
+  • Location/in-office availability not stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries (CTEs, window functions) to perform data validation and reconciliation of complex datasets, mirroring workflows used in anti-money laundering (AML) and sanctions monitoring processes.
+  Collaborated on cross-functional data projects, utilizing Python and SQL to curate, maintain, and publish large-scale datasets, ensuring high data integrity for critical business risk assessments.
+  Automated data collection workflows using Python to scrape structured web data (utilizing JSON, HTML, and XPath) to support research into international trade and security compliance.
+  Conducted exploratory data analysis on 2M+ row datasets to identify risk-based typologies and patterns, developing a foundation for identifying illicit network behaviors and regulatory policy impacts.
+  Developed and maintained documentation for complex data pipelines, applying systematic quality assurance protocols essential for tracking policy activity and enforcement actions.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Research Analyst, Sanctions Monitoring opportunity with Kharon. I am interested in this opportunity because of my deep commitment to leveraging data to mitigate complex global risks and my admiration for Kharon’s role in revolutionizing the landscape of global security intelligence. What interests me about working for Kharon is its commitment to providing unparalleled precision and depth in data to navigate complex international threats; this mission to 'connect the dots' in meaningful ways deeply resonates with my professional philosophy. I believe my advanced data pipeline development skills and my rigorous approach to data validation would make me a strong candidate for this role. During my professional career, I have approached problems by translating messy, unstructured data into actionable, high-integrity insights. In fact, while managing data operations, I encountered significant bottlenecks in reporting that impacted decision-making. I built automated ETL pipelines and dashboards to reconcile data from multiple sources, which reduced processing time by 40% and directly empowered stakeholders to identify high-risk segments within a 2M+ row portfolio. Ultimately, I know that the Research Analyst, Sanctions Monitoring role at Kharon would allow me to bring my SQL and Python expertise to perform the detailed quality assurance and dataset curation required to track sanctions and illicit networks. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my research and policy-monitoring skills. I regularly monitored performance KPIs and translated regulatory-adjacent data into internal policy improvements, reducing process bottlenecks by 25%. I’m excited by the opportunity to use my ability to identify data typologies in working on the continuous monitoring of global sanctions and export controls at Kharon. I know that my technical proficiency in data reconciliation and my analytical mindset align with what it takes to succeed at the Research Analyst, Sanctions Monitoring role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff
+Company:  VoiceAdmin
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420229823
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • ETL
+  • PostgreSQL
+  • APIs
+  • Git
+  • AWS
+  • data pipelines
+  • production
+  • debugging
+  • Power BI
+  • data modeling
+  • analytics
+  • orchestration
+  • APIs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • LLMs
+  • speech-to-text
+  • text-to-speech
+  • voice systems
+  • telephony
+  • browser automation
+  • real-time systems
+  • telephony
+  • WebSockets
+  • interruption handling
+  • endpointing
+  • streaming audio
+  • inference engines
+  • vLLM
+  • TensorRT-LLM
+  • latency optimization
+  • batching
+  • speculative decoding
+  • quantization
+  • GPU inference
+  • fine-tuning
+  • SFT
+  • RL
+  • evaluation systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and data pipelines
+  • Production experience with PostgreSQL and APIs
+  • Dashboarding and analytics (Power BI, reporting)
+  • Documented SOPs and cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated voice/telephony experience
+  • No LLM or model-inference engineering shown
+  • Limited real-time/streaming systems background
+  • No GPU/inference optimization or fine-tuning experience
+  • No explicit browser automation or agent-system projects
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

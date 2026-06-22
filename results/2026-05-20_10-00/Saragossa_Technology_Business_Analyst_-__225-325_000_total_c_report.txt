@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technology Business Analyst - $225-325,000 total compensation
+Company:  Saragossa
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4403258080
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • ETL
+  • Power BI
+  • PostgreSQL
+  • Data modeling
+  • Data analysis
+  • ETL pipelines
+  • Tableau
+  • BigQuery
+  • AWS S3
+  • Git
+  • JIRA
+  • Confluence
+  • Automations
+  • Data visualization
+  • Reporting
+  • Risk analysis
+  • Loan portfolio
+  • Data cleaning
+  • Stakeholder collaboration
+  • Full-stack development
+  • Advanced Excel
+  • Data documentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Aladdin
+  • eFront
+  • Private credit
+  • Buy-side
+  • Investment systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • ETL and data modeling experience
+  • Visualization with Power BI/Tableau
+  • Experience collaborating with stakeholders
+  • Quantified impact on operations and acquisition
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Aladdin or eFront experience
+  • Limited buy-side/private credit background
+  • Under 3 years formal finance-focused experience
+  • No explicit compliance/risk systems integration
+  • Senior BA/title alignment not evident
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

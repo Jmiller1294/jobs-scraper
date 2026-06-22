@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Epic Clarity Certified Senior Revenue Cycle Business Analyst - Remote
+Company:  Seasoned Recruitment
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414078174
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • SQL
+  • Tableau
+  • data modeling
+  • relational databases
+  • PostgreSQL
+  • MySQL
+  • Python
+  • ETL
+  • reporting
+  • advanced Excel
+  • Snowflake
+  • BigQuery
+  • analytics
+  • data visualization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Epic Clarity Certification
+  • clinical revenue cycle
+  • Hospital Billing
+  • Professional billing
+  • Crystal Reports
+  • OLAP
+  • certified datasets
+  • predictive analytics
+  • prescriptive analytics
+  • denials management
+  • AR optimization
+  • cash forecasting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database skills
+  • Tableau and visualization experience
+  • ETL and data modeling experience
+  • Python analytics and pipeline development
+  • Quantified operational impact in past roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Epic Clarity certification listed
+  • No clinical revenue cycle experience
+  • No Crystal Reports experience
+  • No domain-specific billing knowledge
+  • Limited healthcare analytics examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

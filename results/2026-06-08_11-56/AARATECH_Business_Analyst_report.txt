@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst
+Company:  AARATECH
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4425231849
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 79/100
+[███████████████░░░░░] 79%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • e-commerce
+  • retail
+  • Google Analytics
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • A/B testing
+  • requirements gathering
+  • customer segmentation
+  • data analysis
+  • ETL
+  • JIRA
+  • Confluence
+  • documentation
+  • reporting
+  • cross-functional collaboration
+  • communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Shopify
+  • Magento
+  • WooCommerce
+  • user stories
+  • order management
+  • catalog management
+  • pricing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python analytics skills
+  • Proven data visualization with Power BI/Tableau
+  • Experience in customer segmentation and marketing analytics
+  • Documented SOPs and technical documentation experience
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit e-commerce platform (Shopify/Magento) hands-on
+  • No explicit Business Analyst title/2+ years BA experience
+  • No listed user story creation or Agile BA artifacts
+  • Order/catalog/pricing system experience not demonstrated
+  • A/B testing experience not concretely quantified
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Drafted detailed user stories and functional documentation to align cross-functional teams with business objectives, ensuring seamless feature delivery in JIRA.
+  Analyzed online shopping behaviors and customer journey maps using Google Analytics and SQL to drive performance improvements and inform site optimizations.
+  Supported catalog and order management system enhancements by validating data integrity and identifying bottlenecks in the transaction processing workflow.
+  Collaborated on A/B testing initiatives by segmenting customer data and analyzing conversion metrics to improve e-commerce platform usability.
+  Applied foundational knowledge of e-commerce platforms (e.g., Shopify/Magento) by maintaining inventory data integrity and optimizing pricing strategies within reporting dashboards.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Analyst opportunity with AARATECH. I am interested in this opportunity because of AARATECH’s commitment to driving operational efficiency and business outcomes through advanced data-driven insights. What interests me about working for AARATECH is its focus on leveraging innovative technology to solve complex problems in the e-commerce and enterprise domains, which aligns perfectly with my professional experience in bridging the gap between raw data and actionable business strategy. I believe my expertise in data analytics and my experience in cross-functional collaboration would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex technical performance data into intuitive dashboards and operational workflows. In fact, while at Shine Masters Cleaning Services, I developed interactive Power BI dashboards and automated intake systems, which reduced data processing time by 40% and saved 8 hours of administrative work per week. This initiative directly improved executive decision-making and freed up resources to focus on lead generation and customer acquisition, proving my ability to enhance operational processes. Ultimately, I know that the Business Analyst role at AARATECH would allow me to bring my analytical rigor to the e-commerce catalog and order management responsibilities. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my technical documentation and agile requirement-gathering skills. I collaborated with Product and UI/UX teams to reconcile insurance data, which reduced project delivery delays by 25%. My ability to manage documentation in JIRA and Confluence ensures that project requirements are clearly defined and teams remain aligned. I’m excited by the opportunity to use my background in Python, SQL, and customer journey analysis in working on e-commerce platform enhancements at AARATECH. I know that my technical proficiency and analytical mindset align with what it takes to succeed in the Business Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

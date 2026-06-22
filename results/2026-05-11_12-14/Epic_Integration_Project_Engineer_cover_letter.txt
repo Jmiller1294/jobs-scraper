@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Epic
+
+Dear Hiring Manager,
+
+I am excited to apply for the Integration Project Engineer position at Epic. With my background in data analysis, software development, and building robust data pipelines, I am confident I would be a strong addition to your team.
+
+Epic's commitment to improving healthcare through innovative technology and its focus on creating bridges between disparate systems deeply resonates with my passion for leveraging data to solve complex challenges. I am particularly impressed by Epic's role in supporting top-ranked health systems and its dedication to fostering a collaborative and impactful work environment.
+
+In my previous roles, I have developed sophisticated data pipelines and automation solutions that significantly improve efficiency and data accuracy. Additionally, I have a proven track record of translating complex technical findings into actionable business recommendations for stakeholders, which directly aligns with your need for advising implementation strategy and architecture.
+
+At Shine Masters Cleaning Services, I developed Power BI and Looker workflows that replaced manual reporting, reducing data mismatches and improving work efficiency by 40%. I also built Python automation for weekly sales and operations reports, saving 8 hours per week and enhancing reporting accuracy. In my personal projects, I architected a production-grade ELT pipeline in Python and SQL to ingest time-series economic data into BigQuery, demonstrating my ability to build scalable and reliable data solutions. I am also adept at optimizing relational database queries, as evidenced by my work at Haven Technologies where I improved data accuracy by 60%.
+
+I am particularly drawn to Epic's mission of making healthcare data work better for patients and providers and believe my experience in data integration, automation, and stakeholder communication would allow me to contribute meaningfully from day one. I am eager to apply my analytical and reasoning skills to the unique challenges of healthcare systems and am prepared to travel extensively to support new Epic community members. I am eligible to work in the U.S. without visa sponsorship and am fully supportive of a COVID-19 vaccination requirement.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

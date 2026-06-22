@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Financial Analyst – Business Planning – Corporate Location (4 days in office, 1 day remote)
+Company:  NewYork-Presbyterian Hospital
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415869540
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 67/100
+[█████████████░░░░░░░] 67%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Profit and Loss
+  • Financial models
+  • Rolling forecast
+  • Long-term planning
+  • P&L analysis
+  • Resource utilization
+  • Business plans
+  • Variance analysis
+  • Excel (Advanced)
+  • SQL
+  • Power BI
+  • Data integration
+  • ETL
+  • Reporting/dashboards
+  • Data-driven decision making
+  • Stakeholder collaboration
+  • Reconciliation
+  • Financial reporting
+  • Profitability analysis
+  • Staffing analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Budget procedures
+  • Third party cost reports
+  • Forecast alignment
+  • Policy/procedure recommendations
+  • Rolling forecast
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and ETL experience
+  • Advanced Excel and Power BI reporting
+  • Quantified impact on KPIs and efficiency
+  • Cross-functional collaboration experience
+  • Experience building forecasting and time-series models
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit finance/MAJOR in Finance
+  • No direct mention of third-party cost reports
+  • Under two years healthcare finance experience
+  • Limited formal budgeting procedure experience
+  • No explicit experience with Strata or specific hospital systems
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

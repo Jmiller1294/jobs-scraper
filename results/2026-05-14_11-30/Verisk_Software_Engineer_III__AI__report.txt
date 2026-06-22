@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer III (AI)
+Company:  Verisk
+Location: Holmdel, NJ
+URL:      https://www.linkedin.com/jobs/view/4358245873
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • Postgres
+  • JavaScript
+  • RESTful APIs
+  • Docker
+  • CI/CD
+  • Unit testing
+  • ETL
+  • Data modeling
+  • BigQuery
+  • dbt
+  • Git
+  • Cloud
+  • Performance optimization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • AWS
+  • Generative AI
+  • Prompt Engineering
+  • C#
+  • Java
+  • React
+  • Angular
+  • Microservices
+  • SaaS
+  • Snowflake
+  • Leadership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Cloud data engineering (BigQuery, GCS)
+  • ETL/dbt pipeline development with data quality checks
+  • CI/CD and Docker experience
+  • Proven impact with quantified outcomes
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited or no AWS/Bedrock Generative AI experience
+  • No demonstrated C# or Java backend development
+  • Sparse front-end framework (React/Angular) experience
+  • Limited explicit microservices/SOA implementation evidence
+  • Unclear formal leadership of engineering teams
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

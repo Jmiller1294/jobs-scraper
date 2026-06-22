@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Engineer - (Workday Payroll) *HYBRID*
+Company:  GEICO
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417862188
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Payroll
+  • SQL
+  • Python
+  • ETL
+  • APIs
+  • PostgreSQL
+  • Snowflake
+  • AWS
+  • Power BI
+  • Tableau
+  • Reporting
+  • Testing
+  • Documentation
+  • JIRA
+  • Confluence
+  • Version control
+  • Git
+  • Data modeling
+  • Integration
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Workday Payroll
+  • Time and Absence
+  • Workday
+  • Payroll practitioner
+  • Benefits
+  • Open Enrollment
+  • Containerized applications
+  • Scaling
+  • Security
+  • Availability
+  • Workday SKU
+  • Human Resources
+  • Finance
+  • Mentoring
+  • Leadership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data modeling skills
+  • Python ETL and pipeline experience
+  • Visualization with Power BI/Tableau
+  • Integration and API work
+  • Documentation and ticketing (JIRA/Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Workday Payroll configuration experience
+  • No Time & Absence SKU exposure
+  • Lacks payroll practitioner experience
+  • No Open Enrollment/benefits vendor support
+  • Limited enterprise containerization/cloud ops experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

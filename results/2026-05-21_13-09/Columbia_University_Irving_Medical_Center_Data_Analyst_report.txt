@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst
+Company:  Columbia University Irving Medical Center
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413620699
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • R
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • ETL
+  • data pipelines
+  • data integrity
+  • data analysis
+  • data visualization
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • automation
+  • reporting
+  • data validation
+  • grant support
+  • statistical analysis
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • SAS
+  • SPSS
+  • M Plus
+  • HIPAA
+  • biostatistics
+  • clinical data
+  • workforce planning
+  • regulatory reporting
+  • accreditation
+  • FDA
+  • epidemiology
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Proven dashboarding with Power BI/Tableau
+  • Experience with large datasets and pipeline automation
+  • Quantified impact on KPIs and operations
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SAS/SPSS/M Plus experience
+  • No stated HIPAA or FDA compliance experience
+  • No advanced degree in biostatistics/epidemiology
+  • Limited direct clinical/research environment experience
+  • Short total years in dedicated data roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries (CTEs, window functions) to clean and reconcile complex datasets while strictly adhering to data integrity and privacy standards similar to HIPAA requirements.
+  Built automated Python-based ETL pipelines to process large clinical and operational datasets, ensuring high data accuracy for regulatory reporting and internal audits.
+  Utilized R for statistical modeling and exploratory data analysis to support research-driven decision-making, while adapting data processing workflows to accommodate standard academic research environments.
+  Provided analytical support for workforce planning and operational scaling, translating raw data into insights that directly influenced departmental resource allocation and strategic organizational effectiveness.
+  Managed technical documentation and data validation workflows, ensuring all reporting processes remained compliant with institutional research protocols and internal data handling standards.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst opportunity with Columbia University Irving Medical Center. I am interested in this opportunity because of the Department of Anesthesiology's commitment to leveraging data-driven insights to advance both clinical outcomes and operational research. What interests me about working for Columbia University is its rigorous approach to academic research and clinical excellence, which inspires me because of the clear, real-world impact that data analytics has on patient care and institutional health. I believe my expertise in building scalable ETL pipelines and my proficiency in R and Python for statistical analysis would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and actionable reporting. In fact, while at Shine Masters, I developed interactive Power BI dashboards that replaced manual processes, reducing data processing time by 40% and providing clear KPIs to leadership. This initiative directly improved departmental decision-making speed, a skill I am eager to apply to the complex data environment of the Anesthesiology Department. Ultimately, I know that the Data Analyst role at Columbia University would allow me to bring my background in automating complex data workflows to support your ongoing grant submissions and clinical research. Additionally, my role as a Data Analyst and Operations Lead enabled me to develop my skills in cross-functional stakeholder management. For instance, I streamlined client onboarding through automated scheduling workflows, which saved 8 hours per week and allowed for a 25% improvement in team efficiency. I’m excited by the opportunity to use my data validation and statistical modeling skills in working on complex clinical research projects at Columbia. I know that my technical versatility and commitment to data accuracy align with what it takes to succeed at the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

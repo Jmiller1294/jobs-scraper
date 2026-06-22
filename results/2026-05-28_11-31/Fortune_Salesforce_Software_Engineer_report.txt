@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Salesforce Software Engineer
+Company:  Fortune
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414486780
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Git
+  • GitHub
+  • REST API
+  • Python
+  • JavaScript
+  • SQL
+  • CI/CD
+  • Testing
+  • Automation
+  • Data migration
+  • Deployments
+  • Data modeling
+  • Airflow
+  • dbt
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Salesforce
+  • Apex
+  • SOQL
+  • Lightning Web Components
+  • Flows
+  • Platform Developer I
+  • Trigger frameworks
+  • Governor limits
+  • SFDX
+  • DevOps Center
+  • Copado
+  • Gearset
+  • Marketing Cloud
+  • AMPscript
+  • Sales Cloud
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience with APIs and integrations
+  • CI/CD experience via GitHub Actions
+  • Data engineering and ELT pipeline expertise
+  • Proven automation and reporting impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Salesforce development experience
+  • Missing Platform Developer I certification
+  • No Apex, SOQL, or LWC listed
+  • Limited Salesforce dev best-practices evidence
+  • No Salesforce deployment tooling (SFDX/Copado/Gearset) experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

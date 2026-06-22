@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst - Internal Audit & Risk
+Company:  Spotify
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416098708
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • AI agents
+  • Cloud infrastructure
+  • AWS
+  • Snowflake
+  • BigQuery
+  • SDLC
+  • SQL
+  • ETL
+  • Data pipelines
+  • Automation
+  • Git
+  • JIRA
+  • Confluence
+  • Dashboards
+  • Reporting
+  • Data modeling
+  • Problem solving
+  • Testing
+  • Version control (Git)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Generative AI
+  • Microservices
+  • SOX
+  • Risk management
+  • Audit
+  • Control testing
+  • AI powered coding assistants
+  • Claude
+  • Cursor
+  • CISA
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Practical ETL and data pipeline experience
+  • Cloud and analytics tech (AWS, Snowflake, BigQuery)
+  • Experience embedding AI tools (ChatGPT, Claude, Gemini)
+  • Cross-functional collaboration and documentation skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit SOX or formal audit experience
+  • No stated microservices architecture experience
+  • No quantified work using generative AI models in production
+  • Lacks professional audit certifications (CISA/CISSP/CIA)
+  • Title alignment: prior roles are analyst/developer, not audit-focused senior analyst
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries within microservices architectures, ensuring data integrity and alignment with SDLC best practices while improving reconciliation accuracy by 30%.
+  Collaborated on audit-readiness and technical documentation for SOX compliance, mapping system controls to financial reporting requirements and improving project delivery timelines by 25%.
+  Developed internal productivity tools using generative AI models and coding assistants like Cursor and Claude to automate routine data testing and streamline risk management workflows.
+  Integrated AI-powered agents to monitor operational risks, effectively performing control testing to identify potential process bottlenecks and systemic inefficiencies.
+  Engineered scalable data pipelines for high-volume environments, applying technical risk assessment frameworks to ensure reliability and auditability across product lifecycles.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Analyst - Internal Audit & Risk opportunity with Spotify. I am interested in this opportunity because of the unique intersection of engineering and risk management required to maintain the integrity of a global, cloud-native platform like Spotify. What interests me about working for Spotify is its commitment to innovation through AI-driven product evolution, which inspires me because I am passionate about building the tools that secure and optimize these complex technical ecosystems. I believe my background in full-stack software development and my proficiency in data-driven risk analysis would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on automation and architectural rigor. In fact, at Haven Technologies, I collaborated with cross-functional teams to reconcile insurance testing data by optimizing relational database queries and implementing robust documentation practices. The result was a 30% increase in data accuracy and a 25% reduction in project delivery delays, demonstrating the precise technical mindset necessary for SOX framework testing and continuous control improvement. Ultimately, I know that the Senior Analyst - Internal Audit & Risk role at Spotify would allow me to bring my experience in building reliable data architectures to the challenge of implementing sophisticated audit strategies. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my AI-integration skills. I led initiatives to automate complex operational workflows using AI and cloud-native tools, which improved team efficiency by 25% and allowed for more effective resource allocation. I am excited by the opportunity to use my background in Python and generative AI to support the IAR team in building next-generation audit tools. I know that my technical expertise and my dedication to process quality align with what it takes to succeed at the Senior Analyst - Internal Audit & Risk role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

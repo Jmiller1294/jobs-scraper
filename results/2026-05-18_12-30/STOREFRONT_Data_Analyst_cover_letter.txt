@@ -1,0 +1,13 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Founding Data Analyst opportunity with Storefront. I am interested in this opportunity because of Storefront’s unique position at the intersection of high-growth live commerce and data-driven off-price retail. What interests me about working for Storefront is your commitment to building a proprietary sourcing network backed by sophisticated analytics, which intrigues me because it combines technical infrastructure building with real-world market intelligence. I believe my technical proficiency in SQL/Python and my experience in building scalable analytics pipelines would make me a strong candidate for this role.
+
+During my professional career, I have approached problems by translating messy, real-world data into actionable operational clarity. In fact, at Shine Masters, I identified a need for better decision-making visibility and developed interactive Power BI dashboards that reduced data processing time by 40%. The result was a 300% increase in customer acquisition over 12 months, proving that I can own the end-to-end analytics process from metric definition to executive impact.
+
+Ultimately, I know that the Data Analyst role at Storefront would allow me to bring my data modeling skills to define the KPIs that drive your business. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my data storytelling skills. During this time, I analyzed a 250K+ row dataset on urban trends, delivering a presentation that translated statistical insights into actionable recommendations for city safety initiatives. The result was a successful project delivery that effectively bridged the gap between raw data and stakeholder strategy, a skill I plan to apply to your brand health and market trend reports.
+
+I’m excited by the opportunity to use my background in Python and SQL in working on the analytics stack and competitive research at Storefront. I know that my expertise in building data pipelines and my ability to synthesize market intelligence align with what it takes to succeed at the Founding Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

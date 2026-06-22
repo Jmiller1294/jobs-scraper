@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  Chalk
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406548495
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • BigQuery
+  • Airflow
+  • dbt
+  • CI/CD
+  • GitHub Actions
+  • SQL
+  • Postgres
+  • data infrastructure
+  • ELT/ETL
+  • data modeling
+  • Great Expectations
+  • Docker
+  • automation
+  • backend engineering
+  • production-grade pipelines
+  • ownership
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • Rust
+  • distributed systems
+  • query planning
+  • compilers
+  • DBMS
+  • PaaS
+  • system design
+  • performance optimization
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python data engineering experience
+  • Production ELT pipelines with Airflow and BigQuery
+  • dbt modeling and data quality (Great Expectations)
+  • CI/CD via GitHub Actions
+  • Quantified operational impact (30-40% improvements)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Rust experience listed
+  • Limited systems/ distributed systems experience
+  • No explicit query planner or compiler work
+  • Only ~3 years professional backend experience
+  • No PaaS development experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

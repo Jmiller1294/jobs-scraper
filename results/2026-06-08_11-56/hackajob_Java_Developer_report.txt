@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Java Developer
+Company:  hackajob
+Location: Hanover, NJ
+URL:      https://www.linkedin.com/jobs/view/4415466435
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 60/100
+[████████████░░░░░░░░] 60%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • SQL
+  • PostgreSQL
+  • APIs
+  • Git
+  • JIRA
+  • Confluence
+  • ETL
+  • AWS S3
+  • Performance optimization
+  • Cross-functional collaboration
+  • Scalable code
+  • Backend services
+  • UI
+  • Data modeling
+  • Deployment
+  • Testing
+  • Code reviews
+  • Problem solving
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Java
+  • Unit testing
+  • Integration testing
+  • System testing
+  • Secure coding
+  • Risk management
+  • Regulatory compliance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL/PostgreSQL expertise
+  • ETL and data modeling experience
+  • Cross-functional collaboration
+  • Performance optimization achievements
+  • Version control and documentation (Git, JIRA, Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java experience listed
+  • Lacks explicit unit/integration/system testing
+  • Limited secure coding or compliance evidence
+  • No direct leadership/people-management examples
+  • Primary background in data analytics vs Java backend development
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

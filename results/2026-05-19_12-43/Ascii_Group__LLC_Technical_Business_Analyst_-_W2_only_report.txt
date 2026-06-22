@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Technical Business Analyst - W2 only
+Company:  Ascii Group, LLC
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4416693663
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • SQL
+  • PostgreSQL
+  • Python
+  • ETL
+  • Data models
+  • Dashboards
+  • Power BI
+  • Tableau
+  • Automation
+  • Documentation
+  • JIRA
+  • Stakeholder collaboration
+  • Production support
+  • Agile
+  • Root cause analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Business Analysis
+  • Data onboarding
+  • Data quality
+  • Data mappings
+  • Transformations
+  • Validation rules
+  • Data engineering
+  • Financial services
+  • Capital markets
+  • Investment Management
+  • Banking domain
+  • Traceability
+  • Auditability
+  • Operational resilience
+  • Monitoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • ETL and data modeling skills
+  • Power BI/Tableau dashboard development
+  • Automation and process improvement
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit financial services/capital markets experience
+  • No clear investment/asset management role
+  • Few quantified production-grade data product examples
+  • Missing explicit data mapping/validation rule artifacts
+  • Limited on-site/enterprise BA title or long-term BA experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

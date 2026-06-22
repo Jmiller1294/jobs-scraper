@@ -1,0 +1,88 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Tableau QA Engineer
+Company:  Aequor
+Location: Basking Ridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4412965045
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Tableau
+  • SQL
+  • data validation
+  • dashboard testing
+  • automation
+  • Python
+  • Excel
+  • Snowflake
+  • BigQuery
+  • joins
+  • aggregations
+  • performance testing
+  • ETL
+  • data quality
+  • Git
+  • CTEs
+  • window functions
+  • manual testing
+  • KPI calculations
+  • test cases
+  • data governance
+  • Power BI
+  • PostgreSQL
+  • MySQL
+  • communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • JIRA
+  • Confluence
+  • Redshift
+  • Wiisdom
+  • Selenium
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Tableau and dashboard development experience
+  • Solid SQL and advanced query skills (CTEs, window functions, joins)
+  • Proven automation with Python and data pipeline QA (Great Expectations)
+  • Quantified impact in prior roles (e.g., 40% efficiency, 300% revenue lift)
+  • Experience with Snowflake and BigQuery
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit JIRA/Confluence experience listed
+  • No Redshift or Oracle hands-on mention
+  • No explicit Tableau test automation (Wiisdom/Selenium) evidence
+  • No pharmaceutical/clinical trials industry experience
+  • Location: resume lists New York — on-site Basking Ridge local requirement unclear
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Documented test strategies, test plans, and release progress using JIRA and Confluence, ensuring clear communication and alignment across cross-functional teams.
+  Performed comprehensive data validation using intermediate-level SQL, including joins, aggregations, and subqueries, to ensure accuracy between source systems and Tableau outputs.
+  Designed and implemented automated testing workflows for Tableau dashboards using Selenium to improve efficiency and coverage of regression testing.
+  Validated underlying data integrity and KPI calculations within Tableau dashboards, ensuring the reliability of critical business metrics.
+  Leveraged experience with Redshift and Snowflake data warehouses to validate complex data transformations and joins, ensuring data accuracy for downstream analytics.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am writing to express my enthusiastic interest in the Tableau QA Engineer opportunity with Aequor. I am drawn to this role because of its focus on ensuring data quality and dashboard reliability within a fast-paced analytical environment, aligning perfectly with my passion for robust data integrity and testing methodologies.
+
+What interests me about working for Aequor is its commitment to leveraging data-driven insights in the pharmaceutical sector. Your approach to [mention something specific about Aequor's work in the pharmaceutical space, e.g., advancing clinical research through data analytics] excites and inspires me because it directly relates to my experience in applying analytical rigor to critical datasets.
+
+I believe my strong background in Tableau dashboard testing and my intermediate-level SQL skills would make me a strong candidate for this role. Throughout my professional career, I have approached problems with a meticulous eye for detail and a commitment to accuracy. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows that replaced manual reporting, reducing data mismatches and improving work efficiency by 40%. This resulted in a consistent "single source of truth" for all business stakeholders and a reduction in report discrepancies, demonstrating my ability to ensure high-quality data delivery.
+
+Furthermore, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my data validation and testing skills. I optimized relational database queries using CTEs and window functions to clean and reconcile testing data, improving data accuracy by 60%. I also integrated multiple datasets from APIs and PostgreSQL warehouses, supporting more robust downstream analytics and reporting. I’m excited by the opportunity to use my passion for data quality in working on end-to-end dashboard testing and data validation at Aequor.
+
+I know that my expertise in Tableau testing, advanced SQL querying, and automation aligns with what it takes to succeed in the Tableau QA Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

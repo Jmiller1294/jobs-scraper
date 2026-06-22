@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+AARATECH
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Analyst position at AARATECH. With my background in data analysis, automation, and building robust data pipelines, I am confident I would be a strong addition to your team.
+
+AARATECH's focus on leveraging data-driven insights to improve operational efficiency and enable better outcomes in healthcare and enterprise domains deeply resonates with my professional passion.
+
+In my previous roles, I have developed and implemented automated reporting solutions that significantly enhanced efficiency and accuracy. Additionally, I have experience in building data pipelines and performing statistical analysis to identify key customer segments and inform strategic decisions, which directly aligns with your need for analyzing data to support automation strategies and AI-driven solutions.
+
+I am particularly skilled in Python and SQL, and have hands-on experience with BI tools like Power BI and Tableau, as demonstrated by my work on projects such as the FRED Economic Batch Pipeline where I architected an ELT pipeline and implemented data quality validation. My experience also includes optimizing data for analytical purposes and supporting A/B testing for marketing campaigns. I am eager to apply these skills to support AI/ML model data preparation and analyze datasets for automation opportunities at AARATECH.
+
+I am particularly drawn to AARATECH's mission of delivering innovative solutions and believe my experience in data analysis, automation, and developing data-driven insights would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

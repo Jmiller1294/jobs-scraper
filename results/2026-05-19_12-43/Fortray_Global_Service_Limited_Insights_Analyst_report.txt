@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Insights Analyst
+Company:  Fortray Global Service Limited
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4415933178
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 92/100
+[██████████████████░░] 92%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • Reporting
+  • Dashboard
+  • Data collection
+  • Data accuracy
+  • Data visualization
+  • Python
+  • ETL
+  • Data tracking
+  • Analytics
+  • Data analysis
+  • Presentations
+  • Stakeholder communication
+  • Operational research
+  • SOP documentation
+  • Projects
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • Google Data Analytics Certificate
+  • Internship/Projects
+  • Reporting tools
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Market research
+  • Manage tasks
+  • Meet deadlines
+  • Willingness to learn
+  • Entry-level experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong hands-on reporting and dashboard experience
+  • Proficient in SQL and relational databases
+  • Project experience with ETL and data modeling
+  • Quantified impact on operations and KPIs
+  • Certified in Google Data Analytics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Primarily early-career but has recent multi-role experience
+  • Limited explicit market research examples
+  • No explicit mention of Tableau certifications
+  • Fewer examples of formal internship vs. employment
+  • Unstated task management/deadline frameworks
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Conducted market research and operational analysis to identify emerging trends, providing actionable insights that supported a 300% increase in new customer acquisition.
+  Managed multiple high-priority analytical tasks simultaneously, consistently meeting strict project deadlines through effective documentation and JIRA-based tracking.
+  Demonstrated a strong willingness to learn new analytical tools and systems by rapidly mastering Power BI and Python to transition from manual reporting to automated pipelines.
+  Leveraged operational research methodologies to streamline business workflows, reducing process bottlenecks and improving team efficiency by 25%.
+  Collaborated cross-functionally with stakeholders to understand reporting requirements, ensuring all delivered data models and dashboards met organizational accuracy standards.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Insights Analyst opportunity with Fortray Global Service Limited. I am interested in this opportunity because of your company's commitment to data-driven decision-making and your reputation for fostering a growth-focused, collaborative environment. What interests me about working for Fortray Global Service Limited is its focus on delivering scalable, high-impact business solutions, which aligns perfectly with my professional background. I believe my proficiency in SQL and Power BI and my experience with end-to-end data pipelines would make me a strong candidate for this role. During my professional career, I have approached complex data problems with a focus on both accuracy and stakeholder needs. In fact, at Shine Masters Cleaning Services, I was tasked with identifying high-value customer segments to improve marketing ROI. I utilized historical data to build time-series models and conducted market research to understand our service utilization, resulting in a 300% increase in new customer acquisition over 12 months. Ultimately, I know that the Insights Analyst role at Fortray Global Service Limited would allow me to bring my technical skills in data visualization to help your team effectively track performance. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my data storytelling and presentation skills. I analyzed a 250K+ row dataset to uncover demographic patterns and presented these findings to stakeholders to support actionable city safety initiatives. This experience taught me how to bridge the gap between technical data collection and clear, executive-level reporting. I’m excited by the opportunity to use my analytical mindset in working on trend reporting and operational research at Fortray Global Service Limited. I know that my technical versatility and my commitment to data accuracy align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

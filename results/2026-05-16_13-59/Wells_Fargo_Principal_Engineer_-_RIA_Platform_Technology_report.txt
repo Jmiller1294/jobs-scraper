@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal Engineer - RIA Platform Technology
+Company:  Wells Fargo
+Location: Iselin, NJ
+URL:      https://www.linkedin.com/jobs/view/4406834686
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • SQL
+  • Python
+  • PostgreSQL
+  • Git
+  • APIs
+  • AWS
+  • JIRA
+  • Confluence
+  • Data modeling
+  • ETL
+  • Relational databases
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • Java
+  • Spring Boot
+  • React.js
+  • Microservices
+  • Kafka
+  • MongoDB
+  • Distributed systems
+  • Resiliency
+  • Scalability
+  • Observability
+  • Security
+  • Performance
+  • Cloud-native
+  • CI/CD
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • ETL and data modeling expertise
+  • Python-based analytics and automation
+  • Experience with APIs and integrations
+  • Tools for collaboration (Git, JIRA, Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java / Spring Boot experience listed
+  • No React.js or frontend framework experience for role
+  • Lacks Kafka, MongoDB, and microservices evidence
+  • Limited cloud-native / platform engineering detail
+  • No documented resiliency/performance engineering achievements
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

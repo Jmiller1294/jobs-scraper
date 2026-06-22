@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer, Data [33019]
+Company:  Stealth Startup
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4423147189
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • BigQuery
+  • Airflow
+  • dbt
+  • ELT
+  • data quality
+  • Great Expectations
+  • GCS
+  • data ingestion
+  • ETL pipelines
+  • data modeling
+  • dimensional modeling
+  • CI/CD
+  • GitHub Actions
+  • Snowflake
+  • Postgres
+  • data validation
+  • Power BI
+  • analytics
+  • cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • geospatial
+  • imputation
+  • web-scraped
+  • Foot-traffic
+  • reverse geocoding
+  • trade area analysis
+  • census datasets
+  • licensed proprietary data
+  • cross-shopping
+  • mobility
+  • transaction data
+  • demographic modeling
+  • population statistics
+  • OLTP
+  • serving enriched datasets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Production ELT pipelines with Airflow and dbt
+  • BigQuery and GCS cloud experience
+  • Automated data quality with Great Expectations
+  • CI/CD via GitHub Actions
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit geospatial processing experience
+  • No mention of foot-traffic or mobility datasets
+  • Limited demonstrated years in data engineering roles
+  • No explicit work with licensed proprietary data
+  • No OLTP or serving-layer technologies detailed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

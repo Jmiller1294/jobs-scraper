@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quality Measurement Data Manager
+Company:  Stony Brook Medicine
+Location: East Setauket, NY
+URL:      https://www.linkedin.com/jobs/view/4391652165
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data abstraction
+  • quality reporting
+  • electronic medical record
+  • Excel
+  • SQL
+  • Power BI
+  • reporting
+  • data validation
+  • ad-hoc reporting
+  • process improvement
+  • project collaboration
+  • documentation
+  • Python
+  • ETL
+  • data modeling
+  • presentation
+  • workflow
+  • stakeholder communication
+  • IT collaboration
+  • Advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • clinical chart review
+  • CMS
+  • TJC
+  • registry reporting
+  • gap analysis
+  • medical/surgical experience
+  • clinical/chart abstraction experience
+  • Registered Nurse
+  • Bachelor’s degree in nursing
+  • health care regulatory
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data engineering (SQL, ETL, Python)
+  • reporting & visualization (Power BI, Tableau)
+  • process improvement with quantified impact
+  • cross-functional collaboration experience
+  • advanced Excel skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no nursing or clinical background
+  • no explicit clinical chart abstraction experience
+  • no CMS/TJC or registry-specific experience
+  • limited healthcare quality reporting background
+  • fewer years of direct clinical experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

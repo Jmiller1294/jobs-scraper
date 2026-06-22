@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Post Trade Applications Production Engineer
+Company:  hackajob
+Location: Hanover, NJ
+URL:      https://www.linkedin.com/jobs/view/4415445817
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • automation
+  • Python
+  • SQL
+  • ETL
+  • documentation
+  • monitoring
+  • reporting
+  • Power BI
+  • cloud
+  • AWS
+  • BigQuery
+  • Snowflake
+  • Git
+  • JIRA
+  • Confluence
+  • capacity planning
+  • root cause analysis
+  • operational procedures
+  • knowledge management
+  • performance tuning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • incident management
+  • service management
+  • capacity management
+  • service transition
+  • risk & control
+  • SLA
+  • service acceptance criteria
+  • remediation actions
+  • service level management
+  • major incidents
+  • availability
+  • scalability
+  • system outages
+  • operational deliverables
+  • regulatory systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL pipelines
+  • Reporting and dashboard development (Power BI)
+  • Cloud data platforms (AWS, Snowflake, BigQuery)
+  • Documentation and ticketing (JIRA, Confluence, Git)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit incident/service management experience
+  • No direct experience with SLAs or major incident leadership
+  • Little evidence of capacity/regulatory system management
+  • No explicit risk & control or audit coordination experience
+  • Limited demonstrated scalability/availability engineering experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

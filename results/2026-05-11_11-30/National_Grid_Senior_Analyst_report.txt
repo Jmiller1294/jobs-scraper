@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst
+Company:  National Grid
+Location: Brooklyn, NY
+URL:      https://www.linkedin.com/jobs/view/4413038762
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • BI reporting
+  • SQL
+  • Python
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Advanced Excel
+  • data governance
+  • automation
+  • stakeholder communication
+  • process improvement
+  • data quality
+  • financial analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • financial reporting
+  • US GAAP
+  • IFRS
+  • controllership
+  • audit
+  • SAP
+  • accounting memos
+  • FP&A
+  • controls
+  • accounting memos
+  • reporting hierarchy
+  • financial structure
+  • regulatory reporting
+  • CPA
+  • regulatory reporting
+  • audit coordination
+  • technical accounting
+  • financial reporting structures
+  • governance
+  • journal entries
+  • consolidation
+  • asset accounting
+  • month-end close
+  • balance sheet reconciliations
+  • external reporting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data tooling (SQL, Python, Snowflake, BigQuery)
+  • reporting & visualization (Power BI, Advanced Excel)
+  • automation & ETL pipeline development
+  • data governance and quality implementation
+  • clear stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited/no explicit controllership/accounting experience
+  • no mention of US GAAP/IFRS application
+  • no SAP experience
+  • no CPA or progress toward CPA
+  • limited audit/public accounting background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

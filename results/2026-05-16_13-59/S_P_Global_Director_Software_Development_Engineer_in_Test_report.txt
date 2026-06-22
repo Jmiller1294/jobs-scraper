@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director Software Development Engineer in Test
+Company:  S&P Global
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4327672104
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • cloud
+  • automation
+  • observability
+  • testing
+  • team building
+  • metrics
+  • risk management
+  • governance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Quality Engineering
+  • performance
+  • security
+  • AI/ML
+  • CI/CD
+  • Java
+  • JavaScript
+  • TypeScript
+  • executive presence
+  • roadmaps
+  • compliance
+  • accessibility
+  • SDET
+  • transformation
+  • transformation at scale
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python and SQL proficiency
+  • cloud data experience (AWS, Snowflake, BigQuery)
+  • analytics and dashboarding (Power BI, Tableau)
+  • process automation and SOP creation
+  • cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited senior leadership/Director-level experience
+  • No explicit SDET/Quality Engineering roles
+  • Missing enterprise CI/CD and DevOps tooling
+  • Lacks Java/JavaScript/TypeScript experience
+  • No documented performance/security/AI testing leadership
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

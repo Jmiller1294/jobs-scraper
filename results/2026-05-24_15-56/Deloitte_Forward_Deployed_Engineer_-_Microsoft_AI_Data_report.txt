@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Forward Deployed Engineer - Microsoft AI&Data
+Company:  Deloitte
+Location: Morristown, NJ
+URL:      https://www.linkedin.com/jobs/view/4400635910
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • ETL
+  • AWS
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Version control
+  • Documentation
+  • API
+  • Production deployment
+  • Client engagement
+  • Data engineering
+  • Testing
+  • Logging
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • GenAI
+  • LLM
+  • Azure
+  • Azure AI Foundry
+  • CI/CD
+  • MLOps
+  • Microservices
+  • Spark
+  • Airflow
+  • Prompt management
+  • Model monitoring
+  • Prompt management
+  • Feature engineering
+  • Streaming
+  • IAM
+  • Networking
+  • Hybrid cloud
+  • Agentic platforms
+  • Runbooks
+  • Reference implementations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL pipelines and data models
+  • Production-focused analytics with Power BI dashboards
+  • Cross-functional collaboration and documentation
+  • Demonstrated measurable impact (quantified outcomes)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Azure/Azure AI Foundry experience
+  • Limited direct GenAI/LLM production experience
+  • No CI/CD or MLOps tooling mentioned
+  • Missing enterprise microservices/API integration details
+  • Limited cloud platform breadth (Azure/GCP gaps)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst, Marketing Analytics
+Company:  Major League Baseball (MLB)
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=423b5410cd4e3c23
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • campaign measurement
+  • audience analytics
+  • SQL
+  • data analysis
+  • Power BI
+  • Tableau
+  • Python
+  • ETL
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Google Analytics
+  • reporting
+  • visualization
+  • cross-functional collaboration
+  • presentation
+  • communication
+  • customer segmentation
+  • performance reporting
+  • campaign analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • Marketing Mix Modeling
+  • attribution
+  • survey design
+  • tagging
+  • tracking
+  • Adobe
+  • paid media
+  • MarTech
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Dashboarding and visualization (Power BI, Tableau)
+  • Experience with ETL and data pipelines
+  • Cross-functional collaboration
+  • Quantified impact on KPIs
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit MMM experience
+  • Limited attribution measurement evidence
+  • No Adobe Analytics experience listed
+  • Survey/control study design not shown
+  • Paid media/MarTech familiarity limited
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

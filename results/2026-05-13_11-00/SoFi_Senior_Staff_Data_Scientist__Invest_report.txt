@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Staff Data Scientist, Invest
+Company:  SoFi
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4383456212
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Tableau
+  • A/B testing
+  • Experimentation
+  • KPI measurement
+  • BigQuery
+  • Snowflake
+  • Data pipelines
+  • ETL/ELT
+  • Data governance
+  • Statistical modeling
+  • Presentation skills
+  • Stakeholder collaboration
+  • Automation
+  • CI/CD
+  • Data instrumentation
+  • Power BI
+  • Advanced Excel
+  • PostgreSQL
+  • MySQL
+  • Git
+  • Data quality
+  • Customer segmentation
+  • Campaign measurement
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Wealth Management
+  • Fintech
+  • P&L drivers
+  • Funnel conversion
+  • Churn analysis
+  • Product analytics
+  • Invest P&L
+  • Trading activity
+  • Account funding
+  • Recurring deposits
+  • Market data
+  • Investment industry
+  • MBA
+  • 8+ years experience
+  • 2+ years management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Experience building ELT pipelines (BigQuery/Snowflake)
+  • Quantitative/statistical modeling and A/B testing
+  • Data visualization and reporting (Tableau/Power BI)
+  • Successful stakeholder communication and automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited domain experience in Invest/Wealth Management
+  • Less than required senior tenure (role experience ~3 years)
+  • No explicit P&L or brokerage market-data experience
+  • Limited documented management experience
+  • MBA or advanced quantitative degree not listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

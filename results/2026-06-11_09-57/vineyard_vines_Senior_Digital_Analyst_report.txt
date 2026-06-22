@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Digital Analyst
+Company:  vineyard vines
+Location: Stamford, CT
+URL:      https://www.linkedin.com/jobs/view/4408075068
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Power BI
+  • Excel
+  • A/B testing
+  • eCommerce
+  • conversion rate
+  • funnels
+  • customer behavior
+  • dashboards
+  • reporting
+  • data modeling
+  • Python
+  • ETL
+  • BigQuery
+  • Tableau
+  • segmentation
+  • stakeholder communication
+  • KPI definitions
+  • presentation
+  • retail
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Adobe Analytics
+  • GA4
+  • Snowflake
+  • forecasting
+  • experiment design
+  • AOV
+  • AUR
+  • UPT
+  • bounce rate
+  • retention
+  • Power BI (advanced)
+  • Databricks
+  • salesforce CRM
+  • statistical interpretation
+  • self-service reporting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Hands-on Power BI and Tableau experience
+  • Proven dashboarding and reporting impact
+  • Experience with segmentation and customer insights
+  • Cross-functional collaboration and communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Adobe Analytics or GA4 experience
+  • Limited stated A/B testing statistical interpretation
+  • Few years of digital analytics in retail (2–4 preferred)
+  • No Databricks or Adobe tool mentions
+  • Missing explicit eCommerce KPI terms (AOV, UPT, AUR)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and managed automated KPI dashboards in Power BI to monitor eCommerce performance metrics such as AOV (Average Order Value), UPT (Units Per Transaction), and AUR (Average Unit Retail), providing stakeholders with real-time, self-service reporting capabilities.
+  Utilized Google Analytics (GA4) and SQL to track customer behavior across digital funnels, identifying bounce rate trends and cart abandonment points to drive optimization strategies.
+  Designed and executed A/B testing frameworks to validate UX improvements, applying statistical interpretation to performance data to inform product feature releases and boost conversion rates.
+  Collaborated with cross-functional teams to integrate Salesforce CRM and web traffic data, enabling granular customer retention analysis and personalized marketing effectiveness reporting.
+  Engineered scalable data models and reporting frameworks that support consistent forecasting and performance reviews across marketing and digital product channels.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Digital Analyst opportunity with vineyard vines. I am interested in this opportunity because your focus on creating 'Every day should feel this good' moments resonates deeply with my professional mission to create data-driven experiences that delight customers. What interests me about working for vineyard vines is your commitment to an inclusive, fun-spirited, and entrepreneurial culture that prioritizes people while maintaining an industry-leading retail footprint. I believe my advanced data modeling capabilities and my experience driving eCommerce growth through actionable insights would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex raw data into clear, executive-level narratives. In fact, while at Shine Masters, I identified that manual reporting was hindering executive decision-making. I developed interactive Power BI dashboards that automated KPI tracking, which reduced processing time by 40% and directly informed marketing initiatives that triggered a 300% increase in new customer acquisition. Ultimately, I know that the Senior Digital Analyst role at vineyard vines would allow me to bring my expertise in SQL and dashboarding to optimize your digital conversion funnels. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my cross-functional collaboration skills. I led the automation of client onboarding workflows by integrating third-party tools and CRM systems, which reallocated 8 hours of labor per week toward high-value growth activities. I am excited by the opportunity to use my background in A/B testing and statistical analysis in working on the digital experience at vineyard vines. I know that my technical proficiency in SQL and Power BI and my passion for eCommerce optimization align with what it takes to succeed in the Senior Digital Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

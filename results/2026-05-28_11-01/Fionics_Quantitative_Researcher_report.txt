@@ -1,0 +1,84 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quantitative Researcher
+Company:  Fionics
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4419045359
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • Time series
+  • Data modeling
+  • Data pipelines
+  • Tableau
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+  • Risk analysis
+  • Portfolio analysis
+  • Automation
+  • Statistical analysis
+  • Data visualization
+  • Advanced Excel
+  • Pandas
+  • Data cleaning
+  • API integration
+  • JIRA
+  • Confluence
+  • MySQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Backtesting
+  • Quantitative
+  • Equities
+  • Options
+  • Fixed income
+  • Commodities
+  • Crypto
+  • Alpha generation
+  • Execution
+  • High-frequency
+  • Factor modeling
+  • Stochastic modeling
+  • Monte Carlo
+  • Order management
+  • Portfolio optimization
+  • Machine learning
+  • C++
+  • Java
+  • Matlab
+  • P&L attribution
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data pipeline experience
+  • Practical time-series and risk analysis projects
+  • Effective data visualization and dashboarding
+  • Experience with cloud warehouses (BigQuery, Snowflake)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit quant trading or backtesting experience
+  • Lacks domain experience in listed asset classes
+  • Under 3 years at tier-1 quant firms
+  • No demonstrated execution or order-management skills
+  • Limited advanced quantitative/math tooling (C++, Matlab)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

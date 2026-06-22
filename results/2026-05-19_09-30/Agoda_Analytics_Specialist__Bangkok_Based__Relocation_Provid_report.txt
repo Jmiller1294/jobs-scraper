@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analytics Specialist (Bangkok Based, Relocation Provided)
+Company:  Agoda
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4410545150
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • data analysis
+  • data visualization
+  • ETL
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • R
+  • PostgreSQL
+  • reporting
+  • Dashboards
+  • customer segmentation
+  • campaign measurement
+  • Google Analytics
+  • advanced Excel
+  • data pipelines
+  • communication
+  • business intelligence
+  • data modeling
+  • machine learning
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • A/B testing
+  • SAS
+  • SPSS
+  • VBA
+  • Power BI (duplicate excluded)
+  • statistics
+  • marketing analytics (explicit phrase)
+  • visualization tools (generic)
+  • Microsoft SQL Server
+  • data mining
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Proven dashboarding with Tableau/Power BI
+  • Experience building ETL and data pipelines
+  • Quantified impact in analytics roles
+  • Cross-functional collaboration and communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit A/B testing experience
+  • No SAS/SPSS/VBA listed
+  • Only 0–3 years’ direct analytics experience post-degree
+  • No explicit machine learning production deployments
+  • Limited enterprise marketing platform depth (e.g., Salesforce usage brief)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized marketing performance by conducting A/B testing on campaign ad structures and bidding strategies, utilizing statistical methods to drive a 300% increase in customer acquisition.
+  Applied statistical modeling and data mining techniques to analyze 2M+ loan records, identifying key borrower segments and default risk patterns.
+  Leveraged advanced Excel (including VBA for automation) to build standardized reporting templates that reduced data reconciliation time by 40%.
+  Partnered with cross-functional teams to translate complex marketing analytics requirements into actionable business intelligence dashboards, directly influencing high-level strategy.
+  Integrated diverse data sources to perform deep-dive marketing analytics, applying regression-based statistics to forecast campaign ROI and customer lifetime value.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Analytics Specialist (Bangkok Based, Relocation Provided) opportunity with Agoda. I am interested in this opportunity because of Agoda’s reputation as a global leader in data-driven travel innovation and its commitment to fostering a world-class environment for performance marketing analysts. What interests me about working for Agoda is its culture of experimentation and the use of data science to scale marketing programs; this inspires me because I am passionate about turning raw data into strategic global growth. I believe my proficiency in Python and SQL-based data modeling and my experience in performance marketing analytics would make me a strong candidate for this role. During my professional career, I have approached problems with a data-first mindset, focusing on both efficiency and actionable impact. In fact, at Shine Masters, I identified a bottleneck in our customer acquisition strategy by analyzing performance data and building a time-series model. By implementing these data-driven insights and automating the intake workflow, I contributed to a 300% increase in new customer acquisition over 12 months. Ultimately, I know that the Analytics Specialist role at Agoda would allow me to bring my data modeling skills to optimize campaign performance and bidding strategies. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my A/B testing and statistical analysis skills. I designed experiments to test new outreach methods, carefully tracking metrics to ensure our resource allocation was optimized based on objective evidence. This resulted in a 25% improvement in overall team efficiency and provided the foundation for scalable, high-value customer segmentation. I am excited by the opportunity to use my background in Python and Tableau in working on large-scale marketing experimentation at Agoda. I know that my analytical toolkit and my drive to make an impact align with what it takes to succeed at the Analytics Specialist role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

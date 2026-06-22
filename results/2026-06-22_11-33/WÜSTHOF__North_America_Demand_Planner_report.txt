@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Demand Planner
+Company:  WÜSTHOF, North America
+Location: Milford, CT
+URL:      https://www.linkedin.com/jobs/view/4430543528
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • SQL
+  • Python
+  • data analysis
+  • time series
+  • BI dashboards
+  • cross-functional collaboration
+  • reporting
+  • process improvement
+  • KPIs
+  • data visualization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (21)
+  • demand planning
+  • SIOP
+  • forecasting
+  • inventory planning
+  • forecast accuracy
+  • ERP
+  • SAP
+  • MRP
+  • supply chain
+  • production planning
+  • logistics
+  • service levels
+  • import/export
+  • supply planning
+  • monthly demand plans
+  • forecast generation
+  • forecast alignment
+  • S&OP
+  • supply and demand
+  • inventory KPIs
+  • supply chain operations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong BI and visualization (Power BI, Tableau)
+  • Advanced Excel proficiency
+  • SQL and Python for analysis and ETL
+  • Experience building dashboards and KPIs
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit demand planning or SIOP/S&OP experience
+  • No ERP/MRP (SAP/Kinaxis) listed
+  • Limited supply chain / logistics domain experience
+  • Less than required 5+ years in demand planning role
+  • No explicit inventory or production planning achievements
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

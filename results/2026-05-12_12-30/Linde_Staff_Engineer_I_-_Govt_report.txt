@@ -1,0 +1,84 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Staff Engineer I - Govt
+Company:  Linde
+Location: New Providence, NJ
+URL:      https://www.linkedin.com/jobs/view/4404323464
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • PostgreSQL
+  • MySQL
+  • Git
+  • Windows
+  • Linux
+  • Troubleshooting
+  • Automation
+  • ETL
+  • Reporting
+  • Testing
+  • Documentation
+  • Data acquisition
+  • DAQ
+  • Embedded systems
+  • Signal processing
+  • Instrumentation
+  • PostgreSQL
+  • Power BI
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • C/C++
+  • Assembly
+  • PLC programming
+  • Vacuum systems
+  • Gas flow systems
+  • Radiation detection
+  • Radioactive counting systems
+  • Scintillation counters
+  • Geiger-Müller
+  • Spectroscopy
+  • Modbus
+  • TCP/IP
+  • Delphi/Pascal
+  • FORTRAN
+  • Safety standards
+  • DOD clearance
+  • Security clearance
+  • Hardware control
+  • Laboratory instrumentation
+  • Calibration
+  • Industrial controls
+  • Relational databases (explicit SQL expertise)
+  • Signal processing (advanced)
+  • Hardware debugging
+  • US citizenship
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Practical ETL and automation skills
+  • Experience with relational databases
+  • Version control and collaborative development (Git)
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No evidence of C/C++ or low-level programming
+  • No proven PLC or industrial control experience
+  • No domain experience with radiation detection or gas/vacuum systems
+  • No mention of DOD clearance or US citizenship
+  • Limited hands-on hardware/embedded project examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

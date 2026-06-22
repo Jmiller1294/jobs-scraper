@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Healthcare Excel Expert - AI Trainer
+Company:  Mercor
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4423920744
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Advanced Excel
+  • PivotTables
+  • Power Query
+  • Power BI
+  • VLOOKUP
+  • Python
+  • SQL
+  • Dashboards
+  • Automation
+  • ETL
+  • Data analysis
+  • Data visualization
+  • Tableau
+  • Git
+  • BigQuery
+  • Snowflake
+  • Written communication
+  • Problem-solving
+  • US-based
+  • 20 hours/week
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • XLOOKUP
+  • INDEX/MATCH
+  • dynamic arrays
+  • Power Pivot
+  • macros/VBA
+  • Healthcare domain
+  • Data modeling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Advanced Excel & PivotTables experience
+  • Strong SQL and Python skills
+  • Dashboard and visualization delivery (Power BI, Tableau)
+  • Proven automation and ETL implementation
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Healthcare domain experience listed
+  • Missing explicit XLOOKUP/INDEX-MATCH/dynamic arrays examples
+  • No macros/VBA or Power Pivot evidence
+  • Title not Excel-focused (Data Analyst/Developer)
+  • Unclear weekday 20+ hrs availability
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

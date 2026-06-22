@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Middle School Teaching Fellow (PA II)
+Company:  Harlem Children's Zone
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4381057861
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Bachelor's degree
+  • collaboration
+  • professional development
+  • relationship building
+  • documentation
+  • project-based work
+  • data analysis
+  • communication
+  • teamwork
+  • Google Suite
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • lesson planning
+  • classroom management
+  • student assessment
+  • differentiated instruction
+  • parent communication
+  • behavioral standards
+  • standards-aligned curriculum
+  • master's enrollment
+  • NY teaching certification
+  • direct instruction
+  • group activities
+  • hands-on projects
+  • instructional coaching
+  • K-12
+  • student progress monitoring
+  • curriculum design
+  • relationship building
+  • student growth
+  • high academic expectations
+  • 10-month school year
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Bachelor's degree in Computer Science
+  • Strong data analysis and reporting skills
+  • Quantified impact on KPIs and operations
+  • Experience with collaboration and documentation
+  • Technical proficiency with tools (Power BI, SQL, Python)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No teaching certification or enrollment noted
+  • No explicit K-12 classroom teaching experience
+  • Limited evidence of lesson planning or classroom management
+  • No documented experience with parent engagement
+  • No explicit use of standards-aligned curriculum
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

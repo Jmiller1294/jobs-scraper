@@ -1,0 +1,96 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Stock Surveillance Analytical Researcher
+Company:  Innisfree M&A Incorporated
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4413055501
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • Tableau
+  • Power BI
+  • Advanced Excel
+  • PowerPoint
+  • Data analysis
+  • ETL
+  • BigQuery
+  • Snowflake
+  • Pandas
+  • Automation
+  • Reporting
+  • Data visualization
+  • Data quality
+  • Presentation
+  • Git
+  • PostgreSQL
+  • MySQL
+  • AWS S3
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Bloomberg/FactSet
+  • Financial data
+  • Stock market
+  • Stock valuation
+  • Settlement data
+  • Investor ownership
+  • Option trading
+  • VBA
+  • CFA
+  • Technical analysis
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL ETL experience
+  • Experience with BI tools (Tableau, Power BI)
+  • Proven automation and reporting impact
+  • Data quality and pipeline engineering
+  • Clear presentation and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit finance/stock market experience
+  • No Bloomberg or FactSet experience listed
+  • No VBA or Excel macros stated
+  • No CFA or finance credential
+  • Minimal direct settlement/ownership analysis examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Analyzed 250K+ row NYPD arrest dataset using Python (Pandas, NumPy) to identify demographic and geographic patterns, demonstrating segmentation-oriented analytical methods and extracting insights from large, complex datasets.
+  Modeled raw API data into a dbt star schema to optimize query performance for time-series economic data ingestion into BigQuery, demonstrating experience with financial data structures and query optimization.
+  Developed Python automation for weekly sales and operations reports, ingesting POS and CRM data and integrating multiple datasets from APIs and PostgreSQL warehouses, showcasing ETL and data integration skills relevant to financial data.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing statistical evidence to optimize marketing spend, mirroring the need for analytical research into investor behavior.
+  Collaborated with product managers to align features with business objectives, streamlining the software development workflow and reducing delivery delays by 25%, demonstrating initiative and ability to manage multiple project requests.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Innisfree M&A Incorporated
+
+Dear Hiring Manager,
+
+I am excited to apply for the Stock Surveillance Analytical Researcher position at Innisfree M&A Incorporated. With my background in data analysis, Python, SQL, and advanced visualization tools, I am confident I would be a strong addition to your team.
+
+Innisfree M&A's reputation as the premier high-stakes shareholder engagement firm, consistently recognized for its leadership in proxy solicitation and its proprietary ActiveIQ™ methodology, deeply resonates with my passion for leveraging data to drive strategic decisions.
+
+In my previous roles, I have developed robust data pipelines and analytical models to identify key trends and inform strategic initiatives. Additionally, I have a proven track record of transforming complex datasets into actionable insights through advanced data analysis and reporting, which directly aligns with your need for in-depth reports explaining stock ownership changes, trading volumes, and other market activity.
+
+My experience includes developing Python automation for weekly sales and operations reports, ingesting data from various sources and integrating multiple datasets, which showcases my ability to handle large, complex, and dynamic data sets. Furthermore, my project analyzing over 250,000 NYPD arrest records using Python (Pandas, NumPy) to identify demographic and geographic patterns demonstrates my capability in segmentation-oriented analytical methods and extracting meaningful insights from substantial datasets, skills directly transferable to analyzing investor buying and selling activity.
+
+I am particularly drawn to Innisfree M&A's mission of providing critical information, best-in-class analytics, and actionable recommendations to its clients and believe my experience in data analysis, automation, and presentation would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

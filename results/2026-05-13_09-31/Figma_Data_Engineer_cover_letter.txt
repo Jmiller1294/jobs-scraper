@@ -1,0 +1,20 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineer opportunity with Figma. I am interested in this opportunity because I am deeply impressed by Figma's mission to make design accessible to all and its innovative approach to empowering teams through its platform.
+
+What interests me about working for Figma is its commitment to fostering a collaborative and fast-paced environment where creativity and efficiency are paramount. This resonates with my own approach to problem-solving and my passion for building scalable data solutions.
+
+I believe my strong proficiency in SQL and Python, coupled with my hands-on experience in building and maintaining data pipelines, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a blend of technical expertise and strategic thinking. In fact, in my project 'FRED Economic Batch Pipeline,' I built a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery using Python, Airflow, dbt, and GCS. I incorporated Great Expectations for automated data quality validation and deployed a CI/CD pipeline via GitHub Actions. This project demonstrated my ability to develop foundational datasets that are trusted, well-understood, and enable self-service analytics, reducing analyst query time through dbt star schema modeling with BigQuery partitioning and clustering.
+
+Ultimately, I know that the Data Engineer role at Figma would allow me to bring my expertise in building scalable data pipelines to supporting the company's next phase of growth. Additionally, my role as an Analytics & Operations Lead at Shine Masters Cleaning Services enabled me to develop my stakeholder collaboration and automation skills. In that role, I automated recurring business operations and reporting workflows, reducing manual tasks by 30% and freeing up team capacity for higher-value work. I also built a business intelligence reporting system that identified inefficiencies, driving a 40% improvement in operational efficiency.
+
+I’m excited by the opportunity to use my data modeling and pipeline development skills in working on core data models and new foundational datasets at Figma. I know that my proficiency in SQL, Python, and cloud data platforms like BigQuery and Snowflake, alongside my experience with dbt and CI/CD practices, align with what it takes to succeed in the Data Engineer role.
+
+I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

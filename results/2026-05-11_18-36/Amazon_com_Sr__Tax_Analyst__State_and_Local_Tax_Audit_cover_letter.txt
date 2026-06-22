@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Sr. Tax Analyst, State and Local Tax Audit opportunity with Amazon.com. I am interested in this opportunity because of Amazon's commitment to innovation and its critical role in navigating complex regulatory environments, which aligns with my passion for data-driven problem-solving in analytical roles.
+
+What interests me about working for Amazon.com is its approach to leveraging technology to drive efficiency and accuracy. This excites, inspires, and intrigues me because it directly mirrors my professional experience in building automated data solutions and deriving actionable insights from complex datasets.
+
+I believe my proficiency in SQL and Python, coupled with my experience in data automation and process improvement, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data integrity and operational efficiency. In fact, at Shine Masters Cleaning Services, I built Python automation for weekly sales and operations reports, ingesting POS and CRM data. This eliminated repetitive data entry, saving 8 hours per week, and significantly improved reporting accuracy, leading to faster strategic decisions. This resulted in a 40% improvement in work efficiency and a reduction in data mismatches, showcasing my ability to enhance reporting accuracy and streamline processes.
+
+Ultimately, I know that the Sr. Tax Analyst, State and Local Tax Audit role at Amazon.com would allow me to bring my analytical rigor and process improvement skills to preparing and analyzing data in response to Information Document Requests. Additionally, my experience as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data governance skills. I standardized organizational KPIs and data governance frameworks, ensuring cross-functional alignment and a consistent "single source of truth" for all business stakeholders, which reduced report discrepancies. I’m excited by the opportunity to use my data analysis and automation skills in working on tax audit matters with government agencies at Amazon.com.
+
+I know that my strong analytical experience and proven ability to drive process improvement align with what it takes to succeed at the Sr. Tax Analyst, State and Local Tax Audit role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

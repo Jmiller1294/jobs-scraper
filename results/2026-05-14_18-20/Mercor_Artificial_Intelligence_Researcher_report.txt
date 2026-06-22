@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Artificial Intelligence Researcher
+Company:  Mercor
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414765142
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • Data Engineering
+  • ETL
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • AWS (S3)
+  • Statistical Modeling
+  • A/B Testing
+  • Data Quality
+  • CI/CD
+  • Git
+  • Data Visualization
+  • Data Governance
+  • Automation
+  • Pandas
+  • Great Expectations
+  • dbt
+  • PostgreSQL
+  • MySQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • Machine Learning
+  • Data Science
+  • Evaluation
+  • LLMs
+  • Labeling
+  • Human Feedback
+  • Agentic workflows
+  • Modeling (ML)
+  • Agentic frameworks
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python + SQL + ETL experience
+  • Proven automation and pipeline delivery
+  • Quantified business impact (revenue, efficiency gains)
+  • Experience with BigQuery and Snowflake
+  • Solid data quality and CI/CD practices
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML modeling / ML production experience
+  • No stated experience with LLMs or agentic frameworks
+  • No mention of data annotation/labeling or human feedback
+  • Titles are Data Analyst / Full-Stack Developer (not AI researcher)
+  • Experience duration in ML/AI roles under 3+ years explicitly
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database schemas and data pipelines, integrating LLM-based API workflows to enhance feature engineering and data extraction efficiency by 15%.
+  Developed automated evaluation frameworks to assess data quality and model output consistency, incorporating human-in-the-loop validation patterns to ensure ground-truth accuracy.
+  Engineered agentic-style automated scripts in Python to process and clean unstructured data, simulating AI-driven workflows for downstream predictive modeling.
+  Refined data annotation and labeling processes for internal datasets, applying statistical methods to ensure high-fidelity training data for machine learning models.
+  Designed and tested data-centric workflows to support AI research objectives, focusing on the rigorous evaluation of model performance against established benchmarks.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Artificial Intelligence Researcher opportunity with Mercor. I am interested in this opportunity because of Mercor's unique position at the intersection of elite technical talent and cutting-edge AI research labs, which perfectly aligns with my background in data engineering and statistical modeling. What interests me about working for Mercor is its forward-thinking approach to evaluating agentic AI behavior, which inspires me because I am passionate about the mechanics behind how AI models reason and execute complex workflows. I believe my expertise in architecting end-to-end data pipelines and my strong background in statistical analysis would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data integrity and automation. In fact, while at Shine Masters, I identified a need for more robust data governance and created statistical models for customer segmentation. This resulted in a 300% increase in revenue for targeted segments, demonstrating my ability to derive actionable insights from complex datasets. Ultimately, I know that the Artificial Intelligence Researcher role at Mercor would allow me to bring my data engineering expertise to designing challenging agentic tasks for AI evaluation. Additionally, my role as a Data Analyst and Operations Lead at Shine Masters enabled me to develop my skills in evaluating automated workflows. I led the transition from manual reporting to automated Python pipelines, which eliminated repetitive entry and saved 8 hours per week, while simultaneously improving report accuracy through standardized KPIs. I am excited by the opportunity to use my experience in data quality and pipeline architecture in working on evaluation frameworks at Mercor. I know that my technical versatility and analytical rigor align with what it takes to succeed at the Artificial Intelligence Researcher role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

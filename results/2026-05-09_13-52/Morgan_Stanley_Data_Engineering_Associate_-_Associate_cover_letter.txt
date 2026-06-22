@@ -1,0 +1,17 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineering Associate - Associate opportunity with Morgan Stanley. I am interested in this opportunity because the role's focus on leveraging innovation to build data capabilities that power decision-making and redefine markets aligns perfectly with my passion for data engineering and its impact.
+
+What interests me about working for Morgan Stanley is its reputation as a global leader in financial services, continuously evolving and innovating to better serve clients and communities. This commitment to excellence and forward-thinking approach excites and inspires me because it mirrors my own drive to contribute meaningfully to impactful projects.
+
+I believe my strong Python skills and experience with cloud-based data platforms, coupled with my academic background and project-based learning, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on building robust and efficient data solutions. In fact, in my FRED Economic Batch Pipeline project, I designed and implemented a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery using Python, Airflow, and dbt. I modeled raw API data into a dbt star schema, reducing analyst query time through BigQuery partitioning and clustering, automating data quality validation with Great Expectations, and deploying a CI/CD pipeline via GitHub Actions. Ultimately, I know that the Data Engineering Associate - Associate role at Morgan Stanley would allow me to bring my expertise in building scalable data pipelines to the key responsibility of supporting the design and development of big data pipelines and distributed data processing systems.
+
+Additionally, my experience as a Data Analytics Fellow and my work on projects like the NYPD Arrests Analysis enabled me to develop my analytical and problem-solving skills. For instance, while analyzing over 100,000 NYC arrest records, I cleaned and identified patterns across boroughs, demographics, and offense categories using Python (Pandas, NumPy) to produce actionable insights for crime prevention strategy. This experience honed my ability to extract meaningful conclusions from complex datasets and present them effectively.
+
+I’m excited by the opportunity to use my Python skills and cloud platform knowledge in working on large-scale data pipelines and distributed data processing systems at Morgan Stanley. I know that my Python proficiency and my experience with data modeling and ELT pipelines align with what it takes to succeed at the Data Engineering Associate - Associate role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

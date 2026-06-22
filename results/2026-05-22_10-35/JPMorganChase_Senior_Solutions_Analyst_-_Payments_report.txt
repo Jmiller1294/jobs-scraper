@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Solutions Analyst - Payments
+Company:  JPMorganChase
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4387643928
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • data analytics
+  • SQL
+  • Python
+  • ETL
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Tableau
+  • Power BI
+  • documentation
+  • JIRA
+  • agile
+  • data modeling
+  • stakeholder management
+  • requirements analysis
+  • test cases
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • ISO 20022
+  • MX messages
+  • Cross Border Payments
+  • Real Time Payments
+  • Payments domain
+  • Solution Analyst
+  • interface mapping
+  • UAT
+  • interface mapping
+  • front to back system implementation
+  • ISO CBPR+
+  • corporate and investment banking
+  • transaction processing
+  • CBPR+
+  • risk identification
+  • technical architecture
+  • functional requirements
+  • proven payments delivery
+  • 10+ years as Solution Analyst
+  • 15 years experience
+  • business and technology stakeholders
+  • communication
+  • problem solving
+  • analytical skills
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • ETL and data modeling skills
+  • Visualization with Tableau/Power BI
+  • Documentation and JIRA/Confluence usage
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No payments domain experience listed
+  • No ISO 20022 / MX messaging experience
+  • Insufficient senior Solutions Analyst tenure
+  • No interface mapping or CBPR+ experience
+  • Limited corporate/investment banking exposure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

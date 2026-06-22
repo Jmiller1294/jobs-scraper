@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quick Deposit UAT Senior Associate
+Company:  JPMorganChase
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414621219
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • SQL
+  • API
+  • Python
+  • Git
+  • CI/CD
+  • data modeling
+  • test execution
+  • documentation
+  • communication
+  • time management
+  • stakeholder collaboration
+  • integration testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • UAT
+  • User Acceptance Testing
+  • Agile
+  • JIRA
+  • test cases
+  • test plans
+  • defect management
+  • mobile testing
+  • manual test scripts
+  • test automation
+  • regression testing
+  • stakeholder collaboration
+  • SeeTest
+  • Cucumber
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data modeling
+  • Python automation experience
+  • CI/CD and Git familiarity
+  • Quantified impact in prior roles
+  • Clear communication to stakeholders
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit UAT or QA role experience
+  • No JIRA or defect lifecycle evidence
+  • No Cucumber or UDF experience
+  • Limited mobile/SeeTest testing experience
+  • Agile testing methodology not documented
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

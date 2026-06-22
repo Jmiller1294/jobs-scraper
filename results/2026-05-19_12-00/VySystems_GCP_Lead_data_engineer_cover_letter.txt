@@ -1,0 +1,14 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the GCP Lead Data Engineer opportunity with VySystems. I am interested in this opportunity because VySystems' commitment to leveraging cutting-edge cloud technologies for data-driven solutions deeply resonates with my professional passion and expertise. What interests me about working for VySystems is its innovative approach to cloud data engineering excites inspires intrigues me because it directly aligns with my experience in building scalable and high-performance data solutions.
+
+I believe my advanced SQL and Python proficiency, coupled with my extensive experience in GCP data services, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on building secure, scalable, and high-performance data pipelines. In fact, in my project 'FRED Economic Batch Pipeline,' I designed and implemented a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery using Python, Airflow, dbt, and GCS. This involved modeling raw API data into a dbt star schema, optimizing query performance through BigQuery partitioning and clustering, and automating data quality validation with Great Expectations.
+
+Ultimately, I know that the GCP Lead Data Engineer role at VySystems would allow me to bring my expertise in BigQuery, data modeling, and ELT pipeline design to key responsibilities such as designing, building, and optimizing secure, scalable, and high-performance data pipelines using GCP tools. Additionally, my role in the 'FRED Economic Batch Pipeline' project enabled me to develop my CI/CD pipeline skills. I utilized GitHub Actions to automate data quality validation and deployment processes, ensuring robust and reliable data workflows.
+
+I’m excited by the opportunity to use my data modeling and pipeline development skills in working on the design, build, and optimization of end-to-end data pipelines using GCP-native services at VySystems. I know that my strong Python and SQL proficiency and my proven ability to implement CI/CD pipelines align with what it takes to succeed in the GCP Lead Data Engineer role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

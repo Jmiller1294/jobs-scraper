@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Member of Technical Staff - Mid-Training Infra
+Company:  Reflection
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4389841642
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • Python
+  • SQL
+  • PostgreSQL
+  • AWS
+  • Git
+  • data pipelines
+  • automation
+  • performance debugging
+  • ETL
+  • BigQuery
+  • Power BI
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • GPU
+  • large-scale
+  • inference
+  • distributed systems
+  • model serving
+  • throughput
+  • latency
+  • GPU optimization
+  • kernel optimization
+  • model parallelism
+  • reinforcement learning
+  • synthetic data
+  • model evaluation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Hands-on ETL and data-pipeline experience
+  • Proven automation and process optimization
+  • Experience with cloud data tools (AWS, BigQuery, Snowflake)
+  • Quantified impact in past roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No GPU/inference systems experience
+  • No distributed RL or rollout pipeline experience
+  • No low-level GPU/kernel optimization skills
+  • Limited production infrastructure/DevOps background
+  • Titles primarily data analyst/developer, not infra/ML-systems
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

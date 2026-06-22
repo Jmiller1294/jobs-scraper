@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst -Therapeutics
+Company:  Guidepoint
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404520155
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • analytical skills
+  • communication
+  • Python
+  • SQL
+  • Power BI
+  • reporting
+  • data analysis
+  • Snowflake
+  • BigQuery
+  • Git
+  • cloud
+  • A/B testing
+  • data governance
+  • Python automation
+  • quantified results
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • biotech/pharma
+  • equity research
+  • expert interviews
+  • primary research
+  • SEC filings
+  • investment research
+  • therapeutics
+  • idea generation
+  • stakeholder engagement
+  • research methodologies
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analysis and technical stack (Python, SQL, Snowflake, BigQuery)
+  • Experience building reporting and dashboards (Power BI, Tableau)
+  • Proven automation and efficiency gains with quantified impact
+  • A/B testing and statistical modeling experience
+  • Clear measurable outcomes for past projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No biotech/pharma or therapeutics domain experience
+  • Lacks equity or investment research background
+  • No experience with SEC filings or sell-/buy-side workflows
+  • No demonstrated expert interview or primary research leadership
+  • Titles are data-focused, not research/equity analyst aligned
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

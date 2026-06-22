@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal Engineer, Assured Workloads
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414145222
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • BigQuery
+  • CI/CD
+  • ETL
+  • automation
+  • Git
+  • data governance
+  • performance
+  • scalability
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • distributed systems
+  • cloud
+  • GPU
+  • IaaS
+  • sovereign cloud
+  • architecture
+  • platform engineering
+  • AI
+  • containerization
+  • virtualization
+  • security
+  • compliance
+  • reliability
+  • mentoring
+  • technical leadership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • BigQuery and data pipeline experience
+  • CI/CD and automation implementation
+  • Quantified impact in analytics (revenue, efficiency gains)
+  • Data governance and reporting expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited large-scale infrastructure/platform experience
+  • No explicit GPU or IaaS experience
+  • No sovereign/air-gapped cloud experience
+  • Insufficient senior technical leadership/title alignment
+  • Lack of containerization/virtualization evidence
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

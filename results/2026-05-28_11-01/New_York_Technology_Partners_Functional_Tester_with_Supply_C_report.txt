@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Functional Tester with Supply Chain and Finance
+Company:  New York Technology Partners
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4420453013
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • JIRA
+  • Agile
+  • Requirement Clarification
+  • Stakeholder Communication
+  • Documentation
+  • Client Interaction
+  • SQL
+  • Automation
+  • Process Improvement
+  • Reporting
+  • Defect Management
+  • Confluence
+  • Test Design
+  • Test Execution
+  • Data Analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Functional Testing
+  • Supply Chain Finance
+  • Banking
+  • Test Cases
+  • Vendor Finance
+  • Dealer Finance
+  • Invoice Discounting
+  • PayablesReceivables Financing
+  • SME
+  • Backlog Grooming
+  • Sprint Planning
+  • Sprint Demos
+  • Retrospectives
+  • Test Management
+  • QC
+  • Test Coverage
+  • Defect Logging
+  • Retesting
+  • Closure
+  • Offshore Coordination
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data analysis skills
+  • Experience with JIRA and Confluence
+  • Agile collaboration experience
+  • Proven process automation and improvement
+  • Clear stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SCF or Banking domain experience
+  • Limited explicit functional testing background
+  • No QC/test management tools beyond JIRA noted
+  • Lacks SME/test-case creation evidence
+  • No mention of invoice/vendor/dealer finance products
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

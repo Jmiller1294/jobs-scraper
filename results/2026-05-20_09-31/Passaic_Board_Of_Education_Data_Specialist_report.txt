@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Specialist
+Company:  Passaic Board Of Education
+Location: Passaic, NJ, US
+URL:      https://www.indeed.com/viewjob?jk=b7c2561a71eb833a
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • data analysis
+  • statistical modeling
+  • Python
+  • SQL
+  • Power BI
+  • Tableau
+  • ETL
+  • data visualization
+  • reporting
+  • data validation
+  • time series
+  • project management
+  • quantitative analysis
+  • data pipelines
+  • data cleaning
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • stakeholder communication
+  • documentation
+  • advanced Excel
+  • research
+  • program evaluation
+  • data reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • teacher evaluation
+  • internal assessments
+  • education reform
+  • Board of Education
+  • state and federal reports
+  • school law
+  • New Jersey
+  • confidentiality compliance
+  • Board meetings
+  • metric development
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack (Python, SQL, Postgres)
+  • Proven reporting and dashboard delivery (Power BI, Tableau)
+  • Experience building ETL pipelines and data models
+  • Quantified impact in prior roles (efficiency and acquisition gains)
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit K-12 or education system experience
+  • Master's degree not shown
+  • Limited explicit experience with teacher evaluation metrics
+  • No explicit experience preparing state/federal education reports
+  • No mention of NJ school law or Board of Education engagement
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

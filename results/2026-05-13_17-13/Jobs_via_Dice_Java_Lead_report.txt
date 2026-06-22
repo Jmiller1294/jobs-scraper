@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Java Lead
+Company:  Jobs via Dice
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4414163645
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • CI/CD
+  • Cloud (AWS/GCP/Azure)
+  • Data architecture
+  • DevOps
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Microservice
+  • Spring Boot
+  • Spring Cloud
+  • RESTful services
+  • Kafka
+  • Swagger
+  • Spark
+  • MongoDB
+  • Flink
+  • Ab Initio
+  • Docker
+  • Kubernetes
+  • Architect
+  • Design patterns
+  • Performance tuning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python experience and ETL pipeline development
+  • Practical cloud data platform skills (BigQuery, Snowflake, AWS S3)
+  • CI/CD and automation (GitHub Actions, automated tests)
+  • Quantified impact (e.g., 40% efficiency, 300% revenue in segment)
+  • SQL and relational DB optimization (PostgreSQL)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Lacks Java, Spring, and microservices experience
+  • No Kafka, Spark, Flink, or streaming tech listed
+  • No containerization/Orchestration (Docker/Kubernetes) evidence
+  • Limited enterprise architect/design pattern experience
+  • Insufficient years of senior backend/lead development (resume shows ~3 years post-degree roles)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

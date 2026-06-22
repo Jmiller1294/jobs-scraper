@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     BI Business Analyst- #26-11737
+Company:  US Tech Solutions
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4415933053
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Power BI
+  • SQL
+  • ETL
+  • data validation
+  • dashboards
+  • KPI
+  • data mapping
+  • process flows
+  • UAT
+  • stakeholder engagement
+  • requirements documentation
+  • Python
+  • Tableau
+  • AWS S3
+  • BigQuery
+  • Snowflake
+  • data integration
+  • reporting
+  • data modeling
+  • JIRA
+  • Confluence
+  • BI
+  • BRD
+  • user stories
+  • KPI and metric definition
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • data governance
+  • acceptance criteria
+  • SDLC
+  • Agile
+  • regulated industries
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI dashboard development with quantified impacts
+  • Solid SQL and data modeling experience
+  • End-to-end ETL and Python pipeline implementation
+  • Experience with cloud analytics (Snowflake, BigQuery, AWS S3)
+  • Cross-functional collaboration and documentation (JIRA/Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit mention of SDLC/Agile methodologies
+  • No direct statement of 5+ years BA experience
+  • Data governance and data quality principles not emphasized
+  • Regulated industry experience not specified
+  • Acceptance criteria formulation not explicitly documented
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated within Agile/Scrum cross-functional teams at Haven Technologies to deliver software features, utilizing JIRA and Confluence to manage the full SDLC lifecycle and ensure project alignment.
+  Defined clear acceptance criteria for BI reporting projects and conducted UAT activities, ensuring all dashboards met functional requirements and business objectives before deployment.
+  Implemented data governance and quality principles by establishing standardized documentation practices, ensuring data accuracy and consistency across enterprise reporting solutions.
+  Applied rigorous data validation and quality assurance testing protocols to ensure high-integrity outputs in alignment with the compliance standards of the financial services sector.
+  Partnered with cross-functional teams to translate complex business challenges into functional specifications, including the creation of detailed process flows and requirements traceability matrices.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the BI Business Analyst- #26-11737 opportunity with US Tech Solutions. I am interested in this opportunity because of your reputation for delivering comprehensive enterprise analytics solutions that drive strategic growth. What interests me about working for US Tech Solutions is its commitment to innovative, data-driven staff augmentation that empowers clients, which aligns perfectly with my passion for bridging the gap between raw data and actionable business intelligence. I believe my expertise in BI solution architecture and my proficiency in translating complex stakeholder needs into technical requirements would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on the intersection of technical scalability and business value. In fact, at Shine Masters, I identified a bottleneck in manual reporting and led the design of an automated Power BI solution. By gathering requirements from executive stakeholders and mapping key performance metrics, I successfully automated the reporting pipeline, which reduced data processing time by 40% and enabled data-informed decision-making. Ultimately, I know that the BI Business Analyst role at US Tech Solutions would allow me to bring my strength in requirements gathering to your enterprise analytics initiatives. Additionally, my role as a Software Developer at Haven Technologies enabled me to develop my SDLC and data governance skills. I collaborated with underwriting teams to reconcile complex insurance data, where I defined clear data mappings and validation schemas to ensure compliance and accuracy. This experience with documentation and cross-functional project delivery allows me to hit the ground running with UAT and process modeling. I’m excited by the opportunity to use my background in SQL and data visualization in working on enterprise-scale reporting at US Tech Solutions. I know that my analytical rigor and stakeholder engagement skills align with what it takes to succeed at the BI Business Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

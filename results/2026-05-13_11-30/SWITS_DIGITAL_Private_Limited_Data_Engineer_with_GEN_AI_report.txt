@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer with GEN AI
+Company:  SWITS DIGITAL Private Limited
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414201132
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • dbt
+  • PostgreSQL
+  • SQL
+  • Pandas
+  • Airflow
+  • BigQuery
+  • GCS
+  • Snowflake
+  • Dimensional modeling
+  • Star schema
+  • ETL/ELT
+  • Data quality
+  • Great Expectations
+  • CI/CD
+  • GitHub Actions
+  • Docker
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Dagster
+  • FastAPI
+  • RAG
+  • Generative AI
+  • LangGraph
+  • Vector databases
+  • Embeddings
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python data engineering experience
+  • Proven dbt and dimensional modeling usage
+  • Advanced SQL and Postgres-related skills
+  • Experience with Airflow and production ELT pipelines
+  • Data quality and CI/CD implementation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Dagster experience listed
+  • No FastAPI or API backend examples
+  • Limited/No explicit Generative AI or LLM projects
+  • No LangGraph or RAG/vector DB exposure
+  • Title not explicitly 'Data Engineer' prior
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed backend services and APIs using Python, demonstrating foundational skills for enabling data access for AI applications.
+  Built AI agents using LangGraph to orchestrate complex workflows and facilitate the development of AI-driven solutions.
+  Implemented Retrieval Augmented Generation (RAG) pipelines and Text-to-SQL systems to enhance data interaction and AI model performance.
+  Designed and deployed ELT pipelines for ingesting Federal Reserve economic data into Google BigQuery, integrating structured and unstructured data and laying the groundwork for Generative AI applications.
+  Collaborated with stakeholders and translated user feedback into production code, gaining experience in aligning software features with business processes, which directly supports the collaborative nature of enabling LLM-powered applications.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineer with GEN AI opportunity with SWITS DIGITAL Private Limited. I am interested in this opportunity because SWITS DIGITAL's focus on leveraging cutting-edge AI technologies to solve complex data challenges aligns perfectly with my career aspirations and technical expertise. What interests me about working for SWITS DIGITAL is its innovative approach to data engineering and Generative AI integration; this excites and inspires me because I am passionate about building the foundational data infrastructure that powers the next generation of intelligent applications.
+
+I believe my strong Python data engineering experience and proven dbt and dimensional modeling usage would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on building scalable, efficient, and reliable data solutions. In fact, during my tenure at Haven Technologies, I extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs by diligently applying advanced SQL queries to validate and synchronize data across systems, improving data accuracy by 60%.
+
+Ultimately, I know that the Data Engineer with GEN AI role at SWITS DIGITAL would allow me to bring my robust data modeling and pipeline design skills to designing, building, and maintaining scalable data pipelines and data platforms that power AI/ML and GenAI applications. Additionally, my project experience with the FRED Economic Batch Pipeline enabled me to develop my ELT pipeline design and implementation skills. Specifically, I built a production-grade ELT pipeline ingesting Federal Reserve economic data from the FRED API into Google BigQuery using Python, Airflow, dbt, and GCS, modeling raw API data into a dbt star schema to reduce analyst query time and automating data quality validation with Great Expectations.
+
+I’m excited by the opportunity to use my advanced SQL and PostgreSQL skills in working on building backend services and APIs using Python and FastAPI to enable data access for AI applications at SWITS DIGITAL. I know that my strong Python data engineering experience and my proven dbt and dimensional modeling usage align with what it takes to succeed at the Data Engineer with GEN AI role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

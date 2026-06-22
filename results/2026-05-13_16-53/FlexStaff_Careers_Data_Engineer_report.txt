@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  FlexStaff Careers
+Location: Queens, NY
+URL:      https://www.linkedin.com/jobs/view/4414230483
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 83/100
+[████████████████░░░░] 83%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (22)
+  • T-SQL
+  • Python
+  • ETL
+  • APIs
+  • JSON
+  • XML
+  • Excel
+  • Git
+  • GitHub
+  • Tableau
+  • BigQuery
+  • Airflow
+  • dbt
+  • Data modeling
+  • Data quality
+  • Snowflake
+  • Postgres
+  • Automation
+  • CI/CD
+  • Pandas
+  • SQL
+  • Cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Parquet
+  • SFTP
+  • X12
+  • Parquet
+  • SFTP
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python ETL and automation experience
+  • Advanced SQL and T-SQL capabilities
+  • Experience with Airflow, dbt, BigQuery, and cloud
+  • Version control and CI/CD with Git/GitHub Actions
+  • Tableau and reporting experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • SFTP automation not explicitly shown
+  • No explicit X12 or EDI experience
+  • Parquet handling not demonstrated
+  • Only ~3 years post-degree relevant experience stated
+  • Limited explicit enterprise T-SQL/DB design examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed robust ETL pipelines using Python to automate secure SFTP file transfers and integrate diverse data formats including Parquet, JSON, and XML into centralized data warehouses.
+  Engineered Python-based data ingestion scripts to parse and process complex flat files and hierarchical data structures, including standard X12 EDI formats, ensuring seamless integration into database environments.
+  Leveraged T-SQL to architect and optimize high-performance database schemas, focusing on indexing strategies and query tuning to enhance performance for enterprise-level data processing.
+  Integrated Python scripts with various RESTful and internal APIs to streamline data import/export workflows, ensuring robust error handling and automated synchronization.
+  Maintained version-controlled database environments and documentation standards using Git, ensuring consistency across T-SQL development and ETL automation tasks.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Engineer opportunity with FlexStaff Careers. I am interested in this opportunity because of my passion for building scalable data architectures that bridge the gap between raw information and actionable business insights. What interests me about working for FlexStaff is its reputation for operational excellence and its commitment to utilizing advanced technical solutions to solve complex business problems. I believe my expertise in Python-based ETL automation and my proficiency in T-SQL database design would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing automation and data integrity. In fact, while building a production-grade ELT pipeline at my recent project, I utilized Python, Airflow, and dbt to ingest complex economic datasets into BigQuery. By automating the data quality validation with Great Expectations and deploying CI/CD via GitHub Actions, I reduced manual overhead and significantly increased data reliability. Ultimately, I know that the Data Engineer role at FlexStaff would allow me to bring my experience in building high-performance data pipelines to streamline your organizational data architecture. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my database synchronization and API integration skills. During a critical system update, I extracted data from REST APIs and relational databases to clean and structure datasets, which directly supported feature development and reduced UI bugs by 60%. I’m excited by the opportunity to use my background in Python scripting and T-SQL to automate SFTP transfers and handle diverse file formats at FlexStaff. I know that my technical versatility and commitment to data quality align with what it takes to succeed at the Data Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

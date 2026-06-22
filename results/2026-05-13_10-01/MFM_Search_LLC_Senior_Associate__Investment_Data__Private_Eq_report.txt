@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Associate, Investment Data (Private Equity)
+Company:  MFM Search LLC
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4412663356
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • ETL
+  • APIs
+  • Data quality
+  • Data governance
+  • Reporting
+  • Power BI
+  • Tableau
+  • Snowflake
+  • BigQuery
+  • Git
+  • PostgreSQL
+  • Automation
+  • Data pipeline
+  • Unit testing
+  • Data modeling
+  • Data validation
+  • Cloud (AWS S3)
+  • Data collection
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Finbourne LUSID
+  • Informatica
+  • Bloomberg
+  • Aladdin
+  • S&P i-Level
+  • Burgiss
+  • Refinitiv
+  • DevOps
+  • Azure DevOps
+  • Database administration
+  • Financial instruments
+  • Private equity
+  • Asset owner experience
+  • 4-6 years experience
+  • Metadata management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Practical cloud warehouse skills (Snowflake, BigQuery)
+  • Reporting and visualization (Power BI, Tableau)
+  • Automation and pipeline development with CI/CD exposure
+  • Data quality and governance initiatives implemented
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/absent private equity or asset-owner experience
+  • No explicit experience with industry platforms (LUSID, Aladdin, Bloomberg)
+  • Less than specified 4-6 years in investment data roles
+  • No Azure DevOps/explicit DevOps toolchain experience
+  • No clear database administration credentials (MS SQL)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,20 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Senior Data Analyst opportunity with CertiK. I am interested in this opportunity because CertiK's position as a leader in Web3 security, driven by cutting-edge research and AI-powered technology, deeply resonates with my passion for leveraging data to solve complex problems.
+
+What interests me about working for CertiK is its innovative approach to blockchain security. This excites and inspires me because I believe that robust data analysis and intelligent automation are crucial for maintaining the integrity and security of the digital asset ecosystem.
+
+I believe my proficiency in Python, SQL, and ETL pipeline development, along with my expertise in data visualization with Tableau and Power BI, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a focus on automation and data-driven insights. In fact, at Shine Masters Cleaning Services, I developed interactive Power BI dashboards to replace manual reporting, which improved KPI visibility, reduced data processing time by 40%, and accelerated executive decision-making. This resulted in streamlined operations and a 25% improvement in team efficiency.
+
+Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my data modeling and data cleaning skills. I optimized relational database queries to clean and reconcile insurance testing data, improving data accuracy by 30%. I also collaborated cross-functionally with departments including Underwriting and Product, aligning software features with business objectives and reducing project delivery delays by 25%.
+
+I’m excited by the opportunity to use my data analysis and ETL pipeline skills in working on processing large datasets from APIs/databases/third-party platforms at CertiK. I know that my Python, SQL, and Tableau skills align with what it takes to succeed at the Senior Data Analyst role.
+
+I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Databricks Data Engineer - Senior - Consulting - Location Open
+Company:  EY
+Location: Hoboken, NJ
+URL:      https://www.linkedin.com/jobs/view/4385090847
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • Cloud (GCP, AWS)
+  • BigQuery
+  • dbt
+  • ETL/ELT pipelines
+  • Data modeling
+  • Data quality (Great Expectations)
+  • CI/CD (GitHub Actions)
+  • Airflow
+  • Data ingestion
+  • Data transformation
+  • Dimensional modeling
+  • Data architecture
+  • Power BI
+  • Docker
+  • Postgres
+  • Snowflake
+  • Stakeholder communication
+  • Documentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Databricks
+  • Spark
+  • GCS
+  • AWS data services
+  • Azure
+  • Real-time data processing
+  • Scala
+  • Data lake implementation
+  • Data governance
+  • Data security
+  • Client management
+  • Technical leadership
+  • Project management
+  • Change management
+  • Risk management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on cloud experience with GCP/BigQuery
+  • ELT pipeline and dbt modeling expertise
+  • Automated data quality and CI/CD processes
+  • Practical visualization and stakeholder reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Databricks or Spark experience
+  • Limited Azure familiarity
+  • No demonstrated real-time pipeline implementations
+  • Limited explicit client management/consulting experience
+  • Less than 5 years focused data engineering experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

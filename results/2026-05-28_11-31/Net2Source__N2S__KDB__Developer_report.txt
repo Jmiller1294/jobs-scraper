@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     KDB+ Developer
+Company:  Net2Source (N2S)
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4419494022
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • SQL
+  • Python
+  • PostgreSQL
+  • ETL
+  • APIs
+  • Git
+  • time series models
+  • query optimization
+  • collaboration
+  • debugging
+  • logging
+  • performance optimization
+  • scalable
+  • data pipelines
+  • real-time data processing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • kdb+/q
+  • low-latency
+  • market data
+  • production support
+  • time-series analytics
+  • Tier 2
+  • q frameworks
+  • historical data processing
+  • trading
+  • risk systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • Proficient in Python and ETL pipelines
+  • Experience building data pipelines and models
+  • Demonstrated query and performance optimizations
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No kdb+/q experience listed
+  • No explicit low-latency or market data work
+  • Limited production/Tier 2 support evidence
+  • No trading or risk systems domain experience
+  • No mention of q frameworks or kdb+ tooling
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

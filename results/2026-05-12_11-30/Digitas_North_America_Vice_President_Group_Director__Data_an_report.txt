@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Vice President Group Director, Data and Analysis
+Company:  Digitas North America
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413586358
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 76/100
+[███████████████░░░░░] 76%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • segmentation
+  • A/B testing
+  • SQL
+  • Python
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • data governance
+  • automation
+  • ETL
+  • data quality
+  • reporting
+  • CRM
+  • Google Analytics
+  • statistical models
+  • analytics
+  • data pipeline
+  • cloud (AWS S3)
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • data strategy
+  • regression
+  • machine learning
+  • client relationships
+  • leadership
+  • team management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack (SQL, Python, Snowflake, BigQuery)
+  • Proven quantified impact (300% revenue lift, 40% efficiency gain)
+  • Experience building ELT pipelines and automation
+  • Hands-on reporting and visualization (Power BI, Tableau)
+  • Data governance and quality processes implemented
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited senior leadership title/years (2+ years post-2024 vs 12-14 required)
+  • No explicit machine learning/regression model experience detailed
+  • Minimal agency/consulting or pharma healthcare background
+  • Limited documented team management of experienced employees
+  • Client relationship/leadership examples are indirect (internal/stakeholder)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and socialized a comprehensive data strategy for Shine Masters, establishing a single source of truth that unified cross-functional team management and data governance frameworks.
+  Led cross-functional stakeholder meetings and client-facing presentations, effectively translating complex technical findings into actionable marketing strategies and business growth initiatives.
+  Applied statistical learning methods, including multivariate regression techniques and unsupervised segmentation, to identify high-value customer clusters that drove a 300% revenue increase.
+  Mentored and provided technical training to internal team members on data visualization best practices and Python automation, fostering a culture of data-driven decision-making.
+  Performed competitive landscape assessments and gap analyses to identify new marketing and analytics opportunities, aligning technical data roadmaps with overarching business objectives.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Vice President Group Director, Data and Analysis opportunity with Digitas North America. I am interested in this opportunity because of Digitas’s industry-leading reputation for turning raw data into magnetic human experiences, and I am drawn to your mission of making data work harder to solve complex marketing challenges. What interests me about working for Digitas is your commitment to ‘Viva La Différence’ and the collaborative, inventive culture that empowers teams to deliver ambitious outcomes for the world's leading brands. I believe my expertise in architecting scalable data pipelines and my experience in driving business growth through advanced segmentation would make me a strong candidate for this role. During my professional career, I have approached problems by bridging the gap between technical infrastructure and strategic business goals. In fact, at Shine Masters, I identified a need for better customer insight and developed statistical models to segment our audience; by translating these findings into clear, actionable recommendations for our marketing team, we achieved a 300% increase in revenue for the targeted segment over 12 months. Ultimately, I know that the Vice President Group Director, Data and Analysis role at Digitas would allow me to bring my data strategy expertise to bear on large-scale, cross-functional client initiatives. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my leadership skills. I took initiative to design organizational KPIs and governance frameworks that aligned our various departments, effectively serving as the point person for all data-driven reporting; this effort reduced report discrepancies and increased efficiency by 40% across the firm. I’m excited by the opportunity to use my background in Python, SQL, and predictive modeling in working on integrated marketing, media, and CRM strategy at Digitas. I know that my analytical rigor and my passion for storytelling through data align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

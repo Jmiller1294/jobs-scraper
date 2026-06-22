@@ -1,0 +1,81 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Principal AI and Data Science Lead
+Company:  AbbVie
+Location: Florham Park, NJ
+URL:      https://www.linkedin.com/jobs/view/4389515472
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • SQL
+  • Tableau
+  • Power BI
+  • Snowflake
+  • BigQuery
+  • ETL pipelines
+  • R
+  • Git
+  • Data visualization
+  • Stakeholder management
+  • Production deployment
+  • Data engineering
+  • Modeling
+  • Team leadership
+  • Mentoring
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Dataiku
+  • SageMaker
+  • Spark
+  • MLOps
+  • Machine learning
+  • Data governance
+  • Regulatory compliance
+  • GxP
+  • Semantic engineering
+  • Agentic engineering
+  • Master data management
+  • Model lifecycle management
+  • Deep learning
+  • RAG
+  • Business analytics
+  • Consulting
+  • Platform architecture
+  • Cloud (broad)
+  • Production monitoring
+  • Data lineage
+  • Quality/Supply Chain domain experience
+  • Whitepapers
+  • Roadmaps
+  • Advanced analytics capability
+  • Human-in-the-loop systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Applied ETL and pipeline development
+  • Dashboards and visualization (Tableau, Power BI)
+  • Hands-on cloud tools (AWS S3, Snowflake, BigQuery)
+  • Quantified impact on operations and KPIs
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited enterprise-scale platform leadership
+  • No explicit MLOps or SageMaker/Dataiku experience
+  • Sparse formal data governance/GxP/regulatory evidence
+  • Machine learning/deep learning experience not demonstrated
+  • Less senior years of relevant experience for role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Saragossa
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4414331016
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • BigQuery
+  • dbt
+  • Airflow
+  • Python
+  • SQL
+  • ELT/ETL
+  • GCS
+  • Great Expectations
+  • CI/CD
+  • GitHub Actions
+  • Snowflake
+  • Postgres
+  • Docker
+  • Dimensional modeling
+  • data quality
+  • data pipeline
+  • data engineering
+  • Power BI
+  • Tableau
+  • cloud
+  • data modeling
+  • automation
+  • data transformation
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • private markets
+  • private equity
+  • private credit
+  • AWS
+  • asset management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong cloud data stack experience (BigQuery, GCS, dbt)
+  • Production ELT pipeline building with Airflow and Great Expectations
+  • Proficient in Python and advanced SQL
+  • CI/CD and automation via GitHub Actions
+  • Data modeling and performance optimization (partitioning/clustering)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit private markets/private equity experience
+  • Limited years in senior data engineering roles
+  • AWS mentioned but limited evidence of deep AWS infra
+  • No explicit experience with private credit data quirks
+  • No investment/asset management domain achievements quantified
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

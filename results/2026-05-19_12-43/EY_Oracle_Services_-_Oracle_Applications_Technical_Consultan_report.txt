@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Oracle Services - Oracle Applications Technical Consultant -Manager- Tech Cons - Open Location
+Company:  EY
+Location: Hoboken, NJ
+URL:      https://www.linkedin.com/jobs/view/4405157991
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Integration
+  • ETL
+  • SQL
+  • Python
+  • Data migration
+  • Architecture
+  • Agile
+  • Project management
+  • JIRA
+  • Communication
+  • Team leadership
+  • AWS S3
+  • Snowflake
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Oracle SCM Cloud
+  • Oracle EBS
+  • Oracle Integration Cloud
+  • FBDI
+  • OTBI
+  • REST
+  • SOAP
+  • ERP
+  • SCM
+  • Full cycle implementations
+  • OUM
+  • AIM
+  • Oracle methodologies
+  • Order Management
+  • Pricing
+  • Inventory
+  • Product Information Management
+  • Procurement
+  • Manufacturing
+  • MuleSoft
+  • Dell Boomi
+  • Integration platform
+  • Supply chain
+  • Billability
+  • RFP
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • ETL and data architecture experience
+  • Hands-on cloud (Snowflake, AWS S3)
+  • Proven delivery with measurable impact (process/time savings)
+  • Experience with Agile and JIRA
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Oracle SCM/ EBS implementation experience
+  • No listed Oracle integration tools (OIC, MuleSoft, Boomi)
+  • Lacks FBDI/OTBI/REST/SOAP specifics
+  • Limited managerial/years in leadership for role (4-6 yrs required)
+  • No OUM/AIM or full-cycle Oracle methodology experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

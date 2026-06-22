@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI Training Specialist - US (EST)
+Company:  Prolific
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405264406
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • Git
+  • Automation
+  • A/B Testing
+  • Data Quality
+  • Reporting
+  • Power BI
+  • Tableau
+  • Cloud (AWS S3)
+  • ETL
+  • Data Governance
+  • Attention to Detail
+  • Reporting
+  • Experience as AI Trainer
+  • Fast Internet
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • AI Training
+  • Image Annotation
+  • Evals
+  • Red Teaming
+  • Quality Analytics
+  • Trust and Safety
+  • Data Annotation
+  • PayPal
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Proven automation and ETL experience
+  • Experience with BigQuery and Snowflake
+  • Quantified impact (revenue, efficiency gains)
+  • Dashboarding and reporting expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit AI training/annotation experience
+  • No mention of image/video annotation tools
+  • No red teaming or evals experience
+  • No explicit Trust & Safety background
+  • No PayPal/payment setup stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

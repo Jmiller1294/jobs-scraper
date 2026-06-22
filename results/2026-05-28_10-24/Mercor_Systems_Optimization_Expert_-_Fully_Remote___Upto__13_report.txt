@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Systems Optimization Expert - Fully Remote | Upto $130/hr
+Company:  Mercor
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4418891076
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Python
+  • production systems
+  • written communication
+  • ETL Pipelines
+  • SQL
+  • Git
+  • AWS
+  • PostgreSQL
+  • automation
+  • dashboards
+  • version control
+  • collaboration
+  • time series
+  • data modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • performance engineering
+  • systems programming
+  • low-level optimization
+  • C++
+  • Rust
+  • runtime performance
+  • compiler engineering
+  • systems-level optimization
+  • profiling
+  • optimization
+  • production systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Demonstrated production impact with quantified metrics
+  • ETL and data modeling expertise
+  • Version control and collaboration practices
+  • Clear written documentation (SOPs, reports)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C++ or Rust experience listed
+  • Lacks explicit systems/low-level optimization background
+  • No mention of compiler or runtime profiling tools
+  • Under 2+ years in performance engineering roles
+  • Limited evidence of systems-level performance work
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

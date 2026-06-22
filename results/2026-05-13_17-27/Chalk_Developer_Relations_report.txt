@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Developer Relations
+Company:  Chalk
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4318400412
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • Snowflake
+  • BigQuery
+  • ELT/ETL
+  • SQL
+  • dbt
+  • CI/CD
+  • data pipelines
+  • Great Expectations
+  • Power BI
+  • Tableau
+  • APIs
+  • Git
+  • data visualization
+  • PostgreSQL
+  • data governance
+  • reporting automation
+  • A/B testing
+  • stakeholder communication
+  • production ML
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Rust
+  • Kafka
+  • Apache Spark
+  • MLOps
+  • enterprise sales
+  • ROI calculators
+  • field guides
+  • video content
+  • meetups
+  • developer community
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL/ELT and pipeline building
+  • Experience with Snowflake and BigQuery
+  • Proven measurable impact (quantified outcomes)
+  • Solid data visualization and reporting skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/MLOps experience
+  • No Kafka/Spark or Rust exposure listed
+  • Little evidence of developer relations/content portfolio
+  • Minimal enterprise sales or GTM collaboration details
+  • No explicit experience running community or events
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

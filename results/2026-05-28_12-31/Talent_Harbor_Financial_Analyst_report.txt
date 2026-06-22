@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Financial Analyst
+Company:  Talent Harbor
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420460327
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • MS Excel
+  • PowerPoint
+  • Excel trackers
+  • financial modeling
+  • market intelligence
+  • investor decks
+  • quarterly earnings
+  • data visualization
+  • Power BI
+  • SQL
+  • Python
+  • PostgreSQL
+  • ETL
+  • reporting
+  • cross-functional collaboration
+  • presentation design
+  • quantitative analysis
+  • ownership shifts
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • investor relations
+  • macroeconomics
+  • peer benchmarking
+  • regulatory compliance
+  • Bloomberg
+  • FactSet
+  • EOS
+  • financial analysis
+  • sell-side consensus
+  • institutional investor activity
+  • fixed income
+  • real estate debt structures
+  • executive scripts
+  • fact sheets
+  • Wall Street analyst models
+  • performance scorecards
+  • Bachelor’s degree (Finance/Economics/Accounting preferred)
+  • 3-5 years IR/Equity Research/Investment Banking experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Advanced Excel & Power BI reporting
+  • Strong SQL & PostgreSQL data modeling
+  • Python ETL and analytics pipelines
+  • Presentation/dashboard design and storytelling
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Investor Relations or IR title
+  • Limited finance/real-estate debt domain experience
+  • No Bloomberg/FactSet experience listed
+  • Short relevant industry tenure (not 3–5 years IR/IB/Equity Research)
+  • Regulatory compliance and sell-side model experience absent
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

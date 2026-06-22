@@ -1,0 +1,86 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer II
+Company:  RWJBarnabas Health
+Location: West Orange, NJ
+URL:      https://www.linkedin.com/jobs/view/4412991144
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • ETL
+  • API/REST/JSON
+  • BigQuery
+  • dbt
+  • Airflow
+  • Data modeling
+  • Data quality
+  • GCS
+  • Python
+  • Snowflake
+  • Postgres
+  • CI/CD
+  • Automation
+  • Dimensional modeling
+  • Docker
+  • Tableau
+  • Power BI
+  • Documentation
+  • Data pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • SSIS
+  • Informatica
+  • NoSQL
+  • RDBMS
+  • Talend
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Advanced SQL and query optimization
+  • Production ELT/ETL pipeline experience
+  • Cloud data platform (BigQuery, GCS, Snowflake)
+  • Data modeling and dbt implementation
+  • Automated data quality and CI/CD
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SSIS/Informatica experience
+  • Limited NoSQL exposure
+  • No explicit Epic Cosmos familiarity
+  • Mid-level DBA tasks exposure not detailed
+  • Healthcare/Epic system domain experience absent
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Extracted and transformed data from REST APIs and relational databases (RDBMS) using Python and SQL, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs.
+  Utilized SQL queries to validate and synchronize data across systems, including relational databases (RDBMS), improving data accuracy by 60%.
+  Modeled raw API data into a dbt star schema, leveraging BigQuery partitioning and clustering to reduce analyst query time and improve data accessibility for research initiatives.
+  Built a production-grade ELT pipeline ingesting Federal Reserve economic data from the FRED API into Google BigQuery, utilizing Python, Airflow, dbt, and GCS, with a focus on data quality validation and auditable documentation.
+  As Analytics & Operations Lead, I was responsible for tracking and analyzing content performance across the company website and social media platforms, using analytics to identify engagement trends and brand performance to inform marketing strategy and increase leads by 40%.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineer II opportunity with RWJBarnabas Health. I am interested in this opportunity because of its focus on leveraging data science within the healthcare domain, specifically with Epic Cosmos, a critical system for research and clinical insights.
+
+What interests me about working for RWJBarnabas Health is its commitment to advancing innovative strategies in high-quality patient care, education, and research. This mission deeply resonates with my desire to contribute to impactful work that directly improves community health.
+
+I believe my proficiency in SQL and my experience in building robust data pipelines would make me a strong candidate for this role. During my professional career, I have approached problems with a dedication to data integrity and efficiency. In fact, in my recent role at Haven Technologies, I collaborated with stakeholders to align software features with business processes and objectives, which reduced product delivery delays by 25%. Furthermore, I extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs, ultimately improving data accuracy by 60%.
+
+Ultimately, I know that the Data Engineer II role at RWJBarnabas Health would allow me to bring my expertise in data engineering and SQL to the creation of data assets within Cosmos Data Science for approved research. Additionally, my project building the FRED Economic Batch Pipeline enabled me to develop my data modeling and automation skills. I designed and implemented a production-grade ELT pipeline using Python, Airflow, dbt, and GCS, modeling raw API data into a dbt star schema that reduced analyst query time and automated data quality validation with Great Expectations, deploying a CI/CD pipeline via GitHub Actions.
+
+I’m excited by the opportunity to use my data modeling skills in working on the Epic Cosmos Data Science aspect of this role at RWJBarnabas Health. I know that my advanced SQL skills and my proven ability to build and maintain efficient data pipelines align with what it takes to succeed in the Data Engineer II role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

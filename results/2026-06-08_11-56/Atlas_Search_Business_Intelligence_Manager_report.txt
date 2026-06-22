@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Intelligence Manager
+Company:  Atlas Search
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4421957426
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Power BI
+  • Advanced Excel
+  • dashboard development
+  • KPIs
+  • ETL
+  • data storytelling
+  • operational analytics
+  • reporting
+  • stakeholder communication
+  • Python
+  • PostgreSQL
+  • MySQL
+  • data visualization
+  • data pipelines
+  • performance optimization
+  • cross-functional collaboration
+  • automation
+  • SOPs
+  • team mentoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Snowflake
+  • BigQuery
+  • data modeling
+  • KPI development
+  • data accuracy
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Power BI hands-on experience
+  • Quantified impact on KPIs and efficiency (40%, 25%, 300%)
+  • Built end-to-end ETL and data pipelines
+  • Cross-functional collaboration experience
+  • Experience with dashboarding and data storytelling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit leadership tenure (team lead/manager roles)
+  • No utilities/telecom/infrastructure industry experience noted
+  • Sparse mention of Snowflake/BigQuery production use
+  • Unclear formal mentoring of analysts in high-growth orgs
+  • No explicit experience with revenue assurance/financial reporting
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Architected robust data modeling strategies in PostgreSQL, defining complex schemas to support scalable KPI development and enterprise-wide reporting requirements.
+  Engineered scalable data pipelines on cloud platforms (Snowflake/BigQuery), ensuring high data accuracy and reliability for critical business intelligence initiatives.
+  Mentored junior team members on analytical best practices, fostering a high-performance culture that prioritized accurate KPI development and consistent reporting delivery.
+  Partnered with leadership to build comprehensive financial performance reports, providing actionable insights that directly supported revenue assurance and operational growth.
+  Leveraged Snowflake and BigQuery to warehouse large-scale transactional data, translating raw inputs into structured datasets for advanced business performance analysis.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Intelligence Manager opportunity with Atlas Search. I am interested in this opportunity because of my deep passion for scaling analytics functions within high-growth, technology-driven organizations. What interests me about working for Atlas Search is its focus on operational efficiency and data-driven innovation within the infrastructure sector; this commitment to building a sustainable future using rigorous analytics truly inspires me. I believe my hands-on technical expertise in SQL and Power BI, combined with my proven success in cross-functional leadership, would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on the intersection of data integrity and business strategy. In fact, while at Shine Masters, I identified a bottleneck in our customer acquisition process and architected an automated dashboard and reporting solution. By transitioning the team from manual reporting to an automated framework, I reduced processing time by 40% and enabled the executive team to make real-time decisions, directly resulting in a 300% increase in new customer acquisition over 12 months. Ultimately, I know that the Business Intelligence Manager role at Atlas Search would allow me to bring my expertise in dashboard development to your core operational initiatives. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my team-mentoring and data modeling skills. I regularly guided junior staff on data cleanup and SQL query optimization, ensuring that our underlying data models were robust enough to support long-term reporting goals. By standardizing our documentation and SOPs, I reduced new hire onboarding time by 50%, ensuring that the team remained agile as we scaled. I’m excited by the opportunity to use my background in operational analytics in working on large-scale data strategy at Atlas Search. I know that my technical proficiency and commitment to mentorship align with what it takes to succeed in the Business Intelligence Manager role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

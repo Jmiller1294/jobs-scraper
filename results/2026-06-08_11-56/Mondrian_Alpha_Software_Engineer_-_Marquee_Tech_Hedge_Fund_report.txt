@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer - Marquee Tech Hedge Fund
+Company:  Mondrian Alpha
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4421947549
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • data pipelines
+  • ETL/ELT
+  • BigQuery
+  • dbt
+  • Airflow
+  • CI/CD
+  • GitHub Actions
+  • SQL
+  • Postgres
+  • Docker
+  • cloud (GCP/AWS)
+  • data modeling
+  • testing
+  • automation
+  • performance optimization
+  • quantified outcomes
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • C++
+  • distributed systems
+  • concurrency
+  • systems design
+  • low-latency
+  • Kafka
+  • messaging
+  • monitoring
+  • quantitative trading
+  • real-time systems
+  • market data
+  • execution infrastructure
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python data engineering
+  • Production ELT with Airflow and dbt
+  • Cloud: BigQuery and GCS experience
+  • CI/CD and automation (GitHub Actions)
+  • Quantified impact in roles/projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C++ or systems-level coding shown
+  • Limited distributed systems/concurrency experience
+  • No low-latency or real-time systems examples
+  • No Kafka or messaging system experience
+  • No financial/market data or trading domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

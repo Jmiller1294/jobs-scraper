@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     ATM Systems Test Engineer
+Company:  Transcend Softech LLC
+Location: Berkeley Heights, NJ
+URL:      https://www.linkedin.com/jobs/view/4414173742
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • UAT
+  • system testing
+  • functional testing
+  • integration testing
+  • regression testing
+  • test cases
+  • test scripts
+  • defect tracking
+  • stakeholder collaboration
+  • SQL
+  • Python
+  • Git
+  • automation
+  • reporting
+  • data validation
+  • version control
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • ATM testing
+  • ATM transactions
+  • cash withdrawal
+  • balance inquiry
+  • deposits
+  • PIN change
+  • fund transfers
+  • HP Tandem
+  • hardware testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience in automation and data validation
+  • Test script/case development experience
+  • Defect tracking and stakeholder collaboration
+  • Version control (Git)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No ATM-specific testing experience
+  • No HP Tandem experience
+  • No hardware/device testing evidence
+  • No banking/financial services domain experience
+  • No quantified ATM-related achievements
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     API Designer : Jersey City, NJ / Tampa, FL (Hybrid) : Onsite : Full Time Permanent
+Company:  AceStack
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4413588148
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • Git
+  • AWS (S3)
+  • CI/CD
+  • API documentation
+  • documentation
+  • Agile/Scrum
+  • automated testing
+  • developer experience
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • API Design
+  • REST
+  • OpenAPI/Swagger
+  • GRPC
+  • event-driven
+  • API gateways
+  • OAuth2
+  • JWT
+  • API keys
+  • Postman
+  • AsyncAPI
+  • Microservices
+  • AWS (EKS)
+  • API management
+  • versioning
+  • prototyping
+  • API specification tools
+  • developer portals
+  • standards & governance
+  • lifecycle management
+  • performance
+  • security best practices
+  • domain driven architecture
+  • Open-source contributions
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • CI/CD pipeline experience
+  • Documentation and reporting expertise
+  • Agile team experience
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit API design experience
+  • No REST/GRPC or AsyncAPI evidence
+  • Lack of API gateway/management skills
+  • Missing security/authentication (OAuth/JWT) skills
+  • Limited AWS EKS / microservices experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist (PhD)
+Company:  Magnite
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406218032
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • PostgreSQL
+  • Pandas
+  • ETL
+  • Time series
+  • Predictive models
+  • Data visualization
+  • Tableau
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • R
+  • Git
+  • Communication
+  • Cross-functional collaboration
+  • Feature engineering
+  • Data modeling
+  • Dashboarding
+  • Experimentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • PhD
+  • Machine Learning
+  • LLMs
+  • Statistics
+  • Causal inference
+  • Numerical analysis
+  • A/B testing
+  • Mathematical fluency
+  • Real-time decision making
+  • High frequency marketplace
+  • Advanced calculus
+  • Linear algebra
+  • Production deployment
+  • Scalable algorithms
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data modeling
+  • Proven dashboarding and visualization impact
+  • Cross-functional collaboration experience
+  • Quantified operational improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PhD or advanced academic credential
+  • Limited explicit ML/LLM model work
+  • No clear causal inference/A-B testing experience
+  • Unclear experience with large-scale real-time systems
+  • Limited stated mathematical theory depth
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed predictive models and applied machine learning techniques to loan portfolio data, utilizing Python to evaluate risk factors and optimize decision-making parameters.
+  Designed and executed rigorous A/B testing frameworks to validate marketing initiatives, employing causal inference to measure true impact and refine customer acquisition strategies.
+  Implemented advanced statistical analysis and time series modeling to optimize real-time operational workflows, leveraging numerical analysis to identify and mitigate process bottlenecks.
+  Integrated Large Language Models (LLMs) into internal research workflows to automate data documentation, significantly increasing the efficiency of cross-functional team collaboration.
+  Applied mathematical modeling and linear algebra principles to large-scale datasets, ensuring the accuracy and scalability of algorithms for high-frequency data environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Scientist (PhD) opportunity with Magnite. I am interested in this opportunity because of Magnite’s position at the forefront of the ad-tech industry and your commitment to building scalable algorithms that impact billions of transactions daily. What interests me about working for Magnite is your focus on high-frequency marketplace data, which intrigues me because of the unique technical challenges it presents in real-time decision-making. I believe my proficiency in Python-driven predictive modeling and my experience in cross-functional collaboration would make me a strong candidate for this role. During my professional career, I have approached complex data problems with a focus on rigorous statistical methodology. In fact, while analyzing a 2M+ row loan portfolio, I developed a full-stack ETL pipeline and applied statistical segmentation to identify high-risk borrower populations. This resulted in a 300% increase in new customer acquisition, proving my ability to translate technical insights into measurable business value. Ultimately, I know that the Data Scientist (PhD) role at Magnite would allow me to bring my expertise in data modeling to support real-time decision-making in your high-frequency ad marketplace. Additionally, my role as a Data Analyst at Shine Masters Cleaning Services enabled me to develop my A/B testing and experimentation skills. I led initiatives to replace manual reporting with automated dashboards, utilizing statistical analysis to identify performance bottlenecks and improve team efficiency by 25%. I am excited by the opportunity to use my background in Python and machine learning in working on the ad-tech challenges at Magnite. I know that my analytical mindset and technical versatility align with what it takes to succeed at the Data Scientist (PhD) role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director, Applied AI
+Company:  Metropolis Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4398078466
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • AI tooling
+  • production systems
+  • cross-functional collaboration
+  • AWS
+  • Snowflake
+  • PostgreSQL
+  • MySQL
+  • Python
+  • SQL
+  • Git
+  • data pipelines
+  • ETL
+  • prompt engineering
+  • metrics
+  • AI-powered systems
+  • leadership
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • LLMs
+  • vector databases
+  • OpenAI
+  • LangChain
+  • AI automation
+  • AI Engineers
+  • AI roadmap
+  • process redesign
+  • observability
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Hands-on Python and SQL with ETL experience
+  • Experience with Postgres, MySQL, Snowflake, AWS
+  • Delivered measurable operational improvements (time/cost savings)
+  • Cross-functional collaboration and documentation
+  • Built dashboards and analytics for executive decision-making
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited leadership of AI engineering teams
+  • No explicit LLM or LangChain production experience
+  • No mention of vector DB or OpenAI integrations
+  • Title is Data Analyst/Developer, not Director-level
+  • Less than required 7+ years in software/AI leadership
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

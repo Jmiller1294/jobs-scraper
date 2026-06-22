@@ -1,0 +1,69 @@
+{
+  "job_title": "Senior Analyst -Therapeutics",
+  "company": "Guidepoint",
+  "location": "New York, NY",
+  "job_url": "https://www.linkedin.com/jobs/view/4404520155",
+  "ats_keywords": [
+    "Therapeutics research",
+    "Biotech/Pharma",
+    "Expert interviews",
+    "Investment research",
+    "SEC filings",
+    "Primary research",
+    "Idea generation",
+    "Stakeholder engagement",
+    "Analytical skills",
+    "Communication",
+    "Python",
+    "SQL",
+    "Tableau",
+    "Power BI",
+    "Data analysis",
+    "A/B testing",
+    "Research methodologies",
+    "Market trends",
+    "Reporting",
+    "Automation"
+  ],
+  "score": 22,
+  "matched_keywords": [
+    "Analytical skills",
+    "Communication",
+    "Stakeholder engagement",
+    "Python",
+    "SQL",
+    "Tableau",
+    "Power BI",
+    "Data analysis",
+    "Reporting",
+    "Automation",
+    "A/B testing"
+  ],
+  "missing_keywords": [
+    "Therapeutics research",
+    "Biotech/Pharma",
+    "Expert interviews",
+    "Investment research",
+    "SEC filings",
+    "Primary research",
+    "Idea generation",
+    "Research methodologies",
+    "Market trends"
+  ],
+  "strengths": [
+    "Strong technical data-analysis skills (Python, SQL)",
+    "Experience with visualization tools (Tableau, Power BI)",
+    "Proven automation and pipeline development",
+    "Quantified impact on business metrics",
+    "Clear stakeholder communication"
+  ],
+  "weaknesses": [
+    "No biotech/pharma or therapeutics research experience",
+    "No investment/buy-side or sell-side research background",
+    "No demonstrated expert interview moderation",
+    "No SEC filings or financial statement analysis experience",
+    "Limited relevant years in investment research domain"
+  ],
+  "improvement_bullets": [],
+  "cover_letter": ""
+}

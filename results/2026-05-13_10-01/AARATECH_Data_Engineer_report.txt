@@ -1,0 +1,86 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  AARATECH
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4414120521
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • SQL
+  • Python
+  • BigQuery
+  • Airflow
+  • ETL/ELT
+  • dbt
+  • data pipelines
+  • data modeling
+  • data quality
+  • Great Expectations
+  • GCS
+  • Snowflake
+  • AWS
+  • Postgres
+  • CI/CD
+  • Tableau
+  • Power BI
+  • dimensional modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • banking/financial domain
+  • regulatory reporting
+  • Spark
+  • Hadoop
+  • KYC
+  • AML
+  • transaction data
+  • Hadoop
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Production ELT pipelines with Airflow and dbt
+  • Cloud data infra (BigQuery, GCS, Snowflake, AWS)
+  • Data quality and CI/CD automation
+  • Quantified impact in prior roles/projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit banking/financial domain experience
+  • No mention of Spark/Hadoop big‑data tech in resume
+  • No explicit AML/KYC or regulatory reporting experience
+  • Title mismatch (Analytics/Full‑Stack vs Data Engineer)
+  • Under 2 years labeled data engineering in job titles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Integrated and transformed data from REST APIs and relational databases into structured, clean datasets that directly supported front-end feature development and reduced UI bugs, with a focus on preparing data for financial analytics.
+  Extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs, including experience with transaction data streams.
+  Developed and deployed a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery, modeling raw API data into a dbt star schema and ensuring data quality through Great Expectations, demonstrating experience with large-scale financial datasets.
+  Monitored marketing campaign metrics and identified performance patterns to guide strategic decisions, increasing leads by 40%, and am eager to apply similar data-driven approaches to support risk, compliance, and fraud detection reporting.
+  Modeled raw API data into a dbt star schema, reducing analyst query time via BigQuery partitioning and clustering, which aligns with the need to support ETL and data warehousing solutions for financial data.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineer opportunity with Aaratech Inc. I am interested in this opportunity because of Aaratech's focus on delivering innovative, data-driven solutions across healthcare and enterprise domains, which aligns with my passion for leveraging data to improve operational efficiency and drive better outcomes.
+
+What interests me about working for Aaratech is your commitment to enabling better outcomes through data-driven insights and collaborative partnerships. I believe my strong SQL and Python skills, combined with my experience in building robust data pipelines, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a focus on accuracy and efficiency. In fact, as an Analytics & Operations Lead at Shine Masters Cleaning Services, I built a business intelligence reporting system in Excel to track revenue, expenses, and operational KPIs, identifying inefficiencies that drove a 40% improvement in operational efficiency. This experience, coupled with my project work, demonstrates my ability to transform raw data into actionable insights.
+
+Ultimately, I know that the Data Engineer role at Aaratech would allow me to bring my expertise in developing and maintaining data pipelines to support financial analytics, reporting, and regulatory compliance. Additionally, my experience as a Full-Stack Software Developer at Haven Technologies enabled me to develop my data integration and validation skills. I collaborated with stakeholders to align software features with business processes and objectives, reducing product delivery delays by 25%, and extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported feature development and improved data accuracy by 60%.
+
+I'm excited by the opportunity to use my experience with cloud platforms like Google Cloud Platform (BigQuery, GCS) and AWS, as well as tools like Airflow and dbt, in working on integrating data from banking systems and transaction platforms at Aaratech. I know that my proficiency in SQL, Python, and experience with ETL/ELT processes align with what it takes to succeed in the Data Engineer role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

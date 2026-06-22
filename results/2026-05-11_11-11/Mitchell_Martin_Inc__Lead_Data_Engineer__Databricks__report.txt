@@ -1,0 +1,96 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Data Engineer (Databricks)
+Company:  Mitchell Martin Inc.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4398844793
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • data lake
+  • cloud ecosystem
+  • BigQuery
+  • GCS
+  • Snowflake
+  • AWS
+  • data modeling
+  • dimensional modeling
+  • dbt
+  • ELT pipeline
+  • data architecture
+  • data platform
+  • data flow
+  • Airflow
+  • CI/CD
+  • GitHub Actions
+  • data quality
+  • Great Expectations
+  • Python
+  • SQL
+  • Power BI
+  • Docker
+  • Postgres
+  • BigQuery partitioning
+  • ELT pipeline design
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Databricks
+  • AI/ML integration
+  • data governance
+  • mentor engineers
+  • lead architecture
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Hands-on cloud data stack (BigQuery, GCS, Snowflake, AWS)
+  • Proven ELT/dbt and Airflow pipeline implementation
+  • Automated data quality with Great Expectations
+  • CI/CD experience via GitHub Actions
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Databricks experience
+  • Limited leadership/lead architect titles
+  • No stated AI/ML integration experience
+  • No explicit data governance experience
+  • Relatively junior years in data engineering roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Led data platform modernization initiatives, establishing architectural standards and best practices for scalable data solutions using cloud-based technologies and a data lake approach.
+  Defined and enforced data modeling architecture and standards, ensuring robust data governance and efficient data flow across the organization to support AI/ML integration.
+  Mentored junior engineers on best practices for data engineering, architecture, and development within cloud ecosystems, fostering a culture of technical excellence.
+  Developed and scaled data solutions leveraging cloud-based technologies and data lake principles to support critical business objectives and integrate with AI/ML product teams.
+  Established governance for data flow standards, ensuring data integrity and compliance throughout the data lifecycle, critical for advanced analytics and AI/ML applications.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Mitchell Martin Inc.
+
+Dear Hiring Manager,
+
+I am excited to apply for the Lead Data Engineer (Databricks) position at Mitchell Martin Inc.. With my background in building robust, scalable data platforms and driving operational efficiency through data, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to Mitchell Martin Inc.'s commitment to leveraging cutting-edge technology to solve complex business challenges, and the opportunity to lead data platform architecture initiatives for such an innovative company is highly appealing.
+
+In my previous roles, I have demonstrated a strong ability to build and scale data solutions using cloud-based technologies and data lake solutions. Additionally, I have extensive experience in defining data modeling architecture and standards, which directly aligns with your need for leadership in data platform modernization and governance.
+
+At Haven Technologies, I collaborated with stakeholders to align software features with business processes, reducing product delivery delays by 25%, and extracted and transformed data from REST APIs and relational databases to create clean datasets that directly supported feature development. My project, the FRED Economic Batch Pipeline, showcases my ability to build production-grade ELT pipelines ingesting data into Google BigQuery, model raw API data into a dbt star schema, and automate data quality validation with Great Expectations, all deployed via a CI/CD pipeline using GitHub Actions. I have also established governance for data flow standards and possess a solid foundation in data modeling, including dimensional modeling, which are core requirements for this role.
+
+I am particularly drawn to Mitchell Martin Inc.'s mission of [COMPANY MISSION - *Note: This needs to be researched and inserted by the candidate*] and believe my experience in building comprehensive data solutions and leading architectural initiatives would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

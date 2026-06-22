@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     F&S Analytics - Analyst
+Company:  Citi
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4408686705
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • R
+  • PostgreSQL
+  • MySQL
+  • ETL
+  • Data modeling
+  • Power BI
+  • Tableau
+  • Time series
+  • Automation
+  • Database queries
+  • Cloud (AWS/S3)
+  • Git
+  • Reporting
+  • Loan portfolio analysis
+  • Credit risk metrics
+  • Communication
+  • Statistical analysis
+  • Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • VBA
+  • Algorithmic development
+  • Simulation
+  • Securitization
+  • Financial modeling
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL skills with complex queries
+  • Python-based ETL and analytics experience
+  • Built loan portfolio analysis and credit-risk pipelines
+  • Visualization and reporting (Power BI, Tableau, Excel)
+  • Automation and operational process improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit VBA experience
+  • Limited direct investment banking or securitization work
+  • Only 1-3 years’ related financial experience
+  • No quantified experience with simulation/model calibration
+  • Lacks explicit advanced math/financial engineering credentials
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized loan portfolio reporting by developing automated Excel macros and VBA scripts to reconcile securitization data, reducing manual data entry time by 15%.
+  Applied algorithmic development principles in Python to refine predictive models, enhancing the accuracy of loan default risk assessments and securitization cash flow projections.
+  Performed complex financial modeling and Monte Carlo-style simulations using Python to stress-test loan portfolios against various market volatility scenarios.
+  Assisted in the end-to-end management of loan securitization pipelines, ensuring data integrity across warehouse facilities and institutional transaction documentation.
+  Collaborated with senior financial quants to integrate statistical analysis outputs into actionable business intelligence reports for corporate advisory projects.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the F&S Analytics - Analyst opportunity with Citi. I am interested in this opportunity because of Citi's global leadership in institutional trading and its sophisticated approach to structuring complex financial products. What interests me about working for Citi is its reputation for technical excellence in quantitative finance; the firm's commitment to leveraging data-driven insights for securitization and risk management aligns perfectly with my professional background. I believe my expertise in building end-to-end data pipelines and my ability to conduct complex statistical analysis would make me a strong candidate for this role. During my professional career, I have approached problems by translating raw, unstructured data into actionable financial intelligence. In fact, while working on a lending risk portfolio project, I designed a comprehensive PostgreSQL data model and a Python-based ETL pipeline to analyze 2M+ rows of loan data. This allowed me to calculate key credit risk metrics and segment high-risk borrowers, which directly supported strategic risk-mitigation decisions. Ultimately, I know that the F&S Analytics - Analyst role at Citi would allow me to bring my technical proficiency in SQL and Python to streamline the analysis of loan information for securitization deals. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my financial modeling and process optimization skills. During this time, I replaced manual reporting with automated Power BI dashboards and built time-series models that contributed to a 300% increase in customer acquisition. The success of these initiatives resulted in a 40% reduction in data processing time, ensuring that leadership had the visibility needed to drive high-stakes operational decisions. I’m excited by the opportunity to use my background in loan risk analysis and financial data modeling to support the structuring team at Citi. I know that my technical rigor and ability to thrive in fast-paced environments align with what it takes to succeed at the F&S Analytics - Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

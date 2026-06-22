@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate
+Company:  Clover Health
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4370731461
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Python
+  • SQL
+  • ETL
+  • APIs
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Data modeling
+  • Power BI
+  • Tableau
+  • Data pipelines
+  • Git
+  • Dashboarding
+  • Data cleaning
+  • Time series
+  • Automation
+  • JIRA
+  • Confluence
+  • Pandas
+  • Data storytelling
+  • Risk analysis
+  • AI tools
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (1)
+  • Healthcare
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python + SQL + ETL experience
+  • Built production dashboards impacting decisions
+  • Experience integrating APIs and databases
+  • Quantified operational and acquisition results
+  • Version control and documentation practices
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit healthcare domain experience
+  • No explicit ML/AI model engineering listed
+  • Senior engineering title alignment (seeking builders) not exact
+  • In-person NYC availability not stated explicitly
+  • Limited years in software-focused roles (short tenures)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Integrated legacy data sources and healthcare-adjacent datasets using Python and SQL to build robust ETL pipelines, ensuring data integrity for sensitive, high-stakes decision-making environments.
+  Engineered predictive models using Python to analyze high-volume, messy datasets, directly addressing complex operational challenges similar to those found in healthcare systems.
+  Demonstrated a 'builder' mindset by automating manual intake workflows via Zapier and custom scripts, saving 8 hours weekly and consistently delivering reliable production tools.
+  Successfully managed high-pressure projects from conception to deployment, consistently shipping functional, data-driven solutions in fast-paced NYC environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Associate opportunity with Clover Health. I am interested in this opportunity because I am drawn to companies that embrace the 'builder' mindset to tackle the most complex, broken systems in our world. What interests me about working for Clover Health is your commitment to fixing the fragmented healthcare landscape through AI-driven innovation; this mission resonates with me because I am driven to build systems that move beyond theory and create tangible, life-impacting results. I believe my expertise in end-to-end data pipeline development and my ability to derive clear, actionable insights from messy, real-world data would make me a strong candidate for this role. During my professional career, I have approached problems with a bias toward action and a focus on shipping functional systems. In fact, at Shine Masters, I replaced manual reporting with automated, interactive Power BI dashboards and streamlined intake workflows using Python and Zapier. This initiative saved 8 hours per week and provided the visibility required to scale customer acquisition by 300%. Ultimately, I know that the Associate role at Clover Health would allow me to bring my technical proficiency in ETL and automation to solve the critical data challenges inherent in the healthcare industry. Additionally, my experience as a Full-Stack Software Developer at Haven Technologies enabled me to develop my technical adaptability and cross-functional collaboration skills. While working there, I collaborated with Underwriting and Product teams to integrate complex PostgreSQL databases and APIs, which reduced project delivery delays by 25% and ensured that our data structures remained reliable for mission-critical insurance operations. I’m excited by the opportunity to use my background in data engineering and software development in working on the systems that power your healthcare solutions at Clover Health. I know that my technical agility and my relentless 'hustle' align with what it takes to succeed at the Associate role. I would love the opportunity to discuss how my hands-on experience in building, cleaning, and automating data systems can contribute to your team. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

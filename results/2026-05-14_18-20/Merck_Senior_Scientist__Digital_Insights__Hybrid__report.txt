@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Scientist, Digital Insights (Hybrid)
+Company:  Merck
+Location: Rahway, NJ
+URL:      https://www.linkedin.com/jobs/view/4414929299
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 67/100
+[█████████████░░░░░░░] 67%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Python
+  • R
+  • SQL
+  • Data Visualization
+  • Power BI
+  • Tableau
+  • Data Pipeline
+  • ETL
+  • Automation
+  • BigQuery
+  • Snowflake
+  • Dashboards
+  • Data Quality
+  • Git
+  • Communication
+  • Cross-Functional Collaboration
+  • Statistical Modeling
+  • A/B Testing
+  • Data Governance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Machine Learning
+  • Digital Imaging
+  • Predictive Modeling
+  • Data Curation
+  • Predictive Science
+  • Dataiku
+  • Databricks
+  • Posit/RStudio/Jupyter
+  • Graph Databases
+  • Relational Databases
+  • Technical Writing
+  • Scientific Publication
+  • Pharmaceutical Development
+  • Multi-Omics
+  • Spotfire
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills with ETL experience
+  • Proven dashboard/reporting development (Power BI, Tableau)
+  • Experience with cloud data warehouses (BigQuery, Snowflake)
+  • Demonstrated cross-functional communication and stakeholder work
+  • Quantified impact in automation and revenue growth
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit machine learning or predictive modeling projects
+  • No digital imaging or image analysis experience
+  • Limited pharma/drug development domain experience
+  • No mention of Posit/RStudio or Jupyter usage
+  • No evidence of scientific publications or academic presentations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

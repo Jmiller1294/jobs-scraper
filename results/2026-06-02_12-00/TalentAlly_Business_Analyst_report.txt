@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst
+Company:  TalentAlly
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4422406951
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • R
+  • data visualization
+  • Tableau
+  • Power BI
+  • ETL
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • statistical techniques
+  • time series
+  • communication
+  • stakeholder management
+  • modeling
+  • data analysis
+  • advanced Excel
+  • Git
+  • PostgreSQL
+  • MySQL
+  • automation
+  • SOPs
+  • data pipelines
+  • exploratory data analysis
+  • reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • SAS
+  • GLM
+  • GBM
+  • model governance
+  • catastrophe modeling
+  • reserving
+  • pricing
+  • model risk management
+  • actuarial experience
+  • ACAS exams
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL pipelines and data models
+  • Proficient in visualization (Tableau, Power BI)
+  • Quantified impact on KPIs and operational metrics
+  • Cross-functional collaboration and communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit actuarial work or casualty insurance experience
+  • Unclear years of actuarial-specific experience
+  • No mention of CAS/ACAS exam progress or VEEs
+  • No explicit GLM/GBM or SAS modeling experience
+  • No catastrophe modeling or reserving/pricing domain examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

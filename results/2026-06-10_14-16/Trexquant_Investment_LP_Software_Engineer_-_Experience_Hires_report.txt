@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer - Experience Hires (USA)
+Company:  Trexquant Investment LP
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4406591335
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • CI/CD
+  • Docker
+  • Postgres
+  • GitHub Actions
+  • GCP
+  • BigQuery
+  • Airflow
+  • dbt
+  • data modeling
+  • unit testing
+  • automation
+  • ETL
+  • collaboration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • C++
+  • Linux
+  • low-latency
+  • high-frequency trading
+  • real-time systems
+  • profiling
+  • performance optimization
+  • quantitative development
+  • algorithms
+  • systems programming
+  • R
+  • latency-sensitive
+  • scalable
+  • trading signals
+  • BA/MA/PhD
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data engineering stack (BigQuery, dbt, Airflow)
+  • Proficient SQL and Python data skills
+  • Experience with CI/CD and automation
+  • Demonstrated measurable impact in roles
+  • Collaboration with stakeholders
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C++ experience listed
+  • No Linux/systems programming evidence
+  • No HFT or real-time trading background
+  • Limited quantitative development tenure
+  • No explicit low-latency optimization or profiling experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

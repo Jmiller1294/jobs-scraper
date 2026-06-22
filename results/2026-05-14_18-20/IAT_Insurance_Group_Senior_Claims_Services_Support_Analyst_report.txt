@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Claims Services Support Analyst
+Company:  IAT Insurance Group
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4414689394
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • customer service
+  • MS Office
+  • Excel
+  • Outlook
+  • attention to detail
+  • communication
+  • administrative
+  • data entry
+  • reporting
+  • document scanning
+  • indexing
+  • routing
+  • automation
+  • SQL
+  • Python
+  • Power BI
+  • communication with lawyers
+  • work authorization (US)
+  • hybrid work
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • claims
+  • phone communication
+  • correspondence
+  • claims processes
+  • handling claimants
+  • initial claims filings
+  • losses and recoveries
+  • document look-up for coverage
+  • MS Access
+  • high school diploma/GED
+  • 5 years claims experience
+  • insurance knowledge
+  • negotiation
+  • contract interpretation
+  • scanning and indexing documents
+  • sending correspondence
+  • processing recoveries
+  • Bachelor’s degree
+  • claims systems
+  • customer intake
+  • notice distribution
+  • claimant routing
+  • exceptional customer service
+  • phone routing
+  • basic coverage questions
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data/reporting and automation skills
+  • Advanced Excel and Power BI experience
+  • Experience with SQL and databases
+  • Proven process improvement and efficiency gains
+  • Clear communication with stakeholders
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct claims or insurance experience
+  • Phone-based claimant handling not demonstrated
+  • No explicit MS Access experience
+  • Less than required 5 years in claims/customer-service roles
+  • Few documented insurance-specific achievements
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

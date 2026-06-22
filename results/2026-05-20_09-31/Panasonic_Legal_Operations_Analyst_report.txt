@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Legal Operations Analyst
+Company:  Panasonic
+Location: Newark, NJ, US
+URL:      https://www.indeed.com/viewjob?jk=01fa86e648ca6989
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 73/100
+[██████████████░░░░░░] 73%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • data analysis
+  • reporting
+  • SQL
+  • Power BI
+  • dashboards
+  • process documentation
+  • SOPs
+  • data validation
+  • workflow automation
+  • ETL
+  • data visualization
+  • trend analysis
+  • quality checks
+  • stakeholder communication
+  • JIRA/Confluence
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • legal operations
+  • system administration
+  • invoice reconciliation
+  • budget tracking
+  • matter management
+  • user onboarding
+  • audit readiness
+  • access management
+  • billing coordination
+  • stakeholder presentations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analytics (SQL, Python, ETL)
+  • Proven dashboarding with Power BI
+  • Process documentation and SOP creation
+  • Workflow automation and efficiency gains
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit legal operations experience
+  • No direct matter-management tool experience listed
+  • No explicit outside counsel/billing experience
+  • Under 2–4 years in specified legal ops domain
+  • No demonstrated system admin/access management tasks
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

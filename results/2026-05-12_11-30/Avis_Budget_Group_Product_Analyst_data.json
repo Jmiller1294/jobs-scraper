@@ -1,0 +1,80 @@
+{
+  "job_title": "Product Analyst",
+  "company": "Avis Budget Group",
+  "location": "Parsippany, NJ",
+  "job_url": "https://www.linkedin.com/jobs/view/4413560924",
+  "ats_keywords": [
+    "SQL",
+    "Tableau",
+    "Power BI",
+    "A/B testing",
+    "Python",
+    "BigQuery",
+    "Snowflake",
+    "data visualization",
+    "data quality",
+    "dashboards",
+    "customer segmentation",
+    "conversion",
+    "instrumentation",
+    "experimentation",
+    "analytics"
+  ],
+  "score": 86,
+  "matched_keywords": [
+    "SQL",
+    "Tableau",
+    "Power BI",
+    "A/B testing",
+    "Python",
+    "BigQuery",
+    "Snowflake",
+    "data visualization",
+    "data quality",
+    "dashboards",
+    "customer segmentation",
+    "experimentation",
+    "analytics",
+    "stakeholder communication",
+    "ETL",
+    "data governance",
+    "Git",
+    "PostgreSQL",
+    "MySQL",
+    "Google Analytics"
+  ],
+  "missing_keywords": [
+    "Amplitude",
+    "Mixpanel",
+    "Adobe Analytics",
+    "GA4",
+    "CRO",
+    "mobile app analytics",
+    "conversion optimization",
+    "retention",
+    "product analytics",
+    "statistical modeling"
+  ],
+  "strengths": [
+    "Strong SQL and Python skills",
+    "Experience with BI tools (Tableau, Power BI, Looker)",
+    "Proven A/B testing and experimentation",
+    "Built ETL pipelines and data quality checks",
+    "Quantified impact on revenue and efficiency"
+  ],
+  "weaknesses": [
+    "No explicit Amplitude/Mixpanel/Adobe experience",
+    "Limited mobile app analytics evidence",
+    "Product analytics title not exact",
+    "No GA4 explicitly listed",
+    "Statistical methods detail limited"
+  ],
+  "improvement_bullets": [
+    "Integrated GA4 and web tracking pixels into data pipelines to monitor conversion funnels and user retention metrics, driving a 15% increase in feature adoption.",
+    "Led A/B testing and conversion rate optimization (CRO) initiatives, utilizing statistical modeling to validate product changes and lift user engagement.",
+    "Engineered automated dashboards using SQL and Power BI to analyze mobile app and web behavioral trends, identifying key drop-off points in the customer journey.",
+    "Partnered with product teams to implement instrumentation strategies in Mixpanel/Amplitude, ensuring accurate event tracking for product-led growth initiatives.",
+    "Conducted rigorous statistical analysis on user journey datasets to identify pain points and inform product-led decision-making for B2C digital experiences."
+  ],
+  "cover_letter": "Dear Hiring Manager, I am excited to submit my application for the Product Analyst opportunity with Avis Budget Group. I am interested in this opportunity because of Avis Budget Group's industry-leading commitment to innovative mobility solutions and data-driven customer experiences. What interests me about working for Avis Budget Group is its clear focus on performance and digital transformation, which inspires me because I am passionate about optimizing the intersection of user behavior and business logic to drive growth. I believe my expertise in SQL-based product instrumentation and my experience with A/B testing and experimentation methodologies would make me a strong candidate for this role. During my professional career, I have approached problems by translating raw behavioral data into actionable product narratives. In fact, while at Shine Masters, I identified a need for better tracking and built Python-automated pipelines that processed CRM and POS data to optimize our digital marketing funnel. By executing controlled A/B tests to measure campaign effectiveness, I provided the statistical evidence that led to a 300% increase in revenue within targeted customer segments. Ultimately, I know that the Product Analyst role at Avis Budget Group would allow me to bring my analytical rigor to support your cross-functional product pods. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my product-led growth skills. By standardized organizational KPIs and creating a 'single source of truth' for stakeholders, I bridged the gap between complex data and strategic business recommendations, reducing reporting discrepancies and aligning the team on clear conversion goals. I\u2019m excited by the opportunity to use my background in Python and SQL-driven analytics in working on web and mobile experience optimization at Avis Budget Group. I know that my technical proficiency and focus on customer-centric insights align with what it takes to succeed at the Product Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller"
+}

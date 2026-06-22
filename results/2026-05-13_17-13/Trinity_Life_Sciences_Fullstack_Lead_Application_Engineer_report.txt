@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Fullstack Lead Application Engineer
+Company:  Trinity Life Sciences
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414226786
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • Git
+  • CI/CD
+  • ETL
+  • Debugging
+  • Automated testing
+  • AI
+  • Data pipelines
+  • Full stack
+  • Agile
+  • Product collaboration
+  • Presentation
+  • Performance optimization
+  • Leadership
+  • Data governance
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Typescript
+  • Node.js
+  • React
+  • ORM
+  • Agentic programming
+  • Claude Code
+  • Copilot
+  • Cursor
+  • TSX
+  • CSS
+  • Postgres ORM
+  • Enterprise codebase
+  • Hands-on developer
+  • Life sciences experience
+  • Launching/scaling applications
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Experience with BigQuery and Snowflake
+  • CI/CD and automation implementation
+  • Data pipeline and ETL design
+  • Quantified impact on business metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Typescript/Node.js or React evidence
+  • No ORMs or explicit PostgreSQL app development
+  • No mention of agentic programming tools
+  • Limited explicit full-stack lead title/years
+  • No life-sciences domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer – Python/PySpark (W2 Fulltime)
+Company:  Centraprise
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4413830606
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • ETL
+  • ELT
+  • BigQuery
+  • Airflow
+  • dbt
+  • SQL
+  • GCS
+  • Data modeling
+  • Data pipelines
+  • CI/CD
+  • Docker
+  • Data quality
+  • Great Expectations
+  • Cloud
+  • Snowflake
+  • Postgres
+  • Tableau
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • PySpark
+  • Spark
+  • Big Data
+  • Performance optimization
+  • Kafka
+  • Hadoop
+  • KYC/AML
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ELT pipeline experience (Airflow, dbt, BigQuery)
+  • Data modeling and data quality practices
+  • CI/CD and automation experience
+  • Visualization and stakeholder reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PySpark/Spark experience listed
+  • No Kafka or Hadoop exposure
+  • Limited explicit big-data distributed processing experience
+  • No KYC/AML or financial onboarding domain experience
+  • Years of experience ~3 years post-degree (below 6+ requirement)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

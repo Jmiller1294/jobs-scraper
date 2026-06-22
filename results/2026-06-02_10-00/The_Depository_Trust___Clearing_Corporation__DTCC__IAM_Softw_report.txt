@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     IAM Software Engineer
+Company:  The Depository Trust & Clearing Corporation (DTCC)
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4422381283
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Python
+  • SQL
+  • CI/CD
+  • API development
+  • automation
+  • workflow orchestration
+  • unit testing
+  • integration testing
+  • root-cause analysis
+  • GitHub Actions
+  • Airflow
+  • BigQuery
+  • cloud identity
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (17)
+  • IAM
+  • RBAC
+  • PBAC
+  • PAM
+  • Java
+  • NoSQL
+  • cloud identity
+  • access recertification
+  • entitlement management
+  • identity lifecycle
+  • privileged access
+  • risk-based access
+  • role provisioning
+  • privileged access
+  • access recertification
+  • entitlement management
+  • risk-based access
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience with CI/CD (GitHub Actions)
+  • ETL and data pipeline automation (Airflow, dbt, BigQuery)
+  • Testing and data quality practices (pytest, Great Expectations)
+  • Quantified impact on efficiency and data accuracy
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit IAM product experience
+  • No Java or NoSQL examples
+  • Limited Privileged Access Management exposure
+  • No demonstrated RBAC/PBAC implementation
+  • Less than preferred IAM-focused years (6-8)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

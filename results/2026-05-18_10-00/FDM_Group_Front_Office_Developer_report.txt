@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Front Office Developer
+Company:  FDM Group
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4412962223
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Python
+  • SQL
+  • PostgreSQL
+  • Pandas
+  • ETL
+  • Git
+  • Power BI
+  • Tableau
+  • Analytics
+  • Communication
+  • Automation
+  • Data Modeling
+  • Cloud (AWS/S3)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (22)
+  • Interest Rate Derivatives
+  • Rates
+  • Pricing
+  • Risk
+  • Quantitative Analytics
+  • Front Office
+  • Quartz
+  • Trading Desk
+  • Yield Curve
+  • Inflation Curve
+  • Project management
+  • Machine Learning
+  • FICC
+  • Derivatives Operations
+  • Financial Engineering
+  • Bond trading systems
+  • Quants
+  • Pricing systems
+  • Pricing libraries
+  • Cross-asset
+  • Risk platform
+  • Feeds to downstream systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python experience (projects & pipelines)
+  • SQL and PostgreSQL data modeling
+  • ETL pipeline development
+  • Visualization (Power BI, Tableau)
+  • Automation and process improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit front-office or trading desk experience
+  • No Quartz or Athena platform experience
+  • Limited interest-rate derivatives / rates domain evidence
+  • No quantified experience with pricing/risk systems
+  • Under 3-5 years in relevant financial engineering roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

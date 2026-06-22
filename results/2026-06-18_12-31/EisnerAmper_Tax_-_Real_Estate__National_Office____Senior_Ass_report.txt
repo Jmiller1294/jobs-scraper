@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Tax - Real Estate (National Office) | Senior Associate / Manager
+Company:  EisnerAmper
+Location: Melville, NY
+URL:      https://www.linkedin.com/jobs/view/4430487498
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • tax law
+  • technical memoranda
+  • federal income tax
+  • tax research
+  • acquisitions
+  • due diligence
+  • tax workpapers
+  • tax returns
+  • partnerships
+  • funds
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • real estate tax
+  • REITs
+  • tax structuring
+  • like-kind exchanges
+  • partnership agreements
+  • CCH Axcess
+  • GoSystems
+  • tax projections
+  • CPA
+  • public accounting
+  • transactional analysis
+  • accounting methods
+  • timing issues
+  • LL.M.
+  • J.D.
+  • IRS Enrolled Agent
+  • REIT tax structuring
+  • reverse like-kind exchanges
+  • tax allocations
+  • distribution preferences
+  • monitor legislative updates
+  • draft Firm-wide alerts
+  • Firm-wide trainings
+  • real estate private equity
+  • REIT/blocker structures
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data analysis and reporting
+  • quantified operational impact
+  • experience with tax-related documentation
+  • SQL and database modeling
+  • clear measurable achievements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no public accounting experience
+  • no CPA or EA listed
+  • no explicit real estate or REIT experience
+  • no GoSystems/CCH Axcess experience
+  • limited tax-specific technical credentials
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

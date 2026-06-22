@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Intelligence Analyst
+Company:  Valley Bank
+Location: Morristown, NJ
+URL:      https://www.linkedin.com/jobs/view/4392022715
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • Snowflake
+  • ETL pipeline
+  • Data visualization
+  • Dashboards
+  • Data pipelines
+  • Data quality
+  • Data modeling
+  • PostgreSQL
+  • BigQuery
+  • Data extraction
+  • Data wrangling
+  • Advanced Excel
+  • Stakeholder collaboration
+  • Business partnering
+  • Problem solving
+  • Data storytelling
+  • Version control (Git)
+  • Automation
+  • JIRA
+  • Data validation
+  • Time series
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Hive
+  • PowerBI (alternate casing)
+  • R (as primary)
+  • Banking systems
+  • Retail/Commercial Banking
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong hands-on SQL and Python experience
+  • Proven dashboard delivery (Power BI, Tableau)
+  • Built end-to-end ETL pipelines and data models
+  • Quantified impact on KPIs and efficiencies
+  • Cross-functional stakeholder collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit banking sector experience
+  • No mention of Hive usage
+  • Master's degree not present
+  • Shorter total industry tenure (~3 years)
+  • No explicit conversational BI experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed robust data models and automated ETL pipelines, utilizing Python and SQL to integrate diverse banking-adjacent datasets, ensuring high data quality and integrity for downstream financial reporting.
+  Designed and maintained self-service BI environments, including exploring conversational AI and LLM-driven business intelligence tools to reduce stakeholder dependence on ad-hoc dashboard requests.
+  Partnered with cross-functional teams to interpret business requirements, effectively translating complex logic into intuitive dashboards using Tableau and Power BI that adhere to financial reporting standards.
+  Leveraged experience with relational database systems and large-scale data manipulation to optimize performance in cloud environments, ensuring scalability similar to high-volume commercial banking systems.
+  Implemented rigorous data validation protocols and automated quality checks on loan portfolio data to ensure accuracy and compliance, reflecting the detail-oriented approach required in the banking industry.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Intelligence Analyst opportunity with Valley Bank. I am interested in this opportunity because of Valley Bank’s reputation for driving innovation in the regional banking sector and its commitment to data-driven growth. What interests me about working for Valley Bank is its focus on modernizing financial experiences for retail and commercial clients, which resonates with my passion for using data to solve complex operational challenges. I believe my expertise in building scalable ETL pipelines and my proficiency in creating intuitive data visualizations would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and stakeholder accessibility. In fact, at Shine Masters Cleaning Services, I identified a bottleneck in manual reporting and developed interactive Power BI dashboards that reduced data processing time by 40%. The result was an improved ability for executive leadership to access real-time performance data, which directly enabled a 300% increase in new customer acquisition over 12 months. Ultimately, I know that the Business Intelligence Analyst role at Valley Bank would allow me to bring my data modeling skills to your mission-critical financial reporting responsibilities. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my stakeholder partnership skills. In this capacity, I independently managed the end-to-end lifecycle of reporting requests, from gathering requirements to final dashboard delivery, ensuring that technical outputs were directly aligned with business objectives. By translating complex performance metrics into actionable insights, I empowered the team to reallocate resources toward high-value growth initiatives. I am excited by the opportunity to use my SQL and Python expertise in working on high-performance business intelligence projects at Valley Bank. I know that my technical versatility and collaborative mindset align with what it takes to succeed in the Business Intelligence Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

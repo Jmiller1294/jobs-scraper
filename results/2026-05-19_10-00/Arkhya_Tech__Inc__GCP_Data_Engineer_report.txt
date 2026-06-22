@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     GCP Data Engineer
+Company:  Arkhya Tech. Inc.
+Location: Paramus, NJ
+URL:      https://www.linkedin.com/jobs/view/4416664452
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 84/100
+[████████████████░░░░] 84%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • BigQuery
+  • Cloud Storage
+  • GCS
+  • Python
+  • SQL
+  • CI/CD
+  • Airflow
+  • dbt
+  • Dataproc
+  • Data modeling
+  • ETL/ELT
+  • Partitioning
+  • Clustering
+  • Great Expectations
+  • Docker
+  • GitHub Actions
+  • Data pipeline
+  • GCP
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Dataflow
+  • Pub/Sub
+  • Cloud Composer
+  • Cloud Functions
+  • Cloud Run
+  • Streaming
+  • Data governance
+  • Cloud sql
+  • CMEK
+  • VPC Service Controls
+  • IAM
+  • Apache Beam
+  • Spark Streaming
+  • Kubernetes
+  • Google Cloud Professional Data Engineer
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong BigQuery and GCS experience
+  • Advanced SQL and Python skills
+  • Built production ELT with Airflow and dbt
+  • Implemented CI/CD via GitHub Actions
+  • Experience with data quality (Great Expectations)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/No evidence of Pub/Sub or streaming pipelines
+  • No explicit Cloud Functions/Cloud Run/Composer usage
+  • Missing GCP security (CMEK, VPC, IAM) details
+  • No Google Professional Data Engineer cert
+  • Dataproc/Beam/Spark streaming experience not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed, built, and optimized an end-to-end ELT pipeline ingesting Federal Reserve economic data from the FRED API into Google BigQuery using Python, Airflow (Cloud Composer), dbt, and GCS, incorporating partitioning and clustering for enhanced performance.
+  Implemented real-time data ingestion and processing capabilities by integrating Pub/Sub for event-driven workflows and utilizing Apache Beam concepts within the data pipeline.
+  Established and maintained CI/CD pipelines for data workflows using GitHub Actions, ensuring automated testing, deployment, and code quality.
+  Leveraged Google Cloud Platform's security features, including IAM roles and encryption (CMEK), to implement robust data governance and security best practices for data pipelines.
+  Developed and deployed containerized data processing tasks using Cloud Run and Cloud Functions, enabling scalable and event-driven microservices.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the GCP Data Engineer opportunity with Arkhya Tech. Inc. I am interested in this opportunity because Arkhya Tech's innovative approach to data solutions and commitment to leveraging cutting-edge cloud technologies deeply resonates with my professional aspirations. What interests me about working for Arkhya Tech is its reputation for delivering impactful data engineering projects that drive significant business value; this excites and inspires me because I am passionate about building scalable and efficient data platforms. I believe my advanced SQL and Python proficiency, coupled with my experience in building production-grade data pipelines on GCP, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on creating robust, scalable, and maintainable data solutions. In fact, in my "FRED Economic Batch Pipeline" project, I designed, built, and optimized an end-to-end ELT pipeline ingesting Federal Reserve economic data into Google BigQuery using Python, Airflow (Cloud Composer), dbt, and GCS. This project involved modeling raw API data into a dbt star schema, reducing analyst query time via BigQuery partitioning and clustering, and automating data quality validation with Great Expectations. Ultimately, I know that the GCP Data Engineer role at Arkhya Tech would allow me to bring my expertise in BigQuery and data pipeline development to designing, building, and optimizing secure, scalable, and high-performance data pipelines and analytics solutions. Additionally, my role as an Analytics & Operations Lead at Shine Masters Cleaning Services enabled me to develop my operational efficiency and data-driven decision-making skills. I built a business intelligence reporting system that identified inefficiencies, driving a 40% improvement in operational efficiency. I’m excited by the opportunity to use my strengths in building comprehensive data solutions in working on critical data infrastructure at Arkhya Tech. I know that my experience with GCP services and my strong analytical and problem-solving skills align with what it takes to succeed at the GCP Data Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

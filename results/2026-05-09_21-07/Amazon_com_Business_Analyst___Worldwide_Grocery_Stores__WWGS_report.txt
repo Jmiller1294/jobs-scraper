@@ -1,0 +1,95 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst , Worldwide Grocery Stores (WWGS)
+Company:  Amazon.com
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=5053705e9d645ec8
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Tableau
+  • Advanced Excel
+  • ETL
+  • Data modeling
+  • BigQuery
+  • Snowflake
+  • Python
+  • Data visualization
+  • Power BI
+  • Pivot Tables
+  • Git
+  • PostgreSQL
+  • MySQL
+  • Data governance
+  • Automation
+  • A/B testing
+  • DBT
+  • CI/CD
+  • Great Expectations
+  • Reporting
+  • Data pipelines
+  • Analytics
+  • Stakeholder communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Data migration
+  • Data quality
+  • Data warehouse
+  • Supply Chain
+  • Macros
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and query optimization experience
+  • Hands-on ETL and pipeline development
+  • Proven Tableau and Power BI reporting
+  • Quantified impact (revenue, efficiency gains)
+  • Cross-functional stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit supply chain domain experience
+  • No explicit 'data migration to AI platforms' projects
+  • Macros exposure not stated
+  • Master's degree preferred not held
+  • Only ~3 years related experience post-degree
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Implemented comprehensive data migration strategies for core datasets, transitioning them to cloud-based data warehouses like Snowflake and BigQuery to support advanced analytics and AI platforms.
+  Developed and refined data quality validation frameworks using tools like Great Expectations, ensuring pipeline reliability and data integrity prior to migration and analysis.
+  Designed and executed complex SQL queries and data models, including ETL/DW concepts, to extract and transform core datasets for migration and subsequent AI platform integration.
+  Leveraged Advanced Excel features, including macros and pivot tables, to efficiently manipulate and analyze datasets, complementing Tableau for comprehensive data visualization and business intelligence.
+  Gained foundational experience in supply chain analytics through independent projects, demonstrating an aptitude for identifying trends and patterns within complex datasets relevant to operational efficiency.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Amazon.com
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Analyst, Worldwide Grocery Stores (WWGS) position at Amazon.com. With my background in data analysis, operations, and full-stack development, I am confident I would be a strong addition to your team.
+
+Amazon's commitment to leveraging data for innovation, particularly within the supply chain, deeply resonates with my passion for transforming raw data into strategic business insights. I am eager to contribute to a team that is pushing the boundaries of data-driven decision-making.
+
+In my previous roles, I have developed sophisticated SQL queries and data models to extract meaningful business intelligence. Additionally, I have designed and implemented comprehensive data migration strategies, transitioning core datasets to cloud data warehouses like Snowflake and BigQuery, which directly aligns with your need for advanced AI platform integration.
+
+At Shine Masters Cleaning Services, I not only standardized organizational KPIs and data governance frameworks to ensure a "single source of truth" but also translated complex technical findings into actionable business recommendations during stakeholder meetings. Furthermore, my experience includes developing and executing A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend. I have also utilized Advanced Excel (including pivot tables) and Tableau to create clear, compelling data visualizations and reports that communicate complex insights effectively.
+
+I am particularly drawn to Amazon.com's mission of [COMPANY MISSION - You will need to research and insert a specific Amazon mission statement here, e.g., 'customer obsession' or 'pioneering innovation'] and believe my experience in data analysis, ETL, and stakeholder communication would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

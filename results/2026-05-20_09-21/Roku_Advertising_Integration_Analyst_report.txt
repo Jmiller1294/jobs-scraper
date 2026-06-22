@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Advertising Integration Analyst
+Company:  Roku
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4284435398
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • relational databases
+  • Python
+  • ETL
+  • APIs
+  • documentation
+  • troubleshooting
+  • data analysis
+  • automation
+  • BI / dashboards
+  • support channels
+  • JIRA
+  • Confluence
+  • data synchronization
+  • product catalog
+  • integrations
+  • order management
+  • billing system
+  • stakeholder discovery
+  • finance collaboration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • CRM
+  • OMS
+  • data contracts
+  • DMP
+  • inventory system
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB skills
+  • Experience building ETL pipelines
+  • Proven troubleshooting and analytics
+  • Documentation and process SOP creation
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit CRM/OMS administration experience
+  • No direct DMP or ad-tech platform experience
+  • Limited advertising/CTV industry background
+  • Less than stated 3-5 yrs in advertising ops
+  • No explicit order-management system implementations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

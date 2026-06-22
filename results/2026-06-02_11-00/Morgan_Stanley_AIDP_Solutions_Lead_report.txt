@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AIDP Solutions Lead
+Company:  Morgan Stanley
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413101145
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • APIs
+  • cloud
+  • AWS
+  • Snowflake
+  • BigQuery
+  • Python
+  • SQL
+  • ETL
+  • Git
+  • Power BI
+  • documentation
+  • stakeholder management
+  • prototypes
+  • reusable solutions
+  • developer enablement
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Generative AI
+  • LLM
+  • POC
+  • Azure OpenAI
+  • LangChain
+  • agentic architectures
+  • solution architecture
+  • team leadership
+  • knowledge sharing
+  • Azure
+  • AWS Bedrock
+  • Google Vertex AI
+  • platform engineering
+  • financial services
+  • regulated environments
+  • 8+ years experience
+  • prior experience leading teams
+  • office hours
+  • community engagement
+  • accelerators
+  • reference implementations
+  • prototype
+  • cross-functional global
+  • communication
+  • stakeholder influence
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python & SQL proficiency
+  • ETL & data modeling
+  • Cloud experience (AWS, Snowflake, BigQuery)
+  • Documentation & SOP creation
+  • Delivering measurable operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited Generative AI/LLM experience
+  • No explicit Azure/OpenAI or Bedrock/Vertex usage
+  • Insufficient seniority (years) for 8+ requirement
+  • Little evidence of leading engineering teams
+  • Few AI prototypes/POCs or LangChain/agentic projects
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

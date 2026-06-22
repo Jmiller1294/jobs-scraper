@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst with expertise in Loan IQ and data modeling
+Company:  E-Solutions
+Location: Iselin, NJ
+URL:      https://www.linkedin.com/jobs/view/4416246164
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 64/100
+[████████████░░░░░░░░] 64%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Snowflake
+  • data modeling
+  • ETL
+  • loans
+  • data warehousing
+  • data pipeline
+  • data profiling
+  • PostgreSQL
+  • Python
+  • data quality
+  • documentation
+  • stakeholder management
+  • UAT
+  • AWS
+  • analytics
+  • Power BI
+  • transformations
+  • gap analysis
+  • quantified achievements
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • derivatives
+  • cash
+  • Regulatory Reporting
+  • EMIR
+  • Dodd-Frank
+  • Basel III
+  • SFTR
+  • databricks
+  • Teradata
+  • data lineage
+  • data dictionaries
+  • data governance
+  • metadata management
+  • Agile/Scrum
+  • CFA
+  • commitments
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Hands-on Snowflake and AWS experience
+  • Proven ETL and pipeline development
+  • Loan portfolio data modeling project
+  • Documented, quantified impact in roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit derivatives or cash instruments experience
+  • Limited regulatory reporting names/experience
+  • No Teradata or Databricks experience listed
+  • No explicit data governance/metadata tools
+  • Title not aligned to 'Business Analyst' in banking
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

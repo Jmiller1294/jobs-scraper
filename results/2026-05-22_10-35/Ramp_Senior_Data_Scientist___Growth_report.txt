@@ -1,0 +1,84 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Scientist | Growth
+Company:  Ramp
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4387495444
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 71/100
+[██████████████░░░░░░] 71%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Snowflake
+  • BigQuery
+  • ETL
+  • marketing analytics
+  • customer segmentation
+  • campaign measurement
+  • data visualization
+  • Power BI
+  • data pipeline
+  • data modeling
+  • data integration
+  • Git
+  • machine learning
+  • statistical modeling
+  • PostgreSQL
+  • BigQuery
+  • Advanced Excel
+  • Google Analytics
+  • Salesforce CRM
+  • data engineering
+  • version control
+  • experiment design
+  • reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • A/B testing
+  • attribution
+  • experimental design
+  • econometrics
+  • martech
+  • privacy landscape
+  • growth analytics
+  • Fivetran
+  • dbt
+  • Looker
+  • Hex
+  • Hightouch
+  • Dagster
+  • Airflow
+  • Prefect
+  • product organization leadership
+  • 5+ years experience
+  • causal inference
+  • investment frameworks
+  • marketing spend allocation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Experience with Snowflake and BigQuery
+  • Built ETL pipelines and data models
+  • Demonstrated impact with quantified metrics
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit A/B testing and causal inference experience
+  • Under 5 years in data scientist roles
+  • Few mentions of marketing attribution frameworks
+  • Limited exposure to modern data stack tools (dbt, Fivetran, Looker)
+  • No explicit econometrics or advanced experimental design background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Developer Verint AI & Social Engineering
+Company:  Capgemini
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4409265460
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • AI
+  • ETL
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • AWS S3
+  • Git
+  • APIs
+  • data modeling
+  • Power BI
+  • Tableau
+  • automation
+  • documentation
+  • collaboration
+  • analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Verint
+  • Speech Analytics
+  • IVA
+  • Google Cloud
+  • CISCO
+  • NICE
+  • AI algorithms
+  • voice engineering
+  • debugging
+  • social engineering
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL pipelines
+  • Hands-on data modeling (PostgreSQL)
+  • Dashboarding and visualization (Power BI, Tableau)
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No direct Verint experience listed
+  • No CISCO/voice engineering experience
+  • No NICE or workforce management experience
+  • Limited cloud experience for Google Cloud/Verint integrations
+  • No explicit Verint IVA or Speech Analytics implementations
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

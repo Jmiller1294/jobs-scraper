@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Human Resource Data Analyst
+Company:  Iris Software Inc.
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4415677404
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • data modeling
+  • ETL
+  • data pipeline
+  • data integration
+  • data visualization
+  • Advanced Excel
+  • data analysis
+  • documentation
+  • stakeholder presentations
+  • metrics/KPIs
+  • data validation
+  • cloud data (Snowflake)
+  • Agile
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • People/HR data
+  • Microsoft Purview
+  • data catalog
+  • data lineage
+  • data quality
+  • data governance
+  • PI/PHI handling
+  • DM&G standards
+  • People/HR processes and architecture
+  • data-as-a-product
+  • data health
+  • data steward
+  • data architects
+  • business case development
+  • enterprise operating model
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Power BI and Tableau reporting
+  • ETL and pipeline development
+  • Cloud exposure (Snowflake, BigQuery, AWS S3)
+  • Quantified impact on KPIs and efficiencies
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Microsoft Purview experience
+  • Limited explicit HR/People domain experience
+  • No PI/PHI handling mention
+  • No explicit data governance or DM&G experience
+  • No direct mention of data catalog/lineage skills
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional teams to clean and reconcile sensitive insurance data, ensuring strict adherence to PI/PHI handling and data security best practices.
+  Led data quality initiatives by developing validation rules and issue management workflows, ensuring accuracy in high-stakes financial data reporting.
+  Documented data assets and technical workflows within centralized catalogs, facilitating data lineage tracking and supporting enterprise-wide data governance standards.
+  Built and maintained robust data pipelines and conceptual data models, directly supporting the transition to a data-as-a-product operating model for organizational stakeholders.
+  Translated complex business requirements into high-value data products, partnering with stakeholders to define domain-specific metrics that support strategic HR and operational decision-making.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Human Resource Data Analyst opportunity with Iris Software Inc. I am interested in this opportunity because of the firm's reputation for innovative, data-driven solutions and its commitment to the Data-as-a-Product operating model. What interests me about working for Iris Software is its sophisticated approach to enterprise-level data management, which excites me because it aligns perfectly with my background in building reliable, scalable data pipelines. I believe my expertise in SQL and Python-driven ETL processes and my experience in cross-functional data modeling would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex technical requirements into clear, actionable business assets. In fact, at Haven Technologies, I worked closely with Underwriting and Product teams to reconcile insurance datasets; I optimized relational database queries to clean and validate sensitive information, resulting in a 30% increase in data accuracy. Ultimately, I know that the Human Resource Data Analyst role at Iris Software would allow me to bring my technical proficiency in data validation and documentation to the People Domain Activation project. Additionally, my role as a Data Analyst at Shine Masters Cleaning Services enabled me to develop my skills in data governance and KPI measurement. I successfully developed interactive dashboards to replace manual reporting, identifying high-value customer segments through time series modeling, which directly led to a 300% increase in new customer acquisition. I am excited by the opportunity to use my data visualization and storytelling skills in working on the People domain at Iris Software. I know that my analytical rigor and cross-functional communication align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

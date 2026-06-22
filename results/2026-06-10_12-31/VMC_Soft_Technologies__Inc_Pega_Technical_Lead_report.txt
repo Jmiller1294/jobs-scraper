@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Pega Technical Lead
+Company:  VMC Soft Technologies, Inc
+Location: East Hanover, NJ
+URL:      https://www.linkedin.com/jobs/view/4427019758
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Integrations
+  • UI
+  • Deployments
+  • Code review
+  • Requirement gathering
+  • Development
+  • Testing
+  • Support
+  • Stakeholder management
+  • APIs
+  • Git
+  • JIRA
+  • Confluence
+  • SQL
+  • Python
+  • ETL
+  • PostgreSQL
+  • Version control
+  • Cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Pega Infinity
+  • Service REST
+  • Connect REST
+  • Pega PRPC
+  • PCSSA
+  • Defect triaging
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • API integration experience
+  • Version control and deployment workflows
+  • Cross-functional collaboration with stakeholders
+  • Quantified impact in past roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Pega platform experience listed
+  • No Pega certifications (PCSSA)
+  • No explicit Service/Connect REST Pega integrations
+  • Limited explicit defect triaging experience
+  • Title not aligned to Pega Lead
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

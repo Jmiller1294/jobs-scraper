@@ -1,0 +1,69 @@
+{
+  "job_title": "AI Research Scientist, SysML - FAIR",
+  "company": "Meta",
+  "location": "New York, NY",
+  "job_url": "https://www.linkedin.com/jobs/view/4383665161",
+  "ats_keywords": [
+    "Python",
+    "C++",
+    "PyTorch",
+    "distributed training",
+    "machine learning systems",
+    "systems",
+    "compiler",
+    "computer architecture",
+    "performance optimization",
+    "ETL",
+    "SQL",
+    "PostgreSQL",
+    "AWS",
+    "BigQuery",
+    "Git"
+  ],
+  "score": 28,
+  "matched_keywords": [
+    "Python",
+    "SQL",
+    "PostgreSQL",
+    "AWS",
+    "BigQuery",
+    "Git",
+    "ETL",
+    "performance optimization",
+    "systems",
+    "machine learning systems"
+  ],
+  "missing_keywords": [
+    "C++",
+    "PyTorch",
+    "distributed training",
+    "compiler",
+    "computer architecture",
+    "Rust",
+    "cuBLAS",
+    "cuDNN",
+    "FlashAttention",
+    "hardware-software co-design",
+    "scalable machine learning systems",
+    "resource-efficient AI",
+    "neural network architectures",
+    "data-driven models",
+    "PhD"
+  ],
+  "strengths": [
+    "Strong Python and SQL skills",
+    "Experience building ETL pipelines",
+    "Applied data analysis with measurable impact",
+    "Cross-functional collaboration experience",
+    "Version control and documentation practice"
+  ],
+  "weaknesses": [
+    "No demonstrated PyTorch or deep learning framework experience",
+    "Lacks systems-level languages (C/C++/Rust) usage in resume",
+    "No distributed training or large-scale ML systems evidence",
+    "No research publications or PhD indicated",
+    "Limited exposure to hardware/accelerator optimizations"
+  ],
+  "improvement_bullets": [],
+  "cover_letter": ""
+}

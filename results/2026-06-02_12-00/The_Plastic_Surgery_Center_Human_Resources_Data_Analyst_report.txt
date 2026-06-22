@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Human Resources Data Analyst
+Company:  The Plastic Surgery Center
+Location: Red Bank, NJ
+URL:      https://www.linkedin.com/jobs/view/4422426768
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Excel
+  • SQL
+  • Power BI
+  • reporting
+  • data analysis
+  • data accuracy
+  • KPI monitoring
+  • ad hoc analysis
+  • data automation
+  • ETL
+  • Python
+  • Tableau
+  • data visualization
+  • data integrity
+  • Dashboards
+  • reporting packages
+  • data audits
+  • data pipelines
+  • data reconciliation
+  • metrics
+  • stakeholder partnership
+  • process improvement
+  • confidentiality
+  • data-driven insights
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • HRIS
+  • headcount
+  • turnover
+  • compensation
+  • engagement
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Advanced Excel & reporting
+  • Dashboard development (Power BI, Tableau)
+  • SQL & ETL pipeline experience
+  • Automation & process improvement
+  • Quantified impact on KPIs
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit HRIS platform named
+  • Limited direct HR domain experience
+  • No HR-specific metrics (headcount/turnover)
+  • No stated HR system implementations
+  • Short tenure in HR-adjacent roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional leadership to track and report on headcount, turnover, and engagement metrics, leveraging HRIS data to drive informed decision-making.
+  Managed data integrity and reconciliation within internal systems, ensuring high levels of confidentiality and accuracy in employee compensation reporting.
+  Automated recurring HR reporting packages and data audits, streamlining the delivery of key performance indicators to stakeholders and reducing manual processing time by 40%.
+  Performed ad hoc analysis on organizational compensation structures and employee engagement data, translating findings into actionable recommendations for management.
+  Assisted in technical data migration and system audits, ensuring seamless integration between internal platforms and HRIS systems while maintaining strict data governance.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Human Resources Data Analyst opportunity with The Plastic Surgery Center. I am interested in this opportunity because of the organization's reputation for providing a 5-star patient experience and its commitment to operational excellence. What interests me about working for The Plastic Surgery Center is its bold vision to revolutionize the healthcare industry, which intrigues me because I am passionate about using data to optimize organizational health. I believe my expertise in advanced data visualization and my experience in automating complex reporting pipelines would make me a strong candidate for this role. During my professional career, I have approached problems by translating raw data into actionable insights for executive leadership. In fact, while at Shine Masters, I developed interactive Power BI dashboards to replace manual reporting, which improved KPI visibility and reduced data processing time by 40%. This experience directly translates to the HR context, where I am eager to help monitor headcount, turnover, and engagement metrics to support your team's growth. Ultimately, I know that the Human Resources Data Analyst role at The Plastic Surgery Center would allow me to bring my proficiency in SQL and Power BI to reporting and data integrity initiatives. Additionally, my background as a technical lead enabled me to develop my skills in cross-functional collaboration and data auditing. For instance, I optimized relational database queries to clean and reconcile insurance testing data, improving data accuracy by 30% while maintaining strict data security standards. I’m excited by the opportunity to use my analytical toolkit in working on HRIS system optimizations at The Plastic Surgery Center. I know that my technical versatility and commitment to data accuracy align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

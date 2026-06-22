@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Research Scientist Intern PhD, Applied Research
+Company:  Meta
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4350195363
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • Git
+  • APIs
+  • data analysis
+  • large-scale data
+  • software engineering
+  • experiments
+  • ETL
+  • statistical analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • machine learning
+  • deep learning
+  • PyTorch
+  • TensorFlow
+  • computer vision
+  • natural language processing
+  • C++
+  • Ph.D.
+  • model safety
+  • publishing
+  • reinforcement learning
+  • explainable AI
+  • C
+  • Java
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL pipelines
+  • Demonstrated data analysis with large datasets
+  • Cross-functional collaboration
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Ph.D. or current Ph.D. pursuit
+  • Lacks ML/DL framework experience (PyTorch/TensorFlow)
+  • No explicit ML/research publications
+  • No C++/Java coding evidence
+  • Limited domain experience in CV/NLP/Generative AI
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

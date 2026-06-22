@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Test and provide feedback on AI features in Google Workspace (Remote)
+Company:  Axiom Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4423944177
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Google Suite
+  • Gmail
+  • Docs
+  • Sheets
+  • AI tools
+  • Business operations
+  • Small business
+  • Power BI
+  • Automation
+  • Onboarding
+  • SOPs
+  • Documentation
+  • Immediate availability
+  • US-based
+  • Product testing
+  • Feedback
+  • Customer acquisition
+  • Python
+  • SQL
+  • BigQuery
+  • Communication
+  • Git
+  • Tableau
+  • Advanced Excel
+  • Cloud (S3)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Active Google Workspace Business Domain
+  • Company Email Domain
+  • Company Size: 1–10 Employees
+  • US Citizen or Green Card Holder
+  • Located within the United States
+  • Business Domain Active for at Least 2 Months
+  • Regular User of Google Workspace for Business Operations
+  • Flexible 1–2 hours per day
+  • Duration: Approximately 3 months
+  • NDA
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Hands-on Google Suite experience
+  • Relevant AI tool familiarity
+  • Strong data analysis and automation skills
+  • Documented SOPs and onboarding improvements
+  • Quantified impact in prior role
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit statement of business Google Workspace domain ownership
+  • Company size and ownership not specified
+  • Citizenship/green card status not stated
+  • No explicit proof of domain active duration >=2 months
+  • Availability for stated schedule/duration not clearly confirmed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

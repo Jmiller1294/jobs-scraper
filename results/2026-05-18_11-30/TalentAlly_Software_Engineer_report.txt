@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  TalentAlly
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4416242713
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 12/100
+[██░░░░░░░░░░░░░░░░░░] 12%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (5)
+  • Git
+  • CI/CD
+  • cloud
+  • BigQuery
+  • Python
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Lustre
+  • file system
+  • distributed storage
+  • C
+  • C++
+  • kernel
+  • high-performance
+  • scalability
+  • networking
+  • parallel I/O
+  • 15+ years experience
+  • leadership
+  • team building
+  • technical papers
+  • architecture
+  • mentoring
+  • product delivery
+  • commercialization
+  • performance tuning
+  • debugging
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Cloud data engineering (BigQuery, GCS)
+  • Python ETL and data pipelines
+  • CI/CD experience with GitHub Actions
+  • Quantified impact in roles (efficiency, leads)
+  • DBT and data modeling expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Lustre or filesystem development experience
+  • Lacks systems languages (C/C++) and kernel work
+  • Insufficient seniority (years) for role
+  • No documented leadership of engineering teams
+  • No technical publications or architecture papers
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Remote - Oracle ERP Business System Analyst
+Company:  Amtex Systems Inc
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4427048806
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • requirements elicitation
+  • functional requirements
+  • data migration
+  • legacy systems
+  • business processes
+  • process flows
+  • end-to-end design
+  • system processes
+  • JIRA
+  • Confluence
+  • SQL
+  • ETL
+  • data modeling
+  • documentation
+  • stakeholder collaboration
+  • data integration
+  • reporting
+  • testing
+  • Power BI
+  • Python
+  • cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • ERP
+  • Oracle
+  • Financials
+  • non-functional requirements
+  • stakeholders (architects/developers/SMEs)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and ETL experience
+  • Documented processes and SOPs
+  • Experience with data integration from multiple sources
+  • Proven measurable impact (quantified achievements)
+  • Familiarity with JIRA and Confluence
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Oracle ERP or Financials experience
+  • Non-functional requirements not documented
+  • Limited explicit ERP implementation history
+  • No ERP module-specific skills listed
+  • No explicit collaboration with architects/SMEs on full designs
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

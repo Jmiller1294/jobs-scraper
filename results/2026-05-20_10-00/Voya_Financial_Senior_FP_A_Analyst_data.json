@@ -1,0 +1,72 @@
+{
+  "job_title": "Senior FP&A Analyst",
+  "company": "Voya Financial",
+  "location": "New York, NY",
+  "job_url": "https://www.linkedin.com/jobs/view/4375867953",
+  "ats_keywords": [
+    "GAAP",
+    "account reconciliations",
+    "journal entries",
+    "financial reporting",
+    "accounting principles",
+    "Excel",
+    "Power BI",
+    "Tableau",
+    "SQL",
+    "data visualization",
+    "automation",
+    "financial analysis",
+    "audit",
+    "data modeling",
+    "ETL",
+    "Powerpoint",
+    "presentation",
+    "process improvements",
+    "documentation",
+    "cross-functional collaboration"
+  ],
+  "score": 74,
+  "matched_keywords": [
+    "Excel",
+    "Power BI",
+    "Tableau",
+    "SQL",
+    "data visualization",
+    "automation",
+    "financial analysis",
+    "documentation",
+    "process improvements",
+    "cross-functional collaboration",
+    "ETL",
+    "data modeling",
+    "presentation"
+  ],
+  "missing_keywords": [
+    "GAAP",
+    "account reconciliations",
+    "journal entries",
+    "financial reporting",
+    "accounting principles",
+    "audit",
+    "Powerpoint",
+    "accounting methods",
+    "statutory reporting",
+    "years of accounting experience"
+  ],
+  "strengths": [
+    "Strong data visualization (Power BI, Tableau)",
+    "SQL and ETL pipeline experience",
+    "Quantified operational impact",
+    "Cross-functional collaboration",
+    "Advanced Excel skills"
+  ],
+  "weaknesses": [
+    "Limited explicit accounting/GAAP experience",
+    "No direct journal entry or reconciliation examples",
+    "Audit experience not shown",
+    "Accounting degree/certification not listed",
+    "Only 1-3 years in relevant finance roles"
+  ],
+  "improvement_bullets": [],
+  "cover_letter": ""
+}

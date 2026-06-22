@@ -1,0 +1,15 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Lead Data Engineer (Bank Tech) opportunity with Capital One. I am interested in this opportunity because of Capital One's commitment to redefining the tech foundation for a financial giant and building an internal, integrated, and fully modernized core banking platform. What interests me about working for Capital One is its innovative approach to leveraging data and emerging technologies to solve complex business problems in a fast-paced, collaborative environment. This philosophy excites and inspires me because it aligns with my own passion for building robust, cloud-native solutions that drive powerful experiences.
+
+I believe my strong Python and SQL proficiency, combined with my experience in cloud data platforms like Google Cloud Platform (BigQuery, GCS) and Snowflake, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on building scalable and efficient data solutions. In fact, in my "FRED Economic Batch Pipeline" project, I engineered a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery using Python, Apache Airflow, and dbt, while leveraging GCS for storage and implementing data quality validation with Great Expectations. This project also involved modeling raw API data into a dbt star schema, reducing analyst query time via BigQuery partitioning and clustering, and automating data quality validation with Great Expectations, showcasing my ability to deliver well-designed and impactful data infrastructure.
+
+Ultimately, I know that the Lead Data Engineer (Bank Tech) role at Capital One would allow me to bring my expertise in building and pioneering data solutions to supporting critical lines of business and driving a major transformation within Capital One. Additionally, my role as an Analytics & Operations Lead at Shine Masters Cleaning Services enabled me to develop my operational efficiency and marketing analytics skills. I automated recurring business operations and reporting workflows using workflow automation tools, reducing manual tasks by 30%, and tracked and analyzed content performance across website and social media platforms, using analytics to identify engagement trends and inform marketing strategy, increasing leads by 40%. I’m excited by the opportunity to use my skills in developing and optimizing data pipelines in working on the core banking platform at Capital One.
+
+I know that my proficiency in Python and SQL, along with my hands-on experience with cloud data warehousing and ELT pipelines, align with what it takes to succeed in the Lead Data Engineer role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

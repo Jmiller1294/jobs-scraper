@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Junior Business Analyst
+Company:  Fortray Global Service Limited
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4426102653
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • MS Excel
+  • Power BI
+  • Tableau
+  • SQL
+  • Python
+  • Documentation
+  • Reporting
+  • Dashboards
+  • Stakeholder Collaboration
+  • Process Improvement
+  • Data Analysis
+  • ETL
+  • SOPs
+  • JIRA
+  • Confluence
+  • Analytical Thinking
+  • Communication
+  • Data Visualization
+  • Reporting Basics
+  • Internship
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Business Analysis
+  • Requirement Gathering
+  • SDLC
+  • Agile
+  • Testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data visualization (Power BI, Tableau)
+  • SQL and Python proficiency with ETL experience
+  • Quantified impact (time savings, efficiency gains, user acquisition)
+  • Documentation and SOP creation
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit requirement-gathering experience
+  • No stated Agile/Scrum certification or roles
+  • No formal BA certification
+  • Testing/validation experience not emphasized
+  • Title is analyst/developer not 'Business Analyst'
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional stakeholders to define business requirements and translate them into actionable technical specifications for software feature development.
+  Led user acceptance testing and validation phases to ensure software solutions met documented business needs and maintained high data integrity.
+  Applied Agile project management methodologies and JIRA workflows to manage task backlogs, prioritize requirements, and facilitate team alignment.
+  Drafted comprehensive business process documentation and functional specifications to streamline workflows and bridge the gap between technical teams and business stakeholders.
+  Assisted in gathering project requirements and evaluating business processes to identify efficiency gains within the software development lifecycle (SDLC).
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Junior Business Analyst opportunity with Fortray Global Service Limited. I am interested in this opportunity because of the firm's reputation for driving impactful digital transformation and its commitment to developing talent through structured mentorship. What interests me about working for Fortray Global Service Limited is its focus on bridging technical complexity with business strategy, which inspires me because it aligns perfectly with my background in both software development and data-driven process improvement. I believe my technical proficiency in data analysis and my experience in cross-functional collaboration would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex data into clear, actionable business strategies. In fact, while at Shine Masters, I identified a bottleneck in client onboarding; I gathered requirements from internal stakeholders and automated the workflow using Zapier. This project reduced processing time by 40% and allowed our team to reallocate 8 hours per week toward high-value lead generation, directly impacting the bottom line. Ultimately, I know that the Junior Business Analyst role at Fortray Global Service Limited would allow me to bring my analytical rigor to support your requirement gathering and documentation efforts. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my SDLC and testing skills. I collaborated directly with Underwriting and Product teams to align features with business objectives, using JIRA to manage requirements and ensure all developed solutions underwent rigorous testing and validation. This experience reduced project delivery delays by 25%. I’m excited by the opportunity to use my background in data visualization and process optimization in working on real business projects at Fortray Global Service Limited. I know that my analytical mindset and technical documentation skills align with what it takes to succeed at the Junior Business Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

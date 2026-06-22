@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer [Multiple Positions Available]
+Company:  hackajob
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4419067737
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (5)
+  • Docker
+  • CI/CD
+  • Python
+  • SQL
+  • Restful API
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • Java
+  • Spring Boot
+  • Linux
+  • Microservices
+  • Observability
+  • Junit
+  • AngularJS
+  • SonarQube
+  • Blazemeter
+  • Multithreading
+  • Retry policies
+  • Circuit breaker
+  • Groovy
+  • Bitbucket
+  • Visio
+  • Confluence
+  • OAuth
+  • Graphana
+  • Splunk
+  • Kafka
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL expertise
+  • Python for ETL and automation
+  • Docker and cloud exposure (GCP, BigQuery)
+  • CI/CD via GitHub Actions
+  • Data modeling and observability-ready pipelines
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Lacks Java/Spring Boot experience
+  • No microservices/multithreading examples
+  • Limited DevOps toolchain (Bitbucket, Dynatrace missing)
+  • No testing stack (Junit, Cucumber) cited
+  • Insufficient years in relevant senior software role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

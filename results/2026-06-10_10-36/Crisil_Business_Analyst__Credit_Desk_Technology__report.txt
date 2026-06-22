@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst (Credit Desk Technology)
+Company:  Crisil
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4426357470
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 66/100
+[█████████████░░░░░░░] 66%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • SQL
+  • data validation
+  • data analysis
+  • ETL
+  • Power BI
+  • Tableau
+  • Agile
+  • PostgreSQL
+  • JIRA
+  • Confluence
+  • AWS S3
+  • BigQuery
+  • Snowflake
+  • quantified results
+  • project management
+  • CRM
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • FRTB
+  • Standardised Approach
+  • IMA
+  • VaR
+  • SVaR
+  • Issuer Default Loss
+  • CCAR stress testing basics
+  • credit derivatives
+  • bonds
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL + ETL experience
+  • Hands-on data validation and analysis
+  • Visualization expertise (Power BI, Tableau)
+  • Quantified impact in prior roles
+  • Experience with cloud data platforms
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit FRTB or regulatory risk experience
+  • Limited credit front-office product exposure
+  • No demonstrated VaR/SVaR or IMA work
+  • Shorter domain-specific experience (financial risk)
+  • No explicit CCAR or Issuer Default Loss mention
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

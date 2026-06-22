@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Shields Group Search
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4393861305
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • ETL
+  • ELT
+  • dbt
+  • Airflow
+  • CI/CD
+  • Git
+  • data pipelines
+  • data modeling
+  • dimensional modeling
+  • data warehouse
+  • data quality
+  • Great Expectations
+  • GCS
+  • Docker
+  • Postgres
+  • testing
+  • automation
+  • data transformation
+  • data engineering
+  • Cloud
+  • Power BI
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Redshift
+  • agentic systems
+  • security protocols
+  • Snowpipe
+  • CI/CD tools (explicit example like Jenkins)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Hands-on BigQuery and Snowflake experience
+  • Production ELT pipelines with Airflow and dbt
+  • Automated testing and CI/CD via GitHub Actions
+  • Quantified impact in prior roles/projects
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Redshift experience
+  • No explicit mention of agentic systems
+  • Security protocol implementation not shown
+  • Only ~3 years total data engineering-related experience
+  • Primary fintech/financial services experience limited
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Architected and secured end-to-end data pipelines by implementing robust security protocols, including role-based access control (RBAC) and encryption at rest/transit, ensuring full compliance with data protection standards.
+  Engineered innovative data-driven workflows incorporating agentic systems and LLM integrations to automate complex decision-making processes and reduce manual intervention in data reconciliation.
+  Integrated Redshift and Snowflake environments into existing cloud infrastructure, leveraging cross-platform migration strategies to optimize data availability for downstream analytics.
+  Implemented comprehensive security protocols and automated data quality audits within CI/CD pipelines, using tools like Jenkins and GitHub Actions to ensure high-grade production releases.
+  Designed scalable data infrastructure with a focus on cost-efficient cloud storage and security, aligning technical architecture with the rigorous compliance requirements of the financial services sector.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Engineer opportunity with Shields Group Search. I am interested in this opportunity because of the firm's mission to modernize private banking through transparent, scalable infrastructure. What interests me about working for Shields Group Search is its commitment to driving transparency into historically opaque markets like fine art and commercial real estate, which I find truly inspiring. I believe my expertise in architecting scalable ETL pipelines and my proficiency in Python and cloud-based data warehousing would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on building maintainable, high-quality code. In fact, at my previous position, I engineered a business intelligence system that tracked key operational KPIs and automated manual reporting workflows. By implementing these data pipelines, I successfully reduced manual workload by 30% and drove a 40% improvement in operational efficiency, a result I am eager to replicate in your environment. Ultimately, I know that the Data Engineer role at Shields Group Search would allow me to bring my technical rigor to the critical task of building robust wealth infrastructure. Additionally, my experience as a Full-Stack Software Developer enabled me to develop my security-conscious engineering skills. While building data solutions for financial stakeholders, I collaborated with teams to synchronize complex datasets across REST APIs and databases, which improved data accuracy by 60% and directly supported reliable feature delivery. I’m excited by the opportunity to use my background in building production-grade data systems to contribute to the innovative work being done at Shields Group Search, including the development of agentic systems. I know that my technical versatility and commitment to data quality align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

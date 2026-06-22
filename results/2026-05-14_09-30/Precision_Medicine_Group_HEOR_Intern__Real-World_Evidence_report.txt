@@ -1,0 +1,85 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     HEOR Intern, Real-World Evidence
+Company:  Precision Medicine Group
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4404433250
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • R
+  • SQL
+  • Power BI
+  • Tableau
+  • AWS
+  • Git
+  • GitHub
+  • data programming
+  • interactive visualization
+  • statistical programming
+  • Microsoft Office
+  • data validation
+  • Python
+  • BigQuery
+  • Snowflake
+  • data governance
+  • literature review
+  • real-world evidence
+  • protocol development
+  • interactive data visualization
+  • data pipelines
+  • data automation
+  • ETL
+  • reporting
+  • advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • SAS
+  • R Shiny
+  • epidemiology
+  • observational study designs
+  • measures of association
+  • bias and confounding
+  • health services research
+  • health policy
+  • economics
+  • bioinformatics
+  • clinical research
+  • AWS (virtual environment specifically)
+  • Power BI (preferred advanced features)
+  • tableau (advanced)
+  • client-facing activities
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Power BI and Tableau dashboard development
+  • Cloud warehousing with BigQuery/Snowflake
+  • Automation and data quality implementation
+  • Quantified impact on efficiency and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit epidemiology/public-health credentials
+  • No SAS experience listed
+  • No formal training in observational study methods noted
+  • R Shiny and interactive app development not shown
+  • Limited documented client-facing/research publication experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized SQL and R scripts to analyze health-related datasets, applying rigorous checks for bias and confounding factors to ensure the integrity of observational study findings.
+  Streamlined data reporting processes by building interactive R Shiny and Power BI dashboards, transforming complex real-world evidence into intuitive visuals for stakeholder reviews.
+  Collaborated on research projects by automating data pipelines to support protocol development and the generation of results tables, ensuring compliance with scientific research standards.
+  Conducted comprehensive literature reviews and quantitative analyses of health services data, effectively communicating evidence-based insights to cross-functional teams in client-facing environments.
+  Managed cloud-based research environments in AWS, utilizing Git for version control to ensure reproducible results and robust data governance in compliance with project protocols.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the HEOR Intern, Real-World Evidence opportunity with Precision Medicine Group. I am deeply interested in this opportunity because of Precision's commitment to translating complex data into actionable healthcare strategies that improve patient outcomes. What interests me about working for Precision is its innovative approach to integrating real-world evidence into clinical research, which aligns perfectly with my background in data science and my passion for health analytics. I believe my proficiency in statistical programming with R and SQL and my experience in building interactive data visualizations would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and reproducibility. In fact, while architecting an economic data pipeline, I implemented automated data validation and dbt star schemas to ensure that all downstream analytics were built on a reliable, standardized foundation. This resulted in a production-grade system that drastically reduced query load times and improved reporting accuracy for decision-makers. Ultimately, I know that the HEOR Intern, Real-World Evidence role at Precision Medicine Group would allow me to bring my analytical rigor to the development of robust real-world evidence studies. Additionally, my role as a Data Analyst enabled me to develop my stakeholder communication skills. I successfully translated technical findings regarding customer segmentation into business growth strategies, which contributed to a 300% increase in revenue for targeted segments. I am excited by the opportunity to use my background in Python and SQL to assist in protocol development and the interpretation of health-related findings at Precision. I know that my technical expertise and my ability to synthesize complex data into actionable recommendations align with what it takes to succeed in the HEOR Intern role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

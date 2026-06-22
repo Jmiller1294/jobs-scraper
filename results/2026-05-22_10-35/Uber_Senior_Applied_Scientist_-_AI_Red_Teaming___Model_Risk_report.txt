@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Applied Scientist - AI Red Teaming & Model Risk
+Company:  Uber
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4418066989
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 32/100
+[██████░░░░░░░░░░░░░░] 32%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Python
+  • LLMs
+  • failure analysis
+  • experimental design
+  • statistical analysis
+  • Git
+  • SQL
+  • APIs
+  • ETL pipelines
+  • data modeling
+  • EDA
+  • data visualization
+  • AWS S3
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (22)
+  • adversarial evaluation
+  • prompt injection
+  • jailbreaks
+  • model safety
+  • evaluation pipelines
+  • agentic systems
+  • embeddings
+  • RAG
+  • tool misuse
+  • confidence miscalibration
+  • simulation frameworks
+  • memory poisoning
+  • behavioral drift
+  • LLM-as-judge
+  • custom judges
+  • security
+  • privacy
+  • trust & safety
+  • agent frameworks
+  • multi-step workflows
+  • failure rates
+  • drift indicators
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL pipelines and data models
+  • Quantified operational impacts (time/process improvements)
+  • Applied EDA and visualization skills
+  • Version control and API integration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/No explicit AI red-teaming experience
+  • No direct evidence of adversarial prompt testing
+  • Insufficient experience with agentic systems or tool use
+  • Lacks documented work on model safety or security
+  • Under 5 years relevant ML/Applied Science experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

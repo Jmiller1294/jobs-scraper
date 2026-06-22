@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     GPS - Azure Senior Platform Engineer - Assistant Director
+Company:  EY
+Location: Iselin, NJ
+URL:      https://www.linkedin.com/jobs/view/4416742603
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • Git
+  • Python
+  • SQL
+  • Cloud
+  • AWS
+  • CI/CD
+  • Agile
+  • Containers
+  • PowerShell
+  • Linux administration
+  • Windows administration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Azure Government
+  • Infrastructure as Code
+  • Bicep
+  • ARM templates
+  • Azure DevOps
+  • AKS
+  • Networking
+  • VNets
+  • NSGs
+  • Cloud security
+  • NIST
+  • Entra ID
+  • Azure RBAC
+  • AZ-104
+  • AZ-305
+  • Terraform
+  • Ansible
+  • ExpressRoute
+  • Azure Policy
+  • Azure Kubernetes Service
+  • AZ-400
+  • AZ-500
+  • AZ-700
+  • CKA
+  • Privileged Identity Management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data engineering and SQL skills
+  • Python scripting and ETL automation
+  • Cloud experience (AWS, BigQuery, Snowflake)
+  • Visualization and dashboard delivery (Power BI, Tableau)
+  • Proven quantified impact on operations and acquisition
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Azure-specific certifications (AZ-104/AZ-305)
+  • Limited/no Azure Government or AKS experience
+  • Missing IaC tools (Bicep/ARM/Terraform) evidence
+  • Lack of documented cloud security/NIST experience
+  • Insufficient senior engineering/cloud leadership tenure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

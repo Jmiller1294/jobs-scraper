@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst-Data Analytics
+Company:  American Express
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4419001316
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • ETL
+  • Data quality
+  • Data products
+  • Predictive modeling
+  • Cloud (Snowflake/BigQuery/AWS)
+  • Power BI
+  • Tableau
+  • Feature engineering
+  • Data integration
+  • Automation
+  • Version control (Git)
+  • Marketing analytics
+  • Customer segmentation
+  • Campaign measurement
+  • Data visualization
+  • Quantitative degree
+  • Model development
+  • Data governance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Machine Learning
+  • Generative AI
+  • NLP
+  • Production deployment
+  • A/B testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Demonstrated ETL and data modeling experience
+  • Proven impact with quantified outcomes
+  • Experience with BI tools (Power BI, Tableau)
+  • Cloud and data integration familiarity
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/production deployment experience
+  • No clear Generative AI/LLM projects
+  • NLP experience not demonstrated
+  • Only ~2 years total related experience (entry-level)
+  • No explicit model governance or A/B testing examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

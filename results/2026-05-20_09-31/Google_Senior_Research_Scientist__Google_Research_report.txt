@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Research Scientist, Google Research
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4375785566
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 40/100
+[████████░░░░░░░░░░░░] 40%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • PostgreSQL
+  • ETL
+  • Data modeling
+  • BigQuery
+  • Git
+  • AWS (S3)
+  • Snowflake
+  • Power BI
+  • Tableau
+  • Time series
+  • Automation
+  • Data pipelines
+  • EDA
+  • Version control
+  • JIRA
+  • Confluence
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (6)
+  • Machine learning
+  • Research publications
+  • Experimental design
+  • Statistical analysis
+  • Prototyping
+  • Leadership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL expertise
+  • Experience building ETL pipelines and data models
+  • Proven data visualization with Power BI/Tableau
+  • Process automation and operational impact
+  • Version control and collaboration (Git, JIRA, Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PhD or equivalent research experience
+  • No listed research publications
+  • Limited ML/experimental design experience
+  • Only ~2+ years total industry experience, not explicit research leadership
+  • Title misaligned with Research Scientist role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

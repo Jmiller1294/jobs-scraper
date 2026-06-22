@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Unqork Developer
+Company:  Deloitte
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4418124031
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 54/100
+[██████████░░░░░░░░░░] 54%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • REST APIs
+  • Agile/Scrum
+  • Integration
+  • AWS
+  • PostgreSQL
+  • SQL
+  • Python
+  • ETL
+  • Debugging
+  • Documentation
+  • Dashboards
+  • Power BI
+  • Version control (Git)
+  • Requirements translation
+  • Stakeholder collaboration
+  • Automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • Unqork
+  • OAuth 2.0
+  • OpenID Connect
+  • Unit testing
+  • CI/CD
+  • DevOps
+  • Data mapping
+  • Performance testing
+  • Insurance domain
+  • Integration queues/events
+  • Identity and access management
+  • Unqork Developer certification
+  • Unqork Architect certification
+  • Continuous delivery
+  • No-code platform experience
+  • Underwriting
+  • Policy administration
+  • Claims
+  • Billing
+  • Agent portals
+  • Cloud platform (GCP/Azure) specific
+  • Production troubleshooting
+  • Release processes
+  • Deployment automation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL skills
+  • Python for ETL and analytics
+  • Experience with REST API integrations
+  • Agile delivery and cross-functional collaboration
+  • Data visualization and dashboard delivery (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Unqork platform experience
+  • No OAuth/OpenID or IAM implementation evidence
+  • Limited CI/CD and DevOps exposure
+  • No insurance-specific product implementations listed
+  • No documented unit/integration testing or performance testing experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

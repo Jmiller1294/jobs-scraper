@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Office Support Person IV - Juvenile Probation
+Company:  Mercer County Works
+Location: Princeton, NJ
+URL:      https://www.linkedin.com/jobs/view/4431341781
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Microsoft Office
+  • Google Suite
+  • documentation
+  • confidentiality
+  • communication
+  • record keeping
+  • training compliance
+  • stakeholder interaction
+  • scheduling
+  • team collaboration
+  • professional demeanor
+  • reporting
+  • onboarding
+  • problem solving
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • customer service
+  • case management
+  • data entry
+  • security monitoring
+  • triage
+  • court documents
+  • stakeholder interaction
+  • JNET certification
+  • Mandated Reporting
+  • diversity equity inclusion
+  • cataloguing
+  • expungement
+  • juvenile interactions
+  • waiting room monitoring
+  • inter-county transfers
+  • closure at expiration
+  • certifications
+  • personal data recording
+  • face-to-face contact
+  • risk assessment
+  • PPE
+  • lift up to 25 pounds
+  • work at multiple locations
+  • confidential processing
+  • case specific documentation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong documentation and SOP creation
+  • Proficient with Microsoft Office/Google Suite
+  • Experience in reporting and dashboards
+  • Process improvement and automation
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No direct juvenile justice or court experience
+  • No JNET or mandated reporter certification
+  • Limited explicit customer-facing/case management roles
+  • No security/waiting-room monitoring experience
+  • No documented experience with expungement or inter-county transfers
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

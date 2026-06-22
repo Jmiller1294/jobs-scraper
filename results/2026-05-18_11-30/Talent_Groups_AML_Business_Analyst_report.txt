@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AML Business Analyst
+Company:  Talent Groups
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4413480820
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • SQL
+  • data analysis
+  • statistical analysis
+  • process documentation
+  • stakeholder management
+  • compliance
+  • risk
+  • Python
+  • Snowflake
+  • BigQuery
+  • Tableau
+  • Power BI
+  • ETL
+  • audit documentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Actimize SAM
+  • AML
+  • data profiling
+  • BRD
+  • functional specifications
+  • transaction monitoring
+  • scenario configuration
+  • tuning
+  • FATF
+  • BSA
+  • EU AML directives
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data engineering skills
+  • Experience with ETL and large datasets
+  • Visualization and dashboarding (Power BI, Tableau)
+  • Cross-functional collaboration experience
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Actimize SAM experience
+  • No explicit AML regulatory knowledge
+  • No BRD/functional spec examples
+  • Limited formal financial crime monitoring background
+  • Short relevant years in AML-related roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

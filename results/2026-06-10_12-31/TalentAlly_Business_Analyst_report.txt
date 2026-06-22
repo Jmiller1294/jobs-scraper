@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst
+Company:  TalentAlly
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4427048007
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Python
+  • SQL
+  • R
+  • Data visualization
+  • Power BI
+  • Tableau
+  • ETL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Time series
+  • Automated workflows
+  • Data modeling
+  • Git
+  • Communication
+  • Statistical techniques
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • SAS
+  • GLM
+  • Model governance
+  • Catastrophe modeling
+  • Reserving
+  • Pricing
+  • Claims analytics
+  • Intermediate modeling
+  • Regulatory
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience with ETL pipelines
+  • Proficient in data visualization (Power BI, Tableau)
+  • Demonstrated quantified impact (process time ↓40%, efficiency ↑25%)
+  • Experience with cloud data platforms (BigQuery, Snowflake, AWS S3)
+  • Effective communication and cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited actuarial/insurance-specific domain experience
+  • No evidence of SAS usage
+  • No demonstrated GLM/GBM or catastrophe modeling experience
+  • Unclear actuarial credential progress (CAS exams/VEEs)
+  • Less than required actuarial years/associated titles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

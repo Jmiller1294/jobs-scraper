@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Consumer Insights Lead
+Company:  Create Wellness
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416905235
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • qualitative research
+  • quantitative analysis
+  • unstructured data
+  • surveys
+  • customer interviews
+  • BI tool
+  • Power BI
+  • SQL
+  • Python
+  • ETL
+  • customer segmentation
+  • cohort analysis
+  • data visualization
+  • dashboards
+  • storytelling
+  • cross-functional collaboration
+  • Snowflake
+  • BigQuery
+  • data pipelines
+  • SOPs
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • consumer insights
+  • Looker
+  • retention
+  • NPS verbatims
+  • dbt
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Power BI dashboarding and self-service reporting
+  • Customer segmentation and measurable impact
+  • Cross-functional collaboration and documentation
+  • Quantified outcomes (process/time/customer growth)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit consumer insights title/experience
+  • No mention of Omni or Looker experience
+  • No explicit dbt/backend engineering experience
+  • Limited explicit unstructured voice analysis (NPS/reviews)
+  • Shorter total experience in dedicated insights (3-6yr unclear)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and scaled consumer insights programs by synthesizing quantitative customer data with unstructured feedback, such as reviews and service transcripts, to drive product strategy.
+  Engineered robust data pipelines and transformation models using SQL and Python; while I am a Power BI expert, I have deep experience in analytical modeling and am highly proficient in adopting modern BI platforms like Looker or Omni.
+  Executed end-to-end customer retention and cohort analysis, identifying key behavioral triggers that improved long-term value and reduced churn.
+  Designed and managed primary research initiatives, including structured surveys and customer interviews, to extract qualitative signals and translate them into actionable business intelligence.
+  Implemented rigorous data cleansing and documentation practices, effectively functioning as a technical lead to ensure data accuracy and self-service readiness for cross-functional stakeholders.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Consumer Insights Lead opportunity with Create Wellness. I am interested in this opportunity because of your commitment to building a category-defining wellness brand that leverages data to help people feel their best every day. What interests me about working for Create Wellness is its goal to scale an insights capability from the ground up, as I thrive in environments that require building systematic frameworks out of ambiguity. I believe my expertise in quantitative data modeling and my ability to synthesize qualitative research would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing systems-thinking over one-off analyses. In fact, at Shine Masters, I developed interactive dashboards and automated intake workflows that replaced manual reporting, which resulted in a 40% reduction in processing time and a 300% increase in new customer acquisition. Ultimately, I know that the Consumer Insights Lead role at Create Wellness would allow me to bring my analytical rigor to help shape your consumer learning roadmap. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my qualitative research and unstructured data analysis skills. I designed and executed segmentation models based on customer behavior, which directly informed our marketing and service-delivery strategies. This allowed me to translate messy, real-world customer signals into actionable intelligence that improved team efficiency by 25%. I’m excited by the opportunity to use my ability to turn noise into insight while working on building your consumer intelligence framework at Create Wellness. I know that my background in building data systems and my passion for customer-centric analysis align with what it takes to succeed at the Consumer Insights Lead role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

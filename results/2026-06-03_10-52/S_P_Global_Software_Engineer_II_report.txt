@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer II
+Company:  S&P Global
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413831308
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • Postgres
+  • APIs
+  • SQL
+  • Docker
+  • CI/CD
+  • Airflow
+  • dbt
+  • BigQuery
+  • Git
+  • Production
+  • ELT/ETL
+  • Data modeling
+  • Testing
+  • Automation
+  • SaaS
+  • Documentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Kafka
+  • Celery
+  • FastAPI
+  • Django
+  • OpenSearch
+  • Prometheus
+  • Grafana
+  • Sentry
+  • RabbitMQ
+  • Amazon EKS
+  • Algorithms
+  • Distributed systems
+  • PostgreSQL (explicit mention of advanced features)
+  • Time and space complexity
+  • Two+ years backend experience (explicit)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience with production ETL/ELT pipelines
+  • Cloud data platform experience (BigQuery, GCS, Snowflake)
+  • CI/CD and automation experience
+  • Data modeling and dbt expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit backend API framework experience (FastAPI/Django)
+  • No mention of Kafka/Celery/RabbitMQ or messaging systems in work roles
+  • Monitoring/observability tools not demonstrated
+  • Backend engineering title and distributed systems experience unclear
+  • Algorithms and complexity analysis not evidenced
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

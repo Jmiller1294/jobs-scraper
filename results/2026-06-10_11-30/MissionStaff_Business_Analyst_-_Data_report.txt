@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst - Data
+Company:  MissionStaff
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4426091318
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Power BI
+  • Python
+  • ETL
+  • Data analysis
+  • Data validation
+  • Data quality
+  • Stakeholder management
+  • Agile
+  • User Stories
+  • Source-to-target mappings
+  • Data dictionaries
+  • Data profiling
+  • Communication
+  • Problem-solving
+  • Visualization & Reporting
+  • JIRA
+  • Confluence
+  • Git
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • Advanced Excel
+  • ETL Pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Azure
+  • Azure Data Factory
+  • Synapse Analytics
+  • Data governance
+  • BRD
+  • FRD
+  • SAP Analytics Cloud
+  • PMP
+  • CBAP
+  • SAC
+  • Insurance industry experience (4+ years)
+  • Minimum 7 years BA experience
+  • Onsite New York
+  • Regulatory compliance
+  • Financial instruments
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and advanced query experience
+  • Power BI dashboard development with quantified impact
+  • ETL and data pipeline development (Python + SQL)
+  • Experience with data cleansing, profiling, and validation
+  • Cross-functional collaboration and documentation (JIRA/Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no Azure (ADF/Synapse) experience
+  • Insufficient years and explicit BA title/insurance tenure
+  • BRD/FRD authorship not clearly demonstrated
+  • No SAP Analytics Cloud or SAC integration experience
+  • Lack of stated data governance certification/experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

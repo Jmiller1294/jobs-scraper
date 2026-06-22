@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst
+Company:  AARATECH
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4414119730
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Python
+  • SQL
+  • Power BI
+  • Tableau
+  • Automation
+  • ETL/ELT
+  • Data pipelines
+  • BigQuery
+  • Snowflake
+  • Data quality
+  • Pandas
+  • R
+  • Reporting
+  • Dashboards
+  • A/B testing
+  • Data governance
+  • Git
+  • CI/CD
+  • Statistical models
+  • Data cleaning
+  • PostgreSQL
+  • MySQL
+  • AWS S3
+  • Great Expectations
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (1)
+  • Machine learning datasets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Proven automation and ETL experience
+  • Power BI/Tableau dashboard development
+  • Quantified impact (time savings, revenue lift)
+  • Experience with cloud data platforms
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML model training experience
+  • Only 2+ years total aligns but shorter tenure in some roles
+  • No explicit mention of model feature engineering
+  • No direct mention of R in project work
+  • Location: New York (not SF Bay) - relocation not stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Supported AI/ML model data preparation by transforming and cleaning large datasets from APIs and PostgreSQL warehouses, ensuring data accuracy for downstream analytics.
+  Modeled raw API data into a dbt star schema optimized for query performance and data quality validation with Great Expectations, contributing to production-grade ELT pipelines.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend and inform AI-driven strategies.
+  Integrated multiple datasets from APIs and PostgreSQL warehouses to build structured data for robust downstream analytics and reporting, directly supporting AI/ML model data preparation.
+  Developed Python automation for weekly sales and operations reports (ingesting POS and CRM data), eliminating repetitive data entry and improving reporting accuracy for faster strategic decisions, showcasing proficiency in automation for data analysis.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+i am excited to submit my application for the Data Analyst – AI & Automation opportunity with AARATECH. i am interested in this opportunity because of Aaratech's focus on delivering innovative solutions through data-driven insights and collaborative partnerships, particularly within the healthcare and enterprise domains. what interests me about working for AARATECH is its commitment to improving operational efficiency and enabling better outcomes through data-driven insights and collaborative partnerships excites inspires intrigues me because this aligns perfectly with my passion for leveraging data to drive tangible business improvements.
+
+i believe my strong Python and SQL proficiency and my proven automation and ETL experience would make me a strong candidate for this role. during my professional career i have approached problems with a focus on efficiency and accuracy. in fact, at Shine Masters Cleaning Services, i built Python automation for weekly sales and operations reports (ingesting POS and CRM data), eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions. this not only streamlined operations but also ensured that data used for strategic decisions was reliable.
+
+ultimately i know that the Data Analyst role at AARATECH would allow me to bring my automation and data pipeline development skills to analyzing datasets for automation opportunities. additionally my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my reporting and dashboard creation skills. specifically, i developed Power BI and Looker workflows to replace manual written reporting, reducing data mismatches and improving work efficiency by 40%. i’m excited by the opportunity to use my analytical skills in working on AI/ML model data preparation at AARATECH.
+
+i know that my Python and SQL proficiency and my experience with automation and reporting align with what it takes to succeed at the Data Analyst role. i would love the opportunity to discuss the role in more detail.
+
+thank you for your time and consideration. i look forward to hearing from you soon.
+
+warm regards
+Justin Miller

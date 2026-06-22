@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Systems Analyst
+Company:  Figma
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4405715413
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • integrations
+  • APIs
+  • SQL
+  • documentation
+  • stakeholder communication
+  • monitoring
+  • testing
+  • rollout
+  • workflows
+  • automation
+  • AI tools
+  • operational scale
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Zendesk
+  • routing
+  • automations
+  • ticket classification
+  • webhooks
+  • backlog management
+  • skills-based routing
+  • agent assist
+  • Zendesk Copilot
+  • channel configuration
+  • queue architecture
+  • Zendesk certification
+  • intent/classification systems
+  • analytics tools
+  • advanced Zendesk implementations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • SQL and data modeling
+  • automation (Zapier) and ETL
+  • cross-functional collaboration
+  • documentation and SOPs
+  • dashboarding and monitoring (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Zendesk administration experience
+  • No Zendesk certification
+  • Limited explicit experience with ticket routing/queue design
+  • No mention of webhooks or advanced Zendesk APIs
+  • Limited demonstrated experience with agent-facing AI (Copilot)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

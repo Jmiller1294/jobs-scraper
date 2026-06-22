@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     ML Research Engineer — Sequence Modelling for Long-Horizon Time Series
+Company:  NJF Global Holdings Ltd
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4414617578
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 8/100
+[█░░░░░░░░░░░░░░░░░░░] 8%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • time-series
+  • SQL
+  • BigQuery
+  • Snowflake
+  • automation
+  • data pipelines
+  • experiments
+  • data quality
+  • ELT
+  • Git
+  • visualization
+  • statistical models
+  • A/B tests
+  • optimization (queries)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (24)
+  • sequence modelling
+  • transformers
+  • pre-training
+  • long-context
+  • state-space models
+  • PyTorch
+  • JAX
+  • deep learning
+  • optimization
+  • regularization
+  • FlashAttention
+  • distributed training
+  • CUDA
+  • C++
+  • long-horizon
+  • high-dimensional data
+  • research publications
+  • experiments at scale
+  • architectural design
+  • mixture-of-experts
+  • modeling objectives
+  • positional encodings
+  • evaluation metrics
+  • modeling depth
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Hands-on data pipeline and ELT experience
+  • Practical time-series engineering (FRED pipeline)
+  • Quantified impact in prior roles
+  • Experience with experiments and A/B testing
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated deep-learning framework experience (PyTorch/JAX)
+  • No transformer or sequence-modeling research
+  • No publications or research-track record
+  • No large-scale pre-training or distributed training evidence
+  • Limited C++/CUDA or low-level optimization skills
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

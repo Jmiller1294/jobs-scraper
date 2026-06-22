@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst, Programmatic (Embedded Role, Entertainment Client)
+Company:  Starcom
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4386805454
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Excel
+  • SQL
+  • Python
+  • AI tools
+  • analytics
+  • performance reporting
+  • QA
+  • project management
+  • Tableau
+  • Power BI
+  • KPI
+  • campaign measurement
+  • Google Analytics
+  • CRM
+  • Snowflake
+  • BigQuery
+  • data pipelines
+  • troubleshooting
+  • data visualization
+  • Google Data Analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • programmatic
+  • DSP
+  • bid management
+  • campaign optimization
+  • campaign management
+  • traffic sheets
+  • creative rotations
+  • Prisma
+  • insertion orders
+  • DMPs
+  • display
+  • video
+  • mobile
+  • social
+  • billing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python data skills
+  • Proven reporting and dashboarding (Power BI, Tableau)
+  • Experience with ETL/data pipelines and cloud warehouses
+  • Quantified impact on KPIs and operations
+  • Familiarity with AI tools for automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit programmatic DSP experience
+  • Limited direct media buying/campaign build experience
+  • No mention of DMPs or ad billing systems
+  • Titles are data-focused, not programmatic/activation
+  • Under 2 years direct industry programmatic experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

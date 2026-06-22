@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Scientist, Agentic AI
+Company:  Guardian Life
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4398260790
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 35/100
+[███████░░░░░░░░░░░░░] 35%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Python
+  • SQL
+  • ETL
+  • data wrangling
+  • Git
+  • deployment
+  • data exploration
+  • monitoring
+  • underwriting
+  • insurance
+  • Power BI
+  • AWS S3
+  • BigQuery
+  • R
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • LLMs
+  • NLP
+  • agentic AI
+  • model fine-tuning
+  • PyTorch
+  • TensorFlow
+  • Hugging Face
+  • LangChain
+  • distributed computing
+  • CI/CD
+  • model validation
+  • multi-step reasoning
+  • reinforcement learning
+  • MLOps
+  • AIOps
+  • fairness
+  • scalability
+  • LangGraph
+  • RAG
+  • monitoring (production)
+  • technical leadership
+  • mentoring
+  • production LLMs
+  • insurance underwriting experience (deep)
+  • presentation to senior leadership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL hands-on skills
+  • Experience building ETL pipelines and data models
+  • Proven deployment/workflow automation experience
+  • Domain exposure to insurance and underwriting data
+  • Visualization and stakeholder reporting (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit LLM/NLP model development or fine-tuning experience
+  • No PyTorch/TensorFlow or Hugging Face framework usage listed
+  • Limited ML algorithm/advanced modeling evidence (XGBoost, RF)
+  • No MLOps/CI-CD or production monitoring specifics
+  • Insufficient senior-level agentic AI or leadership experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

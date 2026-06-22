@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Front Office IT Business Analyst
+Company:  Soho Square Solutions
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4427811400
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • SQL
+  • PostgreSQL
+  • Python
+  • Tableau
+  • Power BI
+  • Automation
+  • Git
+  • JIRA
+  • Confluence
+  • ETL
+  • Monitoring
+  • Incident management
+  • Testing
+  • Customer service
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (22)
+  • Equity
+  • Options
+  • Fidessa
+  • Dash
+  • FIX
+  • Trade execution
+  • Booking
+  • Loanet
+  • Sophis
+  • P&L
+  • Risk management
+  • Securities Lending
+  • Structured products
+  • EMSX
+  • Flextrade
+  • Calypso
+  • Front Office
+  • Trading workflows
+  • User training
+  • Status reporting
+  • Quality assurance
+  • Operational excellence
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • Python for ETL and analysis
+  • Experience with BI tools (Tableau, Power BI)
+  • Automation and process improvement
+  • Documentation and ticketing (JIRA, Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Front Office trading system experience listed
+  • No FIX protocol experience
+  • No explicit equities/options or securities lending domain experience
+  • Limited direct support/Level 1-2 IT support background
+  • No mention of trade booking systems (Loanet/Sophis)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

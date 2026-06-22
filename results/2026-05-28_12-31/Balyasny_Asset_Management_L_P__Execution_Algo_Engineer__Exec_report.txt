@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Execution Algo Engineer, Execution Technology - Java
+Company:  Balyasny Asset Management L.P.
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4419068598
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 22/100
+[████░░░░░░░░░░░░░░░░] 22%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • AI-assisted development
+  • SQL
+  • Python
+  • PostgreSQL
+  • Git
+  • APIs
+  • performance optimization
+  • stakeholder communication
+  • cloud (AWS S3)
+  • Tableau
+  • Power BI
+  • time series
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Execution Trading Algorithms
+  • Java
+  • multi-threaded programming
+  • concurrent programming
+  • distributed systems
+  • low-latency programming
+  • lock-free algorithms
+  • centralized risk management
+  • C++
+  • C#
+  • React
+  • design reviews
+  • performance-driven strategies
+  • trading systems
+  • high-performance engineering
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data engineering (SQL, ETL, PostgreSQL)
+  • Proficient in Python for analytics
+  • Experience with AI tools
+  • Visualization and reporting (Tableau, Power BI)
+  • Cross-functional collaboration and communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java experience for required 5+ years
+  • No demonstrated execution-trading algorithm experience
+  • No multi-threaded/low-latency or lock-free programming
+  • No distributed systems design experience
+  • Limited direct financial/trading systems background
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

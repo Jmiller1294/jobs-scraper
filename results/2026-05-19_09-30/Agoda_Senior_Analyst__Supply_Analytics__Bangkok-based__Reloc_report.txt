@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst (Supply Analytics, Bangkok-based, Relocation provided)
+Company:  Agoda
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4299762796
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • Advanced Excel
+  • ETL pipelines
+  • PostgreSQL
+  • MySQL
+  • Snowflake
+  • AWS S3
+  • data visualization
+  • data cleaning
+  • data automation
+  • data storytelling
+  • Git
+  • data-driven decision making
+  • time series
+  • stakeholder management
+  • data warehouses
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • A/B testing
+  • statistical modeling
+  • regression
+  • hypothesis testing
+  • random forest
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Proven dashboarding (Power BI/Tableau)
+  • ETL and data modeling skills
+  • Demonstrated automation and time savings
+  • Quantified impact in outcomes
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit A/B testing experience
+  • Limited machine learning/statistics depth
+  • Short total analytics tenure (2+ years)
+  • No travel/Asian market experience
+  • No MBA or advanced degree mentioned
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and executed A/B testing frameworks for marketing campaigns, utilizing hypothesis testing to validate performance improvements and drive a 300% increase in customer acquisition.
+  Applied statistical modeling techniques, including linear regression and segmentation analysis, to predict borrower default risk and optimize lending portfolio strategy.
+  Leveraged machine learning concepts to segment high-value customer populations, implementing data-driven logic that improved targeting precision and team efficiency by 25%.
+  Performed rigorous hypothesis testing and statistical analysis on project data to identify performance drivers, enabling actionable, data-backed recommendations for executive stakeholders.
+  Automated data collection and validation processes for large-scale datasets, incorporating predictive logic and regression analysis to forecast operational KPIs and drive continuous improvement.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Analyst (Supply Analytics, Bangkok-based, Relocation provided) opportunity with Agoda. I am interested in this opportunity because of Agoda’s reputation for placing data and technology at the heart of the travel experience, and I am eager to apply my analytical rigor to your global supply ecosystem. What interests me about working for Agoda is its dynamic, data-driven culture, which inspires me because I thrive in fast-paced environments where innovation is the standard. I believe my technical proficiency in SQL and Python and my expertise in statistical modeling would make me a strong candidate for this role. During my professional career, I have approached problems with a hacker's mindset, focusing on creative automation and efficiency. In fact, at Shine Masters, I identified a bottleneck in client onboarding and utilized Python to automate workflows via Zapier and Power BI, which saved 8 hours per week and increased team efficiency by 25%. This effort not only modernized our operations but also freed up critical resources for lead generation, directly contributing to a 300% increase in new customer acquisition. Ultimately, I know that the Senior Analyst role at Agoda would allow me to bring my advanced SQL and Python skills to refine complex supply briefs and deliver actionable business insights. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my stakeholder management skills. By translating complex performance data into clear, executive-ready presentations, I bridged the gap between raw data and decision-making, ensuring that leadership had the visibility needed to optimize high-value customer segments. I am excited by the opportunity to use my expertise in hypothesis testing and experimentation in working on supply ecosystem optimization at Agoda. I know that my technical background and ability to translate data into strategy align with what it takes to succeed as a Senior Analyst. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

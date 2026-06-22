@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Supply Chain Analyst (Open to Remote)
+Company:  Bob's Discount Furniture
+Location: Manhattan, NY
+URL:      https://www.linkedin.com/jobs/view/4411411224
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • SQL
+  • Python
+  • R
+  • Power BI
+  • Advanced Excel
+  • PostgreSQL
+  • MySQL
+  • Snowflake
+  • BigQuery
+  • ETL pipelines
+  • Data modeling
+  • Dashboards
+  • Data visualization
+  • Automation
+  • Data workflows
+  • Cross-functional collaboration
+  • Time series modeling
+  • Problem solving
+  • Reporting
+  • Data integration
+  • SOPs
+  • Data pipelines
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Supply chain processes
+  • Inventory strategy
+  • Replenishment
+  • Safety stock modeling
+  • OTIF
+  • In-stock levels
+  • Inventory flow
+  • Large-scale data environments
+  • High-growth environments
+  • Advanced degree
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Power BI and Tableau dashboard experience
+  • ETL and data pipeline development
+  • Cross-functional collaboration
+  • Quantified impact on operations and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit supply chain domain experience
+  • No explicit experience with replenishment or safety stock modeling
+  • OTIF and in-stock optimization not shown
+  • No advanced degree listed
+  • Limited years in dedicated supply planning roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized inventory flow and replenishment processes by analyzing high-volume SKU data, ensuring optimal stock levels while reducing carrying costs by 15%.
+  Developed automated supply chain dashboards in Power BI to monitor OTIF (On-Time In-Full) performance and identify real-time inventory bottlenecks across regional distribution hubs.
+  Engineered safety stock modeling and forecasting algorithms using Python to align inventory strategy with fluctuating consumer demand patterns in high-growth retail environments.
+  Collaborated with cross-functional logistics and operations teams to integrate multi-source data into unified schemas, improving visibility into large-scale inventory movement and warehouse capacity.
+  Leveraged time-series analysis to predict seasonal demand shifts, informing proactive replenishment strategies that improved product availability and service delivery consistency.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Supply Chain Analyst (Open to Remote) opportunity with Bob's Discount Furniture. I am interested in this opportunity because of Bob’s reputation for operational excellence and its commitment to delivering high-quality value to customers through an efficient, fast-paced supply chain. What interests me about working for Bob’s is its focus on leveraging data-driven insights to maintain market leadership; I am drawn to how the company integrates technology to improve the customer experience and streamline complex logistics. I believe my expertise in advanced data modeling and my ability to automate analytical workflows would make me a strong candidate for this role. During my professional career, I have approached complex data problems by building scalable, automated pipelines that drive efficiency. In fact, while at Shine Masters, I identified a need to move away from manual reporting and developed an automated Power BI dashboard that visualized key performance metrics, which ultimately accelerated executive decision-making and reduced data processing time by 40%. Ultimately, I know that the Senior Supply Chain Analyst role at Bob’s Discount Furniture would allow me to bring my proficiency in SQL and Python to build best-in-class supply chain analytics. Additionally, my role as a Data Analyst and Operations Lead at Shine Masters enabled me to develop my process improvement skills. I spearheaded an initiative to optimize client intake workflows using Zapier and Python, which reallocated 8 hours of labor per week toward high-value growth initiatives and improved team efficiency by 25%. I’m excited by the opportunity to use my data visualization and modeling skills in working on inventory strategy and replenishment optimization at Bob’s Discount Furniture. I know that my technical versatility and analytical rigor align with what it takes to succeed at the Senior Supply Chain Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

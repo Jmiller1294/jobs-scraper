@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analyst
+Company:  Newmark
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4392809331
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 48/100
+[█████████░░░░░░░░░░░] 48%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • Excel
+  • PowerPoint
+  • writing
+  • pitch materials
+  • market research
+  • reporting
+  • database
+  • SQL
+  • Python
+  • Power BI
+  • communication
+  • teamwork
+  • time management
+  • CRM
+  • presentation
+  • data analysis
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • financial modeling
+  • hospitality
+  • hotel P&L
+  • underwriting
+  • valuation
+  • appraisals
+  • transaction memoranda
+  • due diligence
+  • pipeline tracking
+  • underwriting
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong technical data and analytics skills
+  • advanced Excel and Power BI reporting
+  • SQL and Python automation experience
+  • demonstrated quantified impact on revenue and efficiency
+  • effective communication of analytical findings
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited/no hospitality or hotel finance experience
+  • no explicit financial modeling of property cash flows
+  • no appraisal or valuation experience
+  • no transaction or investment banking history
+  • limited years in relevant real estate roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

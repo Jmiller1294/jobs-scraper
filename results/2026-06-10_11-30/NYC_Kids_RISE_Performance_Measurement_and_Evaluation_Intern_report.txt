@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Performance Measurement and Evaluation Intern
+Company:  NYC Kids RISE
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4426105199
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 87/100
+[█████████████████░░░] 87%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • R
+  • Tableau
+  • Advanced Excel
+  • Data analysis
+  • KPI
+  • Data visualization
+  • SQL
+  • Python
+  • ETL
+  • Data cleaning
+  • Dashboards
+  • Documentation
+  • Project management
+  • Cross-functional
+  • Reporting
+  • Time series
+  • Statistical analysis
+  • Google Data Analytics
+  • Power BI
+  • BigQuery
+  • Snowflake
+  • Git
+  • Communication
+  • Presentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • QA
+  • S3
+  • Snowflake (explicit project)
+  • Tableau Prep
+  • R studio
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack (R, Python, SQL, Tableau, Excel)
+  • Proven dashboarding and reporting with measurable impact
+  • Experience with large datasets and ETL pipelines
+  • Cross-functional collaboration and documentation
+  • Quantified outcomes (time and efficiency improvements)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit RStudio project examples
+  • QA standards and testing experience not clearly detailed
+  • Part-time nonprofit or program-specific experience not shown
+  • No explicit NYC DOE or education program experience
+  • S3/Snowflake usage mentioned but limited context for analytics workflows
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed robust data quality assurance (QA) standards and documentation protocols for automated ETL pipelines, ensuring 100% data integrity for stakeholder reporting.
+  Utilized R and RStudio to conduct advanced statistical analysis on customer segmentation datasets, driving targeted marketing initiatives and a 300% increase in acquisition.
+  Integrated S3 and Snowflake data environments to support large-scale analytics workflows, optimizing retrieval times and streamlining cross-functional data access.
+  Implemented automated data cleaning and validation scripts to maintain high QA standards, ensuring consistency and accuracy across all organizational reporting metrics.
+  Collaborated on documentation projects for technical workflows, utilizing Tableau Prep to standardize data preparation and improve reporting reliability for executive decision-making.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Performance Measurement and Evaluation Intern opportunity with NYC Kids RISE. I am interested in this opportunity because of the organization’s commitment to building community wealth and providing universal access to college savings, a mission that resonates deeply with my background in data-driven social impact. What interests me about working for NYC Kids RISE is its unique approach to leveraging systemic change for educational equity, which inspires me because I believe technology and data should be used to bridge opportunity gaps. I believe my advanced proficiency in R and Tableau and my experience with rigorous data QA standards would make me a strong candidate for this role. During my professional career, I have approached complex data problems by focusing on both technical precision and stakeholder clarity. In fact, while at Shine Masters, I identified that manual reporting was hindering decision-making; I developed interactive Power BI and Tableau dashboards to replace these processes. This effort reduced data processing time by 40% and enabled the leadership team to act on KPIs with 25% greater efficiency, directly supporting our customer growth targets. Ultimately, I know that the Performance Measurement and Evaluation Intern role at NYC Kids RISE would allow me to bring my technical expertise in R and Excel to the team’s ongoing research and performance tracking initiatives. Additionally, my role as a Data Analytics Fellow at COOP Careers enabled me to develop my statistical analysis skills while working with large, sensitive datasets. During the NYPD Arrests project, I utilized Python and R to clean and segment over 250k rows of data to visualize demographic patterns. This work resulted in a clear, actionable data storytelling report that provided stakeholders with immediate insight into community safety trends—a skill set I am eager to apply to the Save for College Program. I’m excited by the opportunity to use my background in data visualization and reporting to support the Research and Evaluation team’s mission at NYC Kids RISE. I know that my analytical rigor and collaborative spirit align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,81 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sr Analyst, Revenue Operations - Gong
+Company:  PayPal
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4402676441
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • ETL
+  • dashboards
+  • data analysis
+  • data visualization
+  • reporting
+  • CRM (Salesforce CRM)
+  • automation
+  • documentation
+  • KPI tracking
+  • AWS S3
+  • Snowflake
+  • BigQuery
+  • stakeholder collaboration
+  • process improvement
+  • data pipelines
+  • data modeling
+  • JIRA
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Gong Engage
+  • Flows
+  • enrollment logic
+  • branching
+  • deliverability
+  • audit templates
+  • content links
+  • copyright updates
+  • compliance
+  • deliverability metrics
+  • conversion optimization
+  • task completion
+  • exits
+  • A/B testing
+  • mentoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Hands-on dashboarding (Power BI, Tableau)
+  • ETL and data pipeline experience
+  • Proven process improvement with quantified impact
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Gong Engage / engagement-flow experience
+  • Limited explicit CRM enrollment/branching logic experience
+  • A/B testing not clearly documented in resume
+  • Compliance and deliverability experience not shown
+  • Mentorship experience minimal
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized marketing and sales operations by managing workflow automation and A/B testing campaigns, achieving a 300% increase in customer acquisition through rigorous performance analysis and funnel conversion optimization.
+  Streamlined CRM engagement workflows by designing complex enrollment logic and branching paths, ensuring data integrity and consistent deliverability across customer segments.
+  Conducted comprehensive audits of marketing content templates and outreach sequences, ensuring strict adherence to compliance standards and annual branding updates while monitoring delivery and logging metrics.
+  Designed and maintained executive-level dashboards to track engagement, conversion, and task completion metrics, providing actionable insights to cross-functional stakeholders to drive process improvement.
+  Mentored junior team members on data storytelling and SQL best practices, fostering a collaborative environment and improving the team's overall analytical output and documentation consistency.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Sr Analyst, Revenue Operations - Gong opportunity with PayPal. I am interested in this opportunity because of PayPal’s reputation for revolutionizing commerce and its commitment to driving innovation within a global, two-sided network. What interests me about working for PayPal is its focus on empowering businesses and consumers through secure, personalized financial experiences; I am particularly drawn to your core values of Collaboration and Innovation, which align with my professional philosophy. I believe my expertise in data-driven process optimization and my technical proficiency in SQL and CRM analytics would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex datasets into actionable operational strategies. In fact, while at Shine Masters, I identified that manual reporting and onboarding workflows were bottlenecks; I developed automated Power BI dashboards and Zapier-integrated workflows that improved KPI visibility and saved 8 hours of administrative work per week. This initiative directly led to a 25% increase in team efficiency and a 300% increase in new customer acquisition. Ultimately, I know that the Sr Analyst, Revenue Operations - Gong role at PayPal would allow me to bring my data modeling and automation skills to manage multi-step engagement flows effectively. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my stakeholder management and documentation skills. I spearheaded the creation of SOPs that reduced new hire onboarding time by 50% and facilitated cross-departmental alignment. By translating performance data into clear executive insights, I ensured our team remained focused on high-value initiatives. I’m excited by the opportunity to use my background in Python and PostgreSQL to contribute to the complex technical environment at PayPal, specifically in managing CRM syncs and deliverability audits. I know that my analytical rigor and operational mindset align with what it takes to succeed in the Sr Analyst, Revenue Operations - Gong role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

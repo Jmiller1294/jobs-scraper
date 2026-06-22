@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst
+Company:  TalentAlly
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4416682716
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • onboarding
+  • program execution
+  • stakeholder partnership
+  • facilitation
+  • workshops
+  • communication
+  • project documentation
+  • customer onboarding
+  • SOPs
+  • training
+  • analytics
+  • data-driven decision making
+  • JIRA
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • field enablement
+  • sales enablement
+  • sales readiness
+  • coaching
+  • MEDDICC
+  • territory planning
+  • account planning
+  • leadership forums
+  • execution cadence
+  • program delivery
+  • matrixed environment
+  • measurement
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong analytics and reporting skills
+  • documented SOPs reducing onboarding time
+  • experience automating onboarding workflows
+  • cross-functional collaboration
+  • facilitation and dashboard-driven training
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited explicit sales enablement experience
+  • no mention of MEDDICC or formal sales methodologies
+  • under 12 years field/GTM experience
+  • limited leadership forum or SKO facilitation evidence
+  • lack of explicit territory/account planning experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

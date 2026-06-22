@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst
+Company:  AARATECH
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4415653862
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Python
+  • SQL
+  • Power BI
+  • Tableau
+  • ETL
+  • Data pipelines
+  • Data preparation
+  • R
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Data analysis
+  • Dashboards
+  • Automation
+  • Pandas
+  • Time series
+  • Data modeling
+  • PostgreSQL
+  • MySQL
+  • Data visualization
+  • EDA
+  • Git
+  • Reporting
+  • Advanced Excel
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (1)
+  • Machine learning datasets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong toolset: Python, SQL, Power BI, Tableau
+  • Concrete automation achievements (Zapier, 40%+ time savings)
+  • Experience building ETL pipelines and data models
+  • Quantified impact across roles (reductions/improvements)
+  • Cross-functional collaboration and documentation skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML dataset/modeling experience
+  • Short professional tenure (2+ years borderline)
+  • No explicit US work-authorization statement
+  • Role titles vary (Full-Stack vs Data Analyst)
+  • No advanced ML frameworks (e.g., scikit-learn, TensorFlow) listed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with cross-functional teams to engineer and clean Machine Learning datasets, ensuring high-quality input data for predictive modeling and automated reporting.
+  Utilized Python-based libraries (scikit-learn, Pandas) to perform feature engineering and data preparation, directly supporting AI-driven insights and process automation initiatives.
+  Built and maintained scalable data pipelines to ingest structured and semi-structured datasets, specifically optimized for downstream consumption by machine learning workflows.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst opportunity with AARATECH. I am interested in this opportunity because of your commitment to improving operational efficiency through data-driven solutions and innovative AI integration. What interests me about working for AARATECH is its focus on healthcare and enterprise domains, which inspires me because I am passionate about using technical rigor to enable better outcomes in complex, high-impact environments. I believe my expertise in building ETL pipelines and my proficiency in Python-driven data preparation would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex data into actionable operational strategies. In fact, while at Shine Masters, I identified a bottleneck in client onboarding and utilized Zapier and automated workflows to streamline data intake. This resulted in saving 8 hours per week, allowing my team to shift focus entirely toward high-value lead generation and customer acquisition. Ultimately, I know that the Data Analyst role at AARATECH would allow me to bring my experience in automation to your AI and machine learning initiatives. Additionally, my role as a Data Analyst enabled me to develop my data modeling skills. By building an end-to-end loan portfolio analysis, I designed a complex PostgreSQL data model consisting of 150+ columns and 2M+ rows. This enabled granular risk assessment and improved the accuracy of our default risk predictions, providing a clear blueprint for how I can support your internal ML datasets and analytics projects. I’m excited by the opportunity to use my background in Python and SQL in working on AI-driven solutions at AARATECH. I know that my technical versatility and analytical problem-solving skills align with what it takes to succeed at the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

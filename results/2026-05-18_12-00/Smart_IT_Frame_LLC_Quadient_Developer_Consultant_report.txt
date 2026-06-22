@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quadient Developer/Consultant
+Company:  Smart IT Frame LLC
+Location: Newark, NJ
+URL:      https://www.linkedin.com/jobs/view/4415676360
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (8)
+  • SQL
+  • JSON
+  • Git
+  • AWS
+  • data modeling
+  • scripting
+  • HTML
+  • PDF
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (18)
+  • Inspire Designer
+  • Inspire Automation
+  • Inspire Interactive
+  • Inspire Content Manager
+  • XSLT
+  • email
+  • SMS
+  • SVN
+  • CI/CD
+  • WCAG
+  • multi-language
+  • responsive design
+  • Azure
+  • template design
+  • composition logic
+  • print channels
+  • cloud-based Inspire deployments
+  • Inspire Scaler
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL proficiency
+  • AWS cloud experience (S3)
+  • Version control with Git
+  • Proven data modeling experience
+  • Quantified impact in analytics roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Quadient Inspire experience listed
+  • No XSLT or XML expertise shown
+  • No CI/CD or SVN experience detailed
+  • Limited explicit multi-channel composition (SMS/email) experience
+  • No accessibility (WCAG) or responsive template experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

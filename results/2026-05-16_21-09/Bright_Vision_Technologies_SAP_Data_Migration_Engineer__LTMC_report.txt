@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     SAP Data Migration Engineer (LTMC / SLT / LVM)
+Company:  Bright Vision Technologies
+Location: Edison, NJ
+URL:      https://www.linkedin.com/jobs/view/4415892103
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • SQL
+  • ETL
+  • data transformation
+  • data cleansing
+  • data validation
+  • data reconciliation
+  • documentation
+  • Python
+  • PostgreSQL
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • high-volume data
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (22)
+  • SAP LTMC
+  • SAP SLT
+  • SAP LVM
+  • S/4HANA
+  • SAP HANA
+  • replication
+  • runbooks
+  • system refresh
+  • landscape management
+  • performance tuning
+  • data governance
+  • master and transactional data structures
+  • greenfield implementations
+  • brownfield implementations
+  • SAP S/4HANA certification
+  • SAP Data Services
+  • real-time replication
+  • logical system setups
+  • mock migrations
+  • cutover planning
+  • rollback planning
+  • audit standards
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database experience
+  • Hands-on ETL and Python pipeline development
+  • Documented SOPs and project documentation
+  • Experience with data validation and reconciliation
+  • Visualization and reporting (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No SAP-specific migration tool experience
+  • Lacks S/4HANA and SAP HANA exposure
+  • Insufficient enterprise SAP landscape experience
+  • No explicit replication or SLT skills
+  • Less than required SAP-focused years (resume shows ~2+ years)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

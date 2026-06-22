@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Fundamental Analyst - Volatility
+Company:  Selby Jennings
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416257753
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Python
+  • SQL
+  • time series
+  • ETL
+  • Power BI
+  • Tableau
+  • BigQuery
+  • Snowflake
+  • data engineering
+  • portfolio
+  • quantified results
+  • communication
+  • independent work
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • financial modeling
+  • event-driven
+  • options
+  • volatility
+  • equity research
+  • scenario analysis
+  • price distribution
+  • trade ideas
+  • M&A
+  • earnings
+  • spinoffs
+  • activism
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL pipelines
+  • Visualization and dashboarding (Power BI, Tableau)
+  • Demonstrated quantified impact
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit equities/fundamental research experience
+  • No documented options or volatility trading experience
+  • No clear financial modeling examples
+  • Limited years in finance-specific roles
+  • No mention of scenario/price-distribution frameworks
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

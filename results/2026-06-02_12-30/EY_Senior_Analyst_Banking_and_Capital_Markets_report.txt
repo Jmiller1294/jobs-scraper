@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst Banking and Capital Markets
+Company:  EY
+Location: Jericho, NY
+URL:      https://www.linkedin.com/jobs/view/4389582405
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • data analytics
+  • SQL
+  • Python
+  • Power BI
+  • ETL
+  • data visualization
+  • presentation
+  • cross-functional collaboration
+  • project management
+  • AWS S3
+  • BigQuery
+  • Snowflake
+  • credit risk
+  • portfolio analysis
+  • time series
+  • reporting
+  • communication
+  • stakeholder engagement
+  • client engagement
+  • strategy
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • banking
+  • sector insights
+  • quantitative research
+  • market analysis
+  • coaching
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python analytics skills
+  • Power BI and visualization expertise
+  • Practical credit/loan portfolio analysis experience
+  • ETL and data pipeline development
+  • Cross-functional collaboration and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct banking/BCM professional experience
+  • Under 8 years' relevant industry experience
+  • No explicit subject-matter expert title in banking
+  • Limited demonstrated executive-level influencing
+  • No coaching/people-management examples
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

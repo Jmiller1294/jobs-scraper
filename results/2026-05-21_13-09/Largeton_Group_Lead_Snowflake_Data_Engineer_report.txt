@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Lead Snowflake Data Engineer
+Company:  Largeton Group
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4417728899
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 69/100
+[█████████████░░░░░░░] 69%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Snowflake
+  • Python
+  • SQL
+  • ELT pipeline
+  • Dimensional modeling
+  • dbt
+  • Airflow
+  • BigQuery
+  • AWS
+  • Data modeling
+  • Data quality
+  • CI/CD
+  • Docker
+  • Data marts
+  • Postgres
+  • Great Expectations
+  • Cloud
+  • Analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • PySpark
+  • Snowflake Cortex AI
+  • Performance optimization
+  • Data security
+  • Distributed data processing
+  • Data governance
+  • React.js
+  • Warehouse scaling
+  • Clustering
+  • Mentorship
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and advanced query skills
+  • Hands-on Python data engineering experience
+  • Experience building production ELT pipelines
+  • Dimensional modeling and dbt expertise
+  • Applied data quality and CI/CD practices
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No PySpark experience listed
+  • No explicit Snowflake Cortex AI experience
+  • Limited demonstrated performance tuning on Snowflake
+  • Minimal cloud focus on AWS (more GCP/BigQuery)
+  • No React.js or frontend framework experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

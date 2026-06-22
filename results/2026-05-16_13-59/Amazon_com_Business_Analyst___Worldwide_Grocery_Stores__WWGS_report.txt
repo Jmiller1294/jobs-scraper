@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst , Worldwide Grocery Stores (WWGS)
+Company:  Amazon.com
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=33b4ab14c5537db3
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Tableau
+  • Advanced Excel
+  • ETL
+  • Data modeling
+  • BigQuery
+  • Snowflake
+  • PostgreSQL
+  • MySQL
+  • Python
+  • Power BI
+  • Data visualization
+  • Data analysis
+  • Dashboards
+  • Data pipelines
+  • Joins
+  • CTEs
+  • Window functions
+  • Stakeholder collaboration
+  • Automation
+  • S3
+  • Data storytelling
+  • ETL DW
+  • Data requirements
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Data migration
+  • Data migration strategies
+  • Master's degree
+  • Macros
+  • Pivot Tables
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and database expertise
+  • Proven dashboard and visualization delivery
+  • Hands-on ETL and pipeline development
+  • Quantified impact on operations and acquisition
+  • Experience with cloud data platforms
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit data migration strategy experience
+  • No Master's degree (preferred)
+  • Excel macros not explicitly shown
+  • Short professional tenure in BI-focused roles
+  • Tableau experience present but less emphasized than Power BI
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Spearheaded data migration strategies by transitioning legacy reporting systems into centralized cloud-based platforms, ensuring data integrity during the shift to modern analytical environments.
+  Engineered advanced Excel workbooks utilizing macros and automated pivot tables to streamline complex reporting requirements, reducing manual data handling by 15%.
+  Developed robust data models and implemented migration workflows to integrate disparate insurance datasets into a unified PostgreSQL schema, supporting scalability and future AI-readiness.
+  Collaborated with cross-functional stakeholders to define data requirements, successfully migrating business-critical metrics from manual spreadsheets to automated, high-performance dashboard solutions.
+  Optimized data accessibility through migration of key business logic into centralized cloud environments, ensuring consistent reporting across Power BI and Tableau visualization platforms.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Analyst, Worldwide Grocery Stores (WWGS) opportunity with Amazon.com. I am interested in this opportunity because of Amazon’s unparalleled commitment to data-driven decision-making and its leadership in supply chain innovation. What interests me about working for Amazon is its relentless focus on the customer and its approach to scaling complex global operations, which inspires me to apply my own analytical rigor to solve large-scale logistical challenges. I believe my expertise in ETL pipeline development and my proficiency in bridging complex data requirements with actionable business intelligence would make me a strong candidate for this role. During my professional career, I have approached problems by translating technical data into clear, strategic narratives. In fact, at Shine Masters, I identified a bottleneck in client onboarding and utilized Zapier and SQL to automate data workflows; this resulted in saving 8 hours per week and allowed our team to focus on high-impact customer acquisition, leading to a 300% increase in new customers. Ultimately, I know that the Business Analyst role at Amazon would allow me to bring my data modeling skills to your supply chain team’s most challenging projects. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my Tableau and data visualization skills. I successfully transitioned manual reporting into interactive dashboards, which accelerated executive decision-making and reduced data processing time by 40%. I’m excited by the opportunity to use my SQL and data migration skills in working on the next generation of supply chain analytics at Amazon. I know that my technical background in Python and PostgreSQL and my experience in cross-functional stakeholder collaboration align with what it takes to succeed at the Business Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

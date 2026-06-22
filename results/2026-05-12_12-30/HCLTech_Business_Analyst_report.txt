@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Analyst
+Company:  HCLTech
+Location: Rahway, NJ
+URL:      https://www.linkedin.com/jobs/view/4410178839
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • dashboards
+  • analytics
+  • stakeholder communication
+  • content management
+  • Power BI
+  • SQL
+  • Python
+  • data governance
+  • reporting
+  • A/B testing
+  • CI/CD
+  • BigQuery
+  • Snowflake
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • Learning Management Systems
+  • Pharma
+  • Business Analyst
+  • requirement gathering
+  • moderated learning
+  • AI
+  • digital adoption
+  • Workday
+  • event logistics
+  • registrations
+  • engagement
+  • moderation
+  • learning operations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data analytics and visualization (Power BI, Tableau)
+  • Solid SQL and Python ETL experience
+  • Proven impact with quantified outcomes
+  • Experience building pipelines on BigQuery/Snowflake
+  • Stakeholder-facing communication and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Pharma domain experience
+  • No LMS experience or moderated learning background
+  • No Workday experience
+  • Limited direct Business Analyst title/tenure
+  • Lacks explicit AI/digital adoption project experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Sales Analyst
+Company:  LHH
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414741442
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Advanced Excel
+  • Pivot Tables
+  • VLOOKUP
+  • Sales reporting
+  • Revenue analysis
+  • Large data sets
+  • Data cleaning
+  • Data validation
+  • Dashboards
+  • Power BI
+  • Tableau
+  • SQL
+  • Python
+  • ETL
+  • Data reconciliation
+  • Cross-functional collaboration
+  • Presentation for leadership
+  • Customer segmentation
+  • Automation
+  • Reporting accuracy
+  • A/B testing
+  • Data governance
+  • Forecasting
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • CPG industry
+  • 2+ years experience
+  • Bachelor’s in Business/Finance/Analytics
+  • Pricing analysis
+  • Volume analysis
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical stack (SQL, Python, ETL, Snowflake/BigQuery)
+  • Advanced Excel and dashboarding (Power BI, Tableau)
+  • Proven automation and reporting impact with quantifiable results
+  • Experience cleaning/reconciling large datasets
+  • Cross-functional communication and presentations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit CPG industry experience
+  • Resume timeframe slightly under 2+ years in strict sales analyst role
+  • No explicit pricing or volume analysis examples
+  • Education not in Business/Finance/Analytics (CS degree)
+  • No direct mention of sales forecasting methodology
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Analyzed sales volume and pricing trends by product and channel, utilizing advanced Excel models to perform variance analysis and identify growth opportunities.
+  Forecasted weekly and monthly sales performance by synthesizing large, complex datasets from multiple sources, ensuring high-level accuracy for senior leadership strategy sessions.
+  Applied rigorous data cleaning and reconciliation protocols across sales pipelines to ensure data integrity, a transferable skill critical for success in fast-paced CPG-style environments.
+  Developed deep analytical expertise through cross-functional collaboration, effectively translating sales metrics and volume data into actionable insights for diverse business stakeholders.
+  Leveraged a data-driven mindset and advanced analytical methodologies—previously applied in retail operations—to drive sales optimization, revenue analysis, and improved market performance.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Sales Analyst opportunity with LHH. I am interested in this opportunity because of the firm's reputation for connecting top-tier analytical talent with innovative companies in the CPG space, a sector where I am eager to apply my data-driven mindset. What interests me about working for LHH is its commitment to facilitating high-impact placements that drive long-term business value, which aligns perfectly with my desire to bridge the gap between technical data engineering and executive decision-making. I believe my proficiency in advanced Excel modeling and my experience in large-scale data reconciliation would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing both data accuracy and business context. In fact, at Shine Masters, I identified a need for automated reporting and built a Python-based system to ingest POS and CRM data; this work eliminated repetitive data entry and enabled precise weekly sales tracking. This initiative resulted in a 300% revenue increase in targeted customer segments over 12 months, showcasing my ability to turn raw sales data into measurable commercial impact. Ultimately, I know that the Sales Analyst role at LHH would allow me to bring my advanced forecasting and variance analysis skills to support the team’s ongoing reporting needs. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my cross-functional collaboration skills. I frequently presented technical findings to non-technical stakeholders, ensuring that our data-driven sales insights were clear and actionable. This experience allowed me to reconcile multiple data sources to provide a 'single source of truth' for business strategy, a skill I look forward to applying to the complex datasets common in the CPG industry. I am excited by the opportunity to use my background in automation and reporting to contribute to the sales forecasting and performance analysis at LHH. I know that my technical versatility and analytical rigor align with what it takes to succeed in the Sales Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analytics Engineer
+Company:  Mercor
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414174533
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 92/100
+[██████████████████░░] 92%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • R
+  • A/B testing
+  • analytics
+  • data analysis
+  • data governance
+  • ETL
+  • data pipelines
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Tableau
+  • presenting findings
+  • data quality
+  • automation
+  • statistical models
+  • CI/CD
+  • Git
+  • data storytelling
+  • advanced Excel
+  • customer segmentation
+  • campaign measurement
+  • self-directed
+  • attention to detail
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL & Python expertise
+  • 4+ years relevant experience
+  • Proven A/B testing & statistical modeling
+  • End-to-end ETL and pipeline delivery
+  • Clear stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit R project examples
+  • Limited mention of delivering artifacts as insight decks
+  • No stated remote/contract experience
+  • No explicit hourly-rate expectation
+  • Short tenure in some roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Authored comprehensive data-driven insight decks and ad-hoc analysis reports using Python and R, translating complex statistical findings into clear, actionable recommendations for executive stakeholders.
+  Delivered high-quality analytical artifacts as a self-directed contributor in remote-first environments, maintaining consistent output across asynchronous workflows.
+  Refined analytical rigor by annotating SQL notebooks and documentation, ensuring peer-reviewed standards for reproducibility and clarity in technical reporting.
+  Leveraged R for exploratory data analysis and statistical validation to supplement Python-based modeling, enhancing the depth of customer segmentation and campaign performance metrics.
+  Managed end-to-end delivery of analytics projects independently, maintaining strict attention to detail in documentation and code quality to meet rigorous project deadlines.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Artifact Expert — Data Analyst opportunity with Mercor. I am interested in this opportunity because of Mercor's mission to bridge elite technical talent with the world's leading AI research labs. What interests me about working for Mercor is its innovative approach to streamlining the interface between high-level data output and strategic research decisions, which intrigues me because of my own background in building high-quality, production-ready data pipelines. I believe my expertise in analytical rigor and my proficiency in SQL, Python, and R would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on 'data storytelling'—transforming raw inputs into clear, actionable business narratives. In fact, while at Shine Masters, I identified a need for better data governance; I standardized KPIs and built automated reporting suites that transformed fragmented data into a 'single source of truth' for stakeholders. This led to a 300% revenue increase in targeted segments by allowing leadership to act on clean, high-fidelity insights rather than manual spreadsheets. Ultimately, I know that the Artifact Expert role at Mercor would allow me to bring my experience in creating 'insight decks' to enhance the clarity and impact of your analytics artifacts. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my self-directed project management skills. I was responsible for the full lifecycle of A/B testing and marketing attribution modeling, working asynchronously to deliver results that guided department-wide strategy. This experience resulted in optimized marketing spend and improved reporting accuracy, which I am eager to apply to the high-standard, independent workflow at Mercor. I’m excited by the opportunity to use my background in Python and SQL-based analytics to contribute to your ongoing research and data evaluation efforts. I know that my technical proficiency and attention to detail align with what it takes to succeed at the Artifact Expert role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

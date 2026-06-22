@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer | Quantitative Trading Firm | Python & SQL
+Company:  Delmar Nord
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420429378
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • Airflow
+  • dbt
+  • ETL/ELT pipelines
+  • data modeling
+  • data quality
+  • Great Expectations
+  • GCS
+  • CI/CD
+  • GitHub Actions
+  • data pipelines
+  • dimensional modeling
+  • partitioning
+  • clustering
+  • data transformation
+  • Power BI
+  • Postgres
+  • Docker
+  • workflow automation
+  • data validation
+  • analytics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Kafka
+  • Spark
+  • Prefect
+  • Redshift
+  • financial services experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and advanced SQL skills
+  • Hands-on BigQuery and Snowflake experience
+  • Production ELT pipelines with Airflow and dbt
+  • Data quality practices (Great Expectations) and CI/CD
+  • Quantifiable impact (efficiency and accuracy gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit experience with streaming frameworks (Kafka/Spark)
+  • No mention of Prefect or Airflow alternatives beyond Airflow
+  • Lacks explicit trading/quant finance work history
+  • Postgres present but limited distributed systems detail
+  • Total data engineering years borderline (~2+ roles but timeline brief)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Engineered scalable ETL/ELT pipelines for high-velocity data, leveraging knowledge of Spark-like distributed processing principles to optimize large-scale dataset throughput.
+  Managed data quality and lineage in high-stakes environments using Great Expectations, effectively simulating the rigorous data validation standards required in financial services.
+  Applied advanced SQL and Python to build automated data infrastructure, drawing on concepts analogous to real-time streaming architectures like Kafka to ensure data freshness for research teams.
+  Architected robust data models in BigQuery and Snowflake that mirror the complexities of quantitative research environments, focusing on minimizing query latency for rapid financial analysis.
+  Collaborated with cross-functional stakeholders to deliver data-driven solutions, consistently aligning technical engineering output with business objectives in fast-paced, performance-oriented settings.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Engineer | Quantitative Trading Firm | Python & SQL opportunity with Delmar Nord. I am interested in this opportunity because of the firm's reputation for maintaining a rigorous, research-driven approach to markets that relies on high-performance data infrastructure. What interests me about working for Delmar Nord is its commitment to solving complex, large-scale engineering problems, which inspires me because I am passionate about building the systems that power sophisticated financial strategies. I believe my advanced proficiency in Python and SQL-based data modeling, combined with my experience building production-grade ELT pipelines, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on data accuracy and system reliability. In fact, while building the FRED Economic Batch Pipeline, I designed a star-schema model using dbt and implemented Great Expectations for quality validation, which significantly reduced query times for downstream analysis. Ultimately, I know that the Data Engineer role at Delmar Nord would allow me to bring my expertise in Python and data architecture to the development of your critical trading infrastructure. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my cross-functional collaboration skills. I collaborated with quantitative-minded stakeholders to translate user feedback into production code, which drove a 15% increase in feature adoption and synchronized data across systems with 60% higher accuracy. I’m excited by the opportunity to use my ability to build robust, scalable data systems in working on high-performance infrastructure at Delmar Nord. I know that my technical rigor and ability to collaborate across teams align with what it takes to succeed at the Data Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

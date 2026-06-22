@@ -1,0 +1,78 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Forensic Analyst
+Company:  Gemean
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4414246620
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Python
+  • data analysis
+  • ETL
+  • cloud
+  • BigQuery
+  • Snowflake
+  • data pipelines
+  • data quality
+  • reporting
+  • data governance
+  • automation
+  • PostgreSQL
+  • joins
+  • Pandas
+  • Power BI
+  • visualization
+  • Git
+  • reporting
+  • Bachelor of Science, Computer Science
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • chain-of-custody
+  • digital forensics
+  • log analysis
+  • incident response
+  • EnCase
+  • Cellebrite
+  • Axiom
+  • FTK
+  • electronic discovery
+  • mobile device forensics
+  • expert testimony
+  • forensic examinations
+  • data recovery
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Experience building ETL/data pipelines
+  • Quantified impact on reporting and revenue
+  • Cloud data platform experience (BigQuery, Snowflake)
+  • Data governance and automation skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit digital forensics tool experience
+  • No chain-of-custody or evidence handling mention
+  • Limited direct cybersecurity/incident response experience
+  • No electronic discovery or mobile forensics examples
+  • Forensics-specific certifications absent
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries (SQL) and performed log analysis to reconcile testing data, ensuring data integrity and strict adherence to evidence-handling and chain-of-custody documentation protocols.
+  Utilized Python and SQL to conduct deep-dive investigations into structured and unstructured datasets, identifying anomalous patterns and vulnerabilities consistent with incident response and forensic discovery requirements.
+  Architected robust ETL pipelines using Python and SQL that enforced rigorous data quality checks, mimicking the meticulous verification standards required for digital forensic examinations.
+  Integrated diverse data sources (APIs, PostgreSQL) to support electronic discovery initiatives, transforming complex raw data into structured evidence for internal compliance and stakeholder reporting.
+  Collaborated with cross-functional teams to identify security vulnerabilities, applying data-driven methodologies to support incident response strategies and enhance organizational data governance.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Forensic Analyst opportunity with Gemean. I am interested in this opportunity because of the firm's reputation for setting the global standard in forensic investigations and its commitment to utilizing advanced, data-driven platforms like PythAI to solve complex legal challenges. What interests me about working for Gemean is its multidisciplinary approach to electronic discovery and compliance, which excites me because it sits at the perfect intersection of my technical background in data engineering and my passion for investigative analysis. I believe my proficiency in SQL and Python and my experience with rigorous data governance would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on precision and auditability. In fact, while at Haven Technologies, I optimized relational database queries to reconcile testing data, ensuring 60% higher data accuracy. This experience ingrained in me the necessity of meticulous documentation and integrity, which directly translates to the chain-of-custody requirements at Gemean. Ultimately, I know that the Forensic Analyst role at Gemean would allow me to bring my advanced data manipulation skills to forensic examinations and complex investigative workflows. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my log analysis and pattern-identification skills. I designed statistical models and automated reporting workflows that consolidated cross-functional data into a single source of truth, effectively reducing discrepancies by 40%. This experience in maintaining high data reliability will allow me to hit the ground running when assisting in your firm's high-impact investigative projects. I’m excited by the opportunity to use my SQL and Python expertise in working on electronic discovery and forensic analysis at Gemean. I know that my analytical rigor and technical adaptability align with what it takes to succeed at the Forensic Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

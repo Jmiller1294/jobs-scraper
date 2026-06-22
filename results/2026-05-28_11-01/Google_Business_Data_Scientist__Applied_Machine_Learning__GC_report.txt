@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Data Scientist, Applied Machine Learning, GCS
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4409968827
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • R
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • ETL pipelines
+  • Time series
+  • Statistical analysis
+  • Experiment design
+  • A/B testing
+  • Power analysis
+  • Data visualization
+  • Tableau
+  • Power BI
+  • Data modeling
+  • Data pipelines
+  • Git
+  • Cloud (AWS S3)
+  • Data storytelling
+  • Monitoring
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (17)
+  • Causal inference
+  • Difference-in-Differences
+  • Double Machine Learning
+  • Synthetic Control
+  • Machine learning
+  • Power analysis
+  • Double Machine Learning
+  • Synthetic Control
+  • Monitoring
+  • Publications
+  • Launched product feature
+  • Econometrics
+  • Causal ML
+  • Experimental idea to proof-of-concept
+  • Measurement frameworks
+  • Detection of data drift
+  • PhD
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL pipelines and data models
+  • Proven impact with quantified results
+  • Visualization and dashboarding (Power BI, Tableau)
+  • Cloud and DB experience (BigQuery, Snowflake, PostgreSQL)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit causal inference methods experience
+  • No PhD or master's in quantitative field listed
+  • Sparse ML model production/deployment evidence
+  • Few publications or research credentials
+  • Unclear experience with advanced econometrics methods
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

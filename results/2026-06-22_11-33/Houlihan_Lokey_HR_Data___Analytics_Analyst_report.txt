@@ -1,0 +1,71 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     HR Data & Analytics Analyst
+Company:  Houlihan Lokey
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4372122274
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Excel
+  • SQL
+  • Power BI
+  • Tableau
+  • Reporting
+  • Dashboards
+  • Data cleaning
+  • ETL
+  • Python
+  • Data analysis
+  • PostgreSQL
+  • MySQL
+  • Project management
+  • Automation
+  • Process documentation
+  • Stakeholder communication
+  • Reporting
+  • Audits
+  • Data governance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • Workday
+  • HRIS
+  • Data privacy
+  • ServiceNow
+  • Scheduling reports
+  • Snowflake
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong reporting & dashboard-building (Power BI, Tableau)
+  • Solid SQL + ETL and Python data pipeline experience
+  • Documented process & SOP creation
+  • Quantified impact on efficiency and acquisition
+  • Cross-functional stakeholder collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Workday or HRIS experience
+  • Limited explicit HR domain experience
+  • No mention of ServiceNow or scheduled report automation in Workday
+  • Data privacy / compliance experience not stated
+  • Less than or equal to 3 years HR-specific experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated cross-functionally to manage and prioritize requests via ticketing systems like ServiceNow, ensuring timely data delivery and adherence to data privacy and security protocols.
+  Led system improvement initiatives by cleaning and standardizing data architectures, mirroring the rigor required for HRIS management and data governance compliance.
+  Designed and automated complex reporting workflows, including scheduling recurring data distributions and ad-hoc report generation to meet stakeholder business requirements.
+  Applied data privacy best practices and security protocols while integrating disparate data sources, ensuring sensitive information remained protected during all ETL and reporting processes.
+  Bridged technical and non-technical teams by translating complex business needs into actionable HRIS-ready reporting solutions, fostering data-driven decision-making.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the HR Data & Analytics Analyst opportunity with Houlihan Lokey. I am interested in this opportunity because of the firm's reputation for providing data-driven, strategic insights to high-stakes clients. What interests me about working for Houlihan Lokey is its commitment to a partnership approach rooted in trust and excellence, which inspires me because it aligns with my belief that the best analytical work is built on collaborative relationships and absolute data integrity. I believe my expertise in complex data modeling and my ability to translate business requirements into automated reporting solutions would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on process automation and cross-functional alignment. In fact, at Shine Masters, I identified a bottleneck in client onboarding and implemented an automated workflow through Zapier and Power BI; this initiative saved 8 hours per week and allowed the team to pivot resources toward a 300% increase in customer acquisition. Ultimately, I know that the HR Data & Analytics Analyst role at Houlihan Lokey would allow me to bring my analytical rigor to support the Human Capital Group's reporting and system improvement projects. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my technical documentation and database optimization skills. In that capacity, I collaborated with Underwriting and Product teams to reconcile complex insurance data, improving accuracy by 30% and ensuring all documentation met strict internal compliance standards. I am excited by the opportunity to use my background in SQL and data pipeline development in working on Workday reporting and system maintenance at Houlihan Lokey. I know that my technical proficiency and commitment to data governance align with what it takes to succeed in the HR Data & Analytics Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

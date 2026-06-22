@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineer with GEN AI opportunity with SWITS DIGITAL Private Limited. I am interested in this opportunity because SWITS DIGITAL's focus on leveraging cutting-edge data engineering to power AI/ML and GenAI applications deeply resonates with my career aspirations and technical expertise.
+
+What interests me about working for SWITS DIGITAL is your innovative approach to building scalable data pipelines and platforms that directly support advanced AI functionalities. This aligns perfectly with my passion for creating efficient, robust data solutions.
+
+I believe my strong Python development skills and my proven experience with dbt would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on automation and efficiency. In fact, at Haven Technologies, I collaborated with stakeholders to align software features with business processes and objectives, reducing product delivery delays by 25%. This resulted in a more streamlined development lifecycle.
+
+Ultimately, I know that the Data Engineer with GEN AI role at SWITS DIGITAL would allow me to bring my expertise in building and maintaining scalable data pipelines to your critical AI workloads. Additionally, my role as an Analytics & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data analysis and reporting skills. I built a business intelligence reporting system in Excel that identified inefficiencies, driving a 40% improvement in operational efficiency.
+
+I’m excited by the opportunity to use my proficiency in Python and modern data engineering tools in working on the development of AI agents and RAG pipelines at SWITS DIGITAL. I know that my advanced SQL skills and my experience in data modeling align with what it takes to succeed at the Data Engineer with GEN AI role.
+
+I would love the opportunity to discuss the role in more detail and how my skills in building robust data pipelines, transforming data with dbt, and my growing exposure to Generative AI concepts can benefit SWITS DIGITAL. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

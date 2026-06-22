@@ -1,0 +1,63 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Treasury Analyst I
+Company:  New York Power Authority
+Location: White Plains, NY, US
+URL:      https://www.indeed.com/viewjob?jk=03968892c790ded6
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 46/100
+[█████████░░░░░░░░░░░] 46%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Excel
+  • reporting
+  • cash flow
+  • forecasting
+  • bank reconciliations
+  • SQL
+  • Python
+  • Power BI
+  • data automation
+  • financial analysis
+  • budgeting
+  • investments
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Treasury
+  • Kyriba
+  • SAP
+  • trade reconciliation
+  • interest rate risk
+  • debt issuance
+  • regulatory compliance
+  • accounts payable
+  • accounts receivable
+  • billing
+  • invoicing
+  • long-range planning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data automation (Python, ETL)
+  • advanced Excel and reporting (Power BI, Tableau)
+  • SQL and database optimization
+  • implemented forecasting and KPI frameworks
+  • quantified impact (efficiency and revenue gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited direct Treasury/treasury systems experience
+  • no Kyriba/Geneva or SAP listed
+  • insufficient years in Treasury/Finance role
+  • no explicit debt or hedging experience
+  • no utility/government sector experience noted
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

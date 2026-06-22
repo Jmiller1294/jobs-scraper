@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     GTM Engineer
+Company:  Maple
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4401122807
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 85/100
+[█████████████████░░░] 85%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • ETL
+  • automation
+  • Power BI
+  • APIs
+  • data pipelines
+  • Zapier
+  • dashboarding
+  • data modeling
+  • SOPs/documentation
+  • Git
+  • customer segmentation
+  • marketing analytics
+  • AWS (S3)
+  • BigQuery
+  • Snowflake
+  • CRM (Salesforce)
+  • AI tools (Claude, ChatGPT)
+  • operational efficiency
+  • quantified impact
+  • prototyping
+  • problem-solving
+  • ETL pipelines
+  • visualization & reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • rep tooling
+  • closed-won revenue
+  • SDR motions
+  • cold outbound
+  • PLG
+  • partner channels
+  • Linear
+  • Claude (explicit usage)
+  • CI/CD
+  • fast shipping scrappy 40% solutions
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL pipeline experience
+  • Proven automation delivering measurable efficiency gains
+  • Hands-on dashboarding and reporting (Power BI, Tableau)
+  • Experience integrating APIs and multiple data sources
+  • Quantified business impact (e.g., acquisition and time savings)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit sales/GT M (rep tooling, SDR, closed-won) experience
+  • Only 1–3 years role alignment partially met (mix of internships/projects)
+  • No explicit CI/CD or fast deployment tooling experience documented
+  • Sparse evidence of outbound/partnership channel work
+  • Title is analyst/developer not explicitly RevOps/Growth engineer
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Engineered custom rep-facing tooling and internal dashboards to optimize SDR workflows, reducing manual entry time and accelerating the sales cycle.
+  Built and deployed end-to-end data pipelines using Python and SQL to track conversion metrics from cold outbound leads to closed-won revenue, providing full-funnel visibility.
+  Streamlined GTM operations by automating lead-routing and attribution workflows, enabling sales teams to focus on high-intent prospects.
+  Applied a 'scrappy 40% solution' methodology to prototype internal tools, iterating rapidly based on user feedback to drive immediate operational impact.
+  Integrated CI/CD practices and Git-based version control into development workflows to ensure rapid, stable deployment of business-critical systems.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the GTM Engineer opportunity with Maple. I am interested in this opportunity because I am passionate about building the technical infrastructure that empowers high-growth sales teams to scale effectively. What interests me about working for Maple is its approach to building automated ontologies that allow AI to operate within real-world constraints; this practical, systems-oriented vision truly resonates with my background in data engineering and operational automation. I believe my expertise in building automated data pipelines and my ability to develop scrappy, high-impact internal tooling would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing high-leverage outcomes over perfect architecture. In fact, at Shine Masters, I identified a bottleneck in our client acquisition workflow and immediately prototyped a Zapier-integrated automation to handle intake and scheduling. This enabled the team to reallocate 8 hours per week from manual tasks toward direct lead generation. Ultimately, I know that the GTM Engineer role at Maple would allow me to bring my data-modeling skills to help close the loop from top-of-funnel leads to closed-won revenue. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my GTM-alignment skills. I translated complex performance data into actionable insights, which directly informed our targeted marketing campaigns and led to a 300% increase in new customer acquisition over 12 months. I’m excited by the opportunity to use my rapid prototyping skills in working on the rep-facing tooling layer at Maple. I know that my technical proficiency in SQL/Python and my obsession with operational efficiency align with what it takes to succeed in the GTM Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

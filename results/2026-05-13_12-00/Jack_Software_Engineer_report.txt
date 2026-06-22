@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  Jack
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413844491
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 52/100
+[██████████░░░░░░░░░░] 52%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • full-stack
+  • production shipping
+  • product
+  • UX
+  • Python
+  • SQL
+  • Docker
+  • GCP
+  • BigQuery
+  • dbt
+  • CI/CD
+  • GitHub Actions
+  • Postgres
+  • APIs
+  • data modeling
+  • Airflow
+  • automation
+  • Git
+  • Power BI
+  • Tableau
+  • testing
+  • ETL
+  • data quality
+  • analytics
+  • team collaboration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • React
+  • frontend development
+  • AI
+  • LLM
+  • React (preferred)
+  • 4–6 years experience
+  • healthcare
+  • hiring
+  • team management
+  • founding-level ownership
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building production ELT pipelines
+  • CI/CD and automation experience
+  • Data modeling and dbt expertise
+  • Proven product-focused collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit React/frontend framework experience
+  • No stated AI/LLM experience
+  • Years of software engineering unclear vs 4–6 requirement
+  • Limited healthcare/SaaS domain experience
+  • No explicit hiring/management experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

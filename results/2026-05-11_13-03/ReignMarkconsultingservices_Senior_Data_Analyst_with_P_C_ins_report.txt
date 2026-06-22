@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Data Analyst with P&C insurance Exp  Woodbridge NJ
+Company:  ReignMarkconsultingservices
+Location: Woodbridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4413064032
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • data transformation
+  • SDLC
+  • testing
+  • Excel
+  • Power BI
+  • Tableau
+  • Python
+  • ETL
+  • Snowflake
+  • BigQuery
+  • data quality
+  • reporting
+  • relational databases
+  • communication
+  • leadership
+  • cloud
+  • data governance
+  • requirements analysis
+  • A/B testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • data mapping
+  • DB2
+  • SQL Server
+  • project estimation
+  • test plans
+  • Property and Casualty Insurance
+  • statutory reporting
+  • compliance reporting
+  • supervisory experience
+  • MS Office suite (explicit proficiency)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB skills
+  • Hands-on ETL and pipeline development
+  • Proficient in BI tools (Power BI, Tableau)
+  • Experience with cloud data platforms (Snowflake, BigQuery)
+  • Demonstrated quantified impact on business metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No P&C insurance domain experience
+  • No explicit DB2 or SQL Server exposure
+  • Less than required 10+ years experience
+  • No explicit statutory/compliance reporting experience
+  • Onsite local NJ requirement not demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

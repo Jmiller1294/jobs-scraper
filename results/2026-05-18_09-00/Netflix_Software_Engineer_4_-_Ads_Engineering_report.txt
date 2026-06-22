@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer 4 - Ads Engineering
+Company:  Netflix
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4352000107
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • BigQuery
+  • Python
+  • SQL
+  • Airflow
+  • dbt
+  • CI/CD
+  • data modeling
+  • ETL/ELT
+  • data quality
+  • Snowflake
+  • Docker
+  • Postgres
+  • Power BI
+  • Tableau
+  • analytics
+  • cloud
+  • A/B testing
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (20)
+  • ad serving
+  • campaign management
+  • inventory forecasting
+  • programmatic
+  • ads measurement
+  • ads identity
+  • CTV
+  • OpenRTB
+  • VAST
+  • ads creatives
+  • media planning
+  • ads finance
+  • ad operations
+  • audiences
+  • measurement
+  • reporting
+  • order management system
+  • identity & audiences
+  • legal compliance
+  • industry consortium
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and BigQuery experience
+  • Production ELT with Airflow and dbt
+  • Data quality automation (Great Expectations)
+  • Visualization and reporting (Power BI, Tableau)
+  • CI/CD via GitHub Actions
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct ad tech or ad-serving experience
+  • No explicit programmatic or OpenRTB/VAST contributions
+  • Minimal CTV-specific experience
+  • Limited large-scale ads campaign management exposure
+  • Relatively short industry years in relevant ad roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

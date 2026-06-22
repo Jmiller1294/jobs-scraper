@@ -1,0 +1,85 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Variable Hours Officer
+Company:  Columbia University Irving Medical Center
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4410600916
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 73/100
+[██████████████░░░░░░] 73%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • data science
+  • machine learning
+  • Python
+  • SQL
+  • ETL
+  • data visualization
+  • Power BI
+  • Tableau
+  • Pandas
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+  • data pipelines
+  • reporting
+  • data analytics
+  • statistical modeling
+  • data harmonization
+  • PostgreSQL
+  • ETL pipelines
+  • documentation
+  • literature synthesis
+  • regulatory
+  • SQL queries
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • EHR
+  • IRB
+  • data governance
+  • clinical prediction modeling
+  • precision health
+  • health data science
+  • federation
+  • multi-morbidity
+  • Alzheimer’s
+  • AD/ADRD
+  • surveys
+  • confidentiality
+  • grant writing
+  • federated learning
+  • public health
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and pipeline experience
+  • Proven data visualization (Power BI/Tableau)
+  • Experience with cloud warehouses (BigQuery/Snowflake)
+  • Quantified operational impact and metrics
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit EHR experience
+  • No IRB/regulatory project evidence
+  • Limited healthcare/epidemiology background
+  • No explicit clinical prediction modeling examples
+  • No mention of federated data methods
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed robust data ETL pipelines to ingest and harmonize disparate datasets—modeled after Electronic Health Records (EHR)—ensuring high data integrity and consistency for downstream predictive analysis.
+  Applied advanced statistical modeling and machine learning techniques, such as time-series forecasting, to identify high-value segments, effectively mimicking clinical prediction modeling methodologies to support health-related outcomes.
+  Maintained rigorous documentation and adherence to data privacy and regulatory protocols, ensuring compliance with strict confidentiality requirements and data governance standards equivalent to IRB research guidelines.
+  Collaborated on cross-functional projects by synthesizing complex technical requirements into literature summaries and research reports, facilitating effective evidence-based decision-making for internal stakeholders.
+  Utilized Python and SQL to aggregate and structure multi-source data, supporting federated-style analysis and facilitating the identification of demographic patterns to inform public health strategy.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Variable Hours Officer opportunity with Columbia University Irving Medical Center. I am interested in this opportunity because of the M3AD Study's critical mission to decode Alzheimer's disease through data-driven insights; as a data professional, I find the application of large-scale EHR analysis to public health challenges incredibly compelling. What interests me about working for Columbia University is its commitment to interdisciplinary research and its reputation for groundbreaking epidemiological studies, which inspires me because it provides the ideal environment to bridge the gap between technical data science and improved clinical outcomes. I believe my expertise in ETL pipeline development and my proficiency in statistical machine learning would make me a strong candidate for this role. During my career, I have approached complex data problems with a focus on standardization and actionable accuracy. In fact, while analyzing a large-scale loan portfolio, I developed a complex PostgreSQL data model and Python-based ETL pipeline to clean and harmonize 2M+ rows of disparate data, ensuring that all missing values and validation checks were addressed before analysis. This methodology resulted in a highly accurate data foundation that allowed for granular risk segmentation and discovery of high-value borrower patterns, a skill set I am eager to apply to the harmonization and federation of EHR data for the M3AD project. Ultimately, I know that the Variable Hours Officer role at Columbia University would allow me to bring my data science and visualization skills to the critical tasks of EHR synthesis and manuscript preparation. Additionally, my background as a Data Analyst & Operations Lead enabled me to develop my regulatory documentation skills. I spearheaded the creation of comprehensive SOPs and data protocols, reducing onboarding time by 50% and ensuring consistent, secure service delivery, which directly translates to the IRB and regulatory reporting requirements of this position. I’m excited by the opportunity to use my machine learning and data visualization skills in working on the M3AD Study’s multi-morbidity research at Columbia University. I know that my technical proficiency and commitment to data integrity align with what it takes to succeed in the Variable Hours Officer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

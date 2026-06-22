@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Quantitative Research – Prediction Markets VP
+Company:  AQR Capital Management
+Location: Greenwich, CT
+URL:      https://www.linkedin.com/jobs/view/4384874829
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 60/100
+[████████████░░░░░░░░] 60%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • Pandas
+  • ETL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Tableau
+  • Git
+  • AWS S3
+  • data ingestion
+  • data processing
+  • exploratory analysis
+  • automation
+  • time series
+  • data analytics
+  • visualization
+  • prototyping
+  • performance evaluation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • model development
+  • forecasting
+  • statistical research
+  • quantitative
+  • feature engineering
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL pipelines
+  • Applied time-series modeling
+  • Proven dashboarding and visualization skills
+  • Cloud and data warehouse familiarity
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited demonstrated quantitative research experience
+  • Under 6 years' relevant experience
+  • No explicit trading or prediction markets experience
+  • No advanced degree in quantitative field listed
+  • Few quantified finance/sports-related achievements
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

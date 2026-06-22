@@ -1,0 +1,96 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst, Data Analytics
+Company:  Current
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4385131673
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Tableau
+  • Power BI
+  • Looker
+  • dbt
+  • BigQuery
+  • Snowflake
+  • data visualization
+  • data governance
+  • KPI tracking
+  • ETL
+  • automation
+  • A/B testing
+  • data quality
+  • stakeholder communication
+  • customer segmentation
+  • campaign measurement
+  • Git
+  • CI/CD
+  • data pipelines
+  • reporting
+  • BigQuery partitioning
+  • PostgreSQL
+  • MySQL
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • data warehousing
+  • dimensional modeling
+  • machine learning
+  • Predictive analytics
+  • Looker (preferred wording)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python experience
+  • Hands-on with BI tools (Tableau, Power BI, Looker)
+  • Implemented production ELT pipelines and dbt modeling
+  • Quantified impact (revenue growth, efficiency gains)
+  • Experience with BigQuery and Snowflake
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Less than long-term fintech/B2C tenure (roles ~2+ years mixed)
+  • Limited explicit machine learning/predictive analytics experience
+  • Dimensional modeling mention limited to project context
+  • Data warehousing term not explicitly stated
+  • Resume timeline shows short stints that may affect years-of-experience perception
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Modeled raw API data into a dbt star schema, leveraging dimensional modeling concepts to optimize query performance and greatly lowering load times through BigQuery partitioning and clustering.
+  Architected a production-grade ELT pipeline in Python and SQL to ingest time-series economic data into BigQuery, laying the foundation for robust data warehousing and enabling fast reporting and forecasting.
+  Developed Power BI and Looker workflows to replace manual written reporting, reducing data mismatches and improving work efficiency by 40%, demonstrating strong experience with preferred BI tools.
+  Designed and executed A/B tests for digital marketing campaigns to measure audience response and lift, providing the statistical evidence needed to optimize marketing spend and demonstrating familiarity with predictive analytics applications.
+  Standardized organizational KPIs and data governance frameworks to ensure cross-functional alignment, resulting in a consistent "single source of truth" for all business stakeholders and a reduction in report discrepancies.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Current
+
+Dear Hiring Manager,
+
+I am excited to apply for the Data Analyst, Data Analytics position at Current. With my background in data analysis, software development, and robust data pipeline architecture, I am confident I would be a strong addition to your team.
+
+Current's mission to transform financial access for everyday Americans and empower all Americans to build better financial futures deeply resonates with my passion for leveraging data to drive positive outcomes.
+
+In my previous roles, I have developed impactful data solutions by leveraging advanced analytics and automation. Specifically, I created statistical models to identify high-value customer segments, which contributed to a 300% increase in revenue in the targeted segment. Additionally, I built Python automation for weekly sales and operations reports, eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions.
+
+I am adept at analyzing large datasets to identify trends and opportunities, as demonstrated by my work creating interactive Tableau dashboards for self-service access and translating statistical insights into actionable recommendations. My experience with SQL and Python for data analysis and manipulation, coupled with proficiency in visualization tools like Tableau, Power BI, and Looker, directly aligns with your requirements. I have also successfully implemented production-grade ELT pipelines using Python and SQL, modeled data into dbt star schemas, and automated data quality validation, showcasing my ability to manage data warehousing and transformation tools.
+
+I am particularly drawn to Current's mission of improving financial outcomes and believe my experience in data analysis, customer segmentation, and driving business growth through data-driven insights would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

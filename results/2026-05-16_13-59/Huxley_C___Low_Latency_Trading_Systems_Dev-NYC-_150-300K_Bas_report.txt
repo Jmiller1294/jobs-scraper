@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     C++ Low Latency Trading Systems Dev-NYC- 150-300K Base+Bonus
+Company:  Huxley
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415875506
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 25/100
+[█████░░░░░░░░░░░░░░░] 25%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Git
+  • SQL
+  • Python
+  • PostgreSQL
+  • APIs
+  • ETL
+  • JIRA
+  • Confluence
+  • AWS S3
+  • Snowflake
+  • BigQuery
+  • Tableau
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (14)
+  • C++
+  • STL
+  • Boost
+  • low latency
+  • Linux
+  • Unix
+  • multithreading
+  • networking
+  • performance tuning
+  • profiling
+  • kernel
+  • CI/CD
+  • multithreaded
+  • latency optimization
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and PostgreSQL experience
+  • Python data engineering and ETL skills
+  • Experience with cloud data tools (Snowflake, BigQuery, S3)
+  • Proven impact via quantified operational improvements
+  • Version control and team collaboration (Git, JIRA, Confluence)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No C++ or low-latency systems experience
+  • Lacks Linux/Unix systems expertise
+  • No evidence of multithreading/network programming
+  • No performance tuning or profiling examples
+  • No explicit finance/trading domain experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

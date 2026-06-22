@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Assistant VP - Global Markets
+Company:  hackajob
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4415618025
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 85/100
+[█████████████████░░░] 85%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • SQL
+  • ETL pipelines
+  • Data cleaning
+  • Data wrangling
+  • Time series models
+  • Predictive models
+  • Data pipelines
+  • AWS S3
+  • Snowflake
+  • BigQuery
+  • PostgreSQL
+  • MySQL
+  • Power BI
+  • Tableau
+  • EDA
+  • Automation
+  • APIs
+  • Data modeling
+  • Git
+  • Advanced Excel
+  • Data storytelling
+  • Feature engineering
+  • Version control (Git)
+  • JIRA
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • R
+  • Machine learning frameworks (scikit-learn/TensorFlow)
+  • Statistical modeling
+  • Model deployment
+  • Model monitoring
+  • Risk modelling
+  • Stakeholder influence
+  • Leadership
+  • People management
+  • Governance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL ETL experience
+  • Built end-to-end data pipelines and modeling
+  • Proven KPI impact with quantified outcomes
+  • Experience with cloud analytics (Snowflake, BigQuery, AWS)
+  • Data visualization and storytelling (Power BI, Tableau)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML framework usage (scikit-learn/TensorFlow)
+  • Sparse evidence of model deployment/monitoring
+  • Limited demonstrated leadership/people management
+  • Risk-specific modeling experience not highlighted
+  • R mentioned but not emphasized in projects
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed and implemented predictive models using Python (scikit-learn) to identify high-risk customer segments, resulting in a 300% increase in new customer acquisition over 12 months.
+  Engineered a comprehensive loan portfolio risk model, utilizing statistical modeling techniques to quantify delinquency probability and support credit risk mitigation strategies.
+  Built and deployed machine learning pipelines for automated data ingestion, incorporating model monitoring to ensure accuracy and performance stability in production environments.
+  Led cross-functional initiatives by influencing stakeholders through data-driven storytelling, ensuring project alignment with business objectives and internal governance policies.
+  Coordinated with junior team members to execute complex data projects, providing technical mentorship on R and SQL best practices while overseeing project delivery timelines.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Assistant VP - Global Markets opportunity with hackajob. I am interested in this opportunity because of Barclays’ reputation for leveraging cutting-edge data science to navigate complex global financial markets, a domain where I have consistently sought to apply technical rigor to solve high-stakes challenges. What interests me about working for hackajob/Barclays is its commitment to driving innovation through data-backed decision-making, which resonates with my passion for transforming raw information into strategic operational advantages. I believe my expertise in end-to-end data pipeline development and my proficiency in predictive modeling would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on the intersection of technical accuracy and business impact. In fact, while at Shine Masters, I identified that manual reporting was a bottleneck for our executive team; I developed an automated data ecosystem using Python and Power BI to replace these processes. This reduced data processing time by 40% and enabled leadership to focus on lead generation, which subsequently contributed to a 300% increase in new customer acquisition. Ultimately, I know that the Assistant VP - Global Markets role at hackajob would allow me to bring my advanced data wrangling and pipeline automation skills to the bank's global data reserves to improve operational efficiency. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my leadership and stakeholder influence skills. I led the transition of our data reporting strategy by collaborating with multiple departments to standardize SOPs and data documentation. This effort reduced new hire onboarding time by 50% and ensured consistent data governance across the organization, directly supporting the company's control and governance agenda. I’m excited by the opportunity to use my machine learning and statistical modeling experience in working on forecasting risks and opportunities at hackajob. I know that my technical versatility and leadership approach align with what it takes to succeed at the Assistant VP - Global Markets role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

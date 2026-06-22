@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Front Office IT Support Business Analyst
+Company:  nan
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=dcc858417bc94415
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 56/100
+[███████████░░░░░░░░░] 56%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • SQL
+  • Python
+  • Git
+  • Snowflake
+  • BigQuery
+  • Power BI
+  • Tableau
+  • Business analysis
+  • Testing
+  • Stakeholder communication
+  • Automation
+  • Reporting
+  • Data pipelines
+  • Data governance
+  • Incident management
+  • Customer-facing support
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Trade booking
+  • Electronic trading
+  • P&L
+  • C#
+  • Level 1 support
+  • Credit Bonds
+  • Repos
+  • CLOs
+  • Intraday risks
+  • Financial modeling
+  • Front Office
+  • Agile
+  • Trace reporting
+  • Execution platforms
+  • Training
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience building data pipelines
+  • Reporting and dashboard development
+  • Stakeholder communication and translation
+  • Automation reducing manual work
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Front Office/finance trading experience
+  • No C# or similar programming experience listed
+  • Lacks domain experience with Credit Bonds/Repos/CLOs
+  • Limited explicit Level 1 support or incident response history
+  • No direct electronic trading or trade gateway experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

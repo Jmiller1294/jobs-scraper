@@ -1,0 +1,82 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Value Engineer
+Company:  Courier Health
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4377750797
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • PostgreSQL
+  • MySQL
+  • Power BI
+  • Tableau
+  • ETL
+  • Dashboards
+  • Automated reporting
+  • Data storytelling
+  • Segmentation
+  • Time-series modeling
+  • Data quality
+  • Git
+  • Advanced Excel
+  • AI tools
+  • Data infrastructure
+  • Client-facing analysis
+  • SOPs/documentation
+  • BigQuery
+  • Snowflake
+  • Executive communication
+  • Cohort analysis
+  • Data visualization
+  • ETL Pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • AI Fluency
+  • 3-5+ years analytics
+  • Design experiments
+  • Confounding variables
+  • Life sciences
+  • Specialty pharma
+  • Healthcare analytics
+  • SaaS value measurement
+  • Benchmarks
+  • Self-service analytics tools
+  • Renewal/QBR templates
+  • Clinical outcomes measurement
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python technical skills
+  • Proven dashboard and automated reporting delivery
+  • Experience building ETL pipelines and data models
+  • Clear data storytelling for stakeholders
+  • Demonstrated process improvements with quantified impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited stated experience in life sciences/healthcare
+  • No explicit experiments/causal inference examples
+  • Unclear total years in analytics 3-5+ range
+  • No explicit benchmarking or QBR/template work
+  • Confounding-variable handling not documented
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Led end-to-end cohort analysis and longitudinal studies to track high-value customer segments, actively identifying confounding variables and data quality issues to ensure statistical accuracy in performance reporting.
+  Designed and implemented self-service analytics tools and standardized QBR templates, enabling cross-functional teams to automate value measurement and reduce manual reporting efforts by 40%.
+  Partnered with leadership to design rigorous experiment frameworks and A/B testing methodologies to measure the impact of marketing initiatives on customer acquisition and long-term retention.
+  Leveraged AI-driven fluency and Python libraries to benchmark operational performance, translating complex SaaS value metrics into compelling, executive-ready data narratives for renewal and strategic planning meetings.
+  Applied advanced analytical rigor to cross-functional projects, effectively communicating methodology, statistical limitations, and value-based insights to C-suite stakeholders and business partners.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Value Engineer opportunity with Courier Health. I am interested in this opportunity because of Courier Health’s mission to transform patient outcomes in the life sciences space; the potential to impact the complex journey from diagnosis to therapy is deeply motivating to me. What interests me about working for Courier Health is its focus on leveraging data to drive meaningful patient support, which aligns perfectly with my background in transforming complex datasets into actionable narratives. I believe my expertise in automated value reporting and my experience in cross-functional data storytelling would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing both technical rigor and clear communication. In fact, at Shine Masters, I identified a bottleneck in client acquisition and developed time-series models and cohort studies to segment high-value customers, which ultimately contributed to a 300% increase in new customer acquisition over 12 months. This experience taught me how to quantify business impact and communicate findings clearly to executive stakeholders. Ultimately, I know that the Value Engineer role at Courier Health would allow me to bring my proficiency in automated dashboarding and cohort analysis to effectively measure and communicate the platform's value to your clients. Additionally, my role as a Data Analyst & Operations Lead enabled me to develop my ability to handle complex, time-sensitive analytical requests. I designed and implemented automated ETL pipelines that replaced manual reporting, saving 8 hours per week and allowing the team to focus on strategic lead generation. This work proved that my ability to build scalable data infrastructure directly translates to better business efficiency. I am excited by the opportunity to use my background in Python, SQL, and Power BI to build the future of patient engagement at Courier Health. I know that my analytical rigor and dedication to data-driven storytelling align with what it takes to succeed in the Value Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

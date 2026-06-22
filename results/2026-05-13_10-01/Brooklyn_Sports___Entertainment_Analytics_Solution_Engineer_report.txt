@@ -1,0 +1,89 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Analytics Solution Engineer
+Company:  Brooklyn Sports & Entertainment
+Location: Brooklyn, NY
+URL:      https://www.linkedin.com/jobs/view/4383306869
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 85/100
+[█████████████████░░░] 85%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • SQL
+  • Snowflake
+  • analytics
+  • BI
+  • data storytelling
+  • Python
+  • ETL
+  • automation
+  • Power BI
+  • Tableau
+  • data governance
+  • data pipelines
+  • CI/CD
+  • BigQuery
+  • A/B testing
+  • data modeling
+  • Git
+  • data quality
+  • stakeholder engagement
+  • scalable solutions
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (7)
+  • AI
+  • prompt engineering
+  • reusable frameworks
+  • prompt engineering
+  • Snowflake (experience)
+  • data validation
+  • scalable solutions
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python technical skills
+  • Hands-on Snowflake and BigQuery experience
+  • Proven automation and ETL pipeline delivery
+  • Quantified impact on revenue and efficiency
+  • Stakeholder communication and data storytelling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit AI-first / LLM prompt engineering examples
+  • Limited stated experience building reusable analytics frameworks
+  • Resume shows shorter tenure in analytics roles (2+ years)
+  • No explicit mention of Snowflake-based repeatable analyses
+  • Few examples of partnering with engineering for production durability
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed AI-powered Power BI and Looker workflows, leveraging prompt engineering to replace manual reporting and reduce data mismatches by 40%, demonstrating an AI-first approach to analytics.
+  Designed and implemented reusable Python ETL pipelines and data quality validation frameworks using Great Expectations, establishing 'reference patterns' for modern data delivery and ensuring scalable solutions.
+  Collaborated with stakeholders to translate ambiguous business problems into clear decision paths, utilizing AI to accelerate hypothesis generation and deliver defensible insights with a 40% efficiency gain.
+  Partnered with data engineering to build durable and scalable analytics solutions, contributing hands-on validation and ensuring maintainability by designing reusable frameworks for stakeholder adoption.
+  Applied a 'pilot-and-scale' mindset to A/B testing digital marketing campaigns, iteratively refining strategies with AI-assisted analysis to measure audience response and optimize marketing spend.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Analytics Solution Engineer opportunity with Brooklyn Sports & Entertainment. I am interested in this opportunity because of Brooklyn Sports & Entertainment's commitment to innovation and redefining experiences, which aligns with my passion for leveraging data to drive forward-thinking solutions.
+
+What interests me about working for Brooklyn Sports & Entertainment is your bold approach to creating unforgettable experiences. This excites me because I believe data-driven insights, particularly when accelerated by AI, are crucial for understanding and enhancing fan engagement across your marquee properties and evolving ventures.
+
+I believe my AI-first mindset and my proven ability to build scalable analytics solutions would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a focus on efficiency and measurable impact. In fact, at Shine Masters Cleaning Services, I developed AI-powered Power BI and Looker workflows, leveraging prompt engineering to replace manual reporting and reduce data mismatches by 40%, demonstrating an AI-first approach to analytics. This initiative significantly improved work efficiency and delivered crisp, defensible insights that directly supported strategic decisions.
+
+Ultimately, I know that the Analytics Solution Engineer role at Brooklyn Sports & Entertainment would allow me to bring my AI-first approach to leveraging AI across the full analytics workflow, including clarifying requirements, exploring data, generating hypotheses, drafting narratives, and prototyping solutions. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my skills in building repeatable prompt patterns and 'ways of working' that make outputs reliable and consistent. I designed and implemented reusable Python ETL pipelines and data quality validation frameworks using Great Expectations, establishing 'reference patterns' for modern data delivery and ensuring scalable solutions.
+
+I’m excited by the opportunity to use my data storytelling skills in working on delivering insights faster using AI at Brooklyn Sports & Entertainment. I know that my AI-first mindset and my proven record of building solutions that scale beyond one-off requests align with what it takes to succeed at the Analytics Solution Engineer role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

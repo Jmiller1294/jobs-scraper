@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Financial Data Analyst
+Company:  Stefanini Group
+Location: Florham Park, NJ
+URL:      https://www.linkedin.com/jobs/view/4413464186
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Power BI
+  • Excel
+  • PowerPoint
+  • SQL
+  • Python
+  • ETL
+  • Reporting
+  • Automation
+  • Data governance
+  • Reconciliation
+  • Customer communication
+  • Workflow
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • SAP
+  • Master data
+  • Tax-exempt certificates
+  • Root cause analysis
+  • BOTs
+  • Order to cash
+  • Customer master data
+  • Master Data Governance
+  • PASTIS Web
+  • Consignment reconciliation
+  • CUPS
+  • Rebates
+  • Credit department liaison
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Power BI and reporting experience
+  • Advanced Excel skills (pivot, VLOOKUP)
+  • SQL and Python for ETL/automation
+  • Proven reconciliation and data governance work
+  • Quantified impact (time saved, revenue gains)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SAP experience listed
+  • No mention of tax-exempt compliance handling
+  • Lacks direct Order-to-Cash or PASTIS experience
+  • No experience with BOTs/RPA stated
+  • No explicit consignment/CUPS/Rebates work
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Performed complex reconciliation and root cause analysis on sales and CRM data, identifying failure modes in payment processing to improve reporting accuracy and data integrity.
+  Managed cross-functional workflows between operations and finance departments, ensuring alignment on data governance and master data requirements similar to SAP-driven order-to-cash processes.
+  Developed and deployed Python-based automation and bots to streamline repetitive financial reporting tasks, replacing manual data entry and reducing reconciliation errors.
+  Ensured regulatory and tax compliance by validating documentation and maintaining accurate master data records, supporting cross-functional teams in auditing and financial reporting.
+  Applied analytical rigor to consignment and rebate data patterns, identifying discrepancies and implementing control measures to ensure accurate distributor billing and rebate disbursements.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Financial Data Analyst opportunity with Stefanini Group. I am interested in this opportunity because of Stefanini's reputation for driving operational excellence through digital transformation and its focus on optimizing complex business processes. What interests me about working for Stefanini is its forward-thinking approach to leveraging automation and data analytics to solve intricate financial challenges, which perfectly aligns with my professional background. I believe my expertise in data reconciliation and my proficiency in building automated analytical workflows would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on root cause analysis to eliminate systemic discrepancies. In fact, while at Shine Masters, I identified significant data mismatches in our reporting; I performed a deep-dive investigation to determine the root cause, subsequently building a Python-based automation suite to streamline the ingestion of CRM and POS data. This initiative eliminated manual errors and saved 8 hours of work per week, resulting in a more robust and reliable 'single source of truth' for business stakeholders. Ultimately, I know that the Financial Data Analyst role at Stefanini would allow me to bring my analytical background to the maintenance of master data and the investigation of payment discrepancies. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my cross-functional collaboration skills. I frequently acted as the bridge between technical findings and business objectives, coordinating with various departments to standardize KPIs and ensure regulatory-style compliance across our reporting frameworks. By applying the same attention to detail to the Order-to-Cash and master data workflows at Stefanini, I am confident I can drive the continuous improvement measures your team requires. I’m excited by the opportunity to use my automation and reconciliation skills in working on financial auditing and data governance at Stefanini. I know that my technical proficiency in Power BI and Python, combined with my commitment to data accuracy, align with what it takes to succeed at the Financial Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

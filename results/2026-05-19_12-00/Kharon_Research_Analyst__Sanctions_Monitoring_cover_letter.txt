@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Research Analyst, Sanctions Monitoring opportunity with Kharon. I am interested in this opportunity because Kharon's mission to revolutionize the risk landscape at the intersection of global security and international commerce deeply resonates with my passion for leveraging data to uncover critical insights and mitigate complex risks.
+
+What interests me about working for Kharon is its innovative approach to connecting the dots in global security data to empower clients with actionable intelligence. This commitment to providing unparalleled precision and depth in risk assessment excites and inspires me because it aligns with my own dedication to rigorous data analysis and impactful reporting.
+
+I believe my proficiency in SQL and Python, coupled with my experience in data analysis and visualization, would make me a strong candidate for this role. During my professional career, I have approached problems with a data-forward mindset, consistently seeking to translate complex datasets into clear, actionable insights. In fact, at Shine Masters Cleaning Services, I developed time series models to identify high-value customer segments and conducted extensive open-source research on behavioral patterns to inform targeted marketing initiatives, which contributed to a 300% increase in new customer acquisition over 12 months. This demonstrates my ability to perform in-depth analysis and derive strategic recommendations from data, a skill I am eager to apply to sanctions monitoring.
+
+Ultimately, I know that the Research Analyst, Sanctions Monitoring role at Kharon would allow me to bring my analytical rigor to monitoring new sanctions, enforcement actions, and policy activity by regulatory agencies. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters Cleaning Services enabled me to develop my data validation and quality assurance skills. I streamlined client onboarding by automating scheduling and intake workflows via Zapier, saving 8 hours per week, and optimized operations by translating complex performance data into clear insights, improving team efficiency by 25%. This experience honed my ability to ensure data integrity and operational efficiency.
+
+I'm excited by the opportunity to use my Python ETL and automation skills in working on the curation, publication, maintenance, and quality assurance of datasets at Kharon. I know that my SQL and Python expertise, along with my experience in data validation and analysis, align with what it takes to succeed at the Research Analyst, Sanctions Monitoring role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

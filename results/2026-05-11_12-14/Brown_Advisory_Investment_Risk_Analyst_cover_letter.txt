@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Brown Advisory
+
+Dear Hiring Manager,
+
+I am excited to apply for the Investment Risk Analyst position at Brown Advisory. With my background in data analysis, automation, and strategic reporting, I am confident I would be a strong addition to your team.
+
+Brown Advisory's commitment to a client-first culture and its position as an industry leader through innovation deeply resonates with my own professional values. I am particularly drawn to the opportunity to contribute to a data-driven team that assesses investment risks across diverse asset classes.
+
+In my previous roles, I have developed robust data workflows and analytical models that directly improve efficiency and drive significant revenue growth. Additionally, I have a proven track record of translating complex data findings into actionable business recommendations, which directly aligns with your need for an analyst who can support strategic projects and enhance analytic methods.
+
+My experience includes developing automated Python solutions that ingest and process large datasets, similar to your requirement for scalable solutions to facilitate investment risk oversight. I have also successfully designed and presented interactive Tableau dashboards to visualize key trends and communicate findings to leadership, mirroring your need for presentation skills and dashboard development using Tableau and Snowflake.
+
+I am particularly drawn to Brown Advisory's mission of delivering first-class performance and strategic advice, and believe my experience in data analysis, Python, Snowflake, and Tableau would allow me to contribute meaningfully from day one. While I do not have direct experience with Bloomberg PORT or specific investment risk domains like fixed income and alternatives, my strong foundation in quantitative analysis, financial markets understanding through economic data projects, and my ability to quickly learn and adapt to new technologies will enable me to rapidly gain proficiency in these areas.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

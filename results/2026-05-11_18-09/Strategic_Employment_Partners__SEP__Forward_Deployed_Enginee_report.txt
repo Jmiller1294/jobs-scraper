@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Forward Deployed Engineer
+Company:  Strategic Employment Partners (SEP)
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4412932850
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (17)
+  • Python
+  • BigQuery
+  • Snowflake
+  • ETL
+  • SQL
+  • CI/CD
+  • Git
+  • Automation
+  • Data pipeline
+  • PostgreSQL
+  • Customer-facing
+  • Stakeholder communication
+  • A/B testing
+  • Database optimization
+  • Performance
+  • Scalability
+  • Reliability
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (8)
+  • AWS
+  • Distributed systems
+  • Backend systems
+  • Open-source
+  • Systems design
+  • Cloud architecture
+  • Security
+  • Monitoring
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ELT/ETL and data pipeline experience
+  • Proven automation and CI/CD implementation
+  • Quantified impact (revenue, efficiency gains)
+  • Stakeholder communication and customer-facing work
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit backend/platform engineering title
+  • Underrepresented cloud breadth (AWS/GCP/Azure)
+  • No demonstrated distributed systems design
+  • Sparse open-source contributions
+  • Limited experience with enterprise-grade security/monitoring
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

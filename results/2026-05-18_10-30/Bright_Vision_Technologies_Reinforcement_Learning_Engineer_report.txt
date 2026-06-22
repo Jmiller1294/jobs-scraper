@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Reinforcement Learning Engineer
+Company:  Bright Vision Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4416241392
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (9)
+  • Python
+  • Git
+  • SQL
+  • ETL
+  • data pipelines
+  • Tableau
+  • Power BI
+  • cloud AWS
+  • GPU clusters
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (16)
+  • reinforcement learning
+  • offline RL
+  • policy gradient
+  • actor-critic
+  • simulation environments
+  • reward shaping
+  • distributed training
+  • RLHF
+  • deep learning frameworks
+  • experience collection
+  • evaluation protocols
+  • safety mechanisms
+  • imitation learning
+  • multi-agent RL
+  • hierarchical RL
+  • publications
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Experience building ETL and data pipelines
+  • Dashboarding and visualization expertise
+  • Demonstrated quantified impact (process/time improvements)
+  • Git and collaborative development experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No RL-specific experience listed
+  • No deep learning framework usage noted
+  • Lacks simulation or environment development
+  • Insufficient years of RL research/engineering (job requires 6+ yrs)
+  • No publications or RL open-source contributions
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

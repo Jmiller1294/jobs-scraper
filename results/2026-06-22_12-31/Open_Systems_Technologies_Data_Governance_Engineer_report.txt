@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Governance Engineer
+Company:  Open Systems Technologies
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4431711766
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • SQL
+  • Snowflake
+  • BigQuery
+  • Python
+  • ETL
+  • APIs
+  • PostgreSQL
+  • data pipelines
+  • data modeling
+  • data engineering
+  • Git
+  • automation
+  • cloud
+  • data quality
+  • data catalog
+  • data governance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • data lineage
+  • metadata catalog
+  • Atlan
+  • Collibra
+  • masking
+  • data access controls
+  • security tagging
+  • Databricks
+  • compliance
+  • financial datasets
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL proficiency
+  • Python ETL and automation experience
+  • Hands-on cloud data warehouse usage (Snowflake, BigQuery)
+  • Built end-to-end data pipelines and models
+  • Quantified impact on KPIs and process improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit experience with Atlan/Collibra/Alation
+  • No documented data lineage or metadata catalog implementations
+  • Limited demonstrated work on masking/access controls
+  • Financial datasets experience not explicit
+  • Shorter tenure in senior data engineering roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

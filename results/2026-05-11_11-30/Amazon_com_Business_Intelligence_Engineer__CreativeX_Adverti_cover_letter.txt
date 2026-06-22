@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Amazon.com
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Intelligence Engineer, CreativeX Advertising Finance position at Amazon.com. With my background in data analysis, automation, and business intelligence, I am confident I would be a strong addition to your team.
+
+I am particularly impressed by Amazon.com's innovative approach to advertising solutions and its commitment to leveraging cutting-edge Gen AI technology to drive advertiser success. The opportunity to work with one of the world's largest e-commerce and advertising data sets to influence the future of Gen AI products is incredibly compelling.
+
+In my previous roles, I have developed and optimized data pipelines to enhance reporting accuracy and efficiency, significantly reducing manual effort and data discrepancies. Additionally, I have designed and executed A/B tests for digital marketing campaigns and translated complex technical findings into actionable business recommendations, which directly aligns with your need for deep quantitative analysis and insight generation to drive business decisions.
+
+At Shine Masters Cleaning Services, I developed Power BI and Looker workflows that replaced manual reporting, resulting in a 40% improvement in work efficiency. I also built Python automation for weekly sales and operations reports, saving 8 hours per week and ensuring faster strategic decisions. Furthermore, I have experience in metrics development and performance monitoring through creating Business Reviews and reporting dashboards, utilizing tools like Tableau and Power BI, and have familiarity with Quicksight. My experience includes optimizing database queries on platforms like PostgreSQL and integrating data from APIs and warehouses, and I am adept at using SQL and Python for deep dive analysis. I am comfortable with large-scale, complex datasets and have a strong understanding of data mining and ETL processes.
+
+I am particularly drawn to Amazon.com's mission of delivering customer obsession through data-driven innovation and believe my experience in developing data infrastructure, automation, and advanced analytics would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

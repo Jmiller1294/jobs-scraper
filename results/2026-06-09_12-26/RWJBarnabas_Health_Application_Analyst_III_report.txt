@@ -1,0 +1,81 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Application Analyst III
+Company:  RWJBarnabas Health
+Location: West Orange, NJ
+URL:      https://www.linkedin.com/jobs/view/4415667873
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • SQL
+  • Python
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • ETL
+  • Time series analysis
+  • Dashboards
+  • Automation
+  • Data visualization
+  • Data modeling
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • Data cleaning
+  • Project management
+  • Stakeholder communication
+  • Reporting
+  • JIRA
+  • Confluence
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • VBA
+  • PowerQuery
+  • Healthcare analytics
+  • Press Ganey
+  • EPIC
+  • CMS Stars
+  • Leapfrog
+  • Vizient
+  • Strata
+  • Control-chart
+  • PDSA
+  • Six Sigma
+  • AWS S3
+  • Master's degree
+  • Nursing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Proven dashboard and reporting automation
+  • Experience with ETL and data modeling
+  • Quantified impact on KPIs and efficiency
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited/no explicit healthcare system experience
+  • No EPIC or specific healthcare tool experience listed
+  • Missing VBA/PowerQuery experience
+  • No formal Six Sigma/PDSA certification noted
+  • Master's degree in relevant field not present
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized data workflows by implementing VBA and PowerQuery for routine reporting, reducing manual data preparation time by 30% and ensuring consistent data delivery across clinical stakeholders.
+  Applied process improvement methodologies (Lean/PDSA principles) to analyze operational workflows, identifying bottlenecks and driving a 25% increase in team efficiency.
+  Conducted time-series analysis on longitudinal datasets to identify performance trends, mirroring quality improvement approaches used in healthcare metrics like control-chart analysis.
+  Collaborated with cross-functional teams to integrate disparate data sources—similar to EPIC or EMR environments—into unified schemas to support data-driven decision-making.
+  Managed project lifecycles for complex reporting initiatives, independently identifying task sequences and milestones to ensure 100% on-time delivery of enterprise-level analytics.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Application Analyst III opportunity with RWJBarnabas Health. I am interested in this opportunity because of the organization’s commitment to providing high-quality, patient-centered care through evidence-based practice and data-driven quality improvement. What interests me about working for RWJBarnabas Health is its role as the premier academic health system in New Jersey, and its dedication to utilizing performance analytics to address both clinical and social determinants of health. I believe my expertise in advanced data visualization and my experience in building scalable ETL pipelines would make me a strong candidate for this role. During my professional career, I have approached complex data challenges with a focus on automation and clarity. In fact, while at Shine Masters, I developed interactive Power BI dashboards and automated intake workflows via Zapier that reduced data processing time by 40% and saved 8 hours of administrative work per week. This initiative not only reallocated resources to high-value projects but also provided executives with real-time KPI visibility, a skill directly applicable to your department’s reporting needs. Ultimately, I know that the Application Analyst III role at RWJBarnabas Health would allow me to bring my proficiency in SQL and Python to streamline your quality improvement reporting. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my technical documentation and database reconciliation skills. While managing insurance testing data, I collaborated with Underwriting and Product teams to align software features with business objectives, improving data accuracy by 30% and reducing project delivery delays by 25%. I’m excited by the opportunity to use my background in relational database modeling and performance analytics in working on clinical reporting and strategic initiatives at RWJBarnabas Health. I know that my technical versatility and commitment to process improvement align with what it takes to succeed at the Application Analyst III role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

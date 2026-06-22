@@ -1,0 +1,84 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Developer Relations Engineer
+Company:  Google
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4403995319
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • SQL
+  • BigQuery
+  • Looker
+  • Business Intelligence
+  • Data Visualization
+  • Power BI
+  • ETL
+  • Automation
+  • Git
+  • Data governance
+  • A/B testing
+  • CI/CD
+  • Great Expectations
+  • dbt
+  • PostgreSQL
+  • Tableau
+  • Snowflake
+  • API integration
+  • Presentation skills
+  • Cloud (AWS)
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Open source
+  • Public speaking
+  • Technical blog
+  • Developer relations
+  • Storytelling with data
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience (5+ years requirement met)
+  • Hands-on BigQuery, Looker, Power BI experience
+  • Quantified impact (300% segmented revenue, 40% efficiency)
+  • Built production ELT with CI/CD and data quality
+  • Cross-functional collaboration and stakeholder communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit public speaking or conference engagement
+  • No listed open source contributions
+  • No published technical blog posts or videos
+  • Title not Developer Relations / Advocate
+  • Limited explicit developer community participation (e.g., Stack Overflow)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with product managers and engineering teams to translate user feedback and developer requirements into production-ready code, driving a 15% increase in feature adoption and contributing to internal advocacy for developer needs.
+  Architected and deployed a production-grade ELT pipeline in Python and SQL, integrating data quality validation with Great Expectations and automating deployment via a GitHub Actions CI/CD pipeline, demonstrating experience with open-source tools and robust deployment strategies.
+  Designed an interactive Tableau dashboard and delivered data storytelling presentations to translate complex statistical insights into actionable recommendations, showcasing a strong ability to communicate technical findings to diverse audiences.
+  Engaged with external developers through the creation of a COOP Careers project analyzing NYPD Arrests data, demonstrating an aptitude for community engagement and content creation by developing a public-facing analysis and visualization.
+  Leveraged Python and SQL to build automation for weekly sales and operations reports, saving 8 hours per week and improving reporting accuracy, which directly translates to the ability to create and maintain developer tools and sample code.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Developer Relations Engineer opportunity with Google. I am interested in this opportunity because Google's commitment to empowering developers and fostering vibrant technology communities deeply resonates with my own passion for building and sharing knowledge. What interests me about working for Google is its pioneering approach to cloud business intelligence through Looker. This focus on enabling data-driven decision-making at scale excites and inspires me because it aligns perfectly with my experience in transforming complex data into accessible insights.
+
+I believe my experience in building data pipelines and my passion for clear data communication would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency, accuracy, and actionable outcomes. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports by ingesting POS and CRM data, eliminating repetitive data entry, saving 8 hours per week, and improving reporting accuracy for faster strategic decisions. This resulted in improved operational efficiency and empowered faster strategic decisions.
+
+Ultimately, I know that the Developer Relations Engineer role at Google would allow me to bring my expertise in data automation and pipeline development to advocating for external developer requirements and building public content for external developers and users. Additionally, my experience building the FRED Economic Batch Pipeline project enabled me to develop my open-source contribution and CI/CD skills. By architecting a production-grade ELT pipeline in Python and SQL to ingest time-series economic data into BigQuery, modeling raw API data into a dbt star schema, and automating data quality validation with Great Expectations, deploying the final solution via a GitHub Actions CI/CD pipeline, I demonstrated robust development practices.
+
+I’m excited by the opportunity to use my data storytelling and presentation skills in working on Google Cloud's Business Intelligence applications, including Looker, at Google. I know that my technical proficiency in Python, SQL, and BigQuery, combined with my proven ability to translate complex data into understandable insights, aligns with what it takes to succeed at the Developer Relations Engineer role. I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

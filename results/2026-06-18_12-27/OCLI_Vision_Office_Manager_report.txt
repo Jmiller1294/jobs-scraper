@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Office Manager
+Company:  OCLI Vision
+Location: Suffolk County, NY
+URL:      https://www.linkedin.com/jobs/view/4430701467
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • time management
+  • supervision
+  • training
+  • Microsoft Office
+  • process documentation
+  • reporting
+  • automation
+  • data analysis
+  • communication
+  • leadership
+  • scheduling
+  • customer service
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • EMR
+  • medical office management
+  • patient registration
+  • billing
+  • HR
+  • patient flow
+  • record management
+  • inventory management
+  • budget monitoring
+  • clinical equipment
+  • record creation
+  • ophthalmology
+  • patient checkout
+  • triage
+  • EMR system
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong data reporting and visualization
+  • process automation and SOP creation
+  • measurable operational improvements
+  • cross-functional collaboration
+  • advanced Excel/Power BI skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • no explicit medical/Ophthalmology experience
+  • no EMR experience listed
+  • limited direct billing/financial management evidence
+  • limited HR administration detail
+  • title mismatch (data/tech roles vs office manager)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,83 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director, Business Systems and GTM Tech
+Company:  PEX
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4418692014
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 58/100
+[███████████░░░░░░░░░] 58%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (19)
+  • Salesforce
+  • Snowflake
+  • Power BI
+  • Google Analytics
+  • Python
+  • SQL
+  • ETL
+  • Data model
+  • Integration
+  • Git
+  • Tableau
+  • PostgreSQL
+  • APIs
+  • JIRA
+  • Marketing analytics
+  • Campaign attribution
+  • Data governance
+  • Release governance
+  • CI/CD
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Google Tag Manager
+  • OneTrust
+  • IVR
+  • dbt
+  • HubSpot
+  • Five9
+  • Genesys
+  • inContact
+  • Gong
+  • Orum
+  • SFDX
+  • .NET CRM service
+  • Consent management
+  • Agile methodologies
+  • HubSpot CRM
+  • Change governance
+  • Salesforce REST APIs
+  • AI-enabled
+  • Total cost of ownership
+  • GTM data flows
+  • Attribution models
+  • Managing IC reports
+  • Developer management
+  • Marketing automation
+  • RevOps
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Hands-on Power BI and Tableau reporting
+  • Experience with Snowflake and Postgres
+  • Integration and API work experience
+  • Documented process and SOP creation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit Salesforce admin/developer ownership
+  • No HubSpot or direct GTM tooling ownership listed
+  • No experience with OneTrust or GTM tag management
+  • No IVR/contact center platform experience
+  • Limited leadership/managerial tenure (team management)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

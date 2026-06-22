@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Receptionist Bi Lingual
+Company:  Mercer County Works
+Location: Princeton, NJ
+URL:      https://www.linkedin.com/jobs/view/4431338798
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • customer greeting
+  • answer phone calls
+  • file management
+  • scheduling
+  • multitasking
+  • Microsoft Office
+  • Google Suite
+  • data entry
+  • correspondence
+  • client contact
+  • weekend availability
+  • time management
+  • filing system
+  • authorized to work in the U.S.
+  • shift work
+  • in-person
+  • documentation
+  • SOPs
+  • scheduling automation
+  • Zapier
+  • employee discount
+  • health insurance
+  • vision insurance
+  • dental insurance
+  • High School Diploma
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • prepare and disseminate correspondence
+  • manage daily/weekly/monthly responsibilities
+  • contacting clients (explicit)
+  • heavy inbound and outbound calls
+  • willing to work Saturdays
+  • pay based on experience
+  • Any other tasks required by store manager
+  • Job Type: Full-time
+  • Pay: From $17.00 per hour
+  • Schedule: 8 hour shift
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong documentation and SOP creation
+  • Proficient with Microsoft Office/Google Suite
+  • Experience with scheduling automation (Zapier)
+  • Demonstrated time management and multitasking
+  • Quantified operational impact (time savings)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit receptionist/title experience
+  • No direct experience handling heavy phone volume
+  • No retail/showroom customer-facing role listed
+  • No explicit Saturday availability stated
+  • No specific experience with front-desk check-in systems
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

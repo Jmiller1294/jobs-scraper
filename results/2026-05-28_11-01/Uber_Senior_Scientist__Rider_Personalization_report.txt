@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Scientist, Rider Personalization
+Company:  Uber
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4420438212
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • metrics
+  • Python
+  • SQL
+  • BigQuery
+  • Snowflake
+  • data visualization
+  • Tableau
+  • Power BI
+  • ETL pipelines
+  • time series
+  • agentic AI
+  • data storytelling
+  • AWS (S3)
+  • Git
+  • PostgreSQL
+  • exploratory data analysis
+  • automation
+  • dashboards
+  • data modeling
+  • quantified results
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • causal inference
+  • experiments
+  • A/B testing
+  • recommendation systems
+  • statistical methodologies
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL engineering
+  • Proven dashboarding and visualization impact
+  • Experience building ETL and data models
+  • Quantified operational improvements
+  • Familiarity with AI tools and automation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit causal inference experience
+  • No documented A/B testing or experiment design
+  • No direct recommendation systems work
+  • Limited ML/modeling depth shown
+  • Short tenure in data science roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

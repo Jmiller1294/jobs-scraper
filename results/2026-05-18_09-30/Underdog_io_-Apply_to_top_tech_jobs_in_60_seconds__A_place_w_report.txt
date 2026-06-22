@@ -1,0 +1,66 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  Underdog.io -Apply to top tech jobs in 60 seconds. A place where companies apply to you
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4415375037
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (12)
+  • Python
+  • Full-stack
+  • SQL
+  • BigQuery
+  • GitHub Actions
+  • CI/CD
+  • Docker
+  • Postgres
+  • dbt
+  • Airflow
+  • Data pipelines
+  • Startup
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • TypeScript
+  • AI tools
+  • RAG
+  • Temporal.io
+  • Inngest
+  • Serverless
+  • Vercel
+  • End-to-end system design
+  • Claude
+  • Cursor
+  • React
+  • Healthcare
+  • Credentialing
+  • Orchestration
+  • Credentialing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Solid data engineering skills (BigQuery, dbt, Airflow)
+  • Proven automation and CI/CD experience
+  • Quantified impact in prior roles (efficiency, leads, adoption)
+  • Experience with full-stack development duties
+  • Strong SQL and data modeling expertise
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No TypeScript or explicit JS framework experience
+  • No demonstrated AI-native tooling (Claude/Cursor) usage
+  • Lacks Temporal/Inngest or orchestration experience
+  • Limited healthcare or credentialing domain experience
+  • Total software dev years under required 7+
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Siebel Solution Lead
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414168556
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (11)
+  • SQL
+  • Git
+  • APIs
+  • documentation
+  • communication
+  • team collaboration
+  • testing
+  • debugging
+  • troubleshooting
+  • data modeling
+  • integration
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Siebel CRM
+  • Siebel Tools
+  • eScript
+  • Siebel Workflow
+  • EAI
+  • Open UI
+  • Java
+  • Oracle
+  • installations
+  • upgrades
+  • performance tuning
+  • configuration
+  • installations
+  • upgrades
+  • performance tuning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data engineering skills
+  • Experience with APIs and integrations
+  • Proven quantitative impact (percent/revenue gains)
+  • Version control (Git) experience
+  • Clear documentation and communication skills
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Siebel-specific experience
+  • No Java/Oracle hands-on listed
+  • No Siebel tools/eScript/workflow skills
+  • Limited enterprise CRM admin experience
+  • No environment installation/upgrade experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

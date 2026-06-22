@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Siebel Solution Lead
+Company:  Jobs via Dice
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414168556
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • CRM
+  • integration
+  • workflows
+  • UI customization
+  • testing
+  • debugging
+  • technical documentation
+  • SQL
+  • Python
+  • Git
+  • API integration
+  • data model
+  • cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Siebel
+  • Siebel Tools
+  • Siebel eScript
+  • Siebel Workflow
+  • Siebel Configuration
+  • EAI
+  • Siebel Open UI
+  • Java
+  • Oracle
+  • installations
+  • upgrades
+  • performance tuning
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience with CRM data and integrations
+  • Proven analytics and reporting impact (quantified)
+  • Version control (Git) and automation/CI-CD
+  • Background in data modeling and ETL
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Siebel-specific experience listed
+  • No Java/Oracle hands-on experience shown
+  • Less than required Siebel years (no 5+ Siebel experience)
+  • No Siebel administration/installation experience
+  • No Siebel eScript or EAI skills demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

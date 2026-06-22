@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     NMC_000377 -  Fixed Income IT Business Analyst (Full-time Permanent)
+Company:  New Millenium Consulting
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4423202516
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • SQL
+  • Agile
+  • Product Owner
+  • Business Analysis
+  • UAT
+  • Testing
+  • Reporting
+  • JIRA
+  • Confluence
+  • Python
+  • Data Modeling
+  • ETL
+  • Stakeholder Management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • Fixed Income
+  • Post-Trade
+  • Booking
+  • Settlement
+  • Clearing
+  • Accounting
+  • Vendor Systems
+  • Summit
+  • Calypso
+  • Murex
+  • Back Office
+  • Requirements Gathering
+  • Functional Specifications
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL proficiency
+  • Experience with Agile practices
+  • Data modeling and ETL skills
+  • Reporting and dashboard development
+  • Tooling: JIRA/Confluence/Git
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Fixed Income/post-trade experience
+  • Lacks vendor system (Calypso/Murex/Summit) exposure
+  • Limited finance domain-specific functional knowledge
+  • Short finance/IT BA tenure (5-7 yrs required not shown)
+  • No quantified product owner/project deliveries in capital markets
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

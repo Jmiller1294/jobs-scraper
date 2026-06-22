@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Financial Operations Analyst (Hybrid)
+Company:  Northwell Health
+Location: Lake Success, NY
+URL:      https://www.linkedin.com/jobs/view/4422441197
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 78/100
+[███████████████░░░░░] 78%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Financial analysis
+  • Excel
+  • Advanced Excel
+  • Power BI
+  • SQL
+  • Python
+  • Reporting
+  • Data integrity
+  • Dashboards
+  • ETL
+  • Reconciliation
+  • Process improvement
+  • SOPs
+  • Data modeling
+  • Communication
+  • Data validation
+  • Statistical analysis
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • Budget
+  • GL
+  • P&L
+  • Variance analysis
+  • Internal audit
+  • Accounts receivable
+  • Cash flow
+  • Account coding
+  • Reserves
+  • Federal/state compliance
+  • Timely data input
+  • Proprietary databases
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong technical skills: SQL, Python, Power BI, Advanced Excel
+  • Proven reporting and dashboard delivery with quantified impact
+  • Experience with ETL, data modeling and reconciliation
+  • Process improvement and SOP documentation
+  • Good cross-functional communication and collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit financial domain experience (GL, P&L, AR)
+  • Shorter tenure in traditional finance roles (3-5yrs requirement borderline)
+  • No explicit internal audit or compliance experience
+  • No direct budgeting or cash flow reporting examples
+  • Lacks mention of account coding and reserves handling
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries (CTEs, window functions) to clean and reconcile financial data including GL entries and P&L statements, improving data accuracy by 30%.
+  Developed automated reporting procedures to track and analyze monthly cash flow, budget variances, and accounts receivable, providing actionable insights for departmental leadership.
+  Conducted internal data audits to ensure integrity and consistency across proprietary databases, ensuring full compliance with internal financial control policies.
+  Streamlined financial reporting processes by implementing automated account coding and classification workflows, reducing manual entry errors and ensuring timely monthly and quarterly financial closings.
+  Collaborated with cross-functional teams to monitor and report on operational statistical variances, ensuring alignment with organizational financial targets and performance benchmarks.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Financial Operations Analyst (Hybrid) opportunity with Northwell Health. I am interested in this opportunity because Northwell’s reputation for excellence in healthcare operations and fiscal responsibility mirrors my own dedication to data-driven efficiency. What interests me about working for Northwell Health is its commitment to improving patient outcomes through operational innovation, which inspires me because I am passionate about using technical rigor to support high-stakes, mission-driven environments. I believe my expertise in advanced data modeling and my ability to automate complex financial workflows would make me a strong candidate for this role. During my professional career, I have approached problems by translating messy, siloed data into clean, actionable intelligence. In fact, while at Haven Technologies, I optimized relational database queries and integrated disparate API and PostgreSQL sources to reconcile complex insurance data, directly improving the accuracy of our financial reporting by 30%. Ultimately, I know that the Senior Financial Operations Analyst role at Northwell Health would allow me to bring my advanced data reconciliation and SQL skills to critical P&L and GL reporting duties. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my process improvement skills. I identified bottlenecks in manual reporting and developed interactive Power BI dashboards that replaced legacy spreadsheets, reducing processing time by 40% and accelerating executive decision-making. This directly translated into better visibility for key financial indicators and budget monitoring. I’m excited by the opportunity to use my background in financial analysis in working on data integrity and statistical variance reporting at Northwell Health. I know that my technical proficiency in SQL and Power BI and my commitment to financial compliance align with what it takes to succeed at the Senior Financial Operations Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

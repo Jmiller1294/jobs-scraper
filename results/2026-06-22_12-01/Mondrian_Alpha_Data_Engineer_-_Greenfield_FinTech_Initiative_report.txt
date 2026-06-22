@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer - Greenfield FinTech Initiative - Hedge Fund
+Company:  Mondrian Alpha
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4428956119
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Postgres
+  • Python
+  • ETL
+  • dbt
+  • Airflow
+  • BigQuery
+  • GCS
+  • Snowflake
+  • data quality
+  • Great Expectations
+  • CI/CD
+  • GitHub Actions
+  • data modeling
+  • dimensional modeling
+  • ELT pipeline
+  • data engineering
+  • data analytics
+  • automation
+  • Power BI
+  • Tableau
+  • operational KPIs
+  • stakeholder collaboration
+  • production-grade pipelines
+  • experience:2+ years
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Postgres listed
+  • Python primary language with ETL and Airflow experience
+  • End-to-end pipeline ownership (BigQuery, dbt, CI/CD)
+  • Data quality practices (Great Expectations)
+  • Quantified impacts (40% efficiency, 30% automation)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct hedge fund or public equity markets experience
+  • Title not explicitly Data Engineer
+  • Relatively short tenured roles
+  • No explicit Scala or Java in data-engineering context
+  • No direct mention of investment team collaboration
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Collaborated with investment stakeholders and compliance teams at Haven Technologies to deliver production-ready datasets, ensuring data integrity for high-stakes equity analysis and financial reporting.
+  Engineered and maintained end-to-end ELT pipelines using Python and SQL (Postgres), managing the full development lifecycle from raw data ingestion to consumption by front-office investment staff.
+  Architected robust data quality frameworks using Great Expectations to validate financial data, ensuring 100% accuracy for investment decision-making processes.
+  Applied advanced SQL queries and dimensional modeling techniques to harmonize disparate financial datasets, directly supporting the modernization of front-office analytical tools.
+  Leveraged Python and data modeling expertise to translate complex business requirements into scalable, automated infrastructure, mirroring the agility required in fast-paced public equity environments.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Hiring Manager, Mondrian Alpha, New York, NY. Dear Hiring Manager, I am excited to submit my application for the Data Engineer - Greenfield FinTech Initiative - Hedge Fund opportunity with Mondrian Alpha. I am interested in this opportunity because of the firm's commitment to integrating advanced data engineering with front-office investment strategy, a challenge that perfectly aligns with my background in building high-integrity data pipelines. What interests me about working for Mondrian Alpha is its proactive approach to modernization and its pivot toward AI/ML capabilities, which inspires me because I am passionate about building the foundational infrastructure that drives algorithmic decision-making. I believe my expertise in end-to-end data stack ownership and my ability to synthesize complex financial requirements into technical solutions would make me a strong candidate for this role. During my professional career, I have approached problems by balancing technical rigor with business-critical outcomes. In fact, at Haven Technologies, I worked directly with engineers and business stakeholders to transform REST API data into clean, actionable datasets that resolved critical UI bugs and supported feature development, ultimately increasing feature adoption by 15% and data accuracy by 60%. Ultimately, I know that the Data Engineer role at Mondrian Alpha would allow me to bring my end-to-end pipeline expertise to your ongoing modernization efforts. Additionally, my role as an Analytics & Operations Lead at Shine Masters Cleaning Services enabled me to develop my stakeholder collaboration skills. I identified operational inefficiencies through cross-functional data analysis, which allowed me to implement automated reporting systems that drove a 40% improvement in efficiency and provided leadership with the visibility needed to scale operations. I’m excited by the opportunity to use my SQL and Python expertise in working on investment-facing data products at Mondrian Alpha. I know that my background in data quality management and pipeline architecture aligns with what it takes to succeed at the Data Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

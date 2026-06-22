@@ -1,0 +1,85 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Data Analysis Specialist
+Company:  Fragomen
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4414666339
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 85/100
+[█████████████████░░░] 85%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Excel
+  • Pivot Tables
+  • Power BI
+  • Tableau
+  • SQL
+  • Python
+  • Data visualization
+  • Reporting
+  • Dashboards
+  • Data quality
+  • Data governance
+  • ETL
+  • Automation
+  • Stakeholder communication
+  • Report building
+  • Data validation
+  • BigQuery
+  • Snowflake
+  • Git
+  • KPI standardization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Forecast models
+  • Requirements gathering
+  • Power Query
+  • Legal/immigration knowledge
+  • Customer service
+  • Pivot Charts
+  • Power BI Power Query
+  • Process guides
+  • Verify reports accuracy
+  • Manage reporting requests
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Excel and Pivot skills
+  • Power BI and Tableau dashboard development
+  • SQL and Python for ETL/automation
+  • Proven quantified impact (efficiency and revenue gains)
+  • Experience with BigQuery and Snowflake
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit experience in legal/immigration domain
+  • Power Query not specified
+  • Requirements-gathering for legal teams not explicit
+  • Customer service/support to attorneys not detailed
+  • Forecast model experience not clearly demonstrated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed robust forecast models and automated reporting dashboards to track team KPIs and client growth trends, enabling data-driven strategic planning.
+  Collaborated directly with business stakeholders to conduct thorough requirements gathering, translating complex needs into technical specifications for custom reporting solutions.
+  Streamlined data preparation workflows by implementing advanced Power Query transformations, ensuring high-quality data integration from various case management sources.
+  Created comprehensive process guides and documentation for internal reports to improve monitoring efficiency and ensure consistent data integrity for end-users.
+  Managed a portfolio of incoming reporting requests, verifying data accuracy and ensuring timely delivery of specialized insights to internal teams and external stakeholders.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Business Data Analysis Specialist opportunity with Fragomen. I am interested in this opportunity because of Fragomen's global reputation for excellence in the immigration field and your clear focus on leveraging precise data to improve legal outcomes. What interests me about working for Fragomen is your commitment to innovative, technology-driven solutions for complex legal processes, which inspires me because I enjoy applying technical analytical rigor to highly regulated industries.
+
+I believe my proficiency in advanced data visualization and my background in automated reporting would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex raw data into clear, actionable business strategies. In fact, at Shine Masters Cleaning Services, I led a initiative to centralize data governance and KPI tracking. I worked closely with cross-functional leadership to define their reporting requirements and built automated Power BI dashboards to replace manual processes. This resulted in a 40% improvement in work efficiency and the establishment of a single source of truth for all stakeholders, a skill set I am eager to apply to Fragomen’s case management reporting.
+
+Ultimately, I know that the Business Data Analysis Specialist role at Fragomen would allow me to bring my expertise in data quality and visualization to your team's critical reporting needs. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my stakeholder communication and requirements-gathering skills. I regularly met with business leads to identify bottlenecks, built custom forecasting models, and iterated on reports based on direct constructive feedback. This led to a 300% increase in revenue for targeted segments by ensuring reports were perfectly aligned with strategic goals. I am excited by the opportunity to use my background in Python and Excel-based modeling to support your attorneys and clients in the tracking and analysis of immigration petitions. I know that my analytical mindset and technical capabilities align with what it takes to succeed at the Business Data Analysis Specialist role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+
+Justin Miller

@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Intune Engineer
+Company:  Skywaves Rise
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4413999667
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 18/100
+[███░░░░░░░░░░░░░░░░░] 18%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (9)
+  • Python
+  • Git
+  • Power BI
+  • Automation
+  • Reporting
+  • CI/CD
+  • Windows
+  • macOS
+  • Imaging
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • PowerShell
+  • Scripting
+  • Intune
+  • SCCM
+  • Jamf
+  • Packaging
+  • Win32
+  • .pkg/.dmg
+  • Application deployment
+  • Endpoint management
+  • Troubleshooting
+  • Azure
+  • M365
+  • GitHub Copilot
+  • Microsoft 365 Copilot
+  • ChatGPT Enterprise
+  • Claude
+  • VDI
+  • AD Groups
+  • GPO
+  • Entra
+  • Ivanti
+  • Autopilot
+  • MDM
+  • MAM
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python automation experience
+  • CI/CD and Git usage
+  • Data-driven quantified impacts
+  • Reporting and visualization (Power BI)
+  • Experience with Windows and macOS contexts
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Intune/SCCM/Jamf experience
+  • No evidence of AI tool deployments (Copilot/ChatGPT/Claude)
+  • Lacks application packaging skills (.pkg/.dmg/Win32)
+  • No PowerShell/Bash endpoint scripting examples
+  • Limited endpoint management and VDI credentials
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

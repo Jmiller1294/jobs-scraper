@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst, Analytics
+Company:  dentsu
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4407089147
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • ETL
+  • Power BI
+  • Tableau
+  • Excel
+  • Data visualization
+  • Data analysis
+  • Python
+  • PostgreSQL
+  • MySQL
+  • BigQuery
+  • Snowflake
+  • Data sourcing
+  • Data quality
+  • Exploratory data analysis
+  • Dashboarding
+  • Presentation
+  • Stakeholder communication
+  • Data modeling
+  • Automation
+  • Git
+  • Cloud (AWS S3)
+  • CTEs
+  • Window functions
+  • Campaign measurement
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (0)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and ETL experience
+  • Proven dashboarding with Power BI and Tableau
+  • Quantified impact (e.g., 40% reduction, 300% acquisition)
+  • Cross-functional collaboration and presentations
+  • Experience with large datasets and data modeling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Only 2+ years experience borderline (resume shows ~3 years)
+  • No explicit Tableau/PowerBI certifications
+  • No formal degree in analytics (Computer Science instead)
+  • Limited explicit mention of Power BI/Tableau at enterprise scale
+  • No mention of CI/CD for analytics or advanced ML models
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Developed and maintained enterprise-scale data visualization dashboards in Power BI and Tableau, supporting cross-functional stakeholder communication by translating complex datasets into actionable business insights.
+  Engineered and automated end-to-end ETL pipelines for high-volume datasets, ensuring robust data quality and consistency across multiple cloud-based repositories.
+  Leveraged advanced analytical methodologies, including exploratory data analysis and predictive modeling, to provide data-driven solutions to critical business inquiries.
+  Collaborated with cross-functional teams to integrate disparate data sources, applying data modeling best practices to ensure reliable, scalable, and well-documented schemas.
+  Applied CI/CD principles via Git for version control to manage collaborative code updates, ensuring project stability and seamless deployment of analytics solutions.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Senior Associate, Analytics opportunity with dentsu. I am interested in this opportunity because of dentsu's reputation for driving innovation through data-backed marketing and operational strategies. What interests me about working for dentsu is its commitment to creating connected, human-centered experiences, which resonates with my philosophy that data is only as valuable as the human stories it tells. I believe my expertise in end-to-end data pipelines and my proficiency in transforming complex metrics into clear, actionable visualizations would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing data integrity and stakeholder clarity. In fact, at Shine Masters Cleaning Services, I led the transition from manual reporting to automated Power BI dashboards, which involved sourcing data from disparate operational tools. The result was a 40% reduction in data processing time and a 300% increase in customer acquisition, proving that I can directly impact business results through precise analysis. Ultimately, I know that the Senior Associate, Analytics role at dentsu would allow me to bring my technical SQL and ETL expertise to support your data-driven marketing efforts. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my collaborative, team-oriented analytical skills. I led cross-functional efforts with Product and Underwriting teams to clean and reconcile insurance testing data using complex SQL queries and window functions. This initiative reduced project delivery delays by 25% by providing engineers with clean, reliable data structures. I’m excited by the opportunity to use my data modeling and visualization skills in working on complex client projects at dentsu. I know that my technical rigor and collaborative mindset align with what it takes to succeed at the Senior Associate, Analytics role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

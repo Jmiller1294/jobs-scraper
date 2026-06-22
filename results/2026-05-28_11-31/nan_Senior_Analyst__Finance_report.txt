@@ -1,0 +1,72 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Analyst, Finance
+Company:  nan
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=a21683f4d15feca9
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (23)
+  • Advanced Excel
+  • Pivot Tables
+  • VLOOKUP
+  • Power BI
+  • SQL
+  • ETL
+  • Data extraction
+  • Data reconciliation
+  • Reporting templates
+  • Automation
+  • Dashboarding
+  • Data validation
+  • Data modeling
+  • Project coordination
+  • Stakeholder communication
+  • Prioritization
+  • Cross-functional collaboration
+  • SOPs
+  • Time series
+  • BigQuery
+  • Snowflake
+  • AWS S3
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Financial reporting
+  • Forecasting
+  • Variance analysis
+  • OneStream
+  • Hyperion HFM
+  • Essbase
+  • Bachelor’s degree in Accounting/Finance
+  • 3-5 years experience
+  • Perpetual reporting framework
+  • Regional coordination
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and ETL experience
+  • Advanced Excel and Power BI dashboarding
+  • Demonstrated automation reducing manual work
+  • Cross-functional collaboration and communication
+  • Quantified operational impact
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit corporate finance/accounting background
+  • No mention of forecasting or variance analysis
+  • No experience listed with OneStream/Hyperion/Essbase
+  • Title is Data Analyst/Developer vs Senior Financial Analyst
+  • Experience duration in finance domain below typical 3-5yrs for role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

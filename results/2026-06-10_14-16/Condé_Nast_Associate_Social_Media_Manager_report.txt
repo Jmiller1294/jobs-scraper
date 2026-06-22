@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate Social Media Manager
+Company:  Condé Nast
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4427044499
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 42/100
+[████████░░░░░░░░░░░░] 42%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • analytics
+  • Google Analytics
+  • reporting
+  • campaign measurement
+  • traffic
+  • engagement
+  • KPI
+  • editorial
+  • partnerships
+  • stakeholder management
+  • emerging platforms
+  • video
+  • content creation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • social media
+  • TikTok
+  • Instagram
+  • Facebook
+  • Pinterest
+  • YouTube
+  • social listening
+  • copywriting
+  • Photoshop
+  • Premiere
+  • Canva
+  • Dash Hudson
+  • CrowdTangle
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong analytics and reporting experience
+  • experience with Google Analytics
+  • quantified impact on KPIs
+  • cross-functional collaboration
+  • data-driven content recommendations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited explicit social media management experience
+  • no demonstrated platform-specific content creation
+  • no social publishing/listening tool experience listed
+  • no explicit copywriting or editorial samples
+  • lack of stated travel industry passion/experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

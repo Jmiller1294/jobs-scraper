@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Salesforce SRE Lead – Reliability Engineering & Operations
+Company:  Experis
+Location: New Brunswick, NJ
+URL:      https://www.linkedin.com/jobs/view/4415952898
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (14)
+  • Salesforce
+  • observability
+  • monitoring
+  • cloud
+  • AWS
+  • integration
+  • stakeholder communication
+  • ETL
+  • Python
+  • SQL
+  • Git
+  • JIRA
+  • Confluence
+  • automation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • SRE
+  • Site Reliability Engineering
+  • incident management
+  • SLA
+  • SLO
+  • Splunk
+  • Datadog
+  • Dynatrace
+  • platform reliability
+  • production support
+  • operational governance
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL skills
+  • Cloud experience (AWS S3)
+  • Automation and ETL pipeline development
+  • Cross-functional collaboration
+  • Quantified operational improvements
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SRE or production reliability role
+  • Limited Salesforce platform expertise
+  • No listed observability tool experience (Splunk/Datadog/Dynatrace)
+  • No explicit SLA/SLO or incident management experience
+  • Titles not aligned to SRE Lead
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

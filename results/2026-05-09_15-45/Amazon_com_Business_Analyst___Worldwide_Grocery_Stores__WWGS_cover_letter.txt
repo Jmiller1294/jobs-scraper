@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+Amazon.com
+
+Dear Hiring Manager,
+
+I am excited to apply for the Business Analyst, Worldwide Grocery Stores (WWGS) position at Amazon.com. With my background in data analysis, automation, and building data pipelines, I am confident I would be a strong addition to your team.
+
+Amazon's commitment to leveraging advanced analytics and AI to drive innovation, particularly within the Supply Chain team, deeply resonates with my professional aspirations. I am eager to contribute to an organization that values data-driven decision-making and pushing the boundaries of analytical capabilities.
+
+In my previous roles, I have successfully developed Python automation for weekly sales and operations reports, saving 8 hours per week and improving reporting accuracy. Additionally, I created statistical models to identify high-value customer segments, contributing to a 300% increase in revenue in the targeted segment, which directly aligns with your need for analyzing complex data sets and identifying actionable recommendations.
+
+I have extensive experience creating complex SQL queries joining multiple datasets and am adept at ETL DW concepts, as evidenced by my FRED Economic Batch Pipeline project where I architected a production-grade ELT pipeline in Python and SQL to ingest time-series economic data into BigQuery. My experience also includes designing and implementing comprehensive data migration strategies, transitioning core datasets to advanced platforms like Snowflake and BigQuery. I am particularly proficient in Tableau and Advanced Excel, having developed Power BI and Looker workflows to replace manual reporting and designed interactive Tableau dashboards for self-service access, all of which directly address your requirements for data visualization and reporting.
+
+I am particularly drawn to Amazon.com's mission of relentlessly innovating for customers and believe my experience in translating technical complexities into clear, compelling narratives would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

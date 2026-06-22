@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Manager of Integrated Business Planning Analytics
+Company:  Ralph Lauren
+Location: Nutley, NJ
+URL:      https://www.linkedin.com/jobs/view/4404110894
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • R
+  • Jupyter Notebook
+  • machine learning
+  • time series
+  • ETL
+  • data modeling
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • Tableau
+  • Power BI
+  • presentations
+  • cross-functional
+  • automation
+  • reporting
+  • forecasting
+  • advanced analytics
+  • statistics
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • supply planning
+  • demand forecasting
+  • master data
+  • Dataiku
+  • team management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience with time series and forecasting models
+  • Visualization expertise (Power BI, Tableau)
+  • Cloud and data warehouse exposure (Snowflake, BigQuery, AWS S3)
+  • Cross-functional collaboration and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit supply planning experience
+  • No stated experience with Dataiku
+  • Master data governance not demonstrated
+  • Minimal documented team management experience
+  • Short tenure in relevant roles for senior manager requirement
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

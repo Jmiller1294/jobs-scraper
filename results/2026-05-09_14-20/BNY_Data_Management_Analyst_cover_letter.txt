@@ -1,0 +1,16 @@
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Management Analyst opportunity with BNY. I am interested in this opportunity because BNY's position as a leader in global financial services, harnessing cutting-edge AI and transformative technologies, deeply resonates with my career aspirations.
+
+What interests me about working for BNY is its approach to powering the future of finance. This focus on innovation and leveraging advanced technology excites, inspires, and intrigues me because I am passionate about contributing to robust data infrastructure that enables sophisticated analytics and responsible AI practices.
+
+I believe my strong analytical and problem-solving capabilities, coupled with my extensive experience in data manipulation and reporting, would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on accuracy and efficiency. In fact, at Shine Masters Cleaning Services, I developed Power BI and Looker workflows to replace manual reporting, which reduced data mismatches and improved work efficiency by 40%. This initiative directly translated into enhanced data accuracy and faster strategic decision-making, showcasing the impact of meticulous data management.
+
+Ultimately, I know that the Data Management Analyst role at BNY would allow me to bring my robust data analysis skills to supporting the Infrastructure platform's data onboarding and governance initiatives. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my stakeholder management and communication skills. I led initiatives to translate complex technical findings into business recommendations for stakeholders, fostering cross-functional alignment and ensuring a consistent "single source of truth." This experience has prepared me to effectively partner with Data Owners and Data Stewards.
+
+I'm excited by the opportunity to use my technical proficiency in SQL, Python, Snowflake, BigQuery, and Power BI in working on managing Authoritative Data Source (ADS) onboarding and defining AI-ready data quality requirements at BNY. I know that my analytical skills and my experience in driving data accuracy and efficiency align with what it takes to succeed at the Data Management Analyst role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

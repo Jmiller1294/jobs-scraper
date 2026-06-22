@@ -1,0 +1,76 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Marketing Analytics Senior Associate
+Company:  Faire
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4426100777
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 82/100
+[████████████████░░░░] 82%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • SQL
+  • A/B testing
+  • ETL
+  • Python
+  • Power BI
+  • Tableau
+  • Customer Segmentation
+  • Campaign Measurement
+  • Google Analytics
+  • Automation
+  • KPI dashboards
+  • Reporting
+  • Time series
+  • Cross-functional collaboration
+  • Stakeholder communication
+  • Data Modeling
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Marketing Attribution
+  • Experimentation
+  • ROI analysis
+  • Forecasting
+  • Payback
+  • BigQuery
+  • Snowflake
+  • Payback
+  • Event measurement
+  • Attribution modeling
+  • Paid channels
+  • Owned channels
+  • Strategic finance
+  • Measurement models
+  • MTA
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Built ETL pipelines and data models
+  • Developed KPI dashboards (Power BI, Tableau)
+  • Quantified impact (e.g., 300% acquisition growth)
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit marketing attribution modeling experience
+  • No explicit multi-touch attribution (MTA) work listed
+  • Shorter total years in relevant roles (~2+ years post-degree)
+  • No stated experience with forecasting/payback frameworks
+  • Limited exposure to Snowflake/BigQuery in roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Owned the end-to-end measurement of marketing campaigns, utilizing SQL and Python to build attribution models that track ROI across paid and owned channels.
+  Designed and executed A/B testing frameworks to evaluate user behavior, providing strategic recommendations that optimized campaign spend and drove measurable growth.
+  Developed forecasting models for customer acquisition and marketing payback, translating complex data into actionable insights for strategic finance and marketing leadership.
+  Integrated data from BigQuery and Snowflake into unified marketing dashboards, ensuring real-time visibility into attribution metrics and campaign performance.
+  Partnered with cross-functional teams to implement event measurement tracking, ensuring accurate data collection for complex marketing experiments and attribution analysis.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Marketing Analytics Senior Associate opportunity with Faire. I am interested in this opportunity because of Faire’s mission to empower local retailers through data-driven wholesale technology, a vision that resonates deeply with my background in bridging technical analytics with business growth. What interests me about working for Faire is its commitment to scaling global commerce while keeping the soul of local business at the center of its model; this inspires me because I believe in the power of data to level the playing field for small entrepreneurs. I believe my expertise in building automated data pipelines and my ability to synthesize complex marketing performance metrics into strategic insights would make me a strong candidate for this role. During my professional career, I have approached problems by translating raw, fragmented datasets into clear, actionable business strategies. In fact, at Shine Masters, I developed interactive Power BI dashboards that synthesized complex performance data, which, when paired with time-series customer segmentation models, directly contributed to a 300% increase in new customer acquisition over 12 months. This experience of driving measurable growth through rigorous analysis and clear visualization is exactly the type of result I look forward to delivering for Faire’s growth channels. Ultimately, I know that the Marketing Analytics Senior Associate role at Faire would allow me to bring my proficiency in Python and SQL to optimize marketing attribution and ROI frameworks. Additionally, my role as a Data Analyst & Operations Lead at Shine Masters enabled me to develop my cross-functional collaboration skills. I led the automation of client onboarding workflows by integrating disparate data sources through Zapier and Python, saving 8 hours of manual work per week and allowing the team to focus on high-impact lead generation. This operational efficiency mindset is essential for managing the growth-channel attribution and experimentation models required at Faire. I’m excited by the opportunity to use my background in A/B testing and performance measurement in working on attribution and campaign ROI at Faire. I know that my analytical rigor and strategic mindset align with what it takes to succeed in the Marketing Analytics Senior Associate role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

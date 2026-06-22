@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Wall Street Careers®
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4425608387
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 62/100
+[████████████░░░░░░░░] 62%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (20)
+  • Python
+  • SQL
+  • AWS
+  • Airflow
+  • ETL/ELT
+  • data quality
+  • dbt
+  • BigQuery
+  • GCS
+  • Postgres
+  • Snowflake
+  • dimensional modeling
+  • CI/CD
+  • Great Expectations
+  • cloud
+  • orchestration
+  • monitoring
+  • data modeling
+  • production
+  • data validation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • financial data
+  • vendor feeds
+  • Bloomberg
+  • Refinitiv
+  • ICE
+  • serverless
+  • columnar storage
+  • managed relational databases
+  • asset classes
+  • security identifiers
+  • uptime
+  • alerting
+  • cost optimization
+  • scheduling tool
+  • workflow tool
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building production ELT pipelines
+  • Cloud data experience (BigQuery, GCS, AWS)
+  • Data quality tooling (Great Expectations, dbt tests)
+  • CI/CD and orchestration (Airflow, GitHub Actions)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited institutional financial data experience
+  • No explicit Bloomberg/Refinitiv/ICE experience
+  • Unclear years in investment/capital markets (below 5+)
+  • Serverless and columnar storage expertise not shown
+  • No explicit uptime/alerting/operational SLAs mentioned
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

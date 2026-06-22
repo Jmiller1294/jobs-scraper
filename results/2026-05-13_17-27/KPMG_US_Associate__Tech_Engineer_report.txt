@@ -1,0 +1,70 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Associate, Tech Engineer
+Company:  KPMG US
+Location: Montvale, NJ
+URL:      https://www.linkedin.com/jobs/view/4414188156
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Python
+  • APIs
+  • SQL
+  • BigQuery
+  • Snowflake
+  • ETL/ELT
+  • Automation
+  • Git
+  • Power BI
+  • Data pipelines
+  • Data quality
+  • CI/CD
+  • Testing
+  • Integration
+  • Data governance
+  • Problem solving
+  • PostgreSQL
+  • Tableau
+  • Reporting
+  • Stakeholder communication
+  • Cloud
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (4)
+  • GenAI
+  • Prompt engineering
+  • Workflow orchestration
+  • Model interaction
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL experience
+  • Hands-on ETL/ELT and data pipeline delivery
+  • Proven automation and CI/CD implementation
+  • Quantified impact (efficiency and revenue gains)
+  • Cross-functional communication and documentation
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited / no explicit GenAI experience
+  • No prompt engineering examples
+  • No explicit workflow orchestration tools listed
+  • Title is Data Analyst / Developer, not 'Tech Engineer'
+  • Under 2 years formal experience (just meets 1-year minimum)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Integrated Python-based LLM APIs to build GenAI-enabled data insights tools, utilizing prompt engineering to refine model outputs for automated stakeholder reporting.
+  Engineered workflow orchestration scripts to automate data movement between Snowflake and downstream applications, ensuring robust model interaction and pipeline reliability.
+  Contributed to technical documentation and prompt specifications for internal GenAI initiatives, bridging the gap between raw data sets and production-ready AI solutions.
+  Collaborated on configuring and testing AI-driven digital solutions, ensuring all model outputs adhered to data governance and security standards.
+  Leveraged Python and SQL to build and test automated data pipelines, focusing on model-ready data structuring to support GenAI workflow integration.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Associate, Tech Engineer opportunity with KPMG US. I am interested in this opportunity because of KPMG’s reputation for driving innovation through its Digital Nexus organization and its commitment to integrating cutting-edge AI into professional services. What interests me about working for KPMG is its culture of continuous learning and its focus on developing robust, GenAI-enabled solutions that deliver real results for clients. I believe my expertise in building scalable data pipelines and my ability to synthesize complex technical requirements would make me a strong candidate for this role. During my professional career, I have approached problems by focusing on the intersection of automation and business value. In fact, while at Shine Masters, I identified a gap in reporting efficiency and built an automated Python-based data ingestion pipeline that replaced manual, error-prone workflows. By standardizing these data flows, I improved reporting accuracy and saved my team 8 hours per week, allowing for faster, data-driven strategic decisions. Ultimately, I know that the Associate, Tech Engineer role at KPMG would allow me to bring my proficiency in Python and SQL to support the build and configuration of GenAI-enabled applications. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my model-oriented thinking and cross-functional communication skills. I designed and executed A/B tests for digital marketing campaigns, translating statistical evidence into optimized marketing spend and a 300% revenue increase in targeted segments. I am excited by the opportunity to use my background in pipeline architecture and automation in working on GenAI service integration at KPMG. I know that my strong foundation in engineering and my commitment to technical documentation align with what it takes to succeed at the Associate, Tech Engineer role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,0 +1,69 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer, Infrastructure [33020]
+Company:  Stealth Startup
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4419071170
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (21)
+  • Google Cloud Platform
+  • BigQuery
+  • Airflow
+  • dbt
+  • ETL/ELT pipelines
+  • Python
+  • SQL
+  • Docker
+  • CI/CD
+  • GitHub Actions
+  • data quality
+  • Great Expectations
+  • scalability
+  • data ingestion
+  • cloud
+  • Postgres
+  • dimensional modeling
+  • automation
+  • developer experience
+  • operational efficiency
+  • Power BI
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (9)
+  • networking protocols
+  • TLS
+  • HTTP
+  • algebraic type system
+  • low-latency systems
+  • research-to-production
+  • high-performance infrastructure
+  • reliability
+  • distributed systems
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and BigQuery experience
+  • Production ELT pipelines with Airflow and dbt
+  • Data quality practices (Great Expectations)
+  • CI/CD automation via GitHub Actions
+  • Demonstrated operational impact (quantified)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit networking protocol experience
+  • No experience with algebraic type system languages
+  • Limited explicit infrastructure/low-latency system design
+  • Mostly data/analytics-focused rather than infra-engineering
+  • Short professional tenure in large-scale infra roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     AI-ML Systems Research Intern
+Company:  Nokia
+Location: New Providence, NJ
+URL:      https://www.linkedin.com/jobs/view/4417260766
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • Python
+  • SQL
+  • Git
+  • ETL
+  • PostgreSQL
+  • BigQuery
+  • AWS S3
+  • Data modeling
+  • Profiling
+  • Visualization
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (15)
+  • Model training
+  • Deep learning
+  • Large language models
+  • LLMs
+  • Prompt engineering
+  • GPU optimization
+  • Distributed inference
+  • ONNX
+  • MLIR
+  • TensorRT
+  • TVM
+  • Benchmarking
+  • Agent-based systems
+  • Publication record
+  • Systems design
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL pipelines
+  • PostgreSQL and BigQuery usage
+  • Dashboarding and visualization (Power BI, Tableau)
+  • Proven measurable impact (quantified outcomes)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No demonstrated deep learning/LLM experience
+  • Lacks GPU/accelerator or systems optimization skills
+  • No publications or research record listed
+  • Limited AI systems, compilers, or ONNX/TVM experience
+  • Title and education not aligned to PhD requirement
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

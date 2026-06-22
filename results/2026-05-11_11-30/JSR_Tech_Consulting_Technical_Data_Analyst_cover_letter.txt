@@ -1,0 +1,22 @@
+Justin Miller
+October 26, 2023
+
+Hiring Manager
+JSR Tech Consulting
+
+Dear Hiring Manager,
+
+I am excited to apply for the Technical Data Analyst position at JSR Tech Consulting. With my background in data analysis, operations, and software development, I am confident I would be a strong addition to your team.
+
+I am particularly drawn to JSR Tech Consulting's reputation for driving innovation in data solutions and believe my proactive approach to data management and analytics aligns perfectly with your company's values.
+
+In my previous roles, I have successfully transitioned manual reporting to automated workflows, increasing efficiency by 40%. Additionally, I developed statistical models that contributed to a 300% increase in revenue for targeted customer segments, which directly aligns with your need for data-driven insights and strategic recommendations.
+
+I am adept at translating complex technical findings into clear business recommendations for both technical and non-technical stakeholders, as demonstrated by my experience in presenting statistical insights and actionable recommendations for city safety initiatives. While I do not have direct experience with Microsoft Purview, I am a quick learner and eager to leverage my strong understanding of data cataloging and lineage principles, as well as my experience with enterprise data environments like Snowflake and BigQuery, to master this tool. My experience handling sensitive data in my previous roles has also prepared me for the PI/PHI-sensitive nature of HR data.
+
+I am particularly drawn to JSR Tech Consulting's mission of empowering organizations through advanced data strategies and believe my experience in data governance, quality initiatives, and stakeholder communication would allow me to contribute meaningfully from day one.
+
+I would welcome the opportunity to discuss how my background aligns with your team's goals. Thank you for your consideration.
+
+Sincerely,
+Justin Miller

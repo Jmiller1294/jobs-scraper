@@ -1,0 +1,65 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director, Data Science
+Company:  Novartis
+Location: East Hanover, NJ
+URL:      https://www.linkedin.com/jobs/view/4399942592
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 34/100
+[██████░░░░░░░░░░░░░░] 34%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • SQL
+  • ETL
+  • AWS
+  • BigQuery
+  • Snowflake
+  • Power BI
+  • Tableau
+  • Git
+  • Automation
+  • Data Modeling
+  • Cross-functional Collaboration
+  • Hands-on
+  • Cloud
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (11)
+  • Machine Learning
+  • Deep Learning
+  • LLMs
+  • TensorFlow
+  • PyTorch
+  • Recommendation Systems
+  • Generative AI
+  • Model Deployment
+  • Leadership
+  • Statistics
+  • A/B Testing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Hands-on ETL and data modeling experience
+  • Dashboarding and visualization (Power BI, Tableau)
+  • Cloud data platform experience (AWS, BigQuery, Snowflake)
+  • Proven cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited ML/Deep Learning evidence
+  • No explicit LLM or generative AI projects
+  • No TensorFlow/PyTorch experience listed
+  • Less than required senior data science tenure
+  • Limited pharma industry experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

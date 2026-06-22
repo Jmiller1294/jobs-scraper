@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     ML Research Engineer — Sequence Modelling for Long-Horizon Time Series
+Company:  NJF Global Holdings Ltd
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4414617578
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 10/100
+[██░░░░░░░░░░░░░░░░░░] 10%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (6)
+  • Python
+  • time-series
+  • ELT pipeline
+  • BigQuery
+  • SQL
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (19)
+  • sequence modelling
+  • Transformers
+  • pre-training
+  • PyTorch
+  • JAX
+  • long-context
+  • state-space models
+  • training at scale
+  • losses
+  • optimisation
+  • regularisation
+  • research publications
+  • C++
+  • CUDA
+  • distributed training
+  • FlashAttention
+  • mixture-of-experts
+  • long-horizon sequences
+  • data curation
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Python proficiency
+  • SQL and BigQuery experience
+  • ETL/ELT pipeline building
+  • Practical data analysis and visualization
+  • Git version control
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No evidence of deep sequence/transformer research
+  • No pre-training or large-scale training experience
+  • No DL framework experience (PyTorch/JAX)
+  • No publications or research track record
+  • No C++/CUDA or distributed training exposure
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

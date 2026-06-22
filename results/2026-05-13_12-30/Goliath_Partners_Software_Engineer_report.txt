@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Software Engineer
+Company:  Goliath Partners
+Location: 
+URL:      https://www.linkedin.com/jobs/view/4413999830
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 68/100
+[█████████████░░░░░░░] 68%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • Python
+  • data pipelines
+  • BigQuery
+  • Airflow
+  • dbt
+  • data quality
+  • CI/CD
+  • GitHub Actions
+  • ETL/ELT
+  • Postgres
+  • Docker
+  • Snowflake
+  • SQL
+  • production systems
+  • monitoring
+  • automation
+  • Pandas
+  • NumPy
+  • Power BI
+  • Tableau
+  • GCS
+  • GCP
+  • analytics
+  • dimensional modeling
+  • Great Expectations
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Go
+  • pricing models
+  • order execution
+  • post-trade tracking
+  • liquidity
+  • historical performance
+  • execution risks
+  • trading
+  • fintech
+  • market data
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python data engineering
+  • Experience with production ELT pipelines
+  • Data quality and testing (Great Expectations, dbt)
+  • Cloud & analytics (BigQuery, GCS, Power BI)
+  • Proven automation and efficiency gains (quantified)
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit trading/market data experience
+  • No Go or low-level backend systems listed
+  • Limited explicit order execution or post-trade systems
+  • Senior/Founding engineer title not shown
+  • Years in high-stakes production environments unclear
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

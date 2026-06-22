@@ -1,0 +1,64 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     PI Developer
+Company:  ECLARO
+Location: White Plains, NY
+URL:      https://www.linkedin.com/jobs/view/4409213222
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • SQL
+  • Python
+  • Git
+  • ETL
+  • Power BI
+  • Automation
+  • Deployment
+  • Testing
+  • Troubleshooting
+  • Stakeholder collaboration
+  • Documentation
+  • Data pipelines
+  • AWS
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (12)
+  • OSIsoft PI
+  • PI Asset Framework
+  • PI interfaces
+  • PI Server
+  • Data Historian
+  • OPC UA/DA
+  • Matrikon OPC
+  • Upgrade/Backup & Restore
+  • Windows Server
+  • Active Directory
+  • Performance monitoring
+  • Change management
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python skills
+  • Experience building ETL/data pipelines
+  • Power BI reporting and automation
+  • Version control (Git) and deployments
+  • Quantified impact in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit OSIsoft PI or PI AF experience
+  • Lacks Data Historian/OPC experience
+  • No Windows Server / AD administration listed
+  • Limited years in relevant industrial systems
+  • Infrastructure upgrade/backup experience not shown
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

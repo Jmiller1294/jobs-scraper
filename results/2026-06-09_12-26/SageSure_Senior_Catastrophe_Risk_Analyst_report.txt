@@ -1,0 +1,79 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Catastrophe Risk Analyst
+Company:  SageSure
+Location: Jersey City, NJ
+URL:      https://www.linkedin.com/jobs/view/4413903707
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (15)
+  • Python
+  • R
+  • SQL
+  • PostgreSQL
+  • BigQuery
+  • Snowflake
+  • ETL
+  • time series
+  • data analysis
+  • visualization
+  • Tableau
+  • cross-functional collaboration
+  • communication
+  • claims analysis
+  • model validation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • catastrophe modeling
+  • RMS
+  • Verisk
+  • GIS
+  • stochastic simulation
+  • probabilistic risk modeling
+  • geospatial data
+  • climate risk
+  • exposure data
+  • hazard data
+  • model transparency
+  • reinsurance
+  • actuarial
+  • AIR
+  • CoreLogic
+  • flood
+  • hurricane
+  • wildfire
+  • earthquake
+  • advanced degree
+  • 5+ years experience
+  • publishing
+  • internal model development
+  • portfolio management
+  • ILS
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python, R, and SQL skills
+  • Experience building ETL pipelines and data models
+  • Proven visualization and reporting (Tableau, Power BI)
+  • Cross-functional collaboration experience
+  • Quantified operational impact and time-series modeling
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit catastrophe modeling platform experience
+  • Lacks GIS/geospatial tools experience
+  • No stated advanced degree in relevant field
+  • Insufficient years in catastrophe/natural hazard roles
+  • Limited evidence of reinsurance/actuarial or published research
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

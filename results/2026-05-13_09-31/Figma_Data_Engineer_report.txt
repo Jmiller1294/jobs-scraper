@@ -1,0 +1,98 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Engineer
+Company:  Figma
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/3970352584
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Python
+  • Snowflake
+  • dbt
+  • ETL
+  • Airflow
+  • BigQuery
+  • Data modeling
+  • Dimensional modeling
+  • Data pipelines
+  • Data quality
+  • Great Expectations
+  • CI/CD
+  • GitHub Actions
+  • Data engineering
+  • Stakeholder collaboration
+  • Power BI
+  • Tableau
+  • GCS
+  • Automation
+  • Postgres
+  • AWS
+  • Docker
+  • Reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • Dagster
+  • reverse ETL
+  • Salesforce
+  • Customer IO
+  • Stripe
+  • NetSuite
+  • Snowflake-specific tuning
+  • ETL/reverse ETL tools (explicit)
+  • 4+ years (explicit)
+  • self-serve reporting phrasing
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python expertise
+  • Hands-on dbt and ELT pipeline experience
+  • Cloud data platform experience (BigQuery, Snowflake, GCS)
+  • Proven data quality and CI/CD practices
+  • Cross-functional stakeholder collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Dagster experience listed
+  • Limited explicit reverse ETL tool exposure
+  • Business systems (Salesforce/Stripe/NetSuite) not demonstrated
+  • Experience duration borderline for 4+ years
+  • No explicit Snowflake tuning or large-scale pipeline metrics
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed and implemented a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery, utilizing Python, Airflow, dbt, and GCS, and incorporating Great Expectations for automated data quality validation and GitHub Actions for CI/CD.
+  Extracted and transformed data from REST APIs and relational databases, building structured, clean datasets that directly supported front-end feature development and reduced UI bugs by enabling data synchronization across systems using SQL queries.
+  Built a business intelligence reporting system in Excel to track revenue, expenses, and operational KPIs, identifying inefficiencies that drove a 40% improvement in operational efficiency and automating recurring business operations and reporting workflows, reducing manual tasks by 30%.
+  Collaborated with stakeholders to align software features with business processes and objectives, reducing product delivery delays by 25%, and worked closely with engineers, product managers, and business stakeholders to translate user feedback into production code, driving a 15% increase in feature adoption.
+  Modeled raw API data into a dbt star schema reducing analyst query time via BigQuery partitioning and clustering, demonstrating knowledge in data modeling methodologies to design and build robust data architectures for insightful analytics.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager,
+
+I am excited to submit my application for the Data Engineer opportunity with Figma. I am interested in this opportunity because I am deeply impressed by Figma's mission to make design accessible to all and its innovative approach to empowering teams through its platform.
+
+What interests me about working for Figma is its commitment to fostering a collaborative and fast-paced environment where creativity and efficiency are paramount. This resonates with my own approach to problem-solving and my passion for building scalable data solutions.
+
+I believe my strong proficiency in SQL and Python, coupled with my hands-on experience in building and maintaining data pipelines, would make me a strong candidate for this role.
+
+During my professional career, I have approached problems with a blend of technical expertise and strategic thinking. In fact, in my project 'FRED Economic Batch Pipeline,' I built a production-grade ELT pipeline ingesting Federal Reserve economic data into Google BigQuery using Python, Airflow, dbt, and GCS. I incorporated Great Expectations for automated data quality validation and deployed a CI/CD pipeline via GitHub Actions. This project demonstrated my ability to develop foundational datasets that are trusted, well-understood, and enable self-service analytics, reducing analyst query time through dbt star schema modeling with BigQuery partitioning and clustering.
+
+Ultimately, I know that the Data Engineer role at Figma would allow me to bring my expertise in building scalable data pipelines to supporting the company's next phase of growth. Additionally, my role as an Analytics & Operations Lead at Shine Masters Cleaning Services enabled me to develop my stakeholder collaboration and automation skills. In that role, I automated recurring business operations and reporting workflows, reducing manual tasks by 30% and freeing up team capacity for higher-value work. I also built a business intelligence reporting system that identified inefficiencies, driving a 40% improvement in operational efficiency.
+
+I’m excited by the opportunity to use my data modeling and pipeline development skills in working on core data models and new foundational datasets at Figma. I know that my proficiency in SQL, Python, and cloud data platforms like BigQuery and Snowflake, alongside my experience with dbt and CI/CD practices, align with what it takes to succeed in the Data Engineer role.
+
+I would love the opportunity to discuss the role in more detail.
+
+Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

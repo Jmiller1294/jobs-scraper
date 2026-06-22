@@ -1,0 +1,68 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst
+Company:  Jobs via Dice
+Location: Yonkers, NY
+URL:      https://www.linkedin.com/jobs/view/4414171205
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 45/100
+[█████████░░░░░░░░░░░] 45%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • data entry
+  • bi-weekly reporting
+  • Excel
+  • SQL
+  • Python
+  • report automation
+  • reporting
+  • data reconciliation
+  • Power BI
+  • Google Suite
+  • Git
+  • ETL
+  • Snowflake
+  • BigQuery
+  • data validation
+  • data governance
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (13)
+  • SAP/HCM
+  • UKG (Kronos)
+  • timekeeping
+  • terminations processing
+  • new hires
+  • transfers
+  • salary changes
+  • HRIS
+  • payroll
+  • MHS
+  • MMC
+  • MIT
+  • MEAC
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong reporting & automation (Power BI, Python)
+  • SQL and database optimization experience
+  • ETL and cloud data platform skills
+  • Data governance and validation practices
+  • Quantified impact on efficiency and revenue
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit SAP/HCM experience
+  • No UKG/Kronos or timekeeping system experience
+  • No HR-specific transactional processing listed
+  • No explicit payroll/termination processing
+  • No direct HRIS or HR operations title alignment
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

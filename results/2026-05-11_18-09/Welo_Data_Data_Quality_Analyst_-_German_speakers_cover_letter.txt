@@ -1,0 +1,14 @@
+Dear Hiring Manager at Welo Data,
+
+I am excited to submit my application for the Data Quality Analyst - German speakers opportunity with Welo Data. I am interested in this opportunity because of its critical role in building modern AI systems and the direct impact data quality has on how speech and voice models interact with users. What interests me about working for Welo Data is its innovative approach to AI development and the chance to be at the center of execution and quality within these cutting-edge projects.
+
+I believe my strong Python and SQL skills, combined with my proven experience in data validation and governance, would make me a strong candidate for this role. During my professional career, I have approached problems with a meticulous attention to detail and a commitment to ensuring accuracy. In fact, at Shine Masters Cleaning Services, I developed Python automation for weekly sales and operations reports, ingesting POS and CRM data, which eliminated repetitive data entry, saved 8 hours per week, and improved reporting accuracy for faster strategic decisions. This resulted in enhanced operational efficiency and more reliable data for strategic planning.
+
+Ultimately, I know that the Data Quality Analyst role at Welo Data would allow me to bring my expertise in data quality and auditing to ensuring work meets defined standards at scale. Additionally, my experience in developing and optimizing data pipelines, including my work on the FRED Economic Batch Pipeline where I modeled raw API data into a dbt star schema and automated data quality validation with Great Expectations, enabled me to develop strong skills in identifying patterns and edge cases. This project resulted in a production-grade ELT pipeline ensuring pipeline reliability and optimized query performance.
+
+I’m excited by the opportunity to use my analytical and problem-solving skills in working on the auditing of DLA outputs and supporting DLAs in navigating ambiguity at Welo Data. I know that my attention to detail and experience in quality assurance align with what it takes to succeed at the Data Quality Analyst role.
+
+I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon.
+
+Warm regards,
+Justin Miller

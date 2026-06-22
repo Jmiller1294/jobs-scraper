@@ -1,0 +1,67 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Reimbursement Analyst (FGP) - Manhattan - Operations
+Company:  NYU Langone Health
+Location: New York, NY, US
+URL:      https://www.indeed.com/viewjob?jk=2ea6f7f84729abd3
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 74/100
+[██████████████░░░░░░] 74%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • reimbursement
+  • data analysis
+  • SQL
+  • Excel
+  • Power BI
+  • reporting
+  • data extraction
+  • ETL
+  • Python
+  • data mining
+  • trend analysis
+  • pivot tables
+  • communication
+  • training
+  • data integrity
+  • audits
+  • billing
+  • reporting
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • managed care
+  • claims
+  • underpayments
+  • denials
+  • contract compliance
+  • contract interpretation
+  • contract interpretation
+  • authorization
+  • healthcare finance
+  • authorization
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python data skills
+  • Experience building Power BI dashboards
+  • Proven process and automation impact with quantified metrics
+  • ETL and data modeling experience
+  • Effective cross-functional communication
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct healthcare billing experience
+  • No explicit managed care/contract analysis experience
+  • No explicit claims/denial recovery examples
+  • Only ~2 years professional experience in relevant roles
+  • No mention of professional billing systems or payer platforms
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

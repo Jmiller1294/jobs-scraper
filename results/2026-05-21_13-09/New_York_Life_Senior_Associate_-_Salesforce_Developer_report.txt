@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Senior Associate - Salesforce Developer
+Company:  New York Life
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4386929112
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 38/100
+[███████░░░░░░░░░░░░░] 38%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (10)
+  • AWS S3
+  • Git
+  • JIRA
+  • SQL
+  • Integrations
+  • Data Model
+  • Salesforce CRM
+  • Python
+  • APIs
+  • Documentation
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Salesforce
+  • Apex
+  • Lightning Web Components
+  • Visualforce
+  • REST API
+  • SOAP API
+  • Triggers
+  • Batch Apex
+  • Service Cloud
+  • Flows
+  • Agentforce
+  • Einstein
+  • GenAI
+  • JavaScript
+  • ReactJS
+  • SLDS
+  • Platform Developer
+  • Platform Admin
+  • Platform App Builder
+  • Platform Developer II
+  • Platform Integration Architect
+  • Platform Data Architect
+  • Platform Sharing and Visibility Architect
+  • Service Cloud Consultant
+  • Agentforce Specialist
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data modeling
+  • AWS (S3) cloud experience
+  • Git and version control
+  • JIRA and documentation practices
+  • Quantified outcomes in prior roles
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No hands-on Salesforce development experience
+  • No Apex, LWC, or Visualforce demonstrated
+  • Lacks required Salesforce certifications
+  • Limited JavaScript/React evidence
+  • No Service Cloud or Agentforce experience
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────

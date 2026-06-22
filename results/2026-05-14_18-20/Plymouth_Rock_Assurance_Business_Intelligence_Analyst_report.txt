@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Business Intelligence Analyst
+Company:  Plymouth Rock Assurance
+Location: Woodbridge, NJ
+URL:      https://www.linkedin.com/jobs/view/4402571721
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 83/100
+[████████████████░░░░] 83%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (24)
+  • SQL
+  • Tableau
+  • ETL
+  • Python
+  • Power BI
+  • Advanced Excel
+  • Snowflake
+  • BigQuery
+  • Data warehouse
+  • Automation
+  • Reporting
+  • Data quality
+  • A/B testing
+  • KPI
+  • Data governance
+  • Relational databases
+  • CTEs
+  • Window functions
+  • Data visualization
+  • Communication
+  • Stakeholder presentation
+  • Git
+  • Production pipelines
+  • Campaign measurement
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • Property and Casualty Insurance
+  • Actuarial
+  • SQL Server
+  • Tableau report building (enterprise)
+  • Three+ years experience
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and relational DB skills
+  • Experienced with Tableau and Power BI
+  • Built automated ETL and pipelines
+  • Quantified impact on revenue and efficiency
+  • Solid communication and stakeholder delivery
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No explicit Property & Casualty insurance experience
+  • Resume lacks SQL Server (T-SQL) mention
+  • Under three years of stated relevant experience
+  • Limited actuarial/product domain exposure
+  • Tableau enterprise report-building experience not detailed
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized SQL Server and relational database queries using T-SQL, CTEs, and window functions to reconcile complex testing data, improving data accuracy by 60% and supporting robust downstream analytics.
+  Engineered and automated enterprise-level Tableau dashboards to provide self-service reporting, ensuring seamless distribution of key metrics across cross-functional departments.
+  Gained foundational exposure to actuarial concepts by analyzing high-volume datasets to identify risk segments, demonstrating a strong aptitude for financial P&L and loss ratio trend analysis.
+  Leveraged advanced ETL techniques in SQL and Python to integrate disparate datasets from production data warehouses, ensuring high data integrity for critical business reporting.
+  Applied rigorous analytical problem-solving to identify operational inefficiencies, directly supporting business strategy similar to the requirements of the P&C insurance industry.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Business Intelligence Analyst opportunity with Plymouth Rock Assurance. I am interested in this opportunity because of Plymouth Rock’s reputation for service excellence and its commitment to utilizing data-driven insights to manage complex personal and commercial insurance portfolios. What interests me about working for Plymouth Rock is its proactive approach to technology integration, which intrigues me because of my own background in building automated, scalable data pipelines. I believe my proficiency in SQL and relational database management and my experience in cross-functional stakeholder communication would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex technical datasets into actionable business intelligence. In fact, while at Shine Masters, I developed Power BI and Looker workflows to replace manual reporting, which resulted in a 40% improvement in operational efficiency and a 300% increase in revenue for targeted customer segments by creating statistical models to identify high-value opportunities. Ultimately, I know that the Business Intelligence Analyst role at Plymouth Rock Assurance would allow me to bring my expertise in ETL and automated reporting to support your underwriting and sales teams. Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my database optimization skills. I collaborated with a 14-person product team to optimize relational database queries and integrate data from PostgreSQL warehouses, which improved data accuracy by 60% and directly supported downstream analytics. I am excited by the opportunity to use my background in Python and SQL to assist in the maintenance of large-scale databases and the creation of performance metrics at Plymouth Rock. I know that my analytical mindset and technical skill set align with what it takes to succeed in this role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller
