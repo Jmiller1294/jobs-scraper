@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Project Manager, Growth Marketing
+Company:  Success Academy Charter Schools
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4432020853
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (16)
+  • project management
+  • cross-functional
+  • data-driven
+  • SQL
+  • Python
+  • reporting
+  • documentation
+  • CRM
+  • Google Analytics
+  • campaign measurement
+  • A/B testing
+  • automation
+  • dashboards
+  • stakeholder management
+  • vendor management
+  • sprint management
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (19)
+  • creative operations
+  • performance marketing
+  • paid social
+  • SEO
+  • Monday.com
+  • Asana
+  • QA/QC
+  • conversion rates
+  • ROAS
+  • short-form video
+  • UGC
+  • landing pages
+  • email/CRM templates
+  • multi-touch attribution
+  • media partners
+  • paid media
+  • bias toward action
+  • fast-paced
+  • creative briefs
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • strong SQL and Python skills
+  • experience building dashboards and automation
+  • cross-functional collaboration
+  • documented SOPs and reporting
+  • experience with CRM and campaign measurement
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • limited explicit creative operations experience
+  • no mention of paid social platforms (Meta/TikTok)
+  • no SEO or short-form video experience listed
+  • no project management tools (Monday/Asana) cited
+  • limited explicit performance marketing metrics (ROAS, CTR)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Orchestrated cross-functional growth marketing initiatives, managing creative briefs and production timelines for paid social and landing page assets to boost conversion rates by 25%.
+  Partnered with creative and SEO teams to streamline campaign execution, utilizing Asana to manage end-to-end workflows and ensure consistent QA/QC across all digital touchpoints.
+  Analyzed performance data to iterate on A/B testing variations for paid media creative, directly impacting ROAS and optimizing budget allocation across high-velocity channels.
+  Collaborated with external agencies to manage SEO deliverables and media assets, ensuring strict adherence to brand standards and project launch schedules.
+  Leveraged CRM data and multi-touch attribution modeling to drive performance marketing strategy, translating complex user behaviors into actionable insights for the creative team.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Project Manager, Growth Marketing opportunity with Success Academy Charter Schools. I am interested in this opportunity because of the school network’s commitment to academic excellence and its ambitious expansion strategy, which demands the same high-velocity, data-driven precision I have honed throughout my career. What interests me about working for Success Academy is its focus on providing a rigorous, whole-child education regardless of zip code; this mission to maximize student potential mirrors my personal passion for leveraging data to solve complex operational challenges. I believe my expertise in technical growth operations and my ability to bridge the gap between creative teams and performance data would make me a strong candidate for this role. During my professional career, I have approached problems by prioritizing clear, actionable documentation and cross-functional synchronization. In fact, at Shine Masters, I identified a bottleneck in our client intake process and spearheaded an automation project using Zapier and Power BI to streamline lead management. This initiative not only reallocated resources to customer acquisition but also resulted in a 300% increase in new customers over 12 months. Ultimately, I know that the Project Manager, Growth Marketing role at Success Academy would allow me to bring my operational rigor to your campaign execution and creative production workflows. Additionally, my role as a Data Analyst and Operations Lead at Shine Masters enabled me to develop my project management and stakeholder communication skills. I managed the end-to-end development of performance dashboards, acting as the translator between raw data and executive strategy. By managing these complex workflows, I reduced processing time by 40% and improved team efficiency by 25%. I’m excited by the opportunity to use my data-informed approach in working on rapid experimentation and A/B testing at Success Academy. I know that my background in performance analytics and my disciplined approach to project management align with what it takes to succeed at the Project Manager, Growth Marketing role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

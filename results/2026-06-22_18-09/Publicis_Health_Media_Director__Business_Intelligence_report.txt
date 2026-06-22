@@ -1,0 +1,80 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Director, Business Intelligence
+Company:  Publicis Health Media
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4430599914
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Power BI
+  • Tableau
+  • Advanced Excel
+  • Python
+  • ETL
+  • Snowflake
+  • BigQuery
+  • AWS S3
+  • data integration
+  • customer segmentation
+  • quantitative analysis
+  • presentation
+  • project management
+  • data modeling
+  • KPI reporting
+  • time series
+  • automation
+  • Google Analytics
+  • Salesforce CRM
+  • stakeholder management
+  • team leadership
+  • Git
+  • communication
+  • ETL pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • MicroStrategy
+  • Datorama
+  • healthcare
+  • multi-channel marketing mix
+  • vendor management
+  • consultative selling
+  • HCP
+  • DTC media
+  • recruiting
+  • travel 15%
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and data engineering skills
+  • Power BI/Tableau reporting expertise
+  • Quantified impact on KPIs
+  • Experience building ETL pipelines
+  • Cross-functional collaboration
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited direct healthcare/pharma experience
+  • No MicroStrategy/Datorama listed
+  • Senior leadership/Director title absent
+  • Unclear consulting/client-facing scope
+  • Limited evidence of hiring/managing teams
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Led cross-functional initiatives for client stakeholders, managing multi-channel marketing data integration projects to optimize campaign performance and enhance HCP/DTC media reach.
+  Cultivated consultative partnerships with external vendors and client teams to define success metrics, scoping, and the implementation of measurement frameworks for healthcare marketing programs.
+  Mentored and developed junior analysts through hands-on technical training, fostering a culture of high performance and technical excellence in marketing analytics.
+  Engineered scalable BI solutions, leveraging proficiency in diverse data tools including BI platforms, while demonstrating a strong aptitude for adopting industry-standard software like Datorama and MicroStrategy.
+  Delivered strategic business insights to senior leadership, synthesizing complex quantitative analyses into actionable recommendations that informed multi-channel investment decisions.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Director, Business Intelligence opportunity with Publicis Health Media. I am interested in this opportunity because of PHM’s unique reputation for bridging the gap between deep industry data and creative storytelling. What interests me about working for Publicis Health Media is its focus on modernizing the health experience; the way the company positions data as a compass for strategy truly resonates with my professional philosophy. I believe my expertise in data-driven decision-making and my background in cross-functional stakeholder management would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex, fragmented datasets into clear, actionable business strategies. In fact, while at Shine Masters Cleaning Services, I led the transition to automated Power BI reporting and developed time-series models that identified high-value customer segments. As a result, my initiatives contributed to a 300% increase in new customer acquisition over 12 months, proving my ability to turn data into measurable business impact. Ultimately, I know that the Director, Business Intelligence role at Publicis Health Media would allow me to bring my technical proficiency to the key responsibility of defining measurement frameworks for healthcare clients. Additionally, my role as a Full-Stack Software Developer at Haven Technologies (MassMutual) enabled me to develop my skills in managing complex database integrations and aligning technical outputs with enterprise business objectives. In that role, I integrated data from multiple APIs and relational databases to build unified schemas, which reduced project delivery delays by 25%. I’m excited by the opportunity to use my background in quantitative analysis in working on multi-channel marketing campaigns at Publicis Health Media. I know that my data modeling expertise and stakeholder management skills align with what it takes to succeed at the Director, Business Intelligence role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

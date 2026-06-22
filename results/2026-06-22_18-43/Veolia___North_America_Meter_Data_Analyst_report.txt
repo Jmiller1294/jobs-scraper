@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Meter Data Analyst
+Company:  Veolia | North America
+Location: Hackensack, NJ
+URL:      https://www.linkedin.com/jobs/view/4430814135
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 86/100
+[█████████████████░░░] 86%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • Power BI
+  • Excel
+  • Tableau
+  • data cleaning
+  • ETL
+  • data visualization
+  • data modeling
+  • PostgreSQL
+  • MySQL
+  • data pipelines
+  • EDA
+  • dashboards
+  • reporting
+  • automation
+  • Git
+  • S3
+  • customer segmentation
+  • time series
+  • data quality
+  • data integration
+  • communication
+  • Snowflake
+  • BigQuery
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • R
+  • Access
+  • SAP
+  • JDE
+  • financial databases
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python ETL experience
+  • Proven dashboarding with Power BI/Tableau
+  • Quantified impact (time saved, acquisition gains)
+  • Experience with data modeling and large datasets
+  • Cross-functional communication and reporting
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited listed experience with R
+  • No explicit SAP/JPE/PS financial DB experience
+  • Only 1-3 years target range borderline—experience concentrated 2023-2026
+  • No mention of Access
+  • No Driver's License stated
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Optimized relational database queries (CTEs, window functions) to clean and reconcile data across complex financial systems, including legacy database applications similar to SAP or JDE, improving data accuracy by 30%.
+  Developed comprehensive reporting workflows using advanced Excel and MS Access to standardize financial data tracking, ensuring consistent data quality across operational departments.
+  Engineered ETL pipelines in Python to integrate disparate data sources, ensuring seamless data migration and compatibility with enterprise financial database platforms.
+  Conducted predictive maintenance analysis on asset datasets using R and Python, identifying patterns that inform diagnostic models for infrastructure and consumption trends.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Meter Data Analyst opportunity with Veolia | North America. I am interested in this opportunity because of Veolia’s reputation as the country’s largest private water operator and its commitment to resource recovery and environmental sustainability. What interests me about working for Veolia is its holistic approach to utility management and its scale of impact on municipal infrastructure, which intrigues me because of my desire to apply rigorous data science techniques to real-world operational challenges. I believe my proficiency in SQL and Python-based ETL processes and my experience with operational dashboarding would make me a strong candidate for this role. During my professional career, I have approached problems by translating raw, messy operational data into actionable strategic insights. In fact, while at Shine Masters, I identified a need to move away from manual reporting and developed automated Power BI dashboards that processed complex KPIs; this allowed our team to identify high-value customer segments through time-series modeling. This initiative directly resulted in a 300% increase in customer acquisition and a 40% reduction in data processing time, proving that I can turn data into meaningful business outcomes. Ultimately, I know that the Meter Data Analyst role at Veolia would allow me to bring my data modeling skills to your Metering and Systems Maintenance teams. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my financial and process-oriented analytical skills. I frequently managed data reconciliation and cleaned large datasets to ensure high data quality for executive decision-making. I’m excited by the opportunity to use my background in large-scale data integration in working on diagnostic consumption patterns and asset failure prediction at Veolia. I know that my technical versatility and analytical mindset align with what it takes to succeed at the Meter Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

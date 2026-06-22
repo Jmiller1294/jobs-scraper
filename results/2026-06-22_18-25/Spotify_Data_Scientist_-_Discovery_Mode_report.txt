@@ -1,0 +1,73 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Scientist - Discovery Mode
+Company:  Spotify
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4432045042
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 72/100
+[██████████████░░░░░░] 72%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (18)
+  • Python
+  • SQL
+  • BigQuery
+  • data storytelling
+  • dashboards
+  • KPI definition
+  • ETL pipelines
+  • data modeling
+  • Power BI
+  • Tableau
+  • cloud (Snowflake)
+  • AWS S3
+  • statistical analysis
+  • customer outcomes
+  • collaboration
+  • data visualization
+  • product analytics
+  • Git
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (10)
+  • A/B testing
+  • experimentation
+  • machine learning
+  • model evaluation
+  • causal inference
+  • evaluation frameworks
+  • recommendation systems
+  • dbt
+  • measurement
+  • ML engineers
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong Python and SQL proficiency
+  • Experience building ETL pipelines and data models
+  • Dashboarding and data storytelling (Power BI, Tableau)
+  • Demonstrated quantified impact (time and growth metrics)
+  • Cross-functional collaboration experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited explicit ML/model evaluation experience
+  • No clear A/B testing or experimentation projects
+  • No mention of dbt or ML engineering partnership
+  • Recommendation systems or causal inference not shown
+  • Under 4+ years in dedicated data science role
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Partnered with engineering teams to design and implement A/B testing frameworks, evaluating model performance and feature impact to optimize recommendation system outcomes.
+  Collaborated with ML engineers to build robust evaluation frameworks, utilizing Python and SQL to monitor model reliability and drive continuous improvement in predictive accuracy.
+  Conducted deep-dive analyses on customer behavior, applying principles of causal inference to measure the incremental lift of campaign strategies and platform engagement.
+  Utilized dbt to modularize and transform data pipelines, ensuring clean, reliable data structures for complex machine learning model training and feature engineering.
+  Led model health initiatives by tracking KPIs and implementing automated dashboards that translate complex ML model performance into actionable insights for cross-functional stakeholders.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Scientist - Discovery Mode opportunity with Spotify. I am interested in this opportunity because of Spotify's unique ability to bridge the gap between creative music discovery and data-driven personalization. What interests me about working for Spotify is its innovative approach to leveraging machine learning to empower artists, which intrigues me because of my own background in optimizing operational and analytical workflows. I believe my expertise in building robust data pipelines and my proficiency in data storytelling would make me a strong candidate for this role. During my professional career, I have approached problems by translating complex data into clear, actionable strategies. In fact, while at Shine Masters, I developed interactive Power BI dashboards and automated workflows that improved KPI visibility and reduced data processing time by 40%. This shift allowed our team to reallocate resources toward high-value marketing initiatives, resulting in a 300% increase in new customer acquisition over 12 months. Ultimately, I know that the Data Scientist - Discovery Mode role at Spotify would allow me to bring my analytical rigor to the evaluation and improvement of the recommendation models that power the artist-listener connection. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my model evaluation and experimentation skills. I collaborated with cross-functional teams to identify performance bottlenecks and implemented a time-series model that segmented high-value customers to optimize campaign targeting. By treating these initiatives as small-scale experiments, I successfully shifted our marketing strategy from broad outreach to data-backed precision, driving significant growth. I’m excited by the opportunity to use my background in Python, SQL, and data-driven decision-making in working on the measurement systems behind Discovery Mode at Spotify. I know that my expertise in defining KPIs and my experience working with technical stakeholders align with what it takes to succeed at the Data Scientist - Discovery Mode role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

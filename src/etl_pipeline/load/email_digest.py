@@ -1,3 +1,4 @@
+import os
 import smtplib
 from pathlib import Path
 from email.mime.multipart import MIMEMultipart
@@ -6,9 +7,10 @@ from email.mime.application import MIMEApplication
 from datetime import datetime
 from config import CONFIG
 from docx.shared import Pt
-from docx import Document
+from docx import Document, document
 import shutil
 import re
+import uuid
 
 BASE_DIR = Path(__file__).resolve().parents[3]  
 
@@ -34,12 +36,25 @@ def attach_file(msg, file_path: str):
 def add_bullets_to_document(document: str, results: dict) -> str:
   print("adding bullets")
   bullets = results.get("improvement_bullets", [])
-  company = clean(results.get("company", "Unknown Company"))
-  job_title = clean(results.get("job_title", "Unknown Role"))
-  shutil.copy(document, f"{BASE_DIR}/{CONFIG["output_resumes_dir"]}/{company}_{job_title}_Resume.docx")
 
-  doc = Document(f"{BASE_DIR}/{CONFIG["output_resumes_dir"]}/{company}_{job_title}_Resume.docx")
- 
+  # Fallback values include a short unique ID so missing data doesn't cause
+  # multiple resumes to silently overwrite each other
+  job_id = results.get("job_id", str(uuid.uuid4())[:8])
+  company = clean(results.get("company", f"UnknownCompany_{job_id}"))
+  job_title = clean(results.get("job_title", f"UnknownRole_{job_id}"))
+
+  output_dir = f"{BASE_DIR}/{CONFIG['output_resumes_dir']}"
+  os.makedirs(output_dir, exist_ok=True)  # creates it if missing, no error if it exists
+
+  resume_filename = f"{company}_{job_title}_Resume.docx"
+  resume_path = f"{output_dir}/{resume_filename}"
+
+  try:
+    shutil.copy(document, resume_path)
+  except (FileNotFoundError, PermissionError) as e:
+    print(f"Failed to copy resume for {company} - {job_title}: {e}") # adjust to `continue` if this is inside a loop over multiple jobs
+
+  doc = Document(resume_path)
   """Add bullet points to a Word document."""
   
   for b in bullets:
@@ -55,7 +70,18 @@ def add_text_to_cover_letter_template(document: str, results: dict) -> str:
   text = results.get("cover_letter", "")
   company = clean(results.get("company", "Unknown Company"))
   job_title = clean(results.get("job_title", "Unknown Role"))
-  shutil.copy(document, f"{BASE_DIR}/{CONFIG["output_cover_letters_dir"]}/{company}_{job_title}_Cover_Letter.docx")
+
+  output_dir = f"{BASE_DIR}/{CONFIG['output_cover_letters_dir']}"
+  os.makedirs(output_dir, exist_ok=True)  # creates it if missing, no error if it exists
+
+  cover_letter_filename = f"{company}_{job_title}_Cover_Letter.docx"
+  cover_letter_path = f"{output_dir}/{cover_letter_filename}"
+
+  try:
+    shutil.copy(document, cover_letter_path)
+  except (FileNotFoundError, PermissionError) as e:
+    print(f"Failed to copy cover letter for {company} - {job_title}: {e}")
+    return  "" # adjust to `continue` if this is inside a loop over multiple jobs
 
   doc = Document(f"{BASE_DIR}/{CONFIG["output_cover_letters_dir"]}/{company}_{job_title}_Cover_Letter.docx")
 
@@ -261,7 +287,7 @@ def build_email(results: list, resume_path: str):
   email_cfg = CONFIG["email"]
   cover_letter_template_path = BASE_DIR / 'src' / CONFIG["cover_letter_template_path"]
 
-  if not email_cfg.get("sender") or not email_cfg.get("password"):
+  if not email_cfg.get("sender") or not email_cfg.get("password") or not email_cfg.get("recipient"):
     print("⚠️ Email not configured — skipping digest.")
     return None
 

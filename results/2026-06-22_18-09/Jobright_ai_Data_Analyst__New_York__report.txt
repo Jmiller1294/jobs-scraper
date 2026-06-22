@@ -1,0 +1,75 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst (New York)
+Company:  Jobright.ai
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4430811174
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 92/100
+[██████████████████░░] 92%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • R
+  • Power BI
+  • Tableau
+  • statistics
+  • data modeling
+  • ETL
+  • PostgreSQL
+  • MySQL
+  • Snowflake
+  • BigQuery
+  • data visualization
+  • EDA
+  • data storytelling
+  • Git
+  • automation
+  • reporting
+  • time series
+  • AI tools
+  • AWS (S3)
+  • Google Data Analytics
+  • communication
+  • internship/project experience
+  • data pipelines
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (5)
+  • basic data modeling
+  • hands-on SQL (preferred phrasing)
+  • presentation to external stakeholders
+  • authorized to work in the United States
+  • 0-2 years (explicit)
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong hands-on SQL and Python experience
+  • Power BI/Tableau visualization and reporting
+  • Proven quantified impact (time savings, efficiency, acquisition)
+  • Experience building ETL pipelines and data models
+  • Clear data storytelling and stakeholder presentations
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Experience exceeds 0-2 year early-career window
+  • US work-authorization not explicitly stated
+  • Limited explicit ML model evaluation experience
+  • No explicit R project examples despite listing R
+  • Fewer examples of presenting to external stakeholders
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Designed robust data models and relational schemas in PostgreSQL to support AI-driven insights, ensuring clean data structures for predictive model evaluation and performance tuning.
+  Presented analytical findings and actionable data narratives to diverse technical teams and external stakeholders, translating complex SQL/Python outputs into clear product recommendations.
+  Leveraged hands-on SQL proficiency to extract and transform large-scale datasets, directly informing the iterative training and refinement of internal algorithms.
+  Authored and optimized Python and SQL scripts to maintain data pipelines, ensuring reliable data flow for real-time model evaluation within a fast-paced environment.
+  Authorized to work in the United States; early-career data professional with a proven track record of delivering technical solutions that bridge the gap between raw data and product strategy.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst (New York) opportunity with Jobright.ai. I am interested in this opportunity because I am deeply passionate about the intersection of data science and AI-driven career development. What interests me about working for Jobright.ai is its commitment to building AI agents that fundamentally change how people navigate their careers, and I am particularly intrigued by your mission to provide personalized, intelligent job search guidance. I believe my strong background in SQL and Python data modeling and my ability to translate complex data into actionable product narratives would make me a strong candidate for this role. During my professional career, I have approached problems with a focus on efficiency and scalability. In fact, while at Shine Masters, I identified a need for better decision-making visibility and developed interactive Power BI dashboards and time-series models to analyze customer segments. This initiative directly contributed to a 300% increase in new customer acquisition over 12 months, proving my ability to turn raw data into results that drive organizational growth. Ultimately, I know that the Data Analyst role at Jobright.ai would allow me to bring my technical expertise to the mission of tuning and improving your AI agents. Additionally, my role as a Data Analyst at Shine Masters enabled me to develop my communication skills. I was responsible for translating complex performance data into clear insights, which reduced process bottlenecks and improved team efficiency by 25%. I am excited by the opportunity to use my data storytelling skills in working on AI systems that are actively changing how people find careers at Jobright.ai. I know that my proficiency in SQL and Python and my experience in data-driven decision-making align with what it takes to succeed at the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

@@ -1,4 +1,7 @@
 import os
+from dotenv import load_dotenv
+
+load_dotenv()
 
 
 CONFIG = {
@@ -15,22 +18,16 @@ CONFIG = {
 
   "location": "New York City Metropolitan Area",
 
-  "results_wanted": 35,  # number of job listings to fetch and evaluate
+  "results_wanted": 5,  # number of job listings to fetch and evaluate
 
   "hours_old": 1,  # only fetch jobs posted in the last X hours
 
   "distance": 30,  # miles
 
   # OpenAI API key (set OPENAI_API_KEY env var instead of hardcoding)
-  "openai_api_key": os.getenv("OPENAI_API_KEY", "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"),
+  "openai_api_key": os.environ.get("OPENAI_API_KEY"),
 
-  "google_api_keys": [
-    "AIzaSyAYCsuhlcHaCravRmmnFwsyNWjcyOkN8F8", 
-    "AIzaSyD-53OT6apSDbi9oNctjgqA4lOV5OQB0oY",
-    "AIzaSyCfBASzQ668v9Db1q7qmE0KdP6zAeT2fXM",
-    "AIzaSyDyaUyOTspAbrgX0-iHiNtH7xefn5hVIa8",
-    "AIzaSyCJHEDzHCk2KEI-0K-biuaLv26-sfSVR5U"
-  ],
+  "google_api_keys": (os.environ.get("GOOGLE_API_KEYS") or "").split(","),
 
   # Path to your resume 
   "resume_path": ["data/resumes/Data_Analyst_Resume.docx","data/resumes/Data_Engineer_Resume.docx","data/resumes/Analytics_Engineer_Resume.docx"],
@@ -61,8 +58,8 @@ CONFIG = {
 
   "email": {
     "sender":       "justin.alx.miller@gmail.com", # justin.alx.miller@gmail.com must be a valid email address (Gmail recommended for easy SMTP)
-    "password":     "npfa lpkn qlnv sfxa", # app password for Gmail (not your main password)
-    "recipient":    "justin.alx.miller@gmail.com", # can be same as sender or different
+    "password":     os.environ.get("SMTP_PASSWORD"), # app password for Gmail (not your main password)
+    "recipient":    os.environ.get("SMTP_EMAIL"), # can be same as sender or different
     "smtp_server":  "smtp.gmail.com", # Gmail SMTP server
     "smtp_port":    587, # Gmail SMTP port for TLS
     "min_score":    70,   # only include jobs at or above this score in digest

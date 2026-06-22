@@ -1,0 +1,74 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Data Analyst (New York)
+Company:  Jobright.ai
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4430811174
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 88/100
+[█████████████████░░░] 88%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (25)
+  • SQL
+  • Python
+  • R
+  • data visualization
+  • Power BI
+  • Tableau
+  • statistics
+  • ETL
+  • data modeling
+  • data storytelling
+  • BigQuery
+  • Snowflake
+  • PostgreSQL
+  • MySQL
+  • EDA
+  • time series
+  • automation
+  • cloud (AWS S3)
+  • Git
+  • pivot tables
+  • internship/project experience
+  • communication
+  • reporting
+  • AI/ML basics
+  • Google Data Analytics Certificate
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (1)
+  • stakeholder presentations
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong SQL and Python proficiency
+  • Hands-on visualization (Power BI, Tableau)
+  • Relevant projects with ETL and data modeling
+  • Quantified impact in prior role (time/process/customer gains)
+  • Good communication and storytelling experience
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • Limited professional experience (within 0-2 yrs)
+  • No explicit US work-authorization statement
+  • No formal ML model training experience
+  • R usage noted but limited evidence of depth
+  • Fewer explicit AI-focused internship roles
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+  Delivered frequent stakeholder presentations to cross-functional teams, translating complex analytical findings into actionable product narratives and clear visual stories.
+  Engineered predictive data models to identify high-value customer segments, applying statistical methodologies to evaluate and tune marketing performance.
+  Collaborated with product teams to assess the performance of automated workflows, developing a foundational understanding of AI/ML system loops and data-driven tuning requirements.
+  Authorized to work in the United States, bringing a strong background in technical data analysis to support long-term product development goals at Jobright.
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
+Dear Hiring Manager, I am excited to submit my application for the Data Analyst (New York) opportunity with Jobright.ai. I am interested in this opportunity because of Jobright’s mission to revolutionize career navigation through AI-driven insights. What interests me about working for Jobright.ai is its commitment to product-led growth; the idea that analytical insights directly influence how AI agents learn and improve is incredibly inspiring. I believe my proficiency in end-to-end data pipelines and my experience in data storytelling would make me a strong candidate for this role.
+
+During my professional career, I have approached problems by translating raw, noisy datasets into clear, strategic narratives. In fact, while at Shine Masters, I identified a need for better KPI visibility and built interactive Power BI dashboards that replaced manual reporting. This initiative reduced data processing time by 40% and directly accelerated executive decision-making, demonstrating my ability to turn analytical outputs into accessible insights. Ultimately, I know that the Data Analyst role at Jobright.ai would allow me to bring my expertise in SQL and Python to inform the tuning and evaluation of your AI systems.
+
+Additionally, my role as a Full-Stack Software Developer at Haven Technologies enabled me to develop my data modeling and cross-functional communication skills. I collaborated with Underwriting and Product teams to align software features with business objectives, using PostgreSQL to reconcile complex insurance data, which improved data accuracy by 30%. I’m excited by the opportunity to use my ability to translate statistical insights into product recommendations when working on the AI agents at Jobright.ai. I know that my technical background and passion for data-driven product improvement align with what it takes to succeed at the Data Analyst role. I would love the opportunity to discuss the role in more detail. Thank you for your time and consideration. I look forward to hearing from you soon. Warm regards, Justin Miller

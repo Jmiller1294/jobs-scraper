@@ -1,0 +1,77 @@
+ATS ANALYSIS REPORT
+============================================================
+Role:     Connectivity Software Engineer – VP
+Company:  hackajob
+Location: New York, NY
+URL:      https://www.linkedin.com/jobs/view/4430811125
+
+────────────────────────────────────────────────────────────
+ATS SCORE: 28/100
+[█████░░░░░░░░░░░░░░░] 28%
+
+────────────────────────────────────────────────────────────
+✅ MATCHED KEYWORDS (13)
+  • Linux
+  • cloud
+  • container
+  • Docker
+  • CI/CD
+  • GitHub Actions
+  • SQL
+  • Python
+  • BigQuery
+  • Airflow
+  • dbt
+  • monitoring/dashboarding
+  • stakeholder communication
+
+────────────────────────────────────────────────────────────
+❌ MISSING KEYWORDS (25)
+  • Java
+  • C++
+  • multithreading
+  • networking
+  • distributed systems
+  • low-latency
+  • caching
+  • memory management
+  • FIX
+  • container technologies
+  • trading systems
+  • order management
+  • mentoring
+  • performance-oriented design
+  • market connectivity
+  • risk and controls
+  • change and transformation
+  • strategic thinking
+  • Millennium
+  • OUCH
+  • platform engineering
+  • ML/AI exposure
+  • exchange connectivity
+  • low-latency trading
+  • financial messaging
+
+────────────────────────────────────────────────────────────
+💪 RESUME STRENGTHS
+  • Strong data engineering (BigQuery, Airflow, dbt)
+  • CI/CD and automation experience
+  • Dashboarding and reporting skills
+  • SQL and Python proficiency
+  • Cloud and Docker familiarity
+
+────────────────────────────────────────────────────────────
+⚠️  RESUME GAPS
+  • No Java or C++ experience listed
+  • No explicit low-latency or multithreading work
+  • No trading/financial connectivity experience
+  • Limited leadership/mentoring evidence
+  • No financial messaging protocols (FIX/OUCH)
+
+────────────────────────────────────────────────────────────
+🚀 SUGGESTED RESUME BULLETS (add these to boost your score)
+
+────────────────────────────────────────────────────────────
+📄 COVER LETTER
+────────────────────────────────────────────────────────────
